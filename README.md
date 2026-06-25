@@ -1,44 +1,27 @@
-# Celina's Comprehensive New-Grad Job Board
+# Celina's New-Grad Job Board
 
-A resume-matched U.S. job board for new-graduate and early-career opportunities across:
+A resume-matched U.S. job board for new-grad and early-career roles across bioinformatics, computational biology, genomics, biology research, data analysis, data engineering, software, product, operations, and other broadly relevant roles.
 
-- bioinformatics, computational biology, genomics, biology, and university research;
-- data analysis, data science, data engineering, software, and automation;
-- product, program, operations, business analysis, and broadly relevant new-grad roles.
+## What it does
 
-The board is built around Celina's Biology/Bioinformatics degree and experience with Python, R, SQL, Bash, Linux, Snakemake, Nextflow, genomics workflows, data pipelines, and technical communication.
+- Pulls roles from high-volume new-grad feeds, public ATS sources, university/research career pages, and optional Adzuna/USAJOBS APIs.
+- Deduplicates jobs by application URL, company, title, and location.
+- Filters for U.S. roles and removes internships, postdocs, senior roles, and clearly out-of-scope postings.
+- Generates tailored cold-email drafts for research, lab, university, bioinformatics, genomics, and research-data roles.
+- Supports search, filters, saved jobs, pagination, and CSV export.
+- Refreshes daily through GitHub Actions.
 
-## Why this version contains hundreds rather than ten
+## Open the board
 
-The original preview contained only a ten-role offline seed snapshot. Version 2 keeps that snapshot solely as an instant fallback, then merges a much larger inventory from:
+Use the standalone version:
 
-- Simplify's daily-maintained new-grad list;
-- SpeedyApply's U.S. software and AI/data new-grad lists;
-- Jobright's daily feeds for data analysis, software, product, business analysis, engineering, research/consulting, education, public sector, management, marketing, HR, support, and design;
-- official Greenhouse, Lever, Ashby, Workday, and selected university/research-institution career sources;
-- optional Adzuna and USAJOBS APIs.
+```text
+site/standalone.html
+```
 
-The browser refresh normally produces several hundred unique U.S. roles after location filtering and deduplication. The exact total changes as sources add, remove, or close postings.
+Open it in a browser while connected to the internet. The fallback snapshot loads immediately, then live sources are merged in automatically.
 
-## What the board does
-
-- Fetches high-volume live feeds whenever the page opens, with a second CDN endpoint as a fallback.
-- Runs a scheduled GitHub Action every day to rebuild and deploy a persistent snapshot.
-- Stores `first_seen_at`, `last_seen_at`, and `is_new` fields so daily runs can identify net-new roles.
-- Tracks a browser-local comparison baseline for the **New since last sync** filter.
-- Deduplicates by normalized application URL, then by company/title/location.
-- Filters to U.S. roles and removes internships, postdoctoral positions, obviously senior roles, and out-of-scope listings.
-- Scores every job against the resume and groups it into Strong, Good, or Stretch fit tiers.
-- Generates a tailored cold-email draft for likely university, lab, clinical-research, bioinformatics, genomics, and research-data positions.
-- Supports search, category/location/source/recency filters, saved jobs, pagination, and CSV export.
-
-No job aggregator can guarantee every posting, and no source can guarantee ten genuinely new openings on every calendar day. The architecture is deliberately broad enough that active hiring days will often add many roles, while accurately reporting zero or fewer additions when posting volume is lower.
-
-## Open the standalone board
-
-`site/standalone.html` is a single self-contained page. Open it while connected to the internet; the ten-role fallback appears immediately and the comprehensive live inventory is merged in automatically.
-
-The multi-file site can also be served locally:
+## Run locally
 
 ```bash
 python -m venv .venv
@@ -48,15 +31,19 @@ python scripts/update_jobs.py --offline
 python -m http.server 8000 -d site
 ```
 
-Then open `http://localhost:8000`.
+Then open:
 
-A full server-side refresh is:
+```text
+http://localhost:8000
+```
+
+To run a full refresh:
 
 ```bash
 python scripts/update_jobs.py --max-age-days 120 --min-score 0
 ```
 
-Generated outputs:
+Generated files:
 
 ```text
 site/data/jobs.json
@@ -66,65 +53,33 @@ site/data/cold-emails.md
 site/standalone.html
 ```
 
-## Deploy with automatic daily refresh
+## Deploy with daily refresh
 
 1. Create a GitHub repository and upload the project.
-2. Open **Settings → Pages** and choose **GitHub Actions** as the source.
-3. Open **Actions → Refresh and deploy job board → Run workflow** for the first deployment.
-4. Leave the included schedule enabled.
+2. Go to **Settings → Pages** and select **GitHub Actions** as the source.
+3. Go to **Actions → Refresh and deploy job board → Run workflow**.
+4. Keep the included schedule enabled for automatic daily refreshes.
 
-The action refreshes all configured sources, runs the tests, commits the new snapshot so history persists, and deploys the `site/` directory to GitHub Pages. GitHub may start scheduled workflows several minutes after the listed cron time.
+The workflow refreshes jobs, updates the snapshot, runs tests, and deploys the `site/` folder to GitHub Pages.
 
-## Optional API secrets
+## Optional API keys
 
-The high-volume feeds and public ATS connectors require no API key. For extra coverage, add repository secrets under **Settings → Secrets and variables → Actions**:
+The main sources work without API keys. For extra coverage, add these GitHub repository secrets:
 
-| Secret | Purpose |
-|---|---|
-| `ADZUNA_APP_ID` | Adzuna application ID |
-| `ADZUNA_APP_KEY` | Adzuna application key |
-| `USAJOBS_API_KEY` | USAJOBS developer key |
-| `USAJOBS_EMAIL` | Email used in the USAJOBS API header |
+| Secret            | Purpose                              |
+| ----------------- | ------------------------------------ |
+| `ADZUNA_APP_ID`   | Adzuna application ID                |
+| `ADZUNA_APP_KEY`  | Adzuna application key               |
+| `USAJOBS_API_KEY` | USAJOBS developer key                |
+| `USAJOBS_EMAIL`   | Email used in the USAJOBS API header |
 
-The workflow continues when these optional secrets are absent.
+## Customize
 
-## Customize coverage
-
-- `config/profile.yml` controls resume skills, target locations, experience highlights, and cold-email language.
-- `config/sources.yml` contains the high-volume feeds, employer ATS boards, university/research pages, and optional API queries.
-- `config/seed_jobs.yml` is only the verified fallback snapshot.
-- `JOB_BOARD_MAX_AGE_DAYS` and `JOB_BOARD_MIN_SCORE` tune recency and score filtering.
-
-Example employer additions:
-
-```yaml
-greenhouse:
-  - name: Example Biotech
-    board: examplebiotech
-    org_type: research
-
-lever:
-  - name: Example Data Company
-    site: exampledata
-    org_type: company
-```
-
-A broken or renamed source is logged and skipped independently rather than breaking the full refresh.
-
-## Cold-email behavior
-
-Research-oriented jobs receive a draft that:
-
-- introduces Celina's Biology/Bioinformatics background;
-- references the BRCA1/BRCA2 population-genomics workflow and OICR internships;
-- connects Python, R, SQL, Linux, workflow automation, and biological context to the role;
-- asks for a 15–20 minute conversation about the lab, its current work, and the position.
-
-Before sending, replace the generic recipient, read the lab website, and add one accurate sentence about a current paper, project, or research direction.
-
-## Privacy
-
-The public page does not expose a phone number or email address. Saved jobs and browser comparison history remain in `localStorage` on the current device.
+- `config/profile.yml` — resume details, skills, target locations, and cold-email language.
+- `config/sources.yml` — job feeds, ATS boards, university pages, and optional APIs.
+- `config/seed_jobs.yml` — fallback snapshot roles.
+- `JOB_BOARD_MAX_AGE_DAYS` — maximum posting age.
+- `JOB_BOARD_MIN_SCORE` — minimum resume-match score.
 
 ## Tests
 
@@ -132,15 +87,4 @@ The public page does not expose a phone number or email address. Saved jobs and 
 python -m unittest discover -s tests -v
 node --check site/live_sources.js
 node --check site/app.js
-```
-
-## Project layout
-
-```text
-config/                  profile, source inventory, fallback jobs
-jobboard/                parsers, fetchers, scoring, normalization, email generation
-scripts/update_jobs.py   refresh CLI
-site/                    static UI, browser live-loader, generated data
-.github/workflows/       scheduled refresh and GitHub Pages deployment
-tests/                   parser, scoring, location, and email tests
 ```
