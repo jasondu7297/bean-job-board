@@ -1,0 +1,92 @@
+name: Celina Lin
+board_title: Celina's Comprehensive New-Grad Job Board
+education:
+  school: University of Waterloo
+  degree: Honours Bachelor of Science in Biology/Bioinformatics
+  status: Recent graduate / graduating candidate
+linkedin: https://linkedin.com/in/celina-g-lin
+
+summary: >-
+  Biology and bioinformatics graduate with hands-on experience building reproducible
+  scientific and data pipelines in Python, R, SQL, Bash, Snakemake, and Nextflow;
+  analyzing genomic variation; and translating technical work into accessible tools
+  and learning resources.
+
+skills:
+  primary:
+    - Python
+    - R
+    - SQL
+    - Bash
+    - Linux
+    - Snakemake
+    - Nextflow
+    - Pandas
+    - NumPy
+    - Git
+    - GitHub
+  bioinformatics:
+    - BCFtools
+    - ANNOVAR
+    - SAMtools
+    - VCFtools
+    - Bioconductor
+    - BLAST
+    - STAR
+    - BWA
+    - Salmon
+    - FastQC
+    - IGV
+  data_and_ml:
+    - scikit-learn
+    - TensorFlow
+    - Matplotlib
+    - MySQL
+    - data pipelines
+    - ETL
+    - APIs
+    - workflow automation
+  product_and_collaboration:
+    - stakeholder collaboration
+    - technical documentation
+    - e-learning
+    - project coordination
+    - requirements mapping
+
+experience_highlights:
+  - >-
+    Built a reproducible Python/Snakemake/BCFtools/ANNOVAR workflow to analyze
+    BRCA1/BRCA2 variants across global populations.
+  - >-
+    Developed an LLM-assisted competency-mapping pipeline and standardized training
+    materials at the Ontario Institute for Cancer Research.
+  - >-
+    Built a climate-data pipeline using Python, R, NASA APIs, and Snakemake, reducing
+    manual preprocessing time by 90%.
+  - >-
+    Developed OCR, chatbot, and SQL/RPA automation tools for a Canadian federal agency.
+
+targets:
+  location_groups:
+    - San Francisco Bay Area
+    - New York City
+    - Boston / Cambridge
+    - Seattle
+    - San Diego
+    - Washington, DC
+    - Philadelphia
+    - Research Triangle
+    - Chicago
+    - Remote - US
+  categories:
+    - Bioinformatics / Computational Biology
+    - Data Analysis / Data Science
+    - Data Engineering / Software
+    - Product / Program / Operations
+    - University / Research
+    - General New Grad
+
+cold_email:
+  signoff: Best,
+  meeting_ask: 15–20 minute conversation
+  include_linkedin: true

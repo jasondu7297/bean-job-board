@@ -1,0 +1,390 @@
+# High-volume new-grad feeds are fetched first, then official employer and
+# research-institution sources are merged and deduplicated. Invalid sources
+# fail independently so one outage never breaks the full refresh.
+
+github_feeds:
+- name: Simplify — New Grad Positions
+  url: https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md
+  page_url: https://github.com/SimplifyJobs/New-Grad-Positions
+  category_hint: General New Grad
+  scope: us
+  max_rows: 3000
+- name: SpeedyApply — 2026 SWE New Grad USA
+  url: https://raw.githubusercontent.com/speedyapply/2026-SWE-College-Jobs/main/NEW_GRAD_USA.md
+  page_url: https://github.com/speedyapply/2026-SWE-College-Jobs/blob/main/NEW_GRAD_USA.md
+  category_hint: Data Engineering / Software
+  scope: usa_only
+  allow_unknown_location: true
+  max_rows: 3000
+- name: SpeedyApply — 2026 AI & Data New Grad USA
+  url: https://raw.githubusercontent.com/speedyapply/2026-AI-College-Jobs/main/NEW_GRAD_USA.md
+  page_url: https://github.com/speedyapply/2026-AI-College-Jobs/blob/main/NEW_GRAD_USA.md
+  category_hint: Data Analysis / Data Science
+  scope: usa_only
+  allow_unknown_location: true
+  max_rows: 3000
+- name: Jobright — Data Analysis New Grad
+  url: https://raw.githubusercontent.com/jobright-ai/2026-Data-Analysis-New-Grad/master/README.md
+  page_url: https://github.com/jobright-ai/2026-Data-Analysis-New-Grad
+  category_hint: Data Analysis / Data Science
+  scope: us
+  org_type: company
+  max_rows: 3000
+- name: Jobright — Software Engineering New Grad
+  url: https://raw.githubusercontent.com/jobright-ai/2026-Software-Engineer-New-Grad/master/README.md
+  page_url: https://github.com/jobright-ai/2026-Software-Engineer-New-Grad
+  category_hint: Data Engineering / Software
+  scope: us
+  org_type: company
+  max_rows: 3000
+- name: Jobright — Product Management New Grad
+  url: https://raw.githubusercontent.com/jobright-ai/2026-Product-Management-New-Grad/master/README.md
+  page_url: https://github.com/jobright-ai/2026-Product-Management-New-Grad
+  category_hint: Product / Program / Operations
+  scope: us
+  org_type: company
+  max_rows: 3000
+- name: Jobright — Business Analyst New Grad
+  url: https://raw.githubusercontent.com/jobright-ai/2026-Business-Analyst-New-Grad/master/README.md
+  page_url: https://github.com/jobright-ai/2026-Business-Analyst-New-Grad
+  category_hint: Data Analysis / Data Science
+  scope: us
+  org_type: company
+  max_rows: 3000
+- name: Jobright — Engineering New Grad
+  url: https://raw.githubusercontent.com/jobright-ai/2026-Engineering-New-Grad/master/README.md
+  page_url: https://github.com/jobright-ai/2026-Engineering-New-Grad
+  category_hint: Data Engineering / Software
+  scope: us
+  org_type: company
+  max_rows: 3000
+- name: Jobright — Consulting & Research New Grad
+  url: https://raw.githubusercontent.com/jobright-ai/2026-Consultant-New-Grad/master/README.md
+  page_url: https://github.com/jobright-ai/2026-Consultant-New-Grad
+  category_hint: General New Grad
+  scope: us
+  org_type: company
+  max_rows: 3000
+- name: Jobright — Education & University New Grad
+  url: https://raw.githubusercontent.com/jobright-ai/2026-Education-New-Grad/master/README.md
+  page_url: https://github.com/jobright-ai/2026-Education-New-Grad
+  category_hint: University / Research
+  scope: us
+  org_type: company
+  max_rows: 3000
+- name: Jobright — Public Sector New Grad
+  url: https://raw.githubusercontent.com/jobright-ai/2026-Public-Sector-New-Grad/master/README.md
+  page_url: https://github.com/jobright-ai/2026-Public-Sector-New-Grad
+  category_hint: General New Grad
+  scope: us
+  org_type: government
+  max_rows: 3000
+- name: Jobright — Management New Grad
+  url: https://raw.githubusercontent.com/jobright-ai/2026-Management-New-Grad/master/README.md
+  page_url: https://github.com/jobright-ai/2026-Management-New-Grad
+  category_hint: Product / Program / Operations
+  scope: us
+  org_type: company
+  max_rows: 3000
+- name: Jobright — Marketing New Grad
+  url: https://raw.githubusercontent.com/jobright-ai/2026-Marketing-New-Grad/master/README.md
+  page_url: https://github.com/jobright-ai/2026-Marketing-New-Grad
+  category_hint: Product / Program / Operations
+  scope: us
+  org_type: company
+  max_rows: 3000
+- name: Jobright — Human Resources New Grad
+  url: https://raw.githubusercontent.com/jobright-ai/2026-HR-New-Grad/master/README.md
+  page_url: https://github.com/jobright-ai/2026-HR-New-Grad
+  category_hint: General New Grad
+  scope: us
+  org_type: company
+  max_rows: 3000
+- name: Jobright — Support New Grad
+  url: https://raw.githubusercontent.com/jobright-ai/2026-Support-New-Grad/master/README.md
+  page_url: https://github.com/jobright-ai/2026-Support-New-Grad
+  category_hint: General New Grad
+  scope: us
+  org_type: company
+  max_rows: 3000
+- name: Jobright — Design New Grad
+  url: https://raw.githubusercontent.com/jobright-ai/2026-Design-New-Grad/master/README.md
+  page_url: https://github.com/jobright-ai/2026-Design-New-Grad
+  category_hint: General New Grad
+  scope: us
+  org_type: company
+  max_rows: 3000
+greenhouse:
+- name: 10x Genomics
+  board: 10xgenomics
+  org_type: company
+- name: Anthropic
+  board: anthropic
+  org_type: company
+- name: Arc Institute
+  board: arcinstitute
+  org_type: research
+- name: Asana
+  board: asana
+  org_type: company
+- name: Benchling
+  board: benchling
+  org_type: company
+- name: Broad Institute
+  board: broadinstitute
+  org_type: research
+- name: Chan Zuckerberg Initiative
+  board: chanzuckerberginitiative
+  org_type: research
+- name: Cloudflare
+  board: cloudflare
+  org_type: company
+- name: Coinbase
+  board: coinbase
+  org_type: company
+- name: Color Health
+  board: color
+  org_type: company
+- name: Databricks
+  board: databricks
+  org_type: company
+- name: Datadog
+  board: datadog
+  org_type: company
+- name: DoorDash
+  board: doordashusa
+  org_type: company
+- name: Dropbox
+  board: dropbox
+  org_type: company
+- name: Figma
+  board: figma
+  org_type: company
+- name: Flatiron Health
+  board: flatironhealth
+  org_type: company
+- name: Freenome
+  board: freenome
+  org_type: company
+- name: Generate Biomedicines
+  board: generatebiomedicines
+  org_type: research
+- name: Ginkgo Bioworks
+  board: ginkgobioworks
+  org_type: company
+- name: Glean
+  board: gleanwork
+  org_type: company
+- name: Grammarly
+  board: grammarly
+  org_type: company
+- name: Guardant Health
+  board: guardanthealth
+  org_type: company
+- name: HubSpot
+  board: hubspotjobs
+  org_type: company
+- name: Insitro
+  board: insitro
+  org_type: research
+- name: Instacart
+  board: instacart
+  org_type: company
+- name: MongoDB
+  board: mongodb
+  org_type: company
+- name: Natera
+  board: natera
+  org_type: company
+- name: Notion
+  board: notion
+  org_type: company
+- name: Oscar Health
+  board: oscar
+  org_type: company
+- name: Plaid
+  board: plaid
+  org_type: company
+- name: Recursion
+  board: recursion
+  org_type: research
+- name: Reddit
+  board: reddit
+  org_type: company
+- name: Robinhood
+  board: robinhood
+  org_type: company
+- name: Scale AI
+  board: scaleai
+  org_type: company
+- name: Stripe
+  board: stripe
+  org_type: company
+- name: Tempus AI
+  board: tempus
+  org_type: company
+- name: Verily
+  board: verily
+  org_type: company
+- name: Vercel
+  board: vercel
+  org_type: company
+- name: 23andMe
+  board: 23andme
+  org_type: company
+lever:
+- name: Carta
+  site: carta
+  org_type: company
+- name: ClickHouse
+  site: clickhouse
+  org_type: company
+- name: Cockroach Labs
+  site: cockroachlabs
+  org_type: company
+- name: Curai Health
+  site: curai
+  org_type: company
+- name: Highspot
+  site: highspot
+  org_type: company
+- name: Komodo Health
+  site: komodohealth
+  org_type: company
+- name: Owkin
+  site: owkin
+  org_type: research
+- name: PathAI
+  site: pathai
+  org_type: research
+- name: Veeva
+  site: veeva
+  org_type: company
+ashby:
+- name: Abridge
+  board: abridge
+  org_type: company
+- name: Arcadia Science
+  board: arcadiascience
+  org_type: research
+- name: Cognition
+  board: cognition
+  org_type: company
+- name: Cohere
+  board: cohere
+  org_type: company
+- name: EvolutionaryScale
+  board: evolutionaryscale
+  org_type: research
+- name: Formation Bio
+  board: formationbio
+  org_type: company
+- name: Harvey
+  board: harvey
+  org_type: company
+- name: Hebbia
+  board: hebbia
+  org_type: company
+- name: Lila Sciences
+  board: lila
+  org_type: research
+- name: Linear
+  board: linear
+  org_type: company
+- name: Listen Labs
+  board: listenlabs
+  org_type: company
+- name: Meter
+  board: meter
+  org_type: company
+- name: Mercury
+  board: mercury
+  org_type: company
+- name: Modal
+  board: modal
+  org_type: company
+- name: OpenAI
+  board: openai
+  org_type: company
+- name: Perplexity
+  board: perplexity
+  org_type: company
+- name: Ramp
+  board: ramp
+  org_type: company
+- name: Replit
+  board: replit
+  org_type: company
+- name: Retool
+  board: retool
+  org_type: company
+- name: Runway
+  board: runway
+  org_type: company
+- name: Vanta
+  board: vanta
+  org_type: company
+- name: Watershed
+  board: watershed
+  org_type: company
+workday:
+- name: Genentech / Roche
+  host: roche.wd3.myworkdayjobs.com
+  tenant: roche
+  site: ROG-A2O-GENE
+  org_type: research
+- name: Moderna
+  host: modernatx.wd1.myworkdayjobs.com
+  tenant: modernatx
+  site: M_tx
+  org_type: research
+- name: Illumina
+  host: illumina.wd1.myworkdayjobs.com
+  tenant: illumina
+  site: illumina-careers
+  org_type: research
+- name: Amgen
+  host: amgen.wd1.myworkdayjobs.com
+  tenant: amgen
+  site: Careers
+  org_type: research
+- name: Pfizer
+  host: pfizer.wd1.myworkdayjobs.com
+  tenant: pfizer
+  site: PfizerCareers
+  org_type: research
+- name: Bristol Myers Squibb
+  host: bristolmyerssquibb.wd5.myworkdayjobs.com
+  tenant: bristolmyerssquibb
+  site: BMS
+  org_type: research
+html_indexes:
+- name: Dana-Farber Cancer Institute
+  url: https://careers.dana-farber.org/jobs/it-informatics/
+  org_type: research
+  link_regex: /job/
+  include_title_regex: (?i)(bioinformatics|computational|data|analyst|engineer|research)
+- name: Rockefeller University
+  url: https://careers.rockefeller.edu/jobs/search
+  org_type: research
+  link_regex: /jobs/[0-9]+
+  include_title_regex: (?i)(bioinformatics|computational|research assistant|data analyst|programmer)
+remotive:
+  enabled: true
+adzuna:
+  enabled: true
+  queries:
+  - bioinformatics
+  - computational biology
+  - data analyst
+  - data engineer
+  - associate product manager
+  - research assistant biology
+usajobs:
+  enabled: true
+  queries:
+  - bioinformatics
+  - biological science
+  - data analyst
+  - data science
+  - information technology

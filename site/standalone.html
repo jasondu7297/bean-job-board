@@ -1,0 +1,2451 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="A resume-matched, automatically refreshed U.S. new-grad job board spanning biology, bioinformatics, data, engineering, product, operations, and university research.">
+  <title>Celina's Comprehensive New-Grad Job Board</title>
+  <style>
+:root {
+  --ink: #17201f;
+  --muted: #66706e;
+  --paper: #f6f7f2;
+  --panel: #ffffff;
+  --line: #dfe3dc;
+  --soft: #edf1ea;
+  --accent: #0b6b58;
+  --accent-dark: #075345;
+  --accent-soft: #dff3ec;
+  --gold: #9b6510;
+  --gold-soft: #fff2d7;
+  --rose: #9a3f52;
+  --rose-soft: #fbe7eb;
+  --shadow: 0 16px 50px rgba(24, 40, 35, 0.08);
+  --radius-lg: 24px;
+  --radius-md: 16px;
+  --radius-sm: 10px;
+}
+
+* { box-sizing: border-box; }
+
+html { scroll-behavior: smooth; }
+
+body {
+  margin: 0;
+  color: var(--ink);
+  background: var(--paper);
+  font-family: Inter, ui-sans-serif, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+  line-height: 1.5;
+}
+
+button, input, select, textarea { font: inherit; }
+button, a { -webkit-tap-highlight-color: transparent; }
+
+.skip-link {
+  position: fixed;
+  top: 8px;
+  left: 8px;
+  z-index: 100;
+  transform: translateY(-140%);
+  padding: 10px 14px;
+  background: var(--ink);
+  color: white;
+  border-radius: 8px;
+}
+.skip-link:focus { transform: translateY(0); }
+
+.sr-only {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  margin: -1px;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+  white-space: nowrap;
+  border: 0;
+}
+
+.hero {
+  color: white;
+  background:
+    radial-gradient(circle at 88% 12%, rgba(127, 210, 182, 0.22), transparent 28%),
+    linear-gradient(135deg, #0b332c 0%, #0b5a4b 58%, #0b6b58 100%);
+  padding: 72px 24px 116px;
+}
+
+.hero__inner {
+  width: min(1180px, 100%);
+  margin: 0 auto;
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: 48px;
+}
+
+.eyebrow {
+  margin: 0 0 10px;
+  color: inherit;
+  font-size: 0.75rem;
+  font-weight: 800;
+  letter-spacing: 0.16em;
+}
+
+.hero h1 {
+  max-width: 760px;
+  margin: 0;
+  font-size: clamp(2.25rem, 5vw, 4.8rem);
+  line-height: 0.98;
+  letter-spacing: -0.055em;
+}
+
+.hero__summary {
+  max-width: 760px;
+  margin: 24px 0 0;
+  color: rgba(255, 255, 255, 0.79);
+  font-size: 1.05rem;
+}
+
+.hero__status {
+  flex: 0 0 auto;
+  display: inline-flex;
+  align-items: center;
+  gap: 9px;
+  padding: 10px 14px;
+  color: rgba(255, 255, 255, 0.86);
+  background: rgba(255, 255, 255, 0.1);
+  border: 1px solid rgba(255, 255, 255, 0.18);
+  border-radius: 999px;
+  font-size: 0.86rem;
+  backdrop-filter: blur(10px);
+}
+
+.status-dot {
+  width: 8px;
+  height: 8px;
+  background: #91f0cb;
+  border-radius: 50%;
+  box-shadow: 0 0 0 5px rgba(145, 240, 203, 0.12);
+}
+
+.shell {
+  width: min(1180px, calc(100% - 32px));
+  margin: -62px auto 80px;
+}
+
+.metrics {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 14px;
+}
+
+.metric {
+  min-height: 148px;
+  padding: 22px;
+  background: var(--panel);
+  border: 1px solid rgba(223, 227, 220, 0.9);
+  border-radius: var(--radius-md);
+  box-shadow: var(--shadow);
+}
+
+.metric__label, .metric__note { display: block; color: var(--muted); }
+.metric__label { font-size: 0.8rem; font-weight: 750; text-transform: uppercase; letter-spacing: 0.08em; }
+.metric strong { display: block; margin: 10px 0 2px; font-size: 2.35rem; line-height: 1; letter-spacing: -0.04em; }
+.metric__note { font-size: 0.82rem; }
+
+.controls {
+  margin-top: 20px;
+  padding: 22px;
+  background: var(--panel);
+  border: 1px solid var(--line);
+  border-radius: var(--radius-lg);
+}
+
+.controls__top {
+  display: flex;
+  justify-content: space-between;
+  gap: 16px;
+}
+
+.search-box {
+  position: relative;
+  flex: 1 1 auto;
+}
+
+.search-box svg {
+  position: absolute;
+  top: 50%;
+  left: 14px;
+  width: 20px;
+  height: 20px;
+  fill: none;
+  stroke: var(--muted);
+  stroke-width: 1.8;
+  transform: translateY(-50%);
+}
+
+.search-box input,
+.filter-grid select,
+.email-field input,
+.email-field textarea {
+  width: 100%;
+  color: var(--ink);
+  background: #fbfcf9;
+  border: 1px solid var(--line);
+  border-radius: 12px;
+  outline: none;
+  transition: border-color 0.15s ease, box-shadow 0.15s ease;
+}
+
+.search-box input { height: 46px; padding: 0 14px 0 44px; }
+.search-box input:focus,
+.filter-grid select:focus,
+.email-field input:focus,
+.email-field textarea:focus {
+  border-color: var(--accent);
+  box-shadow: 0 0 0 3px rgba(11, 107, 88, 0.12);
+}
+
+.view-switch {
+  display: flex;
+  gap: 3px;
+  padding: 4px;
+  background: var(--soft);
+  border-radius: 12px;
+}
+
+.view-switch__button {
+  border: 0;
+  padding: 8px 13px;
+  color: var(--muted);
+  background: transparent;
+  border-radius: 9px;
+  cursor: pointer;
+  font-weight: 700;
+}
+.view-switch__button.is-active { color: var(--ink); background: white; box-shadow: 0 2px 9px rgba(22, 35, 31, 0.07); }
+
+.filter-grid {
+  display: grid;
+  grid-template-columns: repeat(5, 1fr);
+  gap: 12px;
+  margin-top: 16px;
+}
+
+.filter-grid label > span,
+.email-field > span {
+  display: block;
+  margin: 0 0 6px;
+  color: var(--muted);
+  font-size: 0.78rem;
+  font-weight: 750;
+}
+
+.filter-grid select { height: 42px; padding: 0 11px; }
+
+.quick-filters {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  margin-top: 16px;
+  padding-top: 16px;
+  border-top: 1px solid var(--line);
+}
+
+.check-pill { position: relative; cursor: pointer; }
+.check-pill input { position: absolute; opacity: 0; pointer-events: none; }
+.check-pill span {
+  display: inline-flex;
+  align-items: center;
+  min-height: 34px;
+  padding: 6px 12px;
+  color: var(--muted);
+  background: var(--soft);
+  border: 1px solid transparent;
+  border-radius: 999px;
+  font-size: 0.82rem;
+  font-weight: 700;
+}
+.check-pill input:checked + span { color: var(--accent-dark); background: var(--accent-soft); border-color: rgba(11, 107, 88, 0.18); }
+.check-pill input:focus-visible + span { outline: 3px solid rgba(11, 107, 88, 0.2); }
+
+.text-button {
+  margin-left: auto;
+  padding: 6px 2px;
+  color: var(--muted);
+  background: none;
+  border: 0;
+  cursor: pointer;
+  font-size: 0.84rem;
+  font-weight: 750;
+}
+.text-button + .text-button { margin-left: 8px; }
+.text-button--accent { color: var(--accent); }
+.text-button:hover { text-decoration: underline; }
+
+.results-heading {
+  display: flex;
+  align-items: end;
+  justify-content: space-between;
+  gap: 24px;
+  margin: 40px 2px 16px;
+}
+.results-heading .eyebrow { color: var(--accent); }
+.results-heading h2 { margin: 0; font-size: 1.8rem; letter-spacing: -0.035em; }
+.results-heading p:last-child { max-width: 520px; margin: 0; color: var(--muted); font-size: 0.86rem; text-align: right; }
+
+.job-grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 16px;
+}
+
+.job-card {
+  display: flex;
+  flex-direction: column;
+  min-height: 440px;
+  padding: 22px;
+  background: var(--panel);
+  border: 1px solid var(--line);
+  border-radius: var(--radius-md);
+  box-shadow: 0 8px 28px rgba(20, 35, 30, 0.04);
+  transition: transform 0.18s ease, box-shadow 0.18s ease, border-color 0.18s ease;
+}
+.job-card:hover { transform: translateY(-2px); border-color: #c8d4cc; box-shadow: 0 16px 36px rgba(20, 35, 30, 0.08); }
+
+.job-card__topline,
+.job-card__heading,
+.job-card__actions,
+.modal__actions {
+  display: flex;
+  align-items: center;
+}
+
+.job-card__topline { justify-content: space-between; gap: 12px; }
+.fit-badge {
+  display: inline-flex;
+  align-items: center;
+  padding: 5px 9px;
+  border-radius: 999px;
+  font-size: 0.74rem;
+  font-weight: 800;
+}
+.fit-badge--strong { color: var(--accent-dark); background: var(--accent-soft); }
+.fit-badge--good { color: var(--gold); background: var(--gold-soft); }
+.fit-badge--stretch { color: var(--rose); background: var(--rose-soft); }
+.fit-badge--low { color: var(--muted); background: var(--soft); }
+.posted-label { color: var(--muted); font-size: 0.76rem; }
+
+.job-card__heading { align-items: flex-start; justify-content: space-between; gap: 16px; margin-top: 16px; }
+.job-title { margin: 0; font-size: 1.25rem; line-height: 1.25; letter-spacing: -0.026em; }
+.job-company { margin: 6px 0 0; color: var(--muted); font-size: 0.92rem; }
+
+.save-button {
+  flex: 0 0 auto;
+  width: 38px;
+  height: 38px;
+  display: grid;
+  place-items: center;
+  color: var(--muted);
+  background: transparent;
+  border: 1px solid var(--line);
+  border-radius: 10px;
+  cursor: pointer;
+}
+.save-button svg { width: 18px; height: 18px; fill: none; stroke: currentColor; stroke-width: 1.7; }
+.save-button.is-saved { color: var(--accent); background: var(--accent-soft); border-color: transparent; }
+.save-button.is-saved svg { fill: currentColor; }
+
+.job-meta { display: flex; flex-wrap: wrap; gap: 6px 14px; margin-top: 12px; color: var(--muted); font-size: 0.79rem; }
+.job-meta span::before { content: "•"; margin-right: 7px; color: #b3bcb8; }
+.job-meta span:first-child::before { display: none; }
+
+.job-summary { margin: 18px 0 16px; color: #414b49; font-size: 0.9rem; }
+.tag-row { display: flex; flex-wrap: wrap; gap: 7px; }
+.tag {
+  display: inline-flex;
+  align-items: center;
+  padding: 5px 8px;
+  color: #4f5957;
+  background: var(--soft);
+  border-radius: 7px;
+  font-size: 0.72rem;
+  font-weight: 700;
+}
+.tag--category { color: var(--accent-dark); background: var(--accent-soft); }
+.tag--research { color: #514792; background: #eeebff; }
+
+.skill-section { margin-top: 16px; }
+.skill-section__label { display: block; margin-bottom: 7px; color: var(--muted); font-size: 0.72rem; font-weight: 750; text-transform: uppercase; letter-spacing: 0.07em; }
+
+.job-warning {
+  margin: 15px 0 0;
+  padding: 9px 11px;
+  color: #7c4d06;
+  background: #fff8e7;
+  border: 1px solid #f1dfb6;
+  border-radius: 9px;
+  font-size: 0.78rem;
+}
+
+.job-card__actions { flex-wrap: wrap; gap: 8px; margin-top: auto; padding-top: 22px; }
+.button {
+  min-height: 38px;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  padding: 8px 13px;
+  border: 1px solid transparent;
+  border-radius: 10px;
+  cursor: pointer;
+  font-size: 0.82rem;
+  font-weight: 800;
+  text-decoration: none;
+}
+.button--primary { color: white; background: var(--accent); }
+.button--primary:hover { background: var(--accent-dark); }
+.button--secondary { color: var(--ink); background: white; border-color: var(--line); }
+.button--secondary:hover { background: var(--soft); }
+
+.empty-state {
+  padding: 64px 24px;
+  text-align: center;
+  background: white;
+  border: 1px dashed #cbd3ce;
+  border-radius: var(--radius-lg);
+}
+.empty-state h2 { margin: 0; }
+.empty-state p { margin: 8px 0 20px; color: var(--muted); }
+
+.coverage { margin-top: 28px; }
+.coverage details { padding: 18px 20px; background: #eef1ec; border-radius: var(--radius-md); }
+.coverage summary { cursor: pointer; font-weight: 800; }
+.coverage details > p { color: var(--muted); }
+.coverage__grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 18px; margin-top: 18px; }
+.coverage__grid h3 { margin: 0 0 5px; font-size: 0.9rem; }
+.coverage__grid p { margin: 0; color: var(--muted); font-size: 0.82rem; }
+
+.modal {
+  width: min(760px, calc(100% - 24px));
+  max-height: calc(100vh - 28px);
+  padding: 0;
+  background: transparent;
+  border: 0;
+  overflow: visible;
+}
+.modal::backdrop { background: rgba(6, 18, 15, 0.62); backdrop-filter: blur(4px); }
+.modal__frame {
+  position: relative;
+  max-height: calc(100vh - 28px);
+  padding: 28px;
+  background: white;
+  border-radius: 20px;
+  overflow-y: auto;
+  box-shadow: 0 32px 90px rgba(0, 0, 0, 0.28);
+}
+.modal__frame--email { width: 100%; }
+.modal__close {
+  position: absolute;
+  top: 15px;
+  right: 15px;
+  width: 36px;
+  height: 36px;
+  color: var(--muted);
+  background: var(--soft);
+  border: 0;
+  border-radius: 50%;
+  cursor: pointer;
+  font-size: 1.35rem;
+}
+.modal__title { margin: 0 44px 5px 0; font-size: 1.65rem; line-height: 1.15; letter-spacing: -0.035em; }
+.modal__company { margin: 0; color: var(--muted); }
+.modal__section { margin-top: 22px; }
+.modal__section h3 { margin: 0 0 8px; font-size: 0.92rem; }
+.modal__section p { margin: 0; color: #3e4846; white-space: pre-wrap; }
+.modal__list { margin: 0; padding-left: 20px; color: #3e4846; }
+.modal__list li + li { margin-top: 6px; }
+.modal__actions { gap: 10px; margin-top: 16px; }
+.modal__hint { margin: 14px 0 0; color: var(--muted); font-size: 0.78rem; }
+
+.email-field { display: block; margin-top: 16px; }
+.email-field input { height: 42px; padding: 0 12px; }
+.email-field textarea { padding: 12px; line-height: 1.55; resize: vertical; }
+#copy-status { color: var(--accent); font-size: 0.82rem; font-weight: 750; }
+
+@media (max-width: 920px) {
+  .hero__inner { display: block; }
+  .hero__status { margin-top: 28px; }
+  .metrics { grid-template-columns: repeat(2, 1fr); }
+  .filter-grid { grid-template-columns: repeat(2, 1fr); }
+  .job-grid { grid-template-columns: 1fr; }
+  .coverage__grid { grid-template-columns: 1fr; }
+}
+
+@media (max-width: 620px) {
+  .hero { padding: 54px 18px 100px; }
+  .shell { width: min(100% - 20px, 1180px); }
+  .metrics { gap: 8px; }
+  .metric { min-height: 126px; padding: 16px; }
+  .metric strong { font-size: 1.9rem; }
+  .metric__note { font-size: 0.72rem; }
+  .controls { padding: 14px; border-radius: 16px; }
+  .controls__top { display: block; }
+  .view-switch { margin-top: 10px; }
+  .view-switch__button { flex: 1; }
+  .filter-grid { grid-template-columns: 1fr; }
+  .quick-filters { align-items: flex-start; flex-wrap: wrap; }
+  .text-button { margin-left: 0; }
+  .results-heading { display: block; }
+  .results-heading p:last-child { margin-top: 8px; text-align: left; }
+  .job-card { min-height: 0; padding: 18px; }
+  .job-meta { display: grid; gap: 4px; }
+  .job-meta span::before { display: none; }
+  .modal__frame { padding: 22px 18px; }
+}
+
+/* Comprehensive-board additions */
+.hero__actions {
+  flex: 0 0 auto;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  gap: 10px;
+}
+
+.button--light {
+  color: #073e34;
+  background: rgba(255, 255, 255, 0.94);
+  border-color: rgba(255, 255, 255, 0.72);
+}
+.button--light:hover { background: white; }
+.button:disabled { opacity: 0.58; cursor: wait; }
+
+.live-banner {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) 220px;
+  align-items: center;
+  gap: 22px;
+  margin-bottom: 14px;
+  padding: 15px 18px;
+  color: #33403d;
+  background: #fffdf4;
+  border: 1px solid #eadfb9;
+  border-radius: 14px;
+  box-shadow: 0 10px 30px rgba(24, 40, 35, 0.06);
+}
+.live-banner strong,
+.live-banner span { display: block; }
+.live-banner strong { margin-bottom: 2px; font-size: 0.9rem; }
+.live-banner span { color: var(--muted); font-size: 0.79rem; }
+.live-banner--success { background: #eff9f5; border-color: #c4e6da; }
+.live-banner--error { background: #fff3f4; border-color: #efc7ce; }
+
+.progress-track {
+  height: 8px;
+  overflow: hidden;
+  background: rgba(23, 32, 31, 0.1);
+  border-radius: 999px;
+}
+.progress-track span {
+  width: 0;
+  height: 100%;
+  display: block;
+  background: var(--accent);
+  border-radius: inherit;
+  transition: width 0.25s ease;
+}
+
+.filter-grid--six { grid-template-columns: repeat(3, minmax(0, 1fr)); }
+
+.badge-stack {
+  display: inline-flex;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 7px;
+}
+.new-badge {
+  display: inline-flex;
+  align-items: center;
+  padding: 5px 8px;
+  color: #725100;
+  background: #fff0b8;
+  border-radius: 999px;
+  font-size: 0.68rem;
+  font-weight: 900;
+  letter-spacing: 0.08em;
+}
+.new-badge[hidden] { display: none; }
+.tag--new { color: #725100; background: #fff0b8; }
+.source-line {
+  margin: 15px 0 0;
+  color: var(--muted);
+  font-size: 0.74rem;
+}
+.load-more-wrap {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 14px;
+  margin-top: 22px;
+  color: var(--muted);
+  font-size: 0.8rem;
+}
+.load-more-wrap[hidden] { display: none; }
+
+@media (max-width: 920px) {
+  .hero__actions { align-items: flex-start; }
+  .live-banner { grid-template-columns: 1fr; }
+  .filter-grid--six { grid-template-columns: repeat(2, 1fr); }
+}
+
+@media (max-width: 620px) {
+  .filter-grid--six { grid-template-columns: 1fr; }
+  .live-banner { padding: 14px; }
+  .quick-filters { display: flex; }
+  .hero__actions { width: 100%; }
+}
+
+/* Comprehensive live-board additions */
+.hero__status-wrap {
+  flex: 0 0 auto;
+  display: grid;
+  justify-items: end;
+  gap: 10px;
+}
+
+.hero__refresh {
+  padding: 8px 12px;
+  color: white;
+  background: transparent;
+  border: 1px solid rgba(255, 255, 255, 0.28);
+  border-radius: 10px;
+  cursor: pointer;
+  font-size: 0.8rem;
+  font-weight: 800;
+}
+.hero__refresh:hover { background: rgba(255, 255, 255, 0.1); }
+.hero__refresh:disabled { cursor: wait; opacity: 0.65; }
+
+.status-dot--loading { animation: status-pulse 1.1s ease-in-out infinite; }
+.status-dot--error { background: #ffd49b; box-shadow: 0 0 0 5px rgba(255, 212, 155, 0.15); }
+@keyframes status-pulse {
+  0%, 100% { opacity: 0.45; transform: scale(0.85); }
+  50% { opacity: 1; transform: scale(1.15); }
+}
+
+.metrics { grid-template-columns: repeat(5, 1fr); }
+
+.sync-panel {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) 220px;
+  align-items: center;
+  gap: 22px;
+  margin-top: 14px;
+  padding: 16px 18px;
+  background: #e8f3ee;
+  border: 1px solid rgba(11, 107, 88, 0.14);
+  border-radius: var(--radius-md);
+}
+.sync-panel strong { display: block; font-size: 0.92rem; }
+.sync-panel p { margin: 3px 0 0; color: var(--muted); font-size: 0.8rem; }
+.sync-progress {
+  height: 8px;
+  background: rgba(11, 107, 88, 0.12);
+  border-radius: 999px;
+  overflow: hidden;
+}
+.sync-progress span {
+  display: block;
+  width: 0;
+  height: 100%;
+  background: var(--accent);
+  border-radius: inherit;
+  transition: width 0.25s ease;
+}
+
+.filter-grid { grid-template-columns: repeat(6, minmax(0, 1fr)); }
+
+.badge-row { display: flex; align-items: center; gap: 6px; }
+.new-badge {
+  display: inline-flex;
+  align-items: center;
+  padding: 5px 8px;
+  color: #5b3f00;
+  background: #ffecae;
+  border-radius: 999px;
+  font-size: 0.7rem;
+  font-weight: 850;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+}
+.new-badge[hidden] { display: none; }
+
+.button.is-disabled {
+  pointer-events: none;
+  opacity: 0.55;
+}
+
+.load-more-wrap {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 14px;
+  margin: 22px 0 0;
+  color: var(--muted);
+  font-size: 0.8rem;
+}
+.load-more { min-width: 150px; }
+
+.source-table-wrap {
+  margin-top: 20px;
+  overflow-x: auto;
+}
+.source-table {
+  width: 100%;
+  border-collapse: collapse;
+  background: rgba(255, 255, 255, 0.55);
+  border-radius: 12px;
+  overflow: hidden;
+  font-size: 0.8rem;
+}
+.source-table th,
+.source-table td {
+  padding: 10px 12px;
+  border-bottom: 1px solid rgba(102, 112, 110, 0.14);
+  text-align: left;
+}
+.source-table th { color: var(--muted); font-size: 0.72rem; text-transform: uppercase; letter-spacing: 0.06em; }
+.source-table th:last-child,
+.source-table td:last-child { text-align: right; }
+.source-status {
+  display: inline-flex;
+  padding: 3px 7px;
+  border-radius: 999px;
+  font-size: 0.7rem;
+  font-weight: 800;
+}
+.source-status--ok { color: var(--accent-dark); background: var(--accent-soft); }
+.source-status--error { color: var(--rose); background: var(--rose-soft); }
+
+@media (max-width: 1080px) {
+  .metrics { grid-template-columns: repeat(3, 1fr); }
+  .filter-grid { grid-template-columns: repeat(3, 1fr); }
+}
+
+@media (max-width: 920px) {
+  .hero__status-wrap { justify-items: start; margin-top: 28px; }
+  .hero__status { margin-top: 0; }
+  .sync-panel { grid-template-columns: 1fr; }
+  .filter-grid { grid-template-columns: repeat(2, 1fr); }
+}
+
+@media (max-width: 620px) {
+  .metrics { grid-template-columns: repeat(2, 1fr); }
+  .filter-grid { grid-template-columns: 1fr; }
+  .sync-panel { padding: 14px; }
+  .load-more-wrap { flex-direction: column; }
+}
+
+</style>
+  <script>window.JOB_BOARD_DATA = {"meta":{"title":"Celina's Comprehensive New-Grad Job Board","candidate":"Celina Lin","generated_at":"2026-06-25T04:49:23+00:00","offline_snapshot":true,"max_age_days":120,"minimum_match_score":0,"total_jobs":10,"new_since_previous":0,"curated_feed_jobs":0,"official_source_jobs":0,"successful_sources":1,"removed_since_previous":0,"previous_total_jobs":10,"strong_matches":6,"research_jobs":8,"posted_last_7_days":2,"counts_by_category":{"Bioinformatics / Computational Biology":4,"University / Research":4,"Data Analysis / Data Science":2},"counts_by_location":{"Boston / Cambridge":6,"New York City":2,"San Francisco Bay Area":2},"counts_by_fit":{"Strong":6,"Good":2,"Stretch":2},"source_health":[{"source":"Verified starter snapshot","status":"offline","fetched":10}],"disclaimer":"This board merges high-volume new-grad feeds with official employer and research-institution sources. Coverage is broad but not literally exhaustive; always confirm posting status, work authorization, degree, and experience requirements on the employer site."},"profile":{"name":"Celina Lin","degree":"Honours Bachelor of Science in Biology/Bioinformatics","school":"University of Waterloo","summary":"Biology and bioinformatics graduate with hands-on experience building reproducible scientific and data pipelines in Python, R, SQL, Bash, Snakemake, and Nextflow; analyzing genomic variation; and translating technical work into accessible tools and learning resources.","linkedin":"https://linkedin.com/in/celina-g-lin"},"jobs":[{"id":"dfci-jr-4878","title":"Associate Computational Biologist","company":"Dana-Farber Cancer Institute","location":"Boston, MA","workplace":"On-site","salary":"$60,000–$67,466 per year","employment_type":"Full-time","url":"https://careers.dana-farber.org/job/1348/associate-computational-biologist-it-informatics-us-ma-boston-450-brookline-ave","source":"Dana-Farber Careers","source_type":"seed","org_type":"research","research":true,"lab_or_team":"Computational Biology","recipient":"Computational Biology Hiring Team","posted_at":null,"last_verified_at":"2026-06-25","description":"Entry-level training role processing high-throughput biological data and genomic databases. Work includes RNA expression maps, long-read sequencing, and single-cell RNA-seq. Requires a bachelor's degree in a STEM field; no prior experience is necessary. Python, R, UNIX/Linux, data pipelines, and scientific communication are central.","apply_url":"https://careers.dana-farber.org/job/1348/associate-computational-biologist-it-informatics-us-ma-boston-450-brookline-ave","curated_new_grad":false,"fetched_at":"2026-06-25T04:49:23+00:00","age_days":null,"summary":"Entry-level training role processing high-throughput biological data and genomic databases. Work includes RNA expression maps, long-read sequencing, and single-cell RNA-seq. Requires a bachelor's degree in a STEM field; no prior experience is necessary. Python, R, UNIX/Linux, data pipelines, and scientific communication are central.","category":"Bioinformatics / Computational Biology","secondary_categories":["University / Research","General New Grad"],"location_group":"Boston / Cambridge","entry_level":true,"match_score":90,"fit_tier":"Strong","match_reasons":["Target location: Boston / Cambridge","Strong bioinformatics / computational biology keyword match","Matches Python, Linux, ETL / pipelines, Genomics","Entry-level or bachelor's-friendly language","Research-oriented organization or role"],"matched_skills":["Python","Linux","ETL / pipelines","Genomics"],"warnings":[],"cold_email":{"subject":"Interest in Associate Computational Biologist — biology/bioinformatics graduate","body":"Dear Computational Biology Hiring Team,\n\nMy name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Associate Computational Biologist opportunity with Computational Biology at Dana-Farber Cancer Institute.\n\nI am especially interested in the lab's use of single-cell and spatial transcriptomic data to connect molecular mechanisms with therapeutic questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, I have built reproducible genomics workflows and enjoy translating complex biological questions into clear, testable computational analyses.\n\nThe combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.\n\nBest,\nCelina Lin\nhttps://linkedin.com/in/celina-g-lin"},"first_seen_at":"2026-06-25T04:02:09+00:00","last_seen_at":"2026-06-25T04:49:23+00:00","is_new":false},{"id":"rockefeller-neurotech-ra-2054","title":"Research Assistant – Laboratory of Neurotechnology and Biophysics","company":"The Rockefeller University","location":"New York, NY","workplace":"On-site","salary":"$50,000–$55,000 per year","employment_type":"Full-time","url":"https://careers.rockefeller.edu/jobs/2054","source":"Rockefeller University Careers","source_type":"seed","org_type":"university","research":true,"lab_or_team":"Laboratory of Neurotechnology and Biophysics","recipient":"Laboratory of Neurotechnology and Biophysics Hiring Team","posted_at":null,"last_verified_at":"2026-06-25","description":"Research assistant opportunity supporting neurotechnology and biophysics work aimed at understanding brain-wide computation and behavior. Relevant strengths include biology, quantitative analysis, reproducible workflows, scientific programming, and collaborative research.","apply_url":"https://careers.rockefeller.edu/jobs/2054","curated_new_grad":false,"fetched_at":"2026-06-25T04:49:23+00:00","age_days":null,"summary":"Research assistant opportunity supporting neurotechnology and biophysics work aimed at understanding brain-wide computation and behavior. Relevant strengths include biology, quantitative analysis, reproducible workflows, scientific programming, and collaborative research.","category":"University / Research","secondary_categories":[],"location_group":"New York City","entry_level":true,"match_score":89,"fit_tier":"Strong","match_reasons":["Target location: New York City","Strong university / research keyword match","Matches ETL / pipelines","Entry-level or bachelor's-friendly language","Research-oriented organization or role"],"matched_skills":["ETL / pipelines"],"warnings":[],"cold_email":{"subject":"Interest in Research Assistant – Laboratory of Neurotechnology and Biophysics — biology/bioinformatics graduate","body":"Dear Laboratory of Neurotechnology and Biophysics Hiring Team,\n\nMy name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Research Assistant – Laboratory of Neurotechnology and Biophysics opportunity with Laboratory of Neurotechnology and Biophysics at The Rockefeller University.\n\nI am especially interested in the lab's combination of neurotechnology, quantitative biology, and questions about brain-wide computation. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background spans biology, scientific programming, and reproducible data pipelines, and I am eager to apply that mix in a neuroscience setting.\n\nThe combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.\n\nBest,\nCelina Lin\nhttps://linkedin.com/in/celina-g-lin"},"first_seen_at":"2026-06-25T04:02:09+00:00","last_seen_at":"2026-06-25T04:49:23+00:00","is_new":false},{"id":"columbia-gisl-staff-associate-2026","title":"Staff Associate Officer of Research – Computational Biology & Bioinformatics","company":"Columbia University","location":"New York, NY","workplace":"On-site","salary":"","employment_type":"Full-time","url":"https://apply.interfolio.com/187490","source":"Columbia University / Interfolio","source_type":"seed","org_type":"university","research":true,"lab_or_team":"Genomics Information Systems Laboratory","recipient":"Professor Dimitris Anastassiou","posted_at":"2026-06-18","date_is_estimated":true,"last_verified_at":"2026-06-25","description":"Develop AI-driven methods for multimodal biological and clinical data, including single-cell and bulk RNA-seq, ATAC-seq, spatial transcriptomics, proteomics, digital twins, real-world evidence, biomarker discovery, and therapeutic target discovery. An M.S. is preferred for Staff Associate, making this a stretch role for a bachelor's candidate.","apply_url":"https://apply.interfolio.com/187490","curated_new_grad":false,"fetched_at":"2026-06-25T04:49:23+00:00","age_days":7,"summary":"Develop AI-driven methods for multimodal biological and clinical data, including single-cell and bulk RNA-seq, ATAC-seq, spatial transcriptomics, proteomics, digital twins, real-world evidence, biomarker discovery, and therapeutic target discovery. An M.S. is preferred for Staff Associate, making this a stretch role for a bachelor's candidate.","category":"Bioinformatics / Computational Biology","secondary_categories":["University / Research","General New Grad"],"location_group":"New York City","entry_level":false,"match_score":84,"fit_tier":"Strong","match_reasons":["Target location: New York City","Strong bioinformatics / computational biology keyword match","Matches Git, Genomics","Posted within the last week","Research-oriented organization or role"],"matched_skills":["Git","Genomics"],"warnings":[],"cold_email":{"subject":"Interest in Staff Associate Officer of Research – Computational Biology & Bioinformatics — biology/bioinformatics graduate","body":"Dear Professor Dimitris Anastassiou,\n\nMy name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Staff Associate Officer of Research – Computational Biology & Bioinformatics opportunity with Genomics Information Systems Laboratory at Columbia University.\n\nI am especially interested in the lab's use of single-cell and spatial transcriptomic data to connect molecular mechanisms with therapeutic questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, I have built reproducible genomics workflows and enjoy translating complex biological questions into clear, testable computational analyses.\n\nThe combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.\n\nBest,\nCelina Lin\nhttps://linkedin.com/in/celina-g-lin"},"first_seen_at":"2026-06-25T04:02:09+00:00","last_seen_at":"2026-06-25T04:49:23+00:00","is_new":false},{"id":"dfci-jr-276","title":"Associate Computational Biologist","company":"Dana-Farber Cancer Institute / Broad Institute","location":"Boston, MA","workplace":"Hybrid / occasional remote","salary":"$60,000–$67,466 per year","employment_type":"Full-time","url":"https://careers.dana-farber.org/job/174/associate-computational-biologist-it-informatics-us-ma-boston-450-brookline-ave","source":"Dana-Farber Careers","source_type":"seed","org_type":"research","research":true,"lab_or_team":"Beroukhim–Dalin computational genomics team","recipient":"Dr. Rameen Beroukhim and Dr. Simona Dalin","posted_at":null,"last_verified_at":"2026-06-25","description":"Mentored computational genomics position studying genomic rearrangements in cancers and normal tissues. The team seeks a bachelor's-level candidate with programming, statistics, biology, R/Bash, UNIX, and research experience. A two-year commitment is required.","apply_url":"https://careers.dana-farber.org/job/174/associate-computational-biologist-it-informatics-us-ma-boston-450-brookline-ave","curated_new_grad":false,"fetched_at":"2026-06-25T04:49:23+00:00","age_days":null,"summary":"Mentored computational genomics position studying genomic rearrangements in cancers and normal tissues. The team seeks a bachelor's-level candidate with programming, statistics, biology, R/Bash, UNIX, and research experience. A two-year commitment is required.","category":"Bioinformatics / Computational Biology","secondary_categories":["University / Research","General New Grad"],"location_group":"Boston / Cambridge","entry_level":true,"match_score":84,"fit_tier":"Strong","match_reasons":["Target location: Boston / Cambridge","Strong bioinformatics / computational biology keyword match","Matches R, Bash, Linux, Genomics","Entry-level or bachelor's-friendly language","Research-oriented organization or role"],"matched_skills":["R","Bash","Linux","Genomics"],"warnings":[],"cold_email":{"subject":"Interest in Associate Computational Biologist — biology/bioinformatics graduate","body":"Dear Dr. Rameen Beroukhim and Dr. Simona Dalin,\n\nMy name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Associate Computational Biologist opportunity with Beroukhim–Dalin computational genomics team at Dana-Farber Cancer Institute / Broad Institute.\n\nI am especially interested in how genomic rearrangements and DNA-repair errors reveal cancer vulnerabilities. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my BRCA1/BRCA2 population-variant project gave me practical experience building reproducible variant-analysis workflows and thinking carefully about how genomic evidence is interpreted.\n\nThe combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.\n\nBest,\nCelina Lin\nhttps://linkedin.com/in/celina-g-lin"},"first_seen_at":"2026-06-25T04:02:09+00:00","last_seen_at":"2026-06-25T04:49:23+00:00","is_new":false},{"id":"dfci-jr-251","title":"Bioinformatics Analyst","company":"Dana-Farber Cancer Institute / Broad Institute","location":"Boston, MA","workplace":"Hybrid / occasional remote","salary":"$58,400–$80,400 per year","employment_type":"Full-time","url":"https://careers.dana-farber.org/job/165/bioinformatics-analyst-it-informatics-us-ma-boston-450-brookline-ave","source":"Dana-Farber Careers","source_type":"seed","org_type":"research","research":true,"lab_or_team":"Beroukhim–Dalin computational genomics team","recipient":"Dr. Rameen Beroukhim and Dr. Simona Dalin","posted_at":null,"last_verified_at":"2026-06-25","description":"Mentored computational associate role developing analyses for genomic rearrangements, cancer vulnerabilities, and tumor subclones. Requires a bachelor's degree and 0–2 years of experience; Python or Perl, R, SQL, statistics, biology, and data management are relevant.","apply_url":"https://careers.dana-farber.org/job/165/bioinformatics-analyst-it-informatics-us-ma-boston-450-brookline-ave","curated_new_grad":false,"fetched_at":"2026-06-25T04:49:23+00:00","age_days":null,"summary":"Mentored computational associate role developing analyses for genomic rearrangements, cancer vulnerabilities, and tumor subclones. Requires a bachelor's degree and 0–2 years of experience; Python or Perl, R, SQL, statistics, biology, and data management are relevant.","category":"University / Research","secondary_categories":["Bioinformatics / Computational Biology"],"location_group":"Boston / Cambridge","entry_level":true,"match_score":83,"fit_tier":"Strong","match_reasons":["Target location: Boston / Cambridge","Strong university / research keyword match","Matches Python, SQL, Genomics","Entry-level or bachelor's-friendly language","Research-oriented organization or role"],"matched_skills":["Python","SQL","Genomics"],"warnings":[],"cold_email":{"subject":"Interest in Bioinformatics Analyst — biology/bioinformatics graduate","body":"Dear Dr. Rameen Beroukhim and Dr. Simona Dalin,\n\nMy name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Bioinformatics Analyst opportunity with Beroukhim–Dalin computational genomics team at Dana-Farber Cancer Institute / Broad Institute.\n\nI am especially interested in how genomic rearrangements and DNA-repair errors reveal cancer vulnerabilities. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my BRCA1/BRCA2 population-variant project gave me practical experience building reproducible variant-analysis workflows and thinking carefully about how genomic evidence is interpreted.\n\nThe combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.\n\nBest,\nCelina Lin\nhttps://linkedin.com/in/celina-g-lin"},"first_seen_at":"2026-06-25T04:02:09+00:00","last_seen_at":"2026-06-25T04:49:23+00:00","is_new":false},{"id":"dfci-jr-4351","title":"Bioinformatics Engineer","company":"Dana-Farber Cancer Institute","location":"Boston, MA","workplace":"Hybrid, 2–3 days on-site","salary":"$75,000–$81,500 per year","employment_type":"Full-time","url":"https://careers.dana-farber.org/job/1206/bioinformatics-engineer-it-informatics-us-ma-boston-450-brookline-ave","source":"Dana-Farber Careers","source_type":"seed","org_type":"research","research":true,"lab_or_team":"McGraw/Patterson Center for Population Sciences","recipient":"McGraw/Patterson Center Hiring Team","posted_at":null,"last_verified_at":"2026-06-25","description":"Entry-level role at the intersection of biology, data science, engineering, and AI. Build software, databases, interfaces, and scalable multi-cloud platforms for thoracic cancer research. Requires a bachelor's degree and 0–2 years of experience; Python or Perl, R, SQL, web development, and biological data analysis are relevant.","apply_url":"https://careers.dana-farber.org/job/1206/bioinformatics-engineer-it-informatics-us-ma-boston-450-brookline-ave","curated_new_grad":false,"fetched_at":"2026-06-25T04:49:23+00:00","age_days":null,"summary":"Entry-level role at the intersection of biology, data science, engineering, and AI. Build software, databases, interfaces, and scalable multi-cloud platforms for thoracic cancer research. Requires a bachelor's degree and 0–2 years of experience; Python or Perl, R, SQL, web development, and biological data analysis are relevant.","category":"University / Research","secondary_categories":["Bioinformatics / Computational Biology","Data Engineering / Software"],"location_group":"Boston / Cambridge","entry_level":true,"match_score":78,"fit_tier":"Strong","match_reasons":["Target location: Boston / Cambridge","Strong university / research keyword match","Matches Python, SQL","Entry-level or bachelor's-friendly language","Research-oriented organization or role"],"matched_skills":["Python","SQL"],"warnings":[],"cold_email":{"subject":"Interest in Bioinformatics Engineer — biology/bioinformatics graduate","body":"Dear McGraw/Patterson Center Hiring Team,\n\nMy name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Bioinformatics Engineer opportunity with McGraw/Patterson Center for Population Sciences at Dana-Farber Cancer Institute.\n\nI am especially interested in building scalable data systems that let research and clinical teams use biological data reliably. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, I have built API-driven and Snakemake-based pipelines, automated SQL workflows, and worked across both scientific and software contexts.\n\nThe combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.\n\nBest,\nCelina Lin\nhttps://linkedin.com/in/celina-g-lin"},"first_seen_at":"2026-06-25T04:02:09+00:00","last_seen_at":"2026-06-25T04:49:23+00:00","is_new":false},{"id":"dfci-jr-1244","title":"Bioinformatics Analyst","company":"Dana-Farber Cancer Institute / Broad Institute","location":"Boston, MA","workplace":"Hybrid, 2–3 days on-site","salary":"$58,400–$80,400 per year","employment_type":"Full-time","url":"https://careers.dana-farber.org/job/435/bioinformatics-analyst-it-informatics-us-ma-boston-450-brookline-ave","source":"Dana-Farber Careers","source_type":"seed","org_type":"research","research":true,"lab_or_team":"Bandopadhayay Laboratory","recipient":"Dr. Pratiti Bandopadhayay and Dr. Rameen Beroukhim","posted_at":null,"last_verified_at":"2026-06-25","description":"Analyze DNA-seq, RNA-seq, epigenetic sequencing, and single-cell data to identify genomic changes in pediatric brain tumors and improve treatment strategies. The role combines computational analysis, statistics, cancer genomics, and cross-disciplinary research.","apply_url":"https://careers.dana-farber.org/job/435/bioinformatics-analyst-it-informatics-us-ma-boston-450-brookline-ave","curated_new_grad":false,"fetched_at":"2026-06-25T04:49:23+00:00","age_days":null,"summary":"Analyze DNA-seq, RNA-seq, epigenetic sequencing, and single-cell data to identify genomic changes in pediatric brain tumors and improve treatment strategies. The role combines computational analysis, statistics, cancer genomics, and cross-disciplinary research.","category":"Bioinformatics / Computational Biology","secondary_categories":["University / Research"],"location_group":"Boston / Cambridge","entry_level":false,"match_score":67,"fit_tier":"Good","match_reasons":["Target location: Boston / Cambridge","Strong bioinformatics / computational biology keyword match","Matches Genomics","Research-oriented organization or role"],"matched_skills":["Genomics"],"warnings":[],"cold_email":{"subject":"Interest in Bioinformatics Analyst — biology/bioinformatics graduate","body":"Dear Dr. Pratiti Bandopadhayay and Dr. Rameen Beroukhim,\n\nMy name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Bioinformatics Analyst opportunity with Bandopadhayay Laboratory at Dana-Farber Cancer Institute / Broad Institute.\n\nI am especially interested in using multi-omic data to improve the biological understanding and treatment of pediatric brain tumors. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my cancer-genomics project and experience with Python, R, Snakemake, BCFtools, and ANNOVAR would let me contribute quickly to reproducible sequencing analyses.\n\nThe combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.\n\nBest,\nCelina Lin\nhttps://linkedin.com/in/celina-g-lin"},"first_seen_at":"2026-06-25T04:02:09+00:00","last_seen_at":"2026-06-25T04:49:23+00:00","is_new":false},{"id":"dfci-jr-4330","title":"Computational Biologist – Marasco Lab","company":"Dana-Farber Cancer Institute","location":"Boston, MA","workplace":"On-site","salary":"$75,000–$91,500 per year","employment_type":"Full-time","url":"https://careers.dana-farber.org/job/1207/computational-biologist-marasco-lab-it-informatics-us-ma-boston-450-brookline-ave","source":"Dana-Farber Careers","source_type":"seed","org_type":"research","research":true,"lab_or_team":"Marasco Lab","recipient":"Dr. Wayne Marasco and the Marasco Lab team","posted_at":null,"last_verified_at":"2026-06-25","description":"Analyze scRNA-seq and spatial transcriptomics data for anti-aging and cancer therapeutic projects. Develop omics pipelines, support wet-lab scientists, prepare figures and methods, and work across genetics, cell biology, cancer biology, and computational research.","apply_url":"https://careers.dana-farber.org/job/1207/computational-biologist-marasco-lab-it-informatics-us-ma-boston-450-brookline-ave","curated_new_grad":false,"fetched_at":"2026-06-25T04:49:23+00:00","age_days":null,"summary":"Analyze scRNA-seq and spatial transcriptomics data for anti-aging and cancer therapeutic projects. Develop omics pipelines, support wet-lab scientists, prepare figures and methods, and work across genetics, cell biology, cancer biology, and computational research.","category":"University / Research","secondary_categories":["Bioinformatics / Computational Biology"],"location_group":"Boston / Cambridge","entry_level":false,"match_score":67,"fit_tier":"Good","match_reasons":["Target location: Boston / Cambridge","Strong university / research keyword match","Matches Genomics","Research-oriented organization or role"],"matched_skills":["Genomics"],"warnings":[],"cold_email":{"subject":"Interest in Computational Biologist – Marasco Lab — biology/bioinformatics graduate","body":"Dear Dr. Wayne Marasco and the Marasco Lab team,\n\nMy name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Computational Biologist – Marasco Lab opportunity with Marasco Lab at Dana-Farber Cancer Institute.\n\nI am especially interested in the lab's use of single-cell and spatial transcriptomic data to connect molecular mechanisms with therapeutic questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, I have built reproducible genomics workflows and enjoy translating complex biological questions into clear, testable computational analyses.\n\nThe combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.\n\nBest,\nCelina Lin\nhttps://linkedin.com/in/celina-g-lin"},"first_seen_at":"2026-06-25T04:02:09+00:00","last_seen_at":"2026-06-25T04:49:23+00:00","is_new":false},{"id":"meter-data-analyst-2026","title":"Data Analyst","company":"Meter","location":"San Francisco, CA","workplace":"Hybrid","salary":"","employment_type":"Full-time","url":"https://jobs.ashbyhq.com/meter/11d53376-ce03-4184-a881-244fc90d796e","source":"Ashby","source_type":"seed","org_type":"company","research":false,"posted_at":"2026-06-19","date_is_estimated":true,"last_verified_at":"2026-06-25","description":"Data analyst role within engineering in San Francisco. Prioritize this as a general data opportunity and confirm the current experience requirements on the employer posting before applying.","apply_url":"https://jobs.ashbyhq.com/meter/11d53376-ce03-4184-a881-244fc90d796e","curated_new_grad":false,"fetched_at":"2026-06-25T04:49:23+00:00","age_days":6,"summary":"Data analyst role within engineering in San Francisco. Prioritize this as a general data opportunity and confirm the current experience requirements on the employer posting before applying.","category":"Data Analysis / Data Science","secondary_categories":[],"location_group":"San Francisco Bay Area","entry_level":false,"match_score":54,"fit_tier":"Stretch","match_reasons":["Target location: San Francisco Bay Area","Strong data analysis / data science keyword match","Posted within the last week"],"matched_skills":[],"warnings":[],"first_seen_at":"2026-06-25T04:02:09+00:00","last_seen_at":"2026-06-25T04:49:23+00:00","is_new":false},{"id":"listen-labs-insights-analyst-2026","title":"Insights Analyst","company":"Listen Labs","location":"San Francisco, CA","workplace":"Hybrid / on-site","salary":"","employment_type":"Full-time","url":"https://jobs.ashbyhq.com/listenlabs/d6e5fda8-70a1-4cb8-b858-4d1fb9b30063","source":"Ashby","source_type":"seed","org_type":"company","research":false,"posted_at":null,"last_verified_at":"2026-06-25","description":"Translate research and customer data into clear recommendations for product, research, and marketing leaders. Strong fit for analytical communication, stakeholder collaboration, and turning complex information into decisions.","apply_url":"https://jobs.ashbyhq.com/listenlabs/d6e5fda8-70a1-4cb8-b858-4d1fb9b30063","curated_new_grad":false,"fetched_at":"2026-06-25T04:49:23+00:00","age_days":null,"summary":"Translate research and customer data into clear recommendations for product, research, and marketing leaders. Strong fit for analytical communication, stakeholder collaboration, and turning complex information into decisions.","category":"Data Analysis / Data Science","secondary_categories":[],"location_group":"San Francisco Bay Area","entry_level":false,"match_score":44,"fit_tier":"Stretch","match_reasons":["Target location: San Francisco Bay Area","Strong data analysis / data science keyword match"],"matched_skills":[],"warnings":[],"first_seen_at":"2026-06-25T04:02:09+00:00","last_seen_at":"2026-06-25T04:49:23+00:00","is_new":false}]};</script>
+  
+  
+</head>
+<body>
+  <a class="skip-link" href="#job-results">Skip to job results</a>
+
+  <header class="hero">
+    <div class="hero__inner">
+      <div>
+        <p class="eyebrow">PERSONAL JOB SEARCH DASHBOARD</p>
+        <h1 id="board-title">Celina's Comprehensive New-Grad Job Board</h1>
+        <p class="hero__summary" id="profile-summary">Loading resume-matched opportunities…</p>
+      </div>
+      <div class="hero__status-wrap">
+        <div class="hero__status" aria-live="polite">
+          <span class="status-dot" id="status-dot" aria-hidden="true"></span>
+          <span id="refresh-label">Preparing live source refresh</span>
+        </div>
+        <button id="refresh-live" class="hero__refresh" type="button">Refresh live sources</button>
+      </div>
+    </div>
+  </header>
+
+  <main class="shell">
+    <section class="metrics" aria-label="Job board summary">
+      <article class="metric">
+        <span class="metric__label">Open matches</span>
+        <strong id="metric-total">—</strong>
+        <span class="metric__note">after U.S. filtering and deduplication</span>
+      </article>
+      <article class="metric">
+        <span class="metric__label">New since last sync</span>
+        <strong id="metric-new">—</strong>
+        <span class="metric__note">tracked in this browser</span>
+      </article>
+      <article class="metric">
+        <span class="metric__label">Strong matches</span>
+        <strong id="metric-strong">—</strong>
+        <span class="metric__note">highest resume-fit tier</span>
+      </article>
+      <article class="metric">
+        <span class="metric__label">Research roles</span>
+        <strong id="metric-research">—</strong>
+        <span class="metric__note">with tailored outreach drafts</span>
+      </article>
+      <article class="metric">
+        <span class="metric__label">Posted in 7 days</span>
+        <strong id="metric-recent">—</strong>
+        <span class="metric__note">where a date is available</span>
+      </article>
+    </section>
+
+    <section class="sync-panel" aria-live="polite">
+      <div>
+        <strong id="sync-heading">Live source sync starting…</strong>
+        <p id="sync-detail">Loading 16 high-volume live feeds now. The final deduplicated count normally reaches hundreds; this can take several seconds.</p>
+      </div>
+      <div class="sync-progress" aria-hidden="true"><span id="sync-progress-bar"></span></div>
+    </section>
+
+    <section class="controls" aria-label="Job filters">
+      <div class="controls__top">
+        <label class="search-box">
+          <span class="sr-only">Search jobs</span>
+          <svg viewBox="0 0 24 24" aria-hidden="true"><path d="m21 21-4.35-4.35m2.35-5.65a8 8 0 1 1-16 0 8 8 0 0 1 16 0Z"/></svg>
+          <input id="search-input" type="search" placeholder="Search title, company, location, skill, or keyword">
+        </label>
+        <div class="view-switch" role="group" aria-label="Job view">
+          <button class="view-switch__button is-active" id="view-all" type="button">All jobs</button>
+          <button class="view-switch__button" id="view-saved" type="button">Saved <span id="saved-count">0</span></button>
+        </div>
+      </div>
+
+      <div class="filter-grid">
+        <label>
+          <span>Category</span>
+          <select id="category-filter"><option value="">All categories</option></select>
+        </label>
+        <label>
+          <span>Location</span>
+          <select id="location-filter"><option value="">All U.S. locations</option></select>
+        </label>
+        <label>
+          <span>Source</span>
+          <select id="source-filter"><option value="">All sources</option></select>
+        </label>
+        <label>
+          <span>Fit</span>
+          <select id="fit-filter">
+            <option value="">All fit levels</option>
+            <option value="Strong">Strong</option>
+            <option value="Good">Good</option>
+            <option value="Stretch">Stretch</option>
+          </select>
+        </label>
+        <label>
+          <span>Posted</span>
+          <select id="age-filter">
+            <option value="">Any time</option>
+            <option value="1">Today / yesterday</option>
+            <option value="7">Last 7 days</option>
+            <option value="14">Last 14 days</option>
+            <option value="30">Last 30 days</option>
+            <option value="60">Last 60 days</option>
+            <option value="unknown">Date not listed</option>
+          </select>
+        </label>
+        <label>
+          <span>Sort</span>
+          <select id="sort-filter">
+            <option value="score">Best match</option>
+            <option value="newest">Newest</option>
+            <option value="new">New since sync</option>
+            <option value="company">Company A–Z</option>
+          </select>
+        </label>
+      </div>
+
+      <div class="quick-filters">
+        <label class="check-pill"><input id="research-only" type="checkbox"><span>Research only</span></label>
+        <label class="check-pill"><input id="entry-only" type="checkbox"><span>Entry-level language</span></label>
+        <label class="check-pill"><input id="new-only" type="checkbox"><span>New since sync</span></label>
+        <button id="clear-filters" class="text-button" type="button">Clear filters</button>
+        <button id="export-visible" class="text-button text-button--accent" type="button">Export filtered CSV</button>
+      </div>
+    </section>
+
+    <section class="results-heading" id="job-results">
+      <div>
+        <p class="eyebrow">MATCHED OPPORTUNITIES</p>
+        <h2><span id="result-count">0</span> jobs</h2>
+      </div>
+      <p id="results-note">Fit scores prioritize overlap with the resume; they are not eligibility guarantees.</p>
+    </section>
+
+    <section class="job-grid" id="job-grid" aria-live="polite"></section>
+
+    <div class="load-more-wrap" id="load-more-wrap" hidden>
+      <button class="button button--secondary load-more" id="load-more" type="button">Load 60 more</button>
+      <span id="load-more-note"></span>
+    </div>
+
+    <section class="empty-state" id="empty-state" hidden>
+      <h2>No jobs match these filters</h2>
+      <p>Try clearing one filter or switching back to all jobs.</p>
+      <button class="button button--primary" id="empty-clear" type="button">Clear filters</button>
+    </section>
+
+    <section class="coverage">
+      <details>
+        <summary>Coverage, source health, refresh model, and limitations</summary>
+        <p id="disclaimer"></p>
+        <div class="coverage__grid">
+          <div>
+            <h3>Refresh model</h3>
+            <p>The page fetches daily-maintained new-grad feeds whenever it opens. The deployable project also runs a scheduled GitHub Action and merges official ATS feeds.</p>
+          </div>
+          <div>
+            <h3>Source health</h3>
+            <p id="source-health">Live source health appears after synchronization.</p>
+          </div>
+          <div>
+            <h3>Privacy</h3>
+            <p>The public site contains no phone number or email address. Saved jobs and the “new since last sync” baseline stay only in this browser.</p>
+          </div>
+        </div>
+        <div class="source-table-wrap">
+          <table class="source-table">
+            <thead><tr><th>Source</th><th>Status</th><th>Jobs retained</th></tr></thead>
+            <tbody id="source-table-body"></tbody>
+          </table>
+        </div>
+      </details>
+    </section>
+  </main>
+
+  <dialog id="details-dialog" class="modal">
+    <div class="modal__frame">
+      <button class="modal__close" data-close-dialog="details-dialog" aria-label="Close details">×</button>
+      <div id="details-content"></div>
+    </div>
+  </dialog>
+
+  <dialog id="email-dialog" class="modal">
+    <div class="modal__frame modal__frame--email">
+      <button class="modal__close" data-close-dialog="email-dialog" aria-label="Close cold email">×</button>
+      <p class="eyebrow">COLD EMAIL DRAFT</p>
+      <h2 id="email-heading">Research outreach</h2>
+      <label class="email-field">
+        <span>Subject</span>
+        <input id="email-subject" type="text" readonly>
+      </label>
+      <label class="email-field">
+        <span>Body</span>
+        <textarea id="email-body" rows="18" readonly></textarea>
+      </label>
+      <div class="modal__actions">
+        <button class="button button--primary" id="copy-email" type="button">Copy subject + body</button>
+        <span id="copy-status" role="status"></span>
+      </div>
+      <p class="modal__hint">Review the posting and lab website before sending. Replace the generic recipient and add one concrete sentence about the lab’s current work.</p>
+    </div>
+  </dialog>
+
+  <template id="job-card-template">
+    <article class="job-card">
+      <div class="job-card__topline">
+        <div class="badge-row"><span class="fit-badge"></span><span class="new-badge" hidden>New</span></div>
+        <span class="posted-label"></span>
+      </div>
+      <div class="job-card__heading">
+        <div>
+          <h3 class="job-title"></h3>
+          <p class="job-company"></p>
+        </div>
+        <button class="save-button" type="button" aria-label="Save job">
+          <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M6 3.75A1.75 1.75 0 0 1 7.75 2h8.5A1.75 1.75 0 0 1 18 3.75V22l-6-3.5L6 22V3.75Z"/></svg>
+        </button>
+      </div>
+      <div class="job-meta"></div>
+      <p class="job-summary"></p>
+      <div class="tag-row category-tags"></div>
+      <div class="skill-section">
+        <span class="skill-section__label">Resume overlap</span>
+        <div class="tag-row skill-tags"></div>
+      </div>
+      <p class="job-warning" hidden></p>
+      <div class="job-card__actions">
+        <a class="button button--primary apply-link" target="_blank" rel="noopener noreferrer">Open posting</a>
+        <button class="button button--secondary details-button" type="button">Details</button>
+        <button class="button button--secondary email-button" type="button" hidden>Cold email</button>
+      </div>
+    </article>
+  </template>
+<script>
+(() => {
+  "use strict";
+
+  const LIVE_SOURCES = [
+    {
+      name: "Simplify — New Grad Positions",
+      repo: "SimplifyJobs/New-Grad-Positions",
+      branch: "dev",
+      path: "README.md",
+      categoryHint: "General New Grad",
+      allowUnknownLocation: false,
+    },
+    {
+      name: "SpeedyApply — 2026 SWE New Grad USA",
+      repo: "speedyapply/2026-SWE-College-Jobs",
+      branch: "main",
+      path: "NEW_GRAD_USA.md",
+      categoryHint: "Data Engineering / Software",
+      allowUnknownLocation: true,
+    },
+    {
+      name: "SpeedyApply — 2026 AI & Data New Grad USA",
+      repo: "speedyapply/2026-AI-College-Jobs",
+      branch: "main",
+      path: "NEW_GRAD_USA.md",
+      categoryHint: "Data Analysis / Data Science",
+      allowUnknownLocation: true,
+    },
+    {
+      name: "Jobright — Data Analysis New Grad",
+      repo: "jobright-ai/2026-Data-Analysis-New-Grad",
+      branch: "master",
+      path: "README.md",
+      categoryHint: "Data Analysis / Data Science",
+    },
+    {
+      name: "Jobright — Software Engineering New Grad",
+      repo: "jobright-ai/2026-Software-Engineer-New-Grad",
+      branch: "master",
+      path: "README.md",
+      categoryHint: "Data Engineering / Software",
+    },
+    {
+      name: "Jobright — Product Management New Grad",
+      repo: "jobright-ai/2026-Product-Management-New-Grad",
+      branch: "master",
+      path: "README.md",
+      categoryHint: "Product / Program / Operations",
+    },
+    {
+      name: "Jobright — Business Analyst New Grad",
+      repo: "jobright-ai/2026-Business-Analyst-New-Grad",
+      branch: "master",
+      path: "README.md",
+      categoryHint: "Data Analysis / Data Science",
+    },
+    {
+      name: "Jobright — Engineering New Grad",
+      repo: "jobright-ai/2026-Engineering-New-Grad",
+      branch: "master",
+      path: "README.md",
+      categoryHint: "Data Engineering / Software",
+    },
+    {
+      name: "Jobright — Consulting & Research New Grad",
+      repo: "jobright-ai/2026-Consultant-New-Grad",
+      branch: "master",
+      path: "README.md",
+      categoryHint: "General New Grad",
+    },
+    {
+      name: "Jobright — Education & University New Grad",
+      repo: "jobright-ai/2026-Education-New-Grad",
+      branch: "master",
+      path: "README.md",
+      categoryHint: "University / Research",
+    },
+    {
+      name: "Jobright — Public Sector New Grad",
+      repo: "jobright-ai/2026-Public-Sector-New-Grad",
+      branch: "master",
+      path: "README.md",
+      categoryHint: "General New Grad",
+      orgType: "government",
+    },
+    {
+      name: "Jobright — Management New Grad",
+      repo: "jobright-ai/2026-Management-New-Grad",
+      branch: "master",
+      path: "README.md",
+      categoryHint: "Product / Program / Operations",
+    },
+    {
+      name: "Jobright — Marketing New Grad",
+      repo: "jobright-ai/2026-Marketing-New-Grad",
+      branch: "master",
+      path: "README.md",
+      categoryHint: "Product / Program / Operations",
+    },
+    {
+      name: "Jobright — Human Resources New Grad",
+      repo: "jobright-ai/2026-HR-New-Grad",
+      branch: "master",
+      path: "README.md",
+      categoryHint: "General New Grad",
+    },
+    {
+      name: "Jobright — Support New Grad",
+      repo: "jobright-ai/2026-Support-New-Grad",
+      branch: "master",
+      path: "README.md",
+      categoryHint: "General New Grad",
+    },
+    {
+      name: "Jobright — Design New Grad",
+      repo: "jobright-ai/2026-Design-New-Grad",
+      branch: "master",
+      path: "README.md",
+      categoryHint: "General New Grad",
+    },
+  ];
+
+  const PROFILE_SKILLS = [
+    ["Python", /\bpython\b/i],
+    ["R", /(?:^|[^a-z])r(?:$|[^a-z])/i],
+    ["SQL", /\bsql\b|mysql/i],
+    ["Snakemake", /snakemake/i],
+    ["Nextflow", /nextflow/i],
+    ["Linux", /\blinux\b/i],
+    ["Bash", /\bbash\b|shell scripting/i],
+    ["Git/GitHub", /\bgit(?:hub)?\b/i],
+    ["Pandas", /\bpandas\b/i],
+    ["NumPy", /\bnumpy\b/i],
+    ["TensorFlow", /tensorflow/i],
+    ["scikit-learn", /scikit[- ]?learn|sklearn/i],
+    ["JavaScript", /javascript|node\.js|typescript/i],
+    ["Django", /django/i],
+    ["Selenium", /selenium/i],
+    ["Bioinformatics", /bioinformatics?/i],
+    ["Genomics", /genomic|sequencing|rna[- ]?seq|variant|vcf\b/i],
+    ["Data pipelines", /data pipeline|etl\b|workflow|orchestrat/i],
+    ["Machine learning", /machine learning|\bai\b|deep learning|neural network/i],
+    ["Data analysis", /data analy|analytics|statistical/i],
+  ];
+
+  const US_STATE_NAMES = [
+    "alabama", "alaska", "arizona", "arkansas", "california", "colorado", "connecticut",
+    "delaware", "florida", "georgia", "hawaii", "idaho", "illinois", "indiana", "iowa",
+    "kansas", "kentucky", "louisiana", "maine", "maryland", "massachusetts", "michigan",
+    "minnesota", "mississippi", "missouri", "montana", "nebraska", "nevada", "new hampshire",
+    "new jersey", "new mexico", "new york", "north carolina", "north dakota", "ohio", "oklahoma",
+    "oregon", "pennsylvania", "rhode island", "south carolina", "south dakota", "tennessee",
+    "texas", "utah", "vermont", "virginia", "washington", "west virginia", "wisconsin", "wyoming",
+    "district of columbia",
+  ];
+  const US_STATE_ABBR = /(?:^|[\s,/(\-])(?:AL|AK|AZ|AR|CA|CO|CT|DE|FL|GA|HI|ID|IL|IN|IA|KS|KY|LA|ME|MD|MA|MI|MN|MS|MO|MT|NE|NV|NH|NJ|NM|NY|NC|ND|OH|OK|OR|PA|RI|SC|SD|TN|TX|UT|VT|VA|WA|WV|WI|WY|DC)(?=$|[\s,/)\-])/i;
+  const US_MARKERS = [
+    "united states", "usa", "u.s.", "remote in us", "remote - us", "remote, us", "us remote",
+    "nationwide", "new york", "nyc", "brooklyn", "manhattan", "queens", "bronx",
+    "san francisco", "south san francisco", "sf", "bay area", "palo alto", "menlo park",
+    "mountain view", "sunnyvale", "san mateo", "redwood city", "oakland", "berkeley",
+    "boston", "cambridge", "somerville", "brookline", "waltham", "watertown", "seattle",
+    "bellevue", "san diego", "la jolla", "los angeles", "washington, dc", "washington, d.c.",
+    "philadelphia", "chicago", "raleigh", "durham", "chapel hill", "austin", "dallas",
+    "houston", "atlanta", "denver", "phoenix", "portland", "miami", "minneapolis",
+    "detroit", "baltimore", "pittsburgh", "columbus", "cleveland", "salt lake city",
+  ];
+  const NON_US_MARKERS = [
+    "canada", "toronto", "vancouver", "montreal", "ottawa", "calgary", "waterloo", "quebec",
+    "united kingdom", "england", "scotland", "wales", "london", "edinburgh", "glasgow",
+    "manchester", "cardiff", "ireland", "dublin", "india", "bengaluru", "bangalore", "chennai",
+    "hyderabad", "singapore", "australia", "sydney", "melbourne", "germany", "berlin", "munich",
+    "france", "paris", "spain", "italy", "poland", "netherlands", "amsterdam", "israel",
+    "japan", "tokyo", "china", "hong kong", "taiwan", "mexico", "brazil", "argentina",
+    "buenos aires", "europe", "emea", "apac", "philippines", "malaysia", "indonesia",
+  ];
+
+  const SENIOR_RE = /\b(senior|sr\.?|staff|principal|director|vice president|vp\b|head of|chief|distinguished|architect)\b/i;
+  const ENTRY_RE = /\b(new grad(?:uate)?|university grad|college grad|early career|entry[- ]level|junior|associate|assistant|analyst i\b|engineer i\b|engineer 1\b|scientist i\b|scientist 1\b|0[-– ]?2 years?|graduate program|rotational)\b/i;
+  const EXCLUDE_RE = /\b(intern(?:ship)?|co[- ]?op|post[- ]?doc(?:toral)?|resident physician|medical doctor|pharmacist|registered nurse|attorney|counsel)\b/i;
+  const RESTRICTED_RE = /\b(firearm|ammunition|munition|weapons?|missile|ordnance|explosive|sportsbook|sports betting|casino|poker|lottery|gambling|draftkings|fanduel|betmgm|bet365|betrivers|caesars entertainment|penn entertainment|hard rock bet|pointsbet|ts\/sci|polygraph required|active security clearance)\b/i;
+  const RESTRICTED_ORG_RE = /\b(anduril|aerovironment|agile defense|amentum|bae systems|belay technologies|caci|captivation software|constellation technologies|general dynamics mission systems|kbr|l3harris|leidos|lockheed martin|northrop grumman|peraton|raytheon|saalex|simventions|light & wonder|draftkings|fanduel|betmgm|caesars entertainment|penn entertainment|hard rock digital|flutter entertainment|kalshi)\b/i;
+  const RESEARCH_RE = /bioinform|computational biology|genomic|sequencing|omics\b|research (assistant|associate|analyst|coordinator|technician|specialist)|clinical research|laboratory|\blab\b|scientific programmer|biostat|transcriptom|proteom|cancer research|precision medicine/i;
+  const RESEARCH_ORG_RE = /university|college|school of medicine|medical school|hospital|health system|cancer (center|centre|institute)|research institute|national laborator|academy of sciences|fred hutch|dana[- ]farber|memorial sloan|mass general|brigham|nyu langone|mount sinai|rockefeller|broad institute/i;
+
+  const HEADER_ALIASES = {
+    company: ["company", "employer", "organization", "organisation"],
+    title: ["role", "job title", "position", "title", "job"],
+    location: ["location", "city", "office"],
+    application: ["application", "apply", "link", "posting"],
+    date: ["date posted", "posted", "posting age", "age", "date"],
+    workplace: ["work model", "workplace", "work type", "remote"],
+    salary: ["salary", "compensation", "pay"],
+  };
+
+  function clean(value) {
+    return String(value ?? "")
+      .replace(/<br\s*\/?\s*>/gi, " / ")
+      .replace(/<[^>]*>/g, " ")
+      .replace(/&amp;/gi, "&")
+      .replace(/&nbsp;/gi, " ")
+      .replace(/\s+/g, " ")
+      .trim();
+  }
+
+  function stripMarkdown(value) {
+    return clean(
+      String(value ?? "")
+        .replace(/!\[([^\]]*)\]\([^)]+\)/g, "$1")
+        .replace(/\[([^\]]*)\]\([^)]+\)/g, "$1")
+        .replace(/\*\*|__|`/g, "")
+    );
+  }
+
+  function urlsIn(value) {
+    const text = String(value ?? "");
+    const urls = [];
+    for (const match of text.matchAll(/https?:\/\/[^\s)<>'\"]+/gi)) {
+      urls.push(match[0].replace(/[.,;]+$/, ""));
+    }
+    for (const match of text.matchAll(/href=["']([^"']+)["']/gi)) {
+      urls.push(match[1]);
+    }
+    return [...new Set(urls)];
+  }
+
+  function normalizeUrl(value) {
+    try {
+      const url = new URL(String(value || ""), window.location.href);
+      if (!/^https?:$/.test(url.protocol)) return "";
+      [
+        "utm_source", "utm_medium", "utm_campaign", "utm_content", "utm_term",
+        "gh_src", "source", "ref", "referrer",
+      ].forEach((key) => url.searchParams.delete(key));
+      url.hash = "";
+      return url.toString();
+    } catch {
+      return "";
+    }
+  }
+
+  function urlScore(url, applicationCell = false) {
+    const value = String(url || "").toLowerCase();
+    if (!value || value.startsWith("mailto:") || value.startsWith("javascript:")) return -1000;
+    if (/\.(svg|png|jpg|jpeg|webp)(?:\?|$)/.test(value) || value.includes("raw.githubusercontent.com")) return -500;
+    let score = applicationCell ? 10 : 0;
+    if (/simplify\.jobs\/p\/|jobright\.ai\/jobs|myworkdayjobs\.com|greenhouse\.io|lever\.co|ashbyhq\.com|smartrecruiters\.com|icims\.com|workable\.com|careers\.|\/jobs?\//.test(value)) score += 55;
+    if (/linkedin\.com\/company|\/about(?:\/|$)|wikipedia\.org|github\.com\/(?:simplifyjobs|jobright-ai|speedyapply)/.test(value)) score -= 35;
+    return score;
+  }
+
+  function chooseUrl(values, source, applicationCell = false) {
+    const candidates = [...new Set(values.map(normalizeUrl).filter(Boolean))];
+    if (!candidates.length) return source.pageUrl;
+    return candidates.sort((a, b) => urlScore(b, applicationCell) - urlScore(a, applicationCell))[0];
+  }
+
+  function sourceUrls(source, cacheBust = false) {
+    const suffix = cacheBust ? `?refresh=${Date.now()}` : "";
+    return [
+      `https://raw.githubusercontent.com/${source.repo}/${source.branch}/${source.path}${suffix}`,
+      `https://cdn.jsdelivr.net/gh/${source.repo}@${source.branch}/${source.path}${suffix}`,
+    ];
+  }
+
+  function sourcePageUrl(source) {
+    return `https://github.com/${source.repo}/blob/${source.branch}/${source.path}`;
+  }
+
+  function headerIndex(headers, field) {
+    const aliases = HEADER_ALIASES[field];
+    return headers.findIndex((header) => aliases.some((alias) => clean(header).toLowerCase().includes(alias)));
+  }
+
+  function splitMarkdownRow(line) {
+    return String(line || "")
+      .trim()
+      .replace(/^\|/, "")
+      .replace(/\|$/, "")
+      .split(/(?<!\\)\|/)
+      .map((cell) => cell.trim());
+  }
+
+  function looksLikeSeparator(line) {
+    const cells = splitMarkdownRow(line);
+    return cells.length >= 2 && cells.every((cell) => /^:?-{2,}:?$/.test(cell.replace(/\s/g, "")));
+  }
+
+  function cellData(raw) {
+    return { text: stripMarkdown(raw), urls: urlsIn(raw) };
+  }
+
+  function parseMarkdownTables(text, source) {
+    const lines = String(text || "").replace(/\r/g, "").split("\n");
+    const jobs = [];
+    let previousCompany = "";
+    let section = source.categoryHint;
+
+    for (let i = 0; i < lines.length; i += 1) {
+      const heading = lines[i].match(/^\s*#{2,4}\s+(.+?)\s*$/);
+      if (heading) section = stripMarkdown(heading[1]);
+      if (!lines[i].includes("|") || i + 1 >= lines.length || !looksLikeSeparator(lines[i + 1])) continue;
+
+      const headers = splitMarkdownRow(lines[i]).map(stripMarkdown);
+      const companyIndex = headerIndex(headers, "company");
+      const titleIndex = headerIndex(headers, "title");
+      if (companyIndex < 0 || titleIndex < 0) continue;
+      const locationIndex = headerIndex(headers, "location");
+      const applicationIndex = headerIndex(headers, "application");
+      const dateIndex = headerIndex(headers, "date");
+      const workplaceIndex = headerIndex(headers, "workplace");
+      const salaryIndex = headerIndex(headers, "salary");
+
+      i += 2;
+      while (i < lines.length && lines[i].includes("|")) {
+        const cells = splitMarkdownRow(lines[i]);
+        const rawAt = (index) => (index >= 0 && index < cells.length ? cells[index] : "");
+        const companyCell = cellData(rawAt(companyIndex));
+        const titleCell = cellData(rawAt(titleIndex));
+        const locationCell = cellData(rawAt(locationIndex));
+        const applicationCell = cellData(rawAt(applicationIndex));
+        const dateCell = cellData(rawAt(dateIndex));
+        const workplaceCell = cellData(rawAt(workplaceIndex));
+        const salaryCell = cellData(rawAt(salaryIndex));
+
+        let company = companyCell.text.replace(/^[↳↪→]\s*/, "").trim();
+        if (!company || /^[↳↪→]$/.test(companyCell.text)) company = previousCompany;
+        else previousCompany = company;
+
+        const row = makeJob(source, {
+          company,
+          title: titleCell.text,
+          location: locationCell.text,
+          workplace: workplaceCell.text,
+          salary: salaryCell.text,
+          postedText: dateCell.text,
+          url: chooseUrl(
+            applicationCell.urls.length ? applicationCell.urls : [...titleCell.urls, ...locationCell.urls, ...companyCell.urls],
+            source,
+            applicationCell.urls.length > 0,
+          ),
+          section,
+        });
+        if (row) jobs.push(row);
+        i += 1;
+      }
+      i -= 1;
+    }
+    return jobs;
+  }
+
+  function parseHtmlTables(text, source) {
+    if (!/<table[\s>]/i.test(text)) return [];
+    const doc = new DOMParser().parseFromString(text, "text/html");
+    const jobs = [];
+    let previousCompany = "";
+    doc.querySelectorAll("table").forEach((table) => {
+      const rows = [...table.querySelectorAll("tr")];
+      if (rows.length < 2) return;
+      const headers = [...rows[0].querySelectorAll("th,td")].map((cell) => clean(cell.textContent));
+      const companyIndex = headerIndex(headers, "company");
+      const titleIndex = headerIndex(headers, "title");
+      if (companyIndex < 0 || titleIndex < 0) return;
+      const locationIndex = headerIndex(headers, "location");
+      const applicationIndex = headerIndex(headers, "application");
+      const dateIndex = headerIndex(headers, "date");
+      const workplaceIndex = headerIndex(headers, "workplace");
+      const salaryIndex = headerIndex(headers, "salary");
+
+      rows.slice(1).forEach((row) => {
+        const cells = [...row.querySelectorAll(":scope > td")];
+        if (!cells.length) return;
+        const missingCompany = cells.length === headers.length - 1;
+        const cellAt = (index) => {
+          if (index < 0) return null;
+          if (missingCompany && index === companyIndex) return null;
+          const adjusted = missingCompany && index > companyIndex ? index - 1 : index;
+          return cells[adjusted] || null;
+        };
+        const info = (index) => {
+          const cell = cellAt(index);
+          return {
+            text: clean(cell?.textContent),
+            urls: cell ? [...cell.querySelectorAll("a[href]")].map((a) => a.href) : [],
+          };
+        };
+        const companyCell = info(companyIndex);
+        const titleCell = info(titleIndex);
+        const locationCell = info(locationIndex);
+        const applicationCell = info(applicationIndex);
+        const dateCell = info(dateIndex);
+        const workplaceCell = info(workplaceIndex);
+        const salaryCell = info(salaryIndex);
+        let company = companyCell.text.replace(/^[↳↪→]\s*/, "").trim();
+        if (!company || /^[↳↪→]$/.test(companyCell.text)) company = previousCompany;
+        else previousCompany = company;
+        const allUrls = [...row.querySelectorAll("a[href]")].map((a) => a.href);
+        const parsed = makeJob(source, {
+          company,
+          title: titleCell.text,
+          location: locationCell.text,
+          workplace: workplaceCell.text,
+          salary: salaryCell.text,
+          postedText: dateCell.text,
+          url: chooseUrl(applicationCell.urls.length ? applicationCell.urls : allUrls.slice(1), source, applicationCell.urls.length > 0),
+          section: source.categoryHint,
+        });
+        if (parsed) jobs.push(parsed);
+      });
+    });
+    return jobs;
+  }
+
+  // Some repositories periodically minify their README into one long line. This
+  // fallback recovers ordinary 5- and 6-column pipe tables in that case.
+  function parsePipeStream(text, source) {
+    const jobs = [];
+    const normalized = String(text || "").replace(/\r?\n/g, " ");
+    const patterns = [
+      /\|\s*([^|]+?)\s*\|\s*([^|]+?)\s*\|\s*([^|]+?)\s*\|\s*([^|]*?)\s*\|\s*([^|]*?)\s*\|\s*([^|]*?)\s*\|/g,
+      /\|\s*([^|]+?)\s*\|\s*([^|]+?)\s*\|\s*([^|]+?)\s*\|\s*([^|]*?)\s*\|\s*([^|]*?)\s*\|/g,
+    ];
+    let previousCompany = "";
+    for (const [patternIndex, pattern] of patterns.entries()) {
+      for (const match of normalized.matchAll(pattern)) {
+        const companyCell = cellData(match[1]);
+        const titleCell = cellData(match[2]);
+        const locationCell = cellData(match[3]);
+        const sixColumns = patternIndex === 0;
+        const salaryCell = cellData(sixColumns ? match[4] : "");
+        const applicationCell = cellData(sixColumns ? match[5] : match[4]);
+        const dateCell = cellData(sixColumns ? match[6] : match[5]);
+        if (/^company$/i.test(companyCell.text) || /^[-: ]+$/.test(companyCell.text) || /^position|job title|role$/i.test(titleCell.text)) continue;
+        let company = companyCell.text.replace(/^[↳↪→]\s*/, "").trim();
+        if (!company || /^[↳↪→]$/.test(companyCell.text)) company = previousCompany;
+        else previousCompany = company;
+        const parsed = makeJob(source, {
+          company,
+          title: titleCell.text,
+          location: locationCell.text,
+          workplace: sixColumns ? "" : applicationCell.text,
+          salary: salaryCell.text,
+          postedText: dateCell.text,
+          url: chooseUrl([...applicationCell.urls, ...titleCell.urls], source, applicationCell.urls.length > 0),
+          section: source.categoryHint,
+        });
+        if (parsed) jobs.push(parsed);
+      }
+      if (jobs.length) break;
+    }
+    return jobs;
+  }
+
+  function parsePostedDate(value) {
+    const text = clean(value).toLowerCase();
+    if (!text || /^(n\/a|unknown|—|-)$/.test(text)) return { postedAt: null, ageDays: null };
+    const now = new Date();
+    const today = new Date(now.getFullYear(), now.getMonth(), now.getDate());
+    let days = null;
+    if (/^(today|new|just posted|0d)$/.test(text)) days = 0;
+    else if (/^(yesterday|1 day ago)$/.test(text)) days = 1;
+    else {
+      const compact = text.replace(/\s+/g, "");
+      const relative = compact.match(/^(\d+)(h|hr|hrs|d|day|days|w|wk|wks|mo|mos|month|months)$/);
+      if (relative) {
+        const amount = Number(relative[1]);
+        if (/^h/.test(relative[2])) days = 0;
+        else if (/^(d|day)/.test(relative[2])) days = amount;
+        else if (/^(w|wk)/.test(relative[2])) days = amount * 7;
+        else days = amount * 30;
+      }
+    }
+    if (days !== null) {
+      const date = new Date(today);
+      date.setDate(date.getDate() - days);
+      return { postedAt: date.toISOString().slice(0, 10), ageDays: days };
+    }
+
+    const monthDay = text.match(/\b(jan(?:uary)?|feb(?:ruary)?|mar(?:ch)?|apr(?:il)?|may|jun(?:e)?|jul(?:y)?|aug(?:ust)?|sep(?:tember)?|oct(?:ober)?|nov(?:ember)?|dec(?:ember)?)\s+(\d{1,2})(?:,?\s+(\d{4}))?/i);
+    if (monthDay) {
+      const monthNames = ["jan", "feb", "mar", "apr", "may", "jun", "jul", "aug", "sep", "oct", "nov", "dec"];
+      const month = monthNames.findIndex((item) => monthDay[1].toLowerCase().startsWith(item));
+      let year = monthDay[3] ? Number(monthDay[3]) : today.getFullYear();
+      let date = new Date(year, month, Number(monthDay[2]));
+      if (!monthDay[3] && date > new Date(today.getTime() + 7 * 86400000)) {
+        year -= 1;
+        date = new Date(year, month, Number(monthDay[2]));
+      }
+      days = Math.max(0, Math.floor((today - date) / 86400000));
+      return { postedAt: date.toISOString().slice(0, 10), ageDays: days };
+    }
+
+    const parsed = new Date(text);
+    if (!Number.isNaN(parsed.getTime())) {
+      days = Math.max(0, Math.floor((today - parsed) / 86400000));
+      return { postedAt: parsed.toISOString().slice(0, 10), ageDays: days };
+    }
+    return { postedAt: null, ageDays: null };
+  }
+
+  function isUSLocation(location, allowUnknown = false) {
+    const text = ` ${clean(location).toLowerCase()} `;
+    if (!text.trim()) return allowUnknown;
+    const hasUS = US_MARKERS.some((marker) => text.includes(marker))
+      || US_STATE_NAMES.some((state) => text.includes(state))
+      || US_STATE_ABBR.test(location)
+      || /\bus[-\s]/i.test(location);
+    if (hasUS) return true;
+    if (NON_US_MARKERS.some((marker) => text.includes(marker))) return false;
+    if (text.includes("remote")) return /\b(us|usa|united states|north america)\b/i.test(text);
+    return allowUnknown;
+  }
+
+  function locationGroup(location) {
+    const text = clean(location).toLowerCase();
+    if (/remote/.test(text) && /\b(us|usa|united states|nationwide|north america)\b/.test(text)) return "Remote - US";
+    if (/new york|nyc|brooklyn|manhattan|queens|bronx/.test(text)) return "New York City";
+    if (/san francisco|south san francisco|\bsf\b|bay area|palo alto|menlo park|mountain view|sunnyvale|san mateo|redwood city|oakland|berkeley|san jose/.test(text)) return "San Francisco Bay Area";
+    if (/boston|cambridge|somerville|brookline|waltham|watertown|burlington,? ma|dedham,? ma|methuen,? ma/.test(text)) return "Boston / Cambridge";
+    if (/seattle|bellevue|redmond/.test(text)) return "Seattle";
+    if (/washington,? d\.?c\.?|district of columbia|arlington,? va|mclean,? va/.test(text)) return "Washington, DC";
+    if (/los angeles|glendale,? ca|santa monica|irvine|orange county/.test(text)) return "Los Angeles / Orange County";
+    if (/san diego|la jolla/.test(text)) return "San Diego";
+    return "Other U.S.";
+  }
+
+  function inferCategory(title, hint) {
+    const text = `${title} ${hint}`.toLowerCase();
+    if (/bioinform|computational biology|genomic|omics\b|sequencing|biostat|scientific programmer/.test(text)) return "Bioinformatics / Computational Biology";
+    if (/research assistant|research associate|research coordinator|research technician|clinical research|laboratory|\blab\b|biology|biological|life science|molecular|cell biology|cancer research/.test(text)) return "Biology / Lab / Research";
+    if (/data engineer|analytics engineer|etl\b|database engineer|data platform|business intelligence engineer/.test(text)) return "Data Engineering / Software";
+    if (/data analy|data scien|business analy|bi analyst|analytics|statistic|quantitative research|machine learning|\bai\b/.test(text)) return "Data Analysis / Data Science";
+    if (/software|developer|programmer|full[- ]?stack|backend|front[- ]?end|cloud engineer|qa engineer|automation engineer|systems engineer|devops|site reliability|application engineer/.test(text)) return "Data Engineering / Software";
+    if (/product manager|product analy|program manager|project coordinator|operations|implementation|customer success|marketing|human resources|recruit|people operations|supply chain/.test(text)) return "Product / Program / Operations";
+    if (/university|research|education/.test(String(hint).toLowerCase())) return "University / Research";
+    return "General New Grad";
+  }
+
+  function isResearchRole(title, company, category) {
+    const text = `${title} ${company}`;
+    return RESEARCH_RE.test(text) || (RESEARCH_ORG_RE.test(company) && /research|data|bio|science|lab|clinical|programmer|analyst/i.test(title))
+      || ["Bioinformatics / Computational Biology", "Biology / Lab / Research"].includes(category);
+  }
+
+  function focusFor(job) {
+    const text = `${job.title} ${job.category}`.toLowerCase();
+    if (/bioinform|genomic|sequencing|omics|variant/.test(text)) return "reproducible genomic analysis and translating biological data into useful findings";
+    if (/cancer|oncology/.test(text)) return "data-driven cancer research and the connection between computational analysis and patient impact";
+    if (/clinical research|research coordinator/.test(text)) return "careful research coordination, data quality, and clinically meaningful study outcomes";
+    if (/data scien|data analy|statistic|biostat/.test(text)) return "using rigorous analysis to answer scientific and operational questions";
+    if (/laboratory|\blab\b|research assistant|research technician/.test(text)) return "combining hands-on biological research with organized, reproducible data work";
+    return "the team’s research questions and the way computational and biological methods support them";
+  }
+
+  function createColdEmail(job) {
+    if (!job.research) return null;
+    const labMatch = job.title.match(/(?:-|–|—)\s*([^,;]+\bLab)\b/i) || job.title.match(/\b([A-Z][A-Za-z'’-]+ Lab)\b/);
+    const lab = labMatch ? labMatch[1].trim() : "your lab or research team";
+    const recipient = labMatch ? "Dr. [Last Name]" : "[PI or Hiring Manager Name]";
+    const focus = focusFor(job);
+    const subject = `Interest in the ${job.title} opportunity at ${job.company}`;
+    const body = [
+      `Hello ${recipient},`,
+      "",
+      `My name is Celina Lin, and I recently completed a bachelor’s degree in Biology with a specialization in Bioinformatics at the University of Waterloo. I am reaching out about the ${job.title} opportunity at ${job.company}.`,
+      "",
+      `I am particularly interested in this position because it appears closely connected to ${focus}. Through my BRCA1/BRCA2 population-genomics project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to extract, annotate, and analyze variants across global populations. During two bioinformatics internships at the Ontario Institute for Cancer Research, I also developed data-driven training resources and an LLM-assisted competency-mapping pipeline.`,
+      "",
+      `Those experiences strengthened my interest in contributing to ${lab}, especially in a role where I could bring both biological context and practical experience with Python, R, SQL, Linux, workflow automation, and clear technical communication.`,
+      "",
+      "Would you be open to a 15–20 minute conversation about the lab’s current work, the priorities for this position, and what would make someone successful on the team? I would be grateful for the opportunity to learn more.",
+      "",
+      "Thank you for your time and consideration.",
+      "",
+      "Best,",
+      "Celina Lin",
+      "linkedin.com/in/celina-g-lin",
+    ].join("\n");
+    return { subject, body };
+  }
+
+  function makeId(parts) {
+    const value = parts.join("|").toLowerCase();
+    let hash = 2166136261;
+    for (let i = 0; i < value.length; i += 1) {
+      hash ^= value.charCodeAt(i);
+      hash = Math.imul(hash, 16777619);
+    }
+    return `live-${(hash >>> 0).toString(36)}`;
+  }
+
+  function makeJob(source, raw) {
+    const company = clean(raw.company).replace(/^[↳↪→]\s*/, "");
+    const title = clean(raw.title).replace(/^[↳↪→]\s*/, "");
+    const location = clean(raw.location);
+    if (!company || !title || title.length < 3) return null;
+    if (/^company$/i.test(company) || /^(position|job title|role)$/i.test(title)) return null;
+    if (EXCLUDE_RE.test(title) || RESTRICTED_RE.test(`${title} ${company}`) || RESTRICTED_ORG_RE.test(company)) return null;
+    if (/\b2027\b/.test(title) && !/2026/.test(title)) return null;
+    if (SENIOR_RE.test(title) && !ENTRY_RE.test(title) && !/associate|assistant/i.test(title)) return null;
+    if (!isUSLocation(location, Boolean(source.allowUnknownLocation))) return null;
+
+    const url = normalizeUrl(raw.url || source.pageUrl);
+    const { postedAt, ageDays } = parsePostedDate(raw.postedText);
+    if (ageDays !== null && ageDays > 120) return null;
+    const category = inferCategory(title, raw.section || source.categoryHint);
+    const research = isResearchRole(title, company, category);
+    const entryLevel = true;
+    const text = `${title} ${raw.section || ""} ${source.categoryHint || ""}`;
+    const matchedSkills = PROFILE_SKILLS.filter(([, pattern]) => pattern.test(text)).map(([name]) => name);
+
+    let score = {
+      "Bioinformatics / Computational Biology": 82,
+      "Biology / Lab / Research": 72,
+      "Data Analysis / Data Science": 68,
+      "Data Engineering / Software": 61,
+      "Product / Program / Operations": 50,
+      "University / Research": 66,
+      "General New Grad": 42,
+    }[category] || 42;
+    score += Math.min(16, matchedSkills.length * 3);
+    if (ENTRY_RE.test(title)) score += 7;
+    if (research) score += 5;
+    const group = locationGroup(location);
+    if (["San Francisco Bay Area", "New York City", "Boston / Cambridge"].includes(group)) score += 7;
+    else if (group === "Remote - US") score += 4;
+    if (/experienced|3\+? years?|clearance|ts\/sci|polygraph/i.test(title)) score -= 12;
+    score = Math.max(20, Math.min(98, score));
+    const fitTier = score >= 75 ? "Strong" : score >= 55 ? "Good" : "Stretch";
+    const warnings = [];
+    if (/clearance|ts\/sci|polygraph/i.test(title)) warnings.push("May require an existing U.S. security clearance");
+    if (/citizen/i.test(title)) warnings.push("May have a U.S.-citizenship requirement");
+    if (!postedAt) warnings.push("Posting date was not available in the source feed");
+    if (url.includes("jobright.ai")) warnings.push("Aggregator link — confirm the current employer posting before applying");
+
+    const description = `New-graduate or early-career listing collected from ${source.name}. ${title} at ${company}, located in ${location || "the United States"}.`;
+    const job = {
+      id: makeId([url || source.pageUrl, company, title, location]),
+      title,
+      company,
+      location: location || "United States",
+      location_group: group,
+      workplace: clean(raw.workplace),
+      employment_type: "Full-time",
+      salary: clean(raw.salary),
+      url: url || source.pageUrl,
+      apply_url: url || source.pageUrl,
+      source: source.name,
+      source_type: "live_curated_feed",
+      source_feed_url: source.pageUrl,
+      org_type: source.orgType || (research ? "research" : "company"),
+      research,
+      curated_new_grad: true,
+      entry_level: entryLevel,
+      posted_at: postedAt,
+      age_days: ageDays,
+      posted_text: clean(raw.postedText),
+      date_label: "Posted",
+      category,
+      secondary_categories: [],
+      match_score: score,
+      fit_tier: fitTier,
+      matched_skills: matchedSkills,
+      warnings,
+      description,
+      summary: description,
+      fetched_at: new Date().toISOString(),
+      verification_status: "Collected from a daily-maintained new-grad source; verify on the employer site",
+    };
+    job.cold_email = createColdEmail(job);
+    return job;
+  }
+
+  function dedupeJobs(jobs) {
+    const byKey = new Map();
+    for (const job of jobs) {
+      if (!job || !job.title || !job.company) continue;
+      const normalized = normalizeUrl(job.url || job.apply_url || "");
+      const key = normalized
+        ? `url:${normalized.toLowerCase()}`
+        : `job:${clean(job.company).toLowerCase()}|${clean(job.title).toLowerCase()}|${clean(job.location).toLowerCase()}`;
+      const existing = byKey.get(key);
+      if (!existing) {
+        byKey.set(key, job);
+        continue;
+      }
+      const merged = { ...existing };
+      for (const field of ["salary", "workplace", "employment_type", "posted_at", "cold_email", "description", "summary"]) {
+        if (!merged[field] && job[field]) merged[field] = job[field];
+      }
+      merged.research = Boolean(existing.research || job.research);
+      merged.entry_level = Boolean(existing.entry_level || job.entry_level);
+      merged.match_score = Math.max(existing.match_score || 0, job.match_score || 0);
+      merged.fit_tier = merged.match_score >= 75 ? "Strong" : merged.match_score >= 55 ? "Good" : "Stretch";
+      merged.matched_skills = [...new Set([...(existing.matched_skills || []), ...(job.matched_skills || [])])];
+      merged.warnings = [...new Set([...(existing.warnings || []), ...(job.warnings || [])])];
+      byKey.set(key, merged);
+    }
+    return [...byKey.values()];
+  }
+
+  async function fetchText(source, force) {
+    let lastError = null;
+    for (const url of sourceUrls(source, force)) {
+      const controller = new AbortController();
+      const timeout = window.setTimeout(() => controller.abort(), 18000);
+      try {
+        const response = await fetch(url, {
+          cache: "no-store",
+          mode: "cors",
+          signal: controller.signal,
+        });
+        if (!response.ok) throw new Error(`HTTP ${response.status}`);
+        const text = await response.text();
+        if (text.length < 100) throw new Error("Source returned too little content");
+        return { text, url };
+      } catch (error) {
+        lastError = error?.name === "AbortError"
+          ? new Error("Source timed out after 18 seconds")
+          : error;
+      } finally {
+        window.clearTimeout(timeout);
+      }
+    }
+    throw lastError || new Error("Source could not be fetched");
+  }
+
+  async function fetchOne(source, force = false) {
+    const pageUrl = sourcePageUrl(source);
+    const enrichedSource = { ...source, pageUrl };
+    const started = performance.now();
+    const { text, url } = await fetchText(enrichedSource, force);
+    let jobs = [
+      ...parseHtmlTables(text, enrichedSource),
+      ...parseMarkdownTables(text, enrichedSource),
+    ];
+    if (!jobs.length) jobs = parsePipeStream(text, enrichedSource);
+    jobs = dedupeJobs(jobs);
+    return {
+      jobs,
+      stat: {
+        source: source.name,
+        status: "ok",
+        fetched: jobs.length,
+        endpoint: url,
+        duration_ms: Math.round(performance.now() - started),
+      },
+    };
+  }
+
+  function historyKeys(jobs) {
+    return jobs.map((job) => job.id).filter(Boolean);
+  }
+
+  function applyBrowserHistory(jobs) {
+    const storageKey = "celina-job-board-known-ids-v2";
+    let previous = [];
+    try {
+      previous = JSON.parse(localStorage.getItem(storageKey) || "[]");
+      if (!Array.isArray(previous)) previous = [];
+    } catch {
+      previous = [];
+    }
+    const previousSet = new Set(previous);
+    const hasBaseline = previousSet.size > 0;
+    let newCount = 0;
+    for (const job of jobs) {
+      const isNew = hasBaseline ? !previousSet.has(job.id) : (job.is_new || (Number.isFinite(job.age_days) && job.age_days <= 1));
+      job.is_new = Boolean(isNew);
+      if (job.is_new) newCount += 1;
+    }
+    try {
+      localStorage.setItem(storageKey, JSON.stringify(historyKeys(jobs).slice(0, 12000)));
+      localStorage.setItem("celina-job-board-last-live-sync-v2", new Date().toISOString());
+    } catch {
+      // Local storage can be disabled; the board still functions.
+    }
+    return { newCount, hadBaseline: hasBaseline };
+  }
+
+  async function fetchLiveJobFeeds(seedBoard, options = {}) {
+    const seedJobs = Array.isArray(seedBoard?.jobs) ? seedBoard.jobs : [];
+    const force = Boolean(options.force);
+    const onProgress = typeof options.onProgress === "function" ? options.onProgress : () => {};
+    const stats = [];
+    const liveJobs = [];
+    let completed = 0;
+
+    const results = await Promise.allSettled(LIVE_SOURCES.map(async (source) => {
+      const result = await fetchOne(source, force);
+      completed += 1;
+      onProgress({ completed, total: LIVE_SOURCES.length, source: source.name, fetched: result.jobs.length });
+      return result;
+    }));
+
+    results.forEach((result, index) => {
+      if (result.status === "fulfilled") {
+        liveJobs.push(...result.value.jobs);
+        stats.push(result.value.stat);
+      } else {
+        completed += 1;
+        stats.push({
+          source: LIVE_SOURCES[index].name,
+          status: "error",
+          fetched: 0,
+          error: clean(result.reason?.message || result.reason || "Unknown fetch error"),
+        });
+        onProgress({ completed, total: LIVE_SOURCES.length, source: LIVE_SOURCES[index].name, fetched: 0, error: true });
+      }
+    });
+
+    const jobs = dedupeJobs([...seedJobs, ...liveJobs]).filter((job) => {
+      if (!job?.title || !job?.company) return false;
+      if (RESTRICTED_RE.test(`${job.title} ${job.company}`) || RESTRICTED_ORG_RE.test(job.company || "")) return false;
+      return true;
+    });
+    const history = applyBrowserHistory(jobs);
+    jobs.sort((a, b) => {
+      const newDelta = Number(Boolean(b.is_new)) - Number(Boolean(a.is_new));
+      if (newDelta) return newDelta;
+      const scoreDelta = Number(b.match_score || 0) - Number(a.match_score || 0);
+      if (scoreDelta) return scoreDelta;
+      return String(b.posted_at || "").localeCompare(String(a.posted_at || ""));
+    });
+
+    const okSources = stats.filter((row) => row.status === "ok");
+    return {
+      jobs,
+      sourceStats: stats.sort((a, b) => a.source.localeCompare(b.source)),
+      generatedAt: new Date().toISOString(),
+      newCount: history.newCount,
+      hadHistoryBaseline: history.hadBaseline,
+      grossFetched: liveJobs.length,
+      successfulSources: okSources.length,
+      failedSources: stats.length - okSources.length,
+      totalSources: stats.length,
+    };
+  }
+
+  window.LIVE_JOB_SOURCES = LIVE_SOURCES;
+  window.fetchLiveJobFeeds = fetchLiveJobFeeds;
+})();
+
+</script>
+<script>
+(() => {
+  "use strict";
+
+  const board = window.JOB_BOARD_DATA || { meta: {}, profile: {}, jobs: [] };
+  const PAGE_SIZE = 60;
+  const STORAGE_KEYS = {
+    saved: "celina-job-board-saved-v2",
+  };
+
+  const $ = (selector, root = document) => root.querySelector(selector);
+  const $$ = (selector, root = document) => [...root.querySelectorAll(selector)];
+
+  const elements = {
+    title: $("#board-title"),
+    summary: $("#profile-summary"),
+    refreshLabel: $("#refresh-label"),
+    refreshLive: $("#refresh-live"),
+    statusDot: $("#status-dot"),
+    total: $("#metric-total"),
+    new: $("#metric-new"),
+    strong: $("#metric-strong"),
+    research: $("#metric-research"),
+    recent: $("#metric-recent"),
+    syncHeading: $("#sync-heading"),
+    syncDetail: $("#sync-detail"),
+    syncProgressBar: $("#sync-progress-bar"),
+    search: $("#search-input"),
+    category: $("#category-filter"),
+    location: $("#location-filter"),
+    source: $("#source-filter"),
+    fit: $("#fit-filter"),
+    age: $("#age-filter"),
+    sort: $("#sort-filter"),
+    researchOnly: $("#research-only"),
+    entryOnly: $("#entry-only"),
+    newOnly: $("#new-only"),
+    clear: $("#clear-filters"),
+    export: $("#export-visible"),
+    allView: $("#view-all"),
+    savedView: $("#view-saved"),
+    savedCount: $("#saved-count"),
+    resultCount: $("#result-count"),
+    grid: $("#job-grid"),
+    empty: $("#empty-state"),
+    emptyClear: $("#empty-clear"),
+    loadMoreWrap: $("#load-more-wrap"),
+    loadMore: $("#load-more"),
+    loadMoreNote: $("#load-more-note"),
+    disclaimer: $("#disclaimer"),
+    sourceHealth: $("#source-health"),
+    sourceTableBody: $("#source-table-body"),
+    template: $("#job-card-template"),
+    detailsDialog: $("#details-dialog"),
+    detailsContent: $("#details-content"),
+    emailDialog: $("#email-dialog"),
+    emailHeading: $("#email-heading"),
+    emailSubject: $("#email-subject"),
+    emailBody: $("#email-body"),
+    copyEmail: $("#copy-email"),
+    copyStatus: $("#copy-status"),
+  };
+
+  function loadSaved() {
+    try {
+      const value = JSON.parse(localStorage.getItem(STORAGE_KEYS.saved) || "[]");
+      return new Set(Array.isArray(value) ? value : []);
+    } catch {
+      return new Set();
+    }
+  }
+
+  const state = {
+    jobs: Array.isArray(board.jobs) ? board.jobs : [],
+    filtered: [],
+    saved: loadSaved(),
+    view: "all",
+    displayLimit: PAGE_SIZE,
+    sourceStats: Array.isArray(board.meta?.source_health) ? board.meta.source_health : [],
+    syncing: false,
+    liveNewCount: Number(board.meta?.new_since_previous || 0),
+  };
+
+  function saveSaved() {
+    try {
+      localStorage.setItem(STORAGE_KEYS.saved, JSON.stringify([...state.saved]));
+    } catch {
+      // Browser storage may be disabled; the in-memory saved list still works.
+    }
+    elements.savedCount.textContent = String(state.saved.size);
+  }
+
+  function clean(value) {
+    return String(value ?? "").replace(/\s+/g, " ").trim();
+  }
+
+  function safeUrl(value) {
+    try {
+      const url = new URL(String(value || ""), window.location.href);
+      return /^https?:$/.test(url.protocol) ? url.toString() : "";
+    } catch {
+      return "";
+    }
+  }
+
+  function formatRefresh(value) {
+    const date = value ? new Date(value) : null;
+    if (!date || Number.isNaN(date.getTime())) return "Refresh time unavailable";
+    return `Synced ${new Intl.DateTimeFormat("en-US", {
+      month: "short",
+      day: "numeric",
+      hour: "numeric",
+      minute: "2-digit",
+      timeZoneName: "short",
+    }).format(date)}`;
+  }
+
+  function postedLabel(job) {
+    if (Number.isFinite(job.age_days)) {
+      if (job.age_days === 0) return "Today";
+      if (job.age_days === 1) return "1 day ago";
+      if (job.age_days < 60) return `${job.age_days} days ago`;
+      const months = Math.max(2, Math.round(job.age_days / 30));
+      return `${months} months ago`;
+    }
+    if (job.posted_at) {
+      const date = new Date(`${job.posted_at}T12:00:00`);
+      if (!Number.isNaN(date.getTime())) {
+        return new Intl.DateTimeFormat("en-US", { month: "short", day: "numeric" }).format(date);
+      }
+    }
+    return "Date not listed";
+  }
+
+  function addTag(container, text, className = "") {
+    if (!text) return;
+    const tag = document.createElement("span");
+    tag.className = `tag ${className}`.trim();
+    tag.textContent = text;
+    container.append(tag);
+  }
+
+  function addMeta(container, value) {
+    if (!value) return;
+    const span = document.createElement("span");
+    span.textContent = value;
+    container.append(span);
+  }
+
+  function fitClass(tier) {
+    return {
+      Strong: "fit-badge--strong",
+      Good: "fit-badge--good",
+      Stretch: "fit-badge--stretch",
+    }[tier] || "fit-badge--low";
+  }
+
+  function toggleSaved(job, button) {
+    if (state.saved.has(job.id)) state.saved.delete(job.id);
+    else state.saved.add(job.id);
+    button.classList.toggle("is-saved", state.saved.has(job.id));
+    button.setAttribute("aria-label", state.saved.has(job.id) ? "Remove saved job" : "Save job");
+    saveSaved();
+    if (state.view === "saved") applyFilters(false);
+  }
+
+  function renderCard(job) {
+    const fragment = elements.template.content.cloneNode(true);
+    const card = $(".job-card", fragment);
+    const badge = $(".fit-badge", fragment);
+    badge.classList.add(fitClass(job.fit_tier));
+    badge.textContent = `${job.fit_tier || "Match"} · ${Math.round(Number(job.match_score || 0))}`;
+
+    const newBadge = $(".new-badge", fragment);
+    newBadge.hidden = !job.is_new;
+    $(".posted-label", fragment).textContent = postedLabel(job);
+    $(".job-title", fragment).textContent = job.title || "Untitled role";
+    $(".job-company", fragment).textContent = job.company || "Company not listed";
+
+    const saveButton = $(".save-button", fragment);
+    saveButton.classList.toggle("is-saved", state.saved.has(job.id));
+    saveButton.setAttribute("aria-label", state.saved.has(job.id) ? "Remove saved job" : "Save job");
+    saveButton.addEventListener("click", () => toggleSaved(job, saveButton));
+
+    const meta = $(".job-meta", fragment);
+    addMeta(meta, job.location);
+    addMeta(meta, job.workplace);
+    addMeta(meta, job.salary);
+    addMeta(meta, job.source);
+
+    $(".job-summary", fragment).textContent = job.summary || job.description || "Open the posting for full role details.";
+    const categories = $(".category-tags", fragment);
+    addTag(categories, job.category || "General New Grad", "tag--category");
+    if (job.research) addTag(categories, "Research", "tag--research");
+    if (job.entry_level) addTag(categories, "Entry level");
+
+    const skills = $(".skill-tags", fragment);
+    const matched = Array.isArray(job.matched_skills) ? job.matched_skills.slice(0, 6) : [];
+    if (matched.length) matched.forEach((skill) => addTag(skills, skill));
+    else addTag(skills, "Category and experience match");
+
+    const warning = $(".job-warning", fragment);
+    const warnings = Array.isArray(job.warnings) ? job.warnings.filter(Boolean) : [];
+    if (warnings.length) {
+      warning.textContent = warnings.slice(0, 2).join(" · ");
+      warning.hidden = false;
+    }
+
+    const apply = $(".apply-link", fragment);
+    const url = safeUrl(job.apply_url || job.url);
+    if (url) apply.href = url;
+    else {
+      apply.removeAttribute("href");
+      apply.textContent = "Posting link unavailable";
+      apply.setAttribute("aria-disabled", "true");
+      apply.classList.add("is-disabled");
+    }
+
+    $(".details-button", fragment).addEventListener("click", () => openDetails(job));
+    const emailButton = $(".email-button", fragment);
+    if (job.cold_email) {
+      emailButton.hidden = false;
+      emailButton.addEventListener("click", () => openEmail(job));
+    }
+
+    card.dataset.jobId = job.id || "";
+    return fragment;
+  }
+
+  function section(title, content) {
+    const wrapper = document.createElement("section");
+    wrapper.className = "modal__section";
+    const heading = document.createElement("h3");
+    heading.textContent = title;
+    wrapper.append(heading, content);
+    return wrapper;
+  }
+
+  function paragraph(text) {
+    const p = document.createElement("p");
+    p.textContent = text;
+    return p;
+  }
+
+  function list(values) {
+    const ul = document.createElement("ul");
+    ul.className = "modal__list";
+    values.forEach((value) => {
+      const li = document.createElement("li");
+      li.textContent = value;
+      ul.append(li);
+    });
+    return ul;
+  }
+
+  function openDetails(job) {
+    elements.detailsContent.replaceChildren();
+    const title = document.createElement("h2");
+    title.className = "modal__title";
+    title.textContent = job.title;
+    const company = document.createElement("p");
+    company.className = "modal__company";
+    company.textContent = `${job.company}${job.location ? ` · ${job.location}` : ""}`;
+    elements.detailsContent.append(title, company);
+
+    const facts = [];
+    if (job.category) facts.push(`Category: ${job.category}`);
+    if (job.fit_tier) facts.push(`Resume fit: ${job.fit_tier} (${Math.round(Number(job.match_score || 0))}/100)`);
+    if (job.posted_at || Number.isFinite(job.age_days)) facts.push(`Posted: ${postedLabel(job)}`);
+    if (job.salary) facts.push(`Compensation: ${job.salary}`);
+    if (job.workplace) facts.push(`Work model: ${job.workplace}`);
+    if (job.source) facts.push(`Source: ${job.source}`);
+    elements.detailsContent.append(section("At a glance", list(facts)));
+
+    elements.detailsContent.append(section(
+      "Role summary",
+      paragraph(job.description || job.summary || "Open the employer posting for complete responsibilities and qualifications."),
+    ));
+
+    const skills = Array.isArray(job.matched_skills) ? job.matched_skills : [];
+    if (skills.length) elements.detailsContent.append(section("Resume overlap", list(skills)));
+    const warnings = Array.isArray(job.warnings) ? job.warnings : [];
+    if (warnings.length) elements.detailsContent.append(section("Items to verify", list(warnings)));
+
+    const actions = document.createElement("div");
+    actions.className = "modal__actions";
+    const apply = document.createElement("a");
+    apply.className = "button button--primary";
+    apply.href = safeUrl(job.apply_url || job.url) || "#";
+    apply.target = "_blank";
+    apply.rel = "noopener noreferrer";
+    apply.textContent = "Open posting";
+    actions.append(apply);
+    if (job.cold_email) {
+      const emailButton = document.createElement("button");
+      emailButton.className = "button button--secondary";
+      emailButton.type = "button";
+      emailButton.textContent = "Open cold email";
+      emailButton.addEventListener("click", () => {
+        elements.detailsDialog.close();
+        openEmail(job);
+      });
+      actions.append(emailButton);
+    }
+    elements.detailsContent.append(actions);
+    elements.detailsDialog.showModal();
+  }
+
+  function openEmail(job) {
+    const email = job.cold_email;
+    if (!email) return;
+    elements.emailHeading.textContent = `${job.company}: ${job.title}`;
+    elements.emailSubject.value = email.subject || "";
+    elements.emailBody.value = email.body || "";
+    elements.copyStatus.textContent = "";
+    elements.emailDialog.showModal();
+  }
+
+  async function copyEmail() {
+    const text = `Subject: ${elements.emailSubject.value}\n\n${elements.emailBody.value}`;
+    try {
+      await navigator.clipboard.writeText(text);
+    } catch {
+      const temp = document.createElement("textarea");
+      temp.value = text;
+      temp.style.position = "fixed";
+      temp.style.opacity = "0";
+      document.body.append(temp);
+      temp.select();
+      document.execCommand("copy");
+      temp.remove();
+    }
+    elements.copyStatus.textContent = "Copied";
+    window.setTimeout(() => { elements.copyStatus.textContent = ""; }, 1800);
+  }
+
+  function searchText(job) {
+    return [
+      job.title,
+      job.company,
+      job.location,
+      job.location_group,
+      job.category,
+      job.source,
+      job.description,
+      ...(job.matched_skills || []),
+      ...(job.secondary_categories || []),
+    ].join(" ").toLowerCase();
+  }
+
+  function filteredJobs() {
+    const query = elements.search.value.trim().toLowerCase();
+    const category = elements.category.value;
+    const location = elements.location.value;
+    const source = elements.source.value;
+    const fit = elements.fit.value;
+    const age = elements.age.value;
+
+    const jobs = state.jobs.filter((job) => {
+      if (state.view === "saved" && !state.saved.has(job.id)) return false;
+      if (query && !searchText(job).includes(query)) return false;
+      if (category && job.category !== category && !(job.secondary_categories || []).includes(category)) return false;
+      if (location && job.location_group !== location) return false;
+      if (source && job.source !== source) return false;
+      if (fit && job.fit_tier !== fit) return false;
+      if (elements.researchOnly.checked && !job.research) return false;
+      if (elements.entryOnly.checked && !job.entry_level) return false;
+      if (elements.newOnly.checked && !job.is_new) return false;
+      if (age === "unknown" && job.age_days !== null && job.age_days !== undefined) return false;
+      if (age && age !== "unknown") {
+        const limit = Number(age);
+        if (!Number.isFinite(job.age_days) || job.age_days > limit) return false;
+      }
+      return true;
+    });
+
+    const sort = elements.sort.value;
+    jobs.sort((a, b) => {
+      if (sort === "newest") {
+        return String(b.posted_at || "").localeCompare(String(a.posted_at || ""))
+          || Number(b.match_score || 0) - Number(a.match_score || 0);
+      }
+      if (sort === "new") {
+        return Number(Boolean(b.is_new)) - Number(Boolean(a.is_new))
+          || String(b.posted_at || "").localeCompare(String(a.posted_at || ""))
+          || Number(b.match_score || 0) - Number(a.match_score || 0);
+      }
+      if (sort === "company") {
+        return String(a.company || "").localeCompare(String(b.company || ""))
+          || Number(b.match_score || 0) - Number(a.match_score || 0);
+      }
+      return Number(b.match_score || 0) - Number(a.match_score || 0)
+        || String(b.posted_at || "").localeCompare(String(a.posted_at || ""));
+    });
+    return jobs;
+  }
+
+  function applyFilters(resetLimit = true) {
+    if (resetLimit) state.displayLimit = PAGE_SIZE;
+    state.filtered = filteredJobs();
+    elements.resultCount.textContent = state.filtered.length.toLocaleString("en-US");
+    const visible = state.filtered.slice(0, state.displayLimit);
+    elements.grid.replaceChildren(...visible.map(renderCard));
+    elements.grid.hidden = state.filtered.length === 0;
+    elements.empty.hidden = state.filtered.length !== 0;
+    elements.allView.classList.toggle("is-active", state.view === "all");
+    elements.savedView.classList.toggle("is-active", state.view === "saved");
+
+    const remaining = Math.max(0, state.filtered.length - visible.length);
+    elements.loadMoreWrap.hidden = remaining === 0;
+    elements.loadMoreNote.textContent = remaining
+      ? `Showing ${visible.length.toLocaleString("en-US")} of ${state.filtered.length.toLocaleString("en-US")}`
+      : "";
+    saveSaved();
+  }
+
+  function resetFilters() {
+    elements.search.value = "";
+    elements.category.value = "";
+    elements.location.value = "";
+    elements.source.value = "";
+    elements.fit.value = "";
+    elements.age.value = "";
+    elements.sort.value = "score";
+    elements.researchOnly.checked = false;
+    elements.entryOnly.checked = false;
+    elements.newOnly.checked = false;
+    state.view = "all";
+    applyFilters(true);
+  }
+
+  function exportFiltered() {
+    const columns = [
+      "is_new", "match_score", "fit_tier", "title", "company", "location", "location_group",
+      "category", "research", "posted_at", "salary", "source", "url", "matched_skills", "warnings",
+    ];
+    const escape = (value) => `"${String(value ?? "").replaceAll('"', '""')}"`;
+    const rows = [columns.join(",")];
+    state.filtered.forEach((job) => {
+      const row = { ...job };
+      row.matched_skills = (job.matched_skills || []).join("; ");
+      row.warnings = (job.warnings || []).join("; ");
+      rows.push(columns.map((column) => escape(row[column])).join(","));
+    });
+    const blob = new Blob([rows.join("\n")], { type: "text/csv;charset=utf-8" });
+    const url = URL.createObjectURL(blob);
+    const link = document.createElement("a");
+    link.href = url;
+    link.download = `celina-job-board-${new Date().toISOString().slice(0, 10)}.csv`;
+    document.body.append(link);
+    link.click();
+    link.remove();
+    URL.revokeObjectURL(url);
+  }
+
+  function replaceSelectOptions(select, values, defaultLabel) {
+    const selected = select.value;
+    select.replaceChildren();
+    const base = document.createElement("option");
+    base.value = "";
+    base.textContent = defaultLabel;
+    select.append(base);
+    values.forEach((value) => {
+      const option = document.createElement("option");
+      option.value = value;
+      option.textContent = value;
+      select.append(option);
+    });
+    if (values.includes(selected)) select.value = selected;
+  }
+
+  function refreshFilterOptions() {
+    const unique = (field) => [...new Set(state.jobs.map((job) => clean(job[field])).filter(Boolean))].sort((a, b) => a.localeCompare(b));
+    replaceSelectOptions(elements.category, unique("category"), "All categories");
+    replaceSelectOptions(elements.location, unique("location_group"), "All U.S. locations");
+    replaceSelectOptions(elements.source, unique("source"), "All sources");
+  }
+
+  function updateMetrics(newCount = state.liveNewCount) {
+    elements.total.textContent = state.jobs.length.toLocaleString("en-US");
+    elements.new.textContent = Number(newCount || 0).toLocaleString("en-US");
+    elements.strong.textContent = state.jobs.filter((job) => job.fit_tier === "Strong").length.toLocaleString("en-US");
+    elements.research.textContent = state.jobs.filter((job) => job.research).length.toLocaleString("en-US");
+    elements.recent.textContent = state.jobs.filter((job) => Number.isFinite(job.age_days) && job.age_days <= 7).length.toLocaleString("en-US");
+  }
+
+  function updateSourceTable(stats) {
+    elements.sourceTableBody.replaceChildren();
+    stats.forEach((row) => {
+      const tr = document.createElement("tr");
+      const source = document.createElement("td");
+      source.textContent = row.source || "Unknown source";
+      const status = document.createElement("td");
+      const pill = document.createElement("span");
+      pill.className = `source-status source-status--${row.status === "ok" || row.status === "offline" ? "ok" : "error"}`;
+      pill.textContent = row.status === "ok" ? "Live" : row.status === "offline" ? "Bundled" : "Temporary error";
+      status.append(pill);
+      const fetched = document.createElement("td");
+      fetched.textContent = Number(row.fetched || 0).toLocaleString("en-US");
+      tr.append(source, status, fetched);
+      elements.sourceTableBody.append(tr);
+    });
+  }
+
+  function setSyncProgress(completed, total) {
+    const percent = total ? Math.max(0, Math.min(100, (completed / total) * 100)) : 0;
+    elements.syncProgressBar.style.width = `${percent}%`;
+  }
+
+  async function hydrateLive(force = false) {
+    if (state.syncing) return;
+    if (typeof window.fetchLiveJobFeeds !== "function") {
+      elements.syncHeading.textContent = "Live-source loader was not available";
+      elements.syncDetail.textContent = "The bundled snapshot remains usable. Open the deployable project through a web server or GitHub Pages for automatic refreshes.";
+      return;
+    }
+
+    state.syncing = true;
+    elements.refreshLive.disabled = true;
+    elements.statusDot.classList.remove("status-dot--error");
+    elements.statusDot.classList.add("status-dot--loading");
+    elements.syncHeading.textContent = force ? "Refreshing all live sources…" : "Fetching comprehensive live sources…";
+    elements.syncDetail.textContent = `Checking ${window.LIVE_JOB_SOURCES?.length || "multiple"} daily-maintained feeds. The bundled fallback remains visible while this runs; the final live count normally reaches hundreds.`;
+    elements.refreshLabel.textContent = "Live refresh in progress";
+    setSyncProgress(0, window.LIVE_JOB_SOURCES?.length || 1);
+
+    try {
+      const result = await window.fetchLiveJobFeeds(board, {
+        force,
+        onProgress(progress) {
+          setSyncProgress(progress.completed, progress.total);
+          elements.syncDetail.textContent = `${progress.completed} of ${progress.total} sources checked · ${progress.source}${progress.error ? " had a temporary error" : ` returned ${Number(progress.fetched || 0).toLocaleString("en-US")} U.S. roles`}`;
+        },
+      });
+      state.jobs = result.jobs;
+      state.sourceStats = result.sourceStats;
+      state.liveNewCount = result.newCount;
+      refreshFilterOptions();
+      updateMetrics(result.newCount);
+      updateSourceTable(result.sourceStats);
+      applyFilters(true);
+      setSyncProgress(result.totalSources, result.totalSources);
+      elements.refreshLabel.textContent = formatRefresh(result.generatedAt);
+      elements.syncHeading.textContent = `${state.jobs.length.toLocaleString("en-US")} unique U.S. matches are ready`;
+      const failureText = result.failedSources
+        ? ` ${result.failedSources} source${result.failedSources === 1 ? "" : "s"} had a temporary error and can be retried.`
+        : " All live feeds completed successfully.";
+      const baselineText = result.hadHistoryBaseline
+        ? `${result.newCount.toLocaleString("en-US")} were not present at the previous browser sync.`
+        : `${result.newCount.toLocaleString("en-US")} are marked new based on posting age; this browser now has a comparison baseline.`;
+      elements.syncDetail.textContent = `${result.grossFetched.toLocaleString("en-US")} source rows were collected before deduplication. ${baselineText}${failureText}`;
+      elements.sourceHealth.textContent = `${result.successfulSources} of ${result.totalSources} browser feeds completed; ${result.grossFetched.toLocaleString("en-US")} U.S. rows were retained before deduplication. The scheduled build separately checks employer ATS feeds.`;
+      elements.statusDot.classList.remove("status-dot--loading");
+      if (result.failedSources === result.totalSources) elements.statusDot.classList.add("status-dot--error");
+    } catch (error) {
+      elements.syncHeading.textContent = "Live refresh could not complete";
+      elements.syncDetail.textContent = `The bundled snapshot is still available. Retry the live refresh when connected to the internet. ${clean(error?.message || "")}`;
+      elements.refreshLabel.textContent = "Bundled snapshot shown";
+      elements.statusDot.classList.remove("status-dot--loading");
+      elements.statusDot.classList.add("status-dot--error");
+    } finally {
+      state.syncing = false;
+      elements.refreshLive.disabled = false;
+    }
+  }
+
+  function initialize() {
+    const meta = board.meta || {};
+    elements.title.textContent = meta.title || "Celina's Comprehensive New-Grad Job Board";
+    elements.summary.textContent = board.profile?.summary || "Resume-matched U.S. opportunities across biology, bioinformatics, data, engineering, product, operations, and research.";
+    elements.refreshLabel.textContent = meta.generated_at ? formatRefresh(meta.generated_at) : "Bundled snapshot loaded";
+    elements.disclaimer.textContent = meta.disclaimer || "This board combines high-volume new-grad feeds with employer and research-institution sources. Coverage is broad but cannot be literally exhaustive. Verify that every role remains open and confirm work-authorization, degree, and experience requirements on the employer site.";
+    elements.sourceHealth.textContent = state.sourceStats.length
+      ? `${state.sourceStats.length} bundled source-status records are available; live browser feeds are being checked now.`
+      : "Live browser feeds are being checked now.";
+    elements.savedCount.textContent = String(state.saved.size);
+    refreshFilterOptions();
+    updateMetrics();
+    updateSourceTable(state.sourceStats);
+    applyFilters(true);
+    window.setTimeout(() => hydrateLive(false), 0);
+  }
+
+  [
+    elements.category,
+    elements.location,
+    elements.source,
+    elements.fit,
+    elements.age,
+    elements.sort,
+    elements.researchOnly,
+    elements.entryOnly,
+    elements.newOnly,
+  ].forEach((element) => element.addEventListener("change", () => applyFilters(true)));
+  elements.search.addEventListener("input", () => applyFilters(true));
+  elements.clear.addEventListener("click", resetFilters);
+  elements.emptyClear.addEventListener("click", resetFilters);
+  elements.export.addEventListener("click", exportFiltered);
+  elements.refreshLive.addEventListener("click", () => hydrateLive(true));
+  elements.allView.addEventListener("click", () => { state.view = "all"; applyFilters(true); });
+  elements.savedView.addEventListener("click", () => { state.view = "saved"; applyFilters(true); });
+  elements.copyEmail.addEventListener("click", copyEmail);
+  elements.loadMore.addEventListener("click", () => {
+    state.displayLimit += PAGE_SIZE;
+    applyFilters(false);
+  });
+
+  $$('[data-close-dialog]').forEach((button) => {
+    button.addEventListener("click", () => $(`#${button.dataset.closeDialog}`)?.close());
+  });
+  [elements.detailsDialog, elements.emailDialog].forEach((dialog) => {
+    dialog.addEventListener("click", (event) => {
+      if (event.target === dialog) dialog.close();
+    });
+  });
+
+  initialize();
+})();
+
+</script>
+</body>
+</html>

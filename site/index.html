@@ -1,0 +1,245 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="A resume-matched, automatically refreshed U.S. new-grad job board spanning biology, bioinformatics, data, engineering, product, operations, and university research.">
+  <title>Celina's Comprehensive New-Grad Job Board</title>
+  <link rel="stylesheet" href="styles.css">
+  <script src="data/jobs.js"></script>
+  <script src="live_sources.js" defer></script>
+  <script src="app.js" defer></script>
+</head>
+<body>
+  <a class="skip-link" href="#job-results">Skip to job results</a>
+
+  <header class="hero">
+    <div class="hero__inner">
+      <div>
+        <p class="eyebrow">PERSONAL JOB SEARCH DASHBOARD</p>
+        <h1 id="board-title">Celina's Comprehensive New-Grad Job Board</h1>
+        <p class="hero__summary" id="profile-summary">Loading resume-matched opportunities…</p>
+      </div>
+      <div class="hero__status-wrap">
+        <div class="hero__status" aria-live="polite">
+          <span class="status-dot" id="status-dot" aria-hidden="true"></span>
+          <span id="refresh-label">Preparing live source refresh</span>
+        </div>
+        <button id="refresh-live" class="hero__refresh" type="button">Refresh live sources</button>
+      </div>
+    </div>
+  </header>
+
+  <main class="shell">
+    <section class="metrics" aria-label="Job board summary">
+      <article class="metric">
+        <span class="metric__label">Open matches</span>
+        <strong id="metric-total">—</strong>
+        <span class="metric__note">after U.S. filtering and deduplication</span>
+      </article>
+      <article class="metric">
+        <span class="metric__label">New since last sync</span>
+        <strong id="metric-new">—</strong>
+        <span class="metric__note">tracked in this browser</span>
+      </article>
+      <article class="metric">
+        <span class="metric__label">Strong matches</span>
+        <strong id="metric-strong">—</strong>
+        <span class="metric__note">highest resume-fit tier</span>
+      </article>
+      <article class="metric">
+        <span class="metric__label">Research roles</span>
+        <strong id="metric-research">—</strong>
+        <span class="metric__note">with tailored outreach drafts</span>
+      </article>
+      <article class="metric">
+        <span class="metric__label">Posted in 7 days</span>
+        <strong id="metric-recent">—</strong>
+        <span class="metric__note">where a date is available</span>
+      </article>
+    </section>
+
+    <section class="sync-panel" aria-live="polite">
+      <div>
+        <strong id="sync-heading">Live source sync starting…</strong>
+        <p id="sync-detail">Loading 16 high-volume live feeds now. The final deduplicated count normally reaches hundreds; this can take several seconds.</p>
+      </div>
+      <div class="sync-progress" aria-hidden="true"><span id="sync-progress-bar"></span></div>
+    </section>
+
+    <section class="controls" aria-label="Job filters">
+      <div class="controls__top">
+        <label class="search-box">
+          <span class="sr-only">Search jobs</span>
+          <svg viewBox="0 0 24 24" aria-hidden="true"><path d="m21 21-4.35-4.35m2.35-5.65a8 8 0 1 1-16 0 8 8 0 0 1 16 0Z"/></svg>
+          <input id="search-input" type="search" placeholder="Search title, company, location, skill, or keyword">
+        </label>
+        <div class="view-switch" role="group" aria-label="Job view">
+          <button class="view-switch__button is-active" id="view-all" type="button">All jobs</button>
+          <button class="view-switch__button" id="view-saved" type="button">Saved <span id="saved-count">0</span></button>
+        </div>
+      </div>
+
+      <div class="filter-grid">
+        <label>
+          <span>Category</span>
+          <select id="category-filter"><option value="">All categories</option></select>
+        </label>
+        <label>
+          <span>Location</span>
+          <select id="location-filter"><option value="">All U.S. locations</option></select>
+        </label>
+        <label>
+          <span>Source</span>
+          <select id="source-filter"><option value="">All sources</option></select>
+        </label>
+        <label>
+          <span>Fit</span>
+          <select id="fit-filter">
+            <option value="">All fit levels</option>
+            <option value="Strong">Strong</option>
+            <option value="Good">Good</option>
+            <option value="Stretch">Stretch</option>
+          </select>
+        </label>
+        <label>
+          <span>Posted</span>
+          <select id="age-filter">
+            <option value="">Any time</option>
+            <option value="1">Today / yesterday</option>
+            <option value="7">Last 7 days</option>
+            <option value="14">Last 14 days</option>
+            <option value="30">Last 30 days</option>
+            <option value="60">Last 60 days</option>
+            <option value="unknown">Date not listed</option>
+          </select>
+        </label>
+        <label>
+          <span>Sort</span>
+          <select id="sort-filter">
+            <option value="score">Best match</option>
+            <option value="newest">Newest</option>
+            <option value="new">New since sync</option>
+            <option value="company">Company A–Z</option>
+          </select>
+        </label>
+      </div>
+
+      <div class="quick-filters">
+        <label class="check-pill"><input id="research-only" type="checkbox"><span>Research only</span></label>
+        <label class="check-pill"><input id="entry-only" type="checkbox"><span>Entry-level language</span></label>
+        <label class="check-pill"><input id="new-only" type="checkbox"><span>New since sync</span></label>
+        <button id="clear-filters" class="text-button" type="button">Clear filters</button>
+        <button id="export-visible" class="text-button text-button--accent" type="button">Export filtered CSV</button>
+      </div>
+    </section>
+
+    <section class="results-heading" id="job-results">
+      <div>
+        <p class="eyebrow">MATCHED OPPORTUNITIES</p>
+        <h2><span id="result-count">0</span> jobs</h2>
+      </div>
+      <p id="results-note">Fit scores prioritize overlap with the resume; they are not eligibility guarantees.</p>
+    </section>
+
+    <section class="job-grid" id="job-grid" aria-live="polite"></section>
+
+    <div class="load-more-wrap" id="load-more-wrap" hidden>
+      <button class="button button--secondary load-more" id="load-more" type="button">Load 60 more</button>
+      <span id="load-more-note"></span>
+    </div>
+
+    <section class="empty-state" id="empty-state" hidden>
+      <h2>No jobs match these filters</h2>
+      <p>Try clearing one filter or switching back to all jobs.</p>
+      <button class="button button--primary" id="empty-clear" type="button">Clear filters</button>
+    </section>
+
+    <section class="coverage">
+      <details>
+        <summary>Coverage, source health, refresh model, and limitations</summary>
+        <p id="disclaimer"></p>
+        <div class="coverage__grid">
+          <div>
+            <h3>Refresh model</h3>
+            <p>The page fetches daily-maintained new-grad feeds whenever it opens. The deployable project also runs a scheduled GitHub Action and merges official ATS feeds.</p>
+          </div>
+          <div>
+            <h3>Source health</h3>
+            <p id="source-health">Live source health appears after synchronization.</p>
+          </div>
+          <div>
+            <h3>Privacy</h3>
+            <p>The public site contains no phone number or email address. Saved jobs and the “new since last sync” baseline stay only in this browser.</p>
+          </div>
+        </div>
+        <div class="source-table-wrap">
+          <table class="source-table">
+            <thead><tr><th>Source</th><th>Status</th><th>Jobs retained</th></tr></thead>
+            <tbody id="source-table-body"></tbody>
+          </table>
+        </div>
+      </details>
+    </section>
+  </main>
+
+  <dialog id="details-dialog" class="modal">
+    <div class="modal__frame">
+      <button class="modal__close" data-close-dialog="details-dialog" aria-label="Close details">×</button>
+      <div id="details-content"></div>
+    </div>
+  </dialog>
+
+  <dialog id="email-dialog" class="modal">
+    <div class="modal__frame modal__frame--email">
+      <button class="modal__close" data-close-dialog="email-dialog" aria-label="Close cold email">×</button>
+      <p class="eyebrow">COLD EMAIL DRAFT</p>
+      <h2 id="email-heading">Research outreach</h2>
+      <label class="email-field">
+        <span>Subject</span>
+        <input id="email-subject" type="text" readonly>
+      </label>
+      <label class="email-field">
+        <span>Body</span>
+        <textarea id="email-body" rows="18" readonly></textarea>
+      </label>
+      <div class="modal__actions">
+        <button class="button button--primary" id="copy-email" type="button">Copy subject + body</button>
+        <span id="copy-status" role="status"></span>
+      </div>
+      <p class="modal__hint">Review the posting and lab website before sending. Replace the generic recipient and add one concrete sentence about the lab’s current work.</p>
+    </div>
+  </dialog>
+
+  <template id="job-card-template">
+    <article class="job-card">
+      <div class="job-card__topline">
+        <div class="badge-row"><span class="fit-badge"></span><span class="new-badge" hidden>New</span></div>
+        <span class="posted-label"></span>
+      </div>
+      <div class="job-card__heading">
+        <div>
+          <h3 class="job-title"></h3>
+          <p class="job-company"></p>
+        </div>
+        <button class="save-button" type="button" aria-label="Save job">
+          <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M6 3.75A1.75 1.75 0 0 1 7.75 2h8.5A1.75 1.75 0 0 1 18 3.75V22l-6-3.5L6 22V3.75Z"/></svg>
+        </button>
+      </div>
+      <div class="job-meta"></div>
+      <p class="job-summary"></p>
+      <div class="tag-row category-tags"></div>
+      <div class="skill-section">
+        <span class="skill-section__label">Resume overlap</span>
+        <div class="tag-row skill-tags"></div>
+      </div>
+      <p class="job-warning" hidden></p>
+      <div class="job-card__actions">
+        <a class="button button--primary apply-link" target="_blank" rel="noopener noreferrer">Open posting</a>
+        <button class="button button--secondary details-button" type="button">Details</button>
+        <button class="button button--secondary email-button" type="button" hidden>Cold email</button>
+      </div>
+    </article>
+  </template>
+</body>
+</html>

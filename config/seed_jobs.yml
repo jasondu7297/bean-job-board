@@ -1,0 +1,212 @@
+# Initial snapshot verified on 2026-06-25. The daily job verifies links and
+# supplements these entries with live ATS/API results.
+
+- id: dfci-jr-4878
+  title: Associate Computational Biologist
+  company: Dana-Farber Cancer Institute
+  location: Boston, MA
+  workplace: On-site
+  salary: $60,000–$67,466 per year
+  employment_type: Full-time
+  url: https://careers.dana-farber.org/job/1348/associate-computational-biologist-it-informatics-us-ma-boston-450-brookline-ave/
+  source: Dana-Farber Careers
+  source_type: seed
+  org_type: research
+  research: true
+  lab_or_team: Computational Biology
+  recipient: Computational Biology Hiring Team
+  posted_at:
+  last_verified_at: '2026-06-25'
+  description: >-
+    Entry-level training role processing high-throughput biological data and genomic
+    databases. Work includes RNA expression maps, long-read sequencing, and single-cell
+    RNA-seq. Requires a bachelor's degree in a STEM field; no prior experience is necessary.
+    Python, R, UNIX/Linux, data pipelines, and scientific communication are central.
+
+- id: dfci-jr-276
+  title: Associate Computational Biologist
+  company: Dana-Farber Cancer Institute / Broad Institute
+  location: Boston, MA
+  workplace: Hybrid / occasional remote
+  salary: $60,000–$67,466 per year
+  employment_type: Full-time
+  url: https://careers.dana-farber.org/job/174/associate-computational-biologist-it-informatics-us-ma-boston-450-brookline-ave/
+  source: Dana-Farber Careers
+  source_type: seed
+  org_type: research
+  research: true
+  lab_or_team: Beroukhim–Dalin computational genomics team
+  recipient: Dr. Rameen Beroukhim and Dr. Simona Dalin
+  posted_at:
+  last_verified_at: '2026-06-25'
+  description: >-
+    Mentored computational genomics position studying genomic rearrangements in cancers
+    and normal tissues. The team seeks a bachelor's-level candidate with programming,
+    statistics, biology, R/Bash, UNIX, and research experience. A two-year commitment is required.
+
+- id: dfci-jr-1244
+  title: Bioinformatics Analyst
+  company: Dana-Farber Cancer Institute / Broad Institute
+  location: Boston, MA
+  workplace: Hybrid, 2–3 days on-site
+  salary: $58,400–$80,400 per year
+  employment_type: Full-time
+  url: https://careers.dana-farber.org/job/435/bioinformatics-analyst-it-informatics-us-ma-boston-450-brookline-ave/
+  source: Dana-Farber Careers
+  source_type: seed
+  org_type: research
+  research: true
+  lab_or_team: Bandopadhayay Laboratory
+  recipient: Dr. Pratiti Bandopadhayay and Dr. Rameen Beroukhim
+  posted_at:
+  last_verified_at: '2026-06-25'
+  description: >-
+    Analyze DNA-seq, RNA-seq, epigenetic sequencing, and single-cell data to identify
+    genomic changes in pediatric brain tumors and improve treatment strategies. The role
+    combines computational analysis, statistics, cancer genomics, and cross-disciplinary research.
+
+- id: dfci-jr-251
+  title: Bioinformatics Analyst
+  company: Dana-Farber Cancer Institute / Broad Institute
+  location: Boston, MA
+  workplace: Hybrid / occasional remote
+  salary: $58,400–$80,400 per year
+  employment_type: Full-time
+  url: https://careers.dana-farber.org/job/165/bioinformatics-analyst-it-informatics-us-ma-boston-450-brookline-ave/
+  source: Dana-Farber Careers
+  source_type: seed
+  org_type: research
+  research: true
+  lab_or_team: Beroukhim–Dalin computational genomics team
+  recipient: Dr. Rameen Beroukhim and Dr. Simona Dalin
+  posted_at:
+  last_verified_at: '2026-06-25'
+  description: >-
+    Mentored computational associate role developing analyses for genomic rearrangements,
+    cancer vulnerabilities, and tumor subclones. Requires a bachelor's degree and 0–2 years
+    of experience; Python or Perl, R, SQL, statistics, biology, and data management are relevant.
+
+- id: dfci-jr-4351
+  title: Bioinformatics Engineer
+  company: Dana-Farber Cancer Institute
+  location: Boston, MA
+  workplace: Hybrid, 2–3 days on-site
+  salary: $75,000–$81,500 per year
+  employment_type: Full-time
+  url: https://careers.dana-farber.org/job/1206/bioinformatics-engineer-it-informatics-us-ma-boston-450-brookline-ave/
+  source: Dana-Farber Careers
+  source_type: seed
+  org_type: research
+  research: true
+  lab_or_team: McGraw/Patterson Center for Population Sciences
+  recipient: McGraw/Patterson Center Hiring Team
+  posted_at:
+  last_verified_at: '2026-06-25'
+  description: >-
+    Entry-level role at the intersection of biology, data science, engineering, and AI.
+    Build software, databases, interfaces, and scalable multi-cloud platforms for thoracic
+    cancer research. Requires a bachelor's degree and 0–2 years of experience; Python or Perl,
+    R, SQL, web development, and biological data analysis are relevant.
+
+- id: dfci-jr-4330
+  title: Computational Biologist – Marasco Lab
+  company: Dana-Farber Cancer Institute
+  location: Boston, MA
+  workplace: On-site
+  salary: $75,000–$91,500 per year
+  employment_type: Full-time
+  url: https://careers.dana-farber.org/job/1207/computational-biologist-marasco-lab-it-informatics-us-ma-boston-450-brookline-ave/
+  source: Dana-Farber Careers
+  source_type: seed
+  org_type: research
+  research: true
+  lab_or_team: Marasco Lab
+  recipient: Dr. Wayne Marasco and the Marasco Lab team
+  posted_at:
+  last_verified_at: '2026-06-25'
+  description: >-
+    Analyze scRNA-seq and spatial transcriptomics data for anti-aging and cancer therapeutic
+    projects. Develop omics pipelines, support wet-lab scientists, prepare figures and methods,
+    and work across genetics, cell biology, cancer biology, and computational research.
+
+- id: columbia-gisl-staff-associate-2026
+  title: Staff Associate Officer of Research – Computational Biology & Bioinformatics
+  company: Columbia University
+  location: New York, NY
+  workplace: On-site
+  salary:
+  employment_type: Full-time
+  url: https://apply.interfolio.com/187490
+  source: Columbia University / Interfolio
+  source_type: seed
+  org_type: university
+  research: true
+  lab_or_team: Genomics Information Systems Laboratory
+  recipient: Professor Dimitris Anastassiou
+  posted_at: '2026-06-18'
+  date_is_estimated: true
+  last_verified_at: '2026-06-25'
+  description: >-
+    Develop AI-driven methods for multimodal biological and clinical data, including
+    single-cell and bulk RNA-seq, ATAC-seq, spatial transcriptomics, proteomics, digital twins,
+    real-world evidence, biomarker discovery, and therapeutic target discovery. An M.S. is
+    preferred for Staff Associate, making this a stretch role for a bachelor's candidate.
+
+- id: rockefeller-neurotech-ra-2054
+  title: Research Assistant – Laboratory of Neurotechnology and Biophysics
+  company: The Rockefeller University
+  location: New York, NY
+  workplace: On-site
+  salary: $50,000–$55,000 per year
+  employment_type: Full-time
+  url: https://careers.rockefeller.edu/jobs/2054?lang=en-us
+  source: Rockefeller University Careers
+  source_type: seed
+  org_type: university
+  research: true
+  lab_or_team: Laboratory of Neurotechnology and Biophysics
+  recipient: Laboratory of Neurotechnology and Biophysics Hiring Team
+  posted_at:
+  last_verified_at: '2026-06-25'
+  description: >-
+    Research assistant opportunity supporting neurotechnology and biophysics work aimed at
+    understanding brain-wide computation and behavior. Relevant strengths include biology,
+    quantitative analysis, reproducible workflows, scientific programming, and collaborative research.
+
+- id: meter-data-analyst-2026
+  title: Data Analyst
+  company: Meter
+  location: San Francisco, CA
+  workplace: Hybrid
+  salary:
+  employment_type: Full-time
+  url: https://jobs.ashbyhq.com/meter/11d53376-ce03-4184-a881-244fc90d796e
+  source: Ashby
+  source_type: seed
+  org_type: company
+  research: false
+  posted_at: '2026-06-19'
+  date_is_estimated: true
+  last_verified_at: '2026-06-25'
+  description: >-
+    Data analyst role within engineering in San Francisco. Prioritize this as a general data
+    opportunity and confirm the current experience requirements on the employer posting before applying.
+
+- id: listen-labs-insights-analyst-2026
+  title: Insights Analyst
+  company: Listen Labs
+  location: San Francisco, CA
+  workplace: Hybrid / on-site
+  salary:
+  employment_type: Full-time
+  url: https://jobs.ashbyhq.com/listenlabs/d6e5fda8-70a1-4cb8-b858-4d1fb9b30063
+  source: Ashby
+  source_type: seed
+  org_type: company
+  research: false
+  posted_at:
+  last_verified_at: '2026-06-25'
+  description: >-
+    Translate research and customer data into clear recommendations for product, research,
+    and marketing leaders. Strong fit for analytical communication, stakeholder collaboration,
+    and turning complex information into decisions.
