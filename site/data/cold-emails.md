@@ -2,6 +2,406 @@
 
 Review the employer posting and lab website before sending. Replace generic recipients with a specific PI or hiring manager when possible.
 
+## UMass Chan Medical School — Research Associate I
+
+**Subject:** Interest in Research Associate I — biology/bioinformatics graduate
+
+Dear UMass Chan Medical School Hiring Team,
+
+My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Research Associate I opportunity with UMass Chan Medical School at UMass Chan Medical School.
+
+I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
+
+The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
+
+Best,
+Celina Lin
+https://linkedin.com/in/celina-g-lin
+
+Posting: https://jobright.ai/jobs/info/6a42e4606c326942b4e848e5
+
+---
+
+## NV5 — Lab Technician
+
+**Subject:** Interest in Lab Technician — biology/bioinformatics graduate
+
+Dear NV5 Hiring Team,
+
+My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Lab Technician opportunity with NV5 at NV5.
+
+I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
+
+The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
+
+Best,
+Celina Lin
+https://linkedin.com/in/celina-g-lin
+
+Posting: https://jobright.ai/jobs/info/6a0850188f3e371eb617f475
+
+---
+
+## Meta — Production Engineer (University Grad)
+
+**Subject:** Interest in Production Engineer (University Grad) — biology/bioinformatics graduate
+
+Dear Meta Hiring Team,
+
+My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Production Engineer (University Grad) opportunity with Meta at Meta.
+
+I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
+
+The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
+
+Best,
+Celina Lin
+https://linkedin.com/in/celina-g-lin
+
+Posting: https://jobright.ai/jobs/info/6a2a2729d3ec8317fe14225e
+
+---
+
+## Meta — Production Engineer (University Grad)
+
+**Subject:** Interest in Production Engineer (University Grad) — biology/bioinformatics graduate
+
+Dear Meta Hiring Team,
+
+My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Production Engineer (University Grad) opportunity with Meta at Meta.
+
+I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
+
+The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
+
+Best,
+Celina Lin
+https://linkedin.com/in/celina-g-lin
+
+Posting: https://jobright.ai/jobs/info/6a29fbd5495d985b99426b2a
+
+---
+
+## Labcorp — Research Assistant- Pathology
+
+**Subject:** Interest in Research Assistant- Pathology — biology/bioinformatics graduate
+
+Dear Labcorp Hiring Team,
+
+My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Research Assistant- Pathology opportunity with Labcorp at Labcorp.
+
+I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
+
+The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
+
+Best,
+Celina Lin
+https://linkedin.com/in/celina-g-lin
+
+Posting: https://jobright.ai/jobs/info/6a4327da3a9004648946b08f
+
+---
+
+## David's Bridal — Alterations Specialist
+
+**Subject:** Interest in Alterations Specialist — biology/bioinformatics graduate
+
+Dear David's Bridal Hiring Team,
+
+My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Alterations Specialist opportunity with David's Bridal at David's Bridal.
+
+I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
+
+The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
+
+Best,
+Celina Lin
+https://linkedin.com/in/celina-g-lin
+
+Posting: https://jobright.ai/jobs/info/6a06f9371f7fa33581c96f4d
+
+---
+
+## CLEAR — Learning & Development Generalist (Airport Operations)
+
+**Subject:** Interest in Learning & Development Generalist (Airport Operations) — biology/bioinformatics graduate
+
+Dear CLEAR Hiring Team,
+
+My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Learning & Development Generalist (Airport Operations) opportunity with CLEAR at CLEAR.
+
+I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
+
+The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
+
+Best,
+Celina Lin
+https://linkedin.com/in/celina-g-lin
+
+Posting: https://jobright.ai/jobs/info/69f4bc010b36ff035474eb12
+
+---
+
+## CLEAR — Learning & Development Generalist (Airport Operations)
+
+**Subject:** Interest in Learning & Development Generalist (Airport Operations) — biology/bioinformatics graduate
+
+Dear CLEAR Hiring Team,
+
+My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Learning & Development Generalist (Airport Operations) opportunity with CLEAR at CLEAR.
+
+I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
+
+The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
+
+Best,
+Celina Lin
+https://linkedin.com/in/celina-g-lin
+
+Posting: https://jobright.ai/jobs/info/6a147569dc845f4be5bd2243
+
+---
+
+## YMCA of Greater Houston — Youth Development Counselor- Wolfe
+
+**Subject:** Interest in Youth Development Counselor- Wolfe — biology/bioinformatics graduate
+
+Dear YMCA of Greater Houston Hiring Team,
+
+My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Youth Development Counselor- Wolfe opportunity with YMCA of Greater Houston at YMCA of Greater Houston.
+
+I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
+
+The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
+
+Best,
+Celina Lin
+https://linkedin.com/in/celina-g-lin
+
+Posting: https://jobright.ai/jobs/info/6a3c28c64d047136e092fc50
+
+---
+
+## University of San Diego — Marketing Coordinator
+
+**Subject:** Interest in Marketing Coordinator — biology/bioinformatics graduate
+
+Dear University of San Diego Hiring Team,
+
+My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Marketing Coordinator opportunity with University of San Diego at University of San Diego.
+
+I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
+
+The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
+
+Best,
+Celina Lin
+https://linkedin.com/in/celina-g-lin
+
+Posting: https://jobright.ai/jobs/info/6a49930e3dbab558e29ae567
+
+---
+
+## University Enterprises, Inc. — Student Assistant - IT Support – Vendor Incident and Project Support Section - Hybrid
+
+**Subject:** Interest in Student Assistant - IT Support – Vendor Incident and Project Support Section - Hybrid — biology/bioinformatics graduate
+
+Dear University Enterprises, Inc. Hiring Team,
+
+My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Student Assistant - IT Support – Vendor Incident and Project Support Section - Hybrid opportunity with University Enterprises, Inc. at University Enterprises, Inc..
+
+I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
+
+The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
+
+Best,
+Celina Lin
+https://linkedin.com/in/celina-g-lin
+
+Posting: https://jobright.ai/jobs/info/6a4957555d7b097d2df3b13c
+
+---
+
+## Universal Technical Institute, Inc. — Financial Aid Advisor - Southhaven
+
+**Subject:** Interest in Financial Aid Advisor - Southhaven — biology/bioinformatics graduate
+
+Dear Universal Technical Institute, Inc. Hiring Team,
+
+My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Financial Aid Advisor - Southhaven opportunity with Universal Technical Institute, Inc. at Universal Technical Institute, Inc..
+
+I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
+
+The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
+
+Best,
+Celina Lin
+https://linkedin.com/in/celina-g-lin
+
+Posting: https://jobright.ai/jobs/info/6a340fbcce501060b5cef1c0
+
+---
+
+## Twist Bioscience — Research Associate, Cell Biology
+
+**Subject:** Interest in Research Associate, Cell Biology — biology/bioinformatics graduate
+
+Dear Twist Bioscience Hiring Team,
+
+My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Research Associate, Cell Biology opportunity with Twist Bioscience at Twist Bioscience.
+
+I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
+
+The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
+
+Best,
+Celina Lin
+https://linkedin.com/in/celina-g-lin
+
+Posting: https://jobright.ai/jobs/info/6a2e443fd3ec94183f4c0ae3
+
+---
+
+## San Diego Supercomputer Center — Research Assistant - 140190
+
+**Subject:** Interest in Research Assistant - 140190 — biology/bioinformatics graduate
+
+Dear San Diego Supercomputer Center Hiring Team,
+
+My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Research Assistant - 140190 opportunity with San Diego Supercomputer Center at San Diego Supercomputer Center.
+
+I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
+
+The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
+
+Best,
+Celina Lin
+https://linkedin.com/in/celina-g-lin
+
+Posting: https://jobright.ai/jobs/info/6a49936e971cd25b06f95af4
+
+---
+
+## SS&C Technologies — Associate Learning & Development Specialist - Healthcare Call Center
+
+**Subject:** Interest in Associate Learning & Development Specialist - Healthcare Call Center — biology/bioinformatics graduate
+
+Dear SS&C Technologies Hiring Team,
+
+My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Associate Learning & Development Specialist - Healthcare Call Center opportunity with SS&C Technologies at SS&C Technologies.
+
+I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
+
+The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
+
+Best,
+Celina Lin
+https://linkedin.com/in/celina-g-lin
+
+Posting: https://jobright.ai/jobs/info/6a2c07caf1751b183c816686
+
+---
+
+## SS&C Technologies — Associate Learning & Development Specialist - Healthcare Call Center
+
+**Subject:** Interest in Associate Learning & Development Specialist - Healthcare Call Center — biology/bioinformatics graduate
+
+Dear SS&C Technologies Hiring Team,
+
+My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Associate Learning & Development Specialist - Healthcare Call Center opportunity with SS&C Technologies at SS&C Technologies.
+
+I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
+
+The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
+
+Best,
+Celina Lin
+https://linkedin.com/in/celina-g-lin
+
+Posting: https://jobright.ai/jobs/info/6a2c08107cd40a338fae4528
+
+---
+
+## SS&C Technologies — Associate Learning & Development Specialist - Healthcare Call Center
+
+**Subject:** Interest in Associate Learning & Development Specialist - Healthcare Call Center — biology/bioinformatics graduate
+
+Dear SS&C Technologies Hiring Team,
+
+My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Associate Learning & Development Specialist - Healthcare Call Center opportunity with SS&C Technologies at SS&C Technologies.
+
+I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
+
+The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
+
+Best,
+Celina Lin
+https://linkedin.com/in/celina-g-lin
+
+Posting: https://jobright.ai/jobs/info/6a2c47a07cd40a338fae59e2
+
+---
+
+## SS&C Technologies — Associate Learning & Development Specialist - Healthcare Call Center
+
+**Subject:** Interest in Associate Learning & Development Specialist - Healthcare Call Center — biology/bioinformatics graduate
+
+Dear SS&C Technologies Hiring Team,
+
+My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Associate Learning & Development Specialist - Healthcare Call Center opportunity with SS&C Technologies at SS&C Technologies.
+
+I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
+
+The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
+
+Best,
+Celina Lin
+https://linkedin.com/in/celina-g-lin
+
+Posting: https://jobright.ai/jobs/info/6a2c0ed17cd40a338fae4708
+
+---
+
+## SS&C Technologies — Associate Learning & Development Specialist - Healthcare Call Center
+
+**Subject:** Interest in Associate Learning & Development Specialist - Healthcare Call Center — biology/bioinformatics graduate
+
+Dear SS&C Technologies Hiring Team,
+
+My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Associate Learning & Development Specialist - Healthcare Call Center opportunity with SS&C Technologies at SS&C Technologies.
+
+I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
+
+The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
+
+Best,
+Celina Lin
+https://linkedin.com/in/celina-g-lin
+
+Posting: https://jobright.ai/jobs/info/6a2c0eeca1d15e3c552f9d47
+
+---
+
+## SS&C Technologies — Associate Learning & Development Specialist - Healthcare Call Center
+
+**Subject:** Interest in Associate Learning & Development Specialist - Healthcare Call Center — biology/bioinformatics graduate
+
+Dear SS&C Technologies Hiring Team,
+
+My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Associate Learning & Development Specialist - Healthcare Call Center opportunity with SS&C Technologies at SS&C Technologies.
+
+I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
+
+The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
+
+Best,
+Celina Lin
+https://linkedin.com/in/celina-g-lin
+
+Posting: https://jobright.ai/jobs/info/6a2bf757c260bb1b8ae13f04
+
+---
+
 ## Pacific University — Administrative Assistant- School of Physical Therapy & Athletic Training
 
 **Subject:** Interest in Administrative Assistant- School of Physical Therapy & Athletic Training — biology/bioinformatics graduate
@@ -19,6 +419,326 @@ Celina Lin
 https://linkedin.com/in/celina-g-lin
 
 Posting: https://jobright.ai/jobs/info/6a3af0eddbedbf5680c71eef
+
+---
+
+## Meta — Data Engineer, Product Analytics (University Grad)
+
+**Subject:** Interest in Data Engineer, Product Analytics (University Grad) — biology/bioinformatics graduate
+
+Dear Meta Hiring Team,
+
+My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Data Engineer, Product Analytics (University Grad) opportunity with Meta at Meta.
+
+I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
+
+The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
+
+Best,
+Celina Lin
+https://linkedin.com/in/celina-g-lin
+
+Posting: https://jobright.ai/jobs/info/6a35e0d529c90c607e4e3d3e
+
+---
+
+## Meta — Data Engineer, Product Analytics (University Grad)
+
+**Subject:** Interest in Data Engineer, Product Analytics (University Grad) — biology/bioinformatics graduate
+
+Dear Meta Hiring Team,
+
+My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Data Engineer, Product Analytics (University Grad) opportunity with Meta at Meta.
+
+I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
+
+The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
+
+Best,
+Celina Lin
+https://linkedin.com/in/celina-g-lin
+
+Posting: https://jobright.ai/jobs/info/6a35e0d529c90c607e4e3d3d
+
+---
+
+## Memorial Sloan Kettering Cancer Center — Application Analyst - Epic Beaker AP
+
+**Subject:** Interest in Application Analyst - Epic Beaker AP — biology/bioinformatics graduate
+
+Dear Memorial Sloan Kettering Cancer Center Hiring Team,
+
+My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Application Analyst - Epic Beaker AP opportunity with Memorial Sloan Kettering Cancer Center at Memorial Sloan Kettering Cancer Center.
+
+I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
+
+The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
+
+Best,
+Celina Lin
+https://linkedin.com/in/celina-g-lin
+
+Posting: https://jobright.ai/jobs/info/6a10aad712f8b43cf3986aba
+
+---
+
+## Legarza Sports and More — LEGARZA BASKETBALL PROGRAM COORDINATOR
+
+**Subject:** Interest in LEGARZA BASKETBALL PROGRAM COORDINATOR — biology/bioinformatics graduate
+
+Dear Legarza Sports and More Hiring Team,
+
+My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the LEGARZA BASKETBALL PROGRAM COORDINATOR opportunity with Legarza Sports and More at Legarza Sports and More.
+
+I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
+
+The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
+
+Best,
+Celina Lin
+https://linkedin.com/in/celina-g-lin
+
+Posting: https://jobright.ai/jobs/info/69b09cfcdfaeda6ff59acd67
+
+---
+
+## Labcorp — Laboratory Testing Clerk
+
+**Subject:** Interest in Laboratory Testing Clerk — biology/bioinformatics graduate
+
+Dear Labcorp Hiring Team,
+
+My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Laboratory Testing Clerk opportunity with Labcorp at Labcorp.
+
+I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
+
+The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
+
+Best,
+Celina Lin
+https://linkedin.com/in/celina-g-lin
+
+Posting: https://jobright.ai/jobs/info/6a498a4b5d7b097d2df3b6fe
+
+---
+
+## Intuitive — Endoluminal Territory Associate - Future Opportunity
+
+**Subject:** Interest in Endoluminal Territory Associate - Future Opportunity — biology/bioinformatics graduate
+
+Dear Intuitive Hiring Team,
+
+My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Endoluminal Territory Associate - Future Opportunity opportunity with Intuitive at Intuitive.
+
+I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
+
+The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
+
+Best,
+Celina Lin
+https://linkedin.com/in/celina-g-lin
+
+Posting: https://jobright.ai/jobs/info/6a09d7c08f3e371eb618647e
+
+---
+
+## IQVIA — Clinical Research Associate, IQVIA Biotech
+
+**Subject:** Interest in Clinical Research Associate, IQVIA Biotech — biology/bioinformatics graduate
+
+Dear IQVIA Hiring Team,
+
+My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Clinical Research Associate, IQVIA Biotech opportunity with IQVIA at IQVIA.
+
+I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
+
+The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
+
+Best,
+Celina Lin
+https://linkedin.com/in/celina-g-lin
+
+Posting: https://jobright.ai/jobs/info/6a1be23de24ef36525832003
+
+---
+
+## IQVIA — Clinical Research Associate, IQVIA Biotech
+
+**Subject:** Interest in Clinical Research Associate, IQVIA Biotech — biology/bioinformatics graduate
+
+Dear IQVIA Hiring Team,
+
+My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Clinical Research Associate, IQVIA Biotech opportunity with IQVIA at IQVIA.
+
+I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
+
+The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
+
+Best,
+Celina Lin
+https://linkedin.com/in/celina-g-lin
+
+Posting: https://jobright.ai/jobs/info/6a1be32d2b206f3955ebb0da
+
+---
+
+## IQVIA — Clinical Research Associate, IQVIA Biotech
+
+**Subject:** Interest in Clinical Research Associate, IQVIA Biotech — biology/bioinformatics graduate
+
+Dear IQVIA Hiring Team,
+
+My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Clinical Research Associate, IQVIA Biotech opportunity with IQVIA at IQVIA.
+
+I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
+
+The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
+
+Best,
+Celina Lin
+https://linkedin.com/in/celina-g-lin
+
+Posting: https://jobright.ai/jobs/info/6a1bf485e24ef365258325f7
+
+---
+
+## IQVIA — Clinical Research Associate, IQVIA Biotech
+
+**Subject:** Interest in Clinical Research Associate, IQVIA Biotech — biology/bioinformatics graduate
+
+Dear IQVIA Hiring Team,
+
+My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Clinical Research Associate, IQVIA Biotech opportunity with IQVIA at IQVIA.
+
+I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
+
+The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
+
+Best,
+Celina Lin
+https://linkedin.com/in/celina-g-lin
+
+Posting: https://jobright.ai/jobs/info/6a1886056243320e8d1653aa
+
+---
+
+## IQVIA — Clinical Research Associate - Sponsor Dedicated
+
+**Subject:** Interest in Clinical Research Associate - Sponsor Dedicated — biology/bioinformatics graduate
+
+Dear IQVIA Hiring Team,
+
+My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Clinical Research Associate - Sponsor Dedicated opportunity with IQVIA at IQVIA.
+
+I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
+
+The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
+
+Best,
+Celina Lin
+https://linkedin.com/in/celina-g-lin
+
+Posting: https://jobright.ai/jobs/info/6a1e2fa63e538a28c204ea56
+
+---
+
+## IQVIA — Clinical Research Associate - Sponsor Dedicated
+
+**Subject:** Interest in Clinical Research Associate - Sponsor Dedicated — biology/bioinformatics graduate
+
+Dear IQVIA Hiring Team,
+
+My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Clinical Research Associate - Sponsor Dedicated opportunity with IQVIA at IQVIA.
+
+I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
+
+The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
+
+Best,
+Celina Lin
+https://linkedin.com/in/celina-g-lin
+
+Posting: https://jobright.ai/jobs/info/6a1e2fa73e538a28c204ea57
+
+---
+
+## Fitch Ratings — Market Research Associate, BRM Financial Institutions - Insurance - New York
+
+**Subject:** Interest in Market Research Associate, BRM Financial Institutions - Insurance - New York — biology/bioinformatics graduate
+
+Dear Fitch Ratings Hiring Team,
+
+My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Market Research Associate, BRM Financial Institutions - Insurance - New York opportunity with Fitch Ratings at Fitch Ratings.
+
+I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
+
+The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
+
+Best,
+Celina Lin
+https://linkedin.com/in/celina-g-lin
+
+Posting: https://jobright.ai/jobs/info/6a0a9161939a5f01db962e93
+
+---
+
+## EMSL Analytical, Inc. — Laboratory Analyst (Microbiology)
+
+**Subject:** Interest in Laboratory Analyst (Microbiology) — biology/bioinformatics graduate
+
+Dear EMSL Analytical, Inc. Hiring Team,
+
+My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Laboratory Analyst (Microbiology) opportunity with EMSL Analytical, Inc. at EMSL Analytical, Inc..
+
+I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
+
+The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
+
+Best,
+Celina Lin
+https://linkedin.com/in/celina-g-lin
+
+Posting: https://jobright.ai/jobs/info/6a343c3f7f3fdd180d4c974e
+
+---
+
+## Cellares — Research Associate, Process Development (I,II,III)
+
+**Subject:** Interest in Research Associate, Process Development (I,II,III) — biology/bioinformatics graduate
+
+Dear Cellares Hiring Team,
+
+My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Research Associate, Process Development (I,II,III) opportunity with Cellares at Cellares.
+
+I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
+
+The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
+
+Best,
+Celina Lin
+https://linkedin.com/in/celina-g-lin
+
+Posting: https://jobright.ai/jobs/info/6a2c7ef1fc0644749054a4d6
+
+---
+
+## Boston Children's Hospital — Program Coordinator I- Precision Vaccines Program
+
+**Subject:** Interest in Program Coordinator I- Precision Vaccines Program — biology/bioinformatics graduate
+
+Dear Boston Children's Hospital Hiring Team,
+
+My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Program Coordinator I- Precision Vaccines Program opportunity with Boston Children's Hospital at Boston Children's Hospital.
+
+I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
+
+The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
+
+Best,
+Celina Lin
+https://linkedin.com/in/celina-g-lin
+
+Posting: https://jobright.ai/jobs/info/6a3fe009d528ac2915f95df1
 
 ---
 
@@ -59,6 +779,386 @@ Celina Lin
 https://linkedin.com/in/celina-g-lin
 
 Posting: https://jobright.ai/jobs/info/6a29b98c495d985b9942577f
+
+---
+
+## BillionToOne — Clinical Laboratory Scientist (CLS), Oncology
+
+**Subject:** Interest in Clinical Laboratory Scientist (CLS), Oncology — biology/bioinformatics graduate
+
+Dear BillionToOne Hiring Team,
+
+My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Clinical Laboratory Scientist (CLS), Oncology opportunity with BillionToOne at BillionToOne.
+
+I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
+
+The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
+
+Best,
+Celina Lin
+https://linkedin.com/in/celina-g-lin
+
+Posting: https://jobright.ai/jobs/info/69d6a71e52a5bf580012ae75
+
+---
+
+## Banfield Pet Hospital — Client Service Coordinator - 000457
+
+**Subject:** Interest in Client Service Coordinator - 000457 — biology/bioinformatics graduate
+
+Dear Banfield Pet Hospital Hiring Team,
+
+My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Client Service Coordinator - 000457 opportunity with Banfield Pet Hospital at Banfield Pet Hospital.
+
+I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
+
+The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
+
+Best,
+Celina Lin
+https://linkedin.com/in/celina-g-lin
+
+Posting: https://jobright.ai/jobs/info/6a47febec2d11a6a4667390c
+
+---
+
+## Banfield Pet Hospital — Client Service Coordinator - 000257
+
+**Subject:** Interest in Client Service Coordinator - 000257 — biology/bioinformatics graduate
+
+Dear Banfield Pet Hospital Hiring Team,
+
+My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Client Service Coordinator - 000257 opportunity with Banfield Pet Hospital at Banfield Pet Hospital.
+
+I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
+
+The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
+
+Best,
+Celina Lin
+https://linkedin.com/in/celina-g-lin
+
+Posting: https://jobright.ai/jobs/info/6a4615210dd56c76cc2f5ab7
+
+---
+
+## Banfield Pet Hospital — Client Service Coordinator - 001043
+
+**Subject:** Interest in Client Service Coordinator - 001043 — biology/bioinformatics graduate
+
+Dear Banfield Pet Hospital Hiring Team,
+
+My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Client Service Coordinator - 001043 opportunity with Banfield Pet Hospital at Banfield Pet Hospital.
+
+I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
+
+The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
+
+Best,
+Celina Lin
+https://linkedin.com/in/celina-g-lin
+
+Posting: https://jobright.ai/jobs/info/6a466e1d971cd25b06f8e9cc
+
+---
+
+## Banfield Pet Hospital — Client Service Coordinator - 001240
+
+**Subject:** Interest in Client Service Coordinator - 001240 — biology/bioinformatics graduate
+
+Dear Banfield Pet Hospital Hiring Team,
+
+My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Client Service Coordinator - 001240 opportunity with Banfield Pet Hospital at Banfield Pet Hospital.
+
+I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
+
+The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
+
+Best,
+Celina Lin
+https://linkedin.com/in/celina-g-lin
+
+Posting: https://jobright.ai/jobs/info/6a46156e4f64ba41dcb4fb41
+
+---
+
+## Banfield Pet Hospital — Client Service Coordinator - 000442
+
+**Subject:** Interest in Client Service Coordinator - 000442 — biology/bioinformatics graduate
+
+Dear Banfield Pet Hospital Hiring Team,
+
+My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Client Service Coordinator - 000442 opportunity with Banfield Pet Hospital at Banfield Pet Hospital.
+
+I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
+
+The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
+
+Best,
+Celina Lin
+https://linkedin.com/in/celina-g-lin
+
+Posting: https://jobright.ai/jobs/info/6a4615040dd56c76cc2f5aa6
+
+---
+
+## Banfield Pet Hospital — Client Service Coordinator - 001078
+
+**Subject:** Interest in Client Service Coordinator - 001078 — biology/bioinformatics graduate
+
+Dear Banfield Pet Hospital Hiring Team,
+
+My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Client Service Coordinator - 001078 opportunity with Banfield Pet Hospital at Banfield Pet Hospital.
+
+I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
+
+The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
+
+Best,
+Celina Lin
+https://linkedin.com/in/celina-g-lin
+
+Posting: https://jobright.ai/jobs/info/6a47e40b4f64ba41dcb5799f
+
+---
+
+## Banfield Pet Hospital — Client Service Coordinator - 000050
+
+**Subject:** Interest in Client Service Coordinator - 000050 — biology/bioinformatics graduate
+
+Dear Banfield Pet Hospital Hiring Team,
+
+My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Client Service Coordinator - 000050 opportunity with Banfield Pet Hospital at Banfield Pet Hospital.
+
+I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
+
+The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
+
+Best,
+Celina Lin
+https://linkedin.com/in/celina-g-lin
+
+Posting: https://jobright.ai/jobs/info/6a461500076271587529f6cb
+
+---
+
+## Banfield Pet Hospital — Client Service Representative (FULL TIME)
+
+**Subject:** Interest in Client Service Representative (FULL TIME) — biology/bioinformatics graduate
+
+Dear Banfield Pet Hospital Hiring Team,
+
+My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Client Service Representative (FULL TIME) opportunity with Banfield Pet Hospital at Banfield Pet Hospital.
+
+I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
+
+The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
+
+Best,
+Celina Lin
+https://linkedin.com/in/celina-g-lin
+
+Posting: https://jobright.ai/jobs/info/6a4614db0dd56c76cc2f5a82
+
+---
+
+## Banfield Pet Hospital — Client Service Representative- PT 5114
+
+**Subject:** Interest in Client Service Representative- PT 5114 — biology/bioinformatics graduate
+
+Dear Banfield Pet Hospital Hiring Team,
+
+My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Client Service Representative- PT 5114 opportunity with Banfield Pet Hospital at Banfield Pet Hospital.
+
+I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
+
+The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
+
+Best,
+Celina Lin
+https://linkedin.com/in/celina-g-lin
+
+Posting: https://jobright.ai/jobs/info/6a47db9d5d7b097d2df388a7
+
+---
+
+## BTIG — Equity Research Associate, Biotechnology
+
+**Subject:** Interest in Equity Research Associate, Biotechnology — biology/bioinformatics graduate
+
+Dear BTIG Hiring Team,
+
+My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Equity Research Associate, Biotechnology opportunity with BTIG at BTIG.
+
+I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
+
+The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
+
+Best,
+Celina Lin
+https://linkedin.com/in/celina-g-lin
+
+Posting: https://jobright.ai/jobs/info/69bc60765b89c002acf1fd10
+
+---
+
+## BETA TECHNOLOGIES — Materials & Processes Laboratory Technician / Materials & Processing
+
+**Subject:** Interest in Materials & Processes Laboratory Technician / Materials & Processing — biology/bioinformatics graduate
+
+Dear BETA TECHNOLOGIES Hiring Team,
+
+My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Materials & Processes Laboratory Technician / Materials & Processing opportunity with BETA TECHNOLOGIES at BETA TECHNOLOGIES.
+
+I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
+
+The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
+
+Best,
+Celina Lin
+https://linkedin.com/in/celina-g-lin
+
+Posting: https://jobright.ai/jobs/info/6a40f21ad528ac2915f9709c
+
+---
+
+## Avid Bioservices — Research Associate, Process Development Downstream
+
+**Subject:** Interest in Research Associate, Process Development Downstream — biology/bioinformatics graduate
+
+Dear Avid Bioservices Hiring Team,
+
+My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Research Associate, Process Development Downstream opportunity with Avid Bioservices at Avid Bioservices.
+
+I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
+
+The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
+
+Best,
+Celina Lin
+https://linkedin.com/in/celina-g-lin
+
+Posting: https://jobright.ai/jobs/info/6a28914340ac8e32932a26de
+
+---
+
+## Arnold & Porter — Assistant Floater Teacher
+
+**Subject:** Interest in Assistant Floater Teacher — biology/bioinformatics graduate
+
+Dear Arnold & Porter Hiring Team,
+
+My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Assistant Floater Teacher opportunity with Arnold & Porter at Arnold & Porter.
+
+I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
+
+The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
+
+Best,
+Celina Lin
+https://linkedin.com/in/celina-g-lin
+
+Posting: https://jobright.ai/jobs/info/6a34541cf6b55d12c791c362
+
+---
+
+## Arc Institute — Scientist, Cell Engineering
+
+**Subject:** Interest in Scientist, Cell Engineering — biology/bioinformatics graduate
+
+Dear Arc Institute Hiring Team,
+
+My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Scientist, Cell Engineering opportunity with Arc Institute at Arc Institute.
+
+I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
+
+The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
+
+Best,
+Celina Lin
+https://linkedin.com/in/celina-g-lin
+
+Posting: https://jobright.ai/jobs/info/6a072afa4a0a6a7e7d82570e
+
+---
+
+## Amazon — Delivery Trainer, RSR
+
+**Subject:** Interest in Delivery Trainer, RSR — biology/bioinformatics graduate
+
+Dear Amazon Hiring Team,
+
+My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Delivery Trainer, RSR opportunity with Amazon at Amazon.
+
+I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
+
+The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
+
+Best,
+Celina Lin
+https://linkedin.com/in/celina-g-lin
+
+Posting: https://jobright.ai/jobs/info/698173b97f40342e15da7e9c
+
+---
+
+## Allen Institute — Research Associate I – In Vivo Electrophysiology & Behavior
+
+**Subject:** Interest in Research Associate I – In Vivo Electrophysiology & Behavior — biology/bioinformatics graduate
+
+Dear Allen Institute Hiring Team,
+
+My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Research Associate I – In Vivo Electrophysiology & Behavior opportunity with Allen Institute at Allen Institute.
+
+I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
+
+The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
+
+Best,
+Celina Lin
+https://linkedin.com/in/celina-g-lin
+
+Posting: https://jobright.ai/jobs/info/6a17350cf45c6530ce9aa077
+
+---
+
+## Allata — Piscataway - Professional safety training instructor
+
+**Subject:** Interest in Piscataway - Professional safety training instructor — biology/bioinformatics graduate
+
+Dear Allata Hiring Team,
+
+My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Piscataway - Professional safety training instructor opportunity with Allata at Allata.
+
+I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
+
+The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
+
+Best,
+Celina Lin
+https://linkedin.com/in/celina-g-lin
+
+Posting: https://jobright.ai/jobs/info/6a2c630ec260bb1b8ae1621b
+
+---
+
+## Adobe — 2026 University Graduate - Machine Learning Engineer
+
+**Subject:** Interest in 2026 University Graduate - Machine Learning Engineer — biology/bioinformatics graduate
+
+Dear Adobe Hiring Team,
+
+My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the 2026 University Graduate - Machine Learning Engineer opportunity with Adobe at Adobe.
+
+I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
+
+The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
+
+Best,
+Celina Lin
+https://linkedin.com/in/celina-g-lin
+
+Posting: https://jobright.ai/jobs/info/6a200346902d19201c7afec9
 
 ---
 
@@ -159,586 +1259,6 @@ Celina Lin
 https://linkedin.com/in/celina-g-lin
 
 Posting: https://jobright.ai/jobs/info/6a48df7b971cd25b06f94bcb
-
----
-
-## Wind Creek Hospitality — IT Tech I
-
-**Subject:** Interest in IT Tech I — biology/bioinformatics graduate
-
-Dear Wind Creek Hospitality Hiring Team,
-
-My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the IT Tech I opportunity with Wind Creek Hospitality at Wind Creek Hospitality.
-
-I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
-
-The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
-
-Best,
-Celina Lin
-https://linkedin.com/in/celina-g-lin
-
-Posting: https://jobright.ai/jobs/info/6a487375c2d11a6a466748b9
-
----
-
-## VCA Animal Hospitals — Client Service Representative
-
-**Subject:** Interest in Client Service Representative — biology/bioinformatics graduate
-
-Dear VCA Animal Hospitals Hiring Team,
-
-My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Client Service Representative opportunity with VCA Animal Hospitals at VCA Animal Hospitals.
-
-I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
-
-The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
-
-Best,
-Celina Lin
-https://linkedin.com/in/celina-g-lin
-
-Posting: https://jobright.ai/jobs/info/6a13f90512f8b43cf3991597
-
----
-
-## VCA Animal Hospitals — Client Service Representative
-
-**Subject:** Interest in Client Service Representative — biology/bioinformatics graduate
-
-Dear VCA Animal Hospitals Hiring Team,
-
-My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Client Service Representative opportunity with VCA Animal Hospitals at VCA Animal Hospitals.
-
-I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
-
-The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
-
-Best,
-Celina Lin
-https://linkedin.com/in/celina-g-lin
-
-Posting: https://jobright.ai/jobs/info/6a0d7d0ed516b5204a37719b
-
----
-
-## VCA Animal Hospitals — Client Service Representative
-
-**Subject:** Interest in Client Service Representative — biology/bioinformatics graduate
-
-Dear VCA Animal Hospitals Hiring Team,
-
-My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Client Service Representative opportunity with VCA Animal Hospitals at VCA Animal Hospitals.
-
-I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
-
-The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
-
-Best,
-Celina Lin
-https://linkedin.com/in/celina-g-lin
-
-Posting: https://jobright.ai/jobs/info/6a1057cd12f8b43cf39842dc
-
----
-
-## VCA Animal Hospitals — Client Service Representative
-
-**Subject:** Interest in Client Service Representative — biology/bioinformatics graduate
-
-Dear VCA Animal Hospitals Hiring Team,
-
-My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Client Service Representative opportunity with VCA Animal Hospitals at VCA Animal Hospitals.
-
-I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
-
-The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
-
-Best,
-Celina Lin
-https://linkedin.com/in/celina-g-lin
-
-Posting: https://jobright.ai/jobs/info/6a3ed496122f340d29cf4d19
-
----
-
-## VCA Animal Hospitals — Client Service Representative
-
-**Subject:** Interest in Client Service Representative — biology/bioinformatics graduate
-
-Dear VCA Animal Hospitals Hiring Team,
-
-My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Client Service Representative opportunity with VCA Animal Hospitals at VCA Animal Hospitals.
-
-I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
-
-The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
-
-Best,
-Celina Lin
-https://linkedin.com/in/celina-g-lin
-
-Posting: https://jobright.ai/jobs/info/69fd0131666f063d3d6d2764
-
----
-
-## VCA Animal Hospitals — Client Service Representative
-
-**Subject:** Interest in Client Service Representative — biology/bioinformatics graduate
-
-Dear VCA Animal Hospitals Hiring Team,
-
-My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Client Service Representative opportunity with VCA Animal Hospitals at VCA Animal Hospitals.
-
-I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
-
-The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
-
-Best,
-Celina Lin
-https://linkedin.com/in/celina-g-lin
-
-Posting: https://jobright.ai/jobs/info/6a1699f1128680351d96bfe8
-
----
-
-## VCA Animal Hospitals — Client Service Representative
-
-**Subject:** Interest in Client Service Representative — biology/bioinformatics graduate
-
-Dear VCA Animal Hospitals Hiring Team,
-
-My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Client Service Representative opportunity with VCA Animal Hospitals at VCA Animal Hospitals.
-
-I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
-
-The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
-
-Best,
-Celina Lin
-https://linkedin.com/in/celina-g-lin
-
-Posting: https://jobright.ai/jobs/info/6a07a9058f3e371eb61797ea
-
----
-
-## VCA Animal Hospitals — Client Service Representative
-
-**Subject:** Interest in Client Service Representative — biology/bioinformatics graduate
-
-Dear VCA Animal Hospitals Hiring Team,
-
-My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Client Service Representative opportunity with VCA Animal Hospitals at VCA Animal Hospitals.
-
-I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
-
-The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
-
-Best,
-Celina Lin
-https://linkedin.com/in/celina-g-lin
-
-Posting: https://jobright.ai/jobs/info/6a1699f4128680351d96bfea
-
----
-
-## VCA Animal Hospitals — Client Service Representative
-
-**Subject:** Interest in Client Service Representative — biology/bioinformatics graduate
-
-Dear VCA Animal Hospitals Hiring Team,
-
-My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Client Service Representative opportunity with VCA Animal Hospitals at VCA Animal Hospitals.
-
-I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
-
-The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
-
-Best,
-Celina Lin
-https://linkedin.com/in/celina-g-lin
-
-Posting: https://jobright.ai/jobs/info/69fc755bb113035a9f8e90e4
-
----
-
-## VCA Animal Hospitals — Client Service Representative
-
-**Subject:** Interest in Client Service Representative — biology/bioinformatics graduate
-
-Dear VCA Animal Hospitals Hiring Team,
-
-My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Client Service Representative opportunity with VCA Animal Hospitals at VCA Animal Hospitals.
-
-I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
-
-The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
-
-Best,
-Celina Lin
-https://linkedin.com/in/celina-g-lin
-
-Posting: https://jobright.ai/jobs/info/6a13f90c12f8b43cf3991599
-
----
-
-## VCA Animal Hospitals — Client Service Representative
-
-**Subject:** Interest in Client Service Representative — biology/bioinformatics graduate
-
-Dear VCA Animal Hospitals Hiring Team,
-
-My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Client Service Representative opportunity with VCA Animal Hospitals at VCA Animal Hospitals.
-
-I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
-
-The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
-
-Best,
-Celina Lin
-https://linkedin.com/in/celina-g-lin
-
-Posting: https://jobright.ai/jobs/info/6a04795d22395b6dc6d9cd97
-
----
-
-## VCA Animal Hospitals — Client Service Representative
-
-**Subject:** Interest in Client Service Representative — biology/bioinformatics graduate
-
-Dear VCA Animal Hospitals Hiring Team,
-
-My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Client Service Representative opportunity with VCA Animal Hospitals at VCA Animal Hospitals.
-
-I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
-
-The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
-
-Best,
-Celina Lin
-https://linkedin.com/in/celina-g-lin
-
-Posting: https://jobright.ai/jobs/info/6a180863ac2d34081458af0b
-
----
-
-## VCA Animal Hospitals — Client Service Representative
-
-**Subject:** Interest in Client Service Representative — biology/bioinformatics graduate
-
-Dear VCA Animal Hospitals Hiring Team,
-
-My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Client Service Representative opportunity with VCA Animal Hospitals at VCA Animal Hospitals.
-
-I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
-
-The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
-
-Best,
-Celina Lin
-https://linkedin.com/in/celina-g-lin
-
-Posting: https://jobright.ai/jobs/info/6a26dbd830042e7539085660
-
----
-
-## VCA Animal Hospitals — Client Service Representative (FULL TIME)
-
-**Subject:** Interest in Client Service Representative (FULL TIME) — biology/bioinformatics graduate
-
-Dear VCA Animal Hospitals Hiring Team,
-
-My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Client Service Representative (FULL TIME) opportunity with VCA Animal Hospitals at VCA Animal Hospitals.
-
-I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
-
-The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
-
-Best,
-Celina Lin
-https://linkedin.com/in/celina-g-lin
-
-Posting: https://jobright.ai/jobs/info/69fe36774b9bbf21744af146
-
----
-
-## VCA Animal Hospitals — Client Service Representative VCA Mountainview
-
-**Subject:** Interest in Client Service Representative VCA Mountainview — biology/bioinformatics graduate
-
-Dear VCA Animal Hospitals Hiring Team,
-
-My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Client Service Representative VCA Mountainview opportunity with VCA Animal Hospitals at VCA Animal Hospitals.
-
-I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
-
-The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
-
-Best,
-Celina Lin
-https://linkedin.com/in/celina-g-lin
-
-Posting: https://jobright.ai/jobs/info/6a2c23a0d3ec94183f4bb67d
-
----
-
-## VCA Animal Hospitals — Client Service Representative
-
-**Subject:** Interest in Client Service Representative — biology/bioinformatics graduate
-
-Dear VCA Animal Hospitals Hiring Team,
-
-My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Client Service Representative opportunity with VCA Animal Hospitals at VCA Animal Hospitals.
-
-I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
-
-The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
-
-Best,
-Celina Lin
-https://linkedin.com/in/celina-g-lin
-
-Posting: https://jobright.ai/jobs/info/69fd8d304b9bbf21744ab8da
-
----
-
-## VCA Animal Hospitals — Client Service Representative
-
-**Subject:** Interest in Client Service Representative — biology/bioinformatics graduate
-
-Dear VCA Animal Hospitals Hiring Team,
-
-My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Client Service Representative opportunity with VCA Animal Hospitals at VCA Animal Hospitals.
-
-I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
-
-The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
-
-Best,
-Celina Lin
-https://linkedin.com/in/celina-g-lin
-
-Posting: https://jobright.ai/jobs/info/6a04795d22395b6dc6d9cd96
-
----
-
-## VCA Animal Hospitals — Client Service Representative
-
-**Subject:** Interest in Client Service Representative — biology/bioinformatics graduate
-
-Dear VCA Animal Hospitals Hiring Team,
-
-My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Client Service Representative opportunity with VCA Animal Hospitals at VCA Animal Hospitals.
-
-I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
-
-The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
-
-Best,
-Celina Lin
-https://linkedin.com/in/celina-g-lin
-
-Posting: https://jobright.ai/jobs/info/6a1057d412f8b43cf39842df
-
----
-
-## VCA Animal Hospitals — Client Service Representative
-
-**Subject:** Interest in Client Service Representative — biology/bioinformatics graduate
-
-Dear VCA Animal Hospitals Hiring Team,
-
-My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Client Service Representative opportunity with VCA Animal Hospitals at VCA Animal Hospitals.
-
-I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
-
-The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
-
-Best,
-Celina Lin
-https://linkedin.com/in/celina-g-lin
-
-Posting: https://jobright.ai/jobs/info/6a10ac8b619335383fb34212
-
----
-
-## VCA Animal Hospitals — Client Service Representative
-
-**Subject:** Interest in Client Service Representative — biology/bioinformatics graduate
-
-Dear VCA Animal Hospitals Hiring Team,
-
-My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Client Service Representative opportunity with VCA Animal Hospitals at VCA Animal Hospitals.
-
-I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
-
-The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
-
-Best,
-Celina Lin
-https://linkedin.com/in/celina-g-lin
-
-Posting: https://jobright.ai/jobs/info/6a26dbd530042e753908565c
-
----
-
-## VCA Animal Hospitals — Client Service Representative
-
-**Subject:** Interest in Client Service Representative — biology/bioinformatics graduate
-
-Dear VCA Animal Hospitals Hiring Team,
-
-My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Client Service Representative opportunity with VCA Animal Hospitals at VCA Animal Hospitals.
-
-I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
-
-The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
-
-Best,
-Celina Lin
-https://linkedin.com/in/celina-g-lin
-
-Posting: https://jobright.ai/jobs/info/6a10ac8d619335383fb34213
-
----
-
-## VCA Animal Hospitals — Client Service Representative
-
-**Subject:** Interest in Client Service Representative — biology/bioinformatics graduate
-
-Dear VCA Animal Hospitals Hiring Team,
-
-My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Client Service Representative opportunity with VCA Animal Hospitals at VCA Animal Hospitals.
-
-I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
-
-The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
-
-Best,
-Celina Lin
-https://linkedin.com/in/celina-g-lin
-
-Posting: https://jobright.ai/jobs/info/6a0604fd320bff2205ea716b
-
----
-
-## VCA Animal Hospitals — Client Services Representative
-
-**Subject:** Interest in Client Services Representative — biology/bioinformatics graduate
-
-Dear VCA Animal Hospitals Hiring Team,
-
-My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Client Services Representative opportunity with VCA Animal Hospitals at VCA Animal Hospitals.
-
-I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
-
-The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
-
-Best,
-Celina Lin
-https://linkedin.com/in/celina-g-lin
-
-Posting: https://jobright.ai/jobs/info/6a441d860153061b8b3df49b
-
----
-
-## VCA Animal Hospitals — Client Service Representative
-
-**Subject:** Interest in Client Service Representative — biology/bioinformatics graduate
-
-Dear VCA Animal Hospitals Hiring Team,
-
-My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Client Service Representative opportunity with VCA Animal Hospitals at VCA Animal Hospitals.
-
-I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
-
-The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
-
-Best,
-Celina Lin
-https://linkedin.com/in/celina-g-lin
-
-Posting: https://jobright.ai/jobs/info/69fe002d4b9bbf21744adc5e
-
----
-
-## VCA Animal Hospitals — Client Service Representative
-
-**Subject:** Interest in Client Service Representative — biology/bioinformatics graduate
-
-Dear VCA Animal Hospitals Hiring Team,
-
-My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Client Service Representative opportunity with VCA Animal Hospitals at VCA Animal Hospitals.
-
-I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
-
-The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
-
-Best,
-Celina Lin
-https://linkedin.com/in/celina-g-lin
-
-Posting: https://jobright.ai/jobs/info/6a0889638f3e371eb6180cb2
-
----
-
-## VCA Animal Hospitals — Customer Service Representative
-
-**Subject:** Interest in Customer Service Representative — biology/bioinformatics graduate
-
-Dear VCA Animal Hospitals Hiring Team,
-
-My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Customer Service Representative opportunity with VCA Animal Hospitals at VCA Animal Hospitals.
-
-I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
-
-The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
-
-Best,
-Celina Lin
-https://linkedin.com/in/celina-g-lin
-
-Posting: https://jobright.ai/jobs/info/6a12dd6183d714428982f400
-
----
-
-## VCA Animal Hospitals — Customer Service Representative
-
-**Subject:** Interest in Customer Service Representative — biology/bioinformatics graduate
-
-Dear VCA Animal Hospitals Hiring Team,
-
-My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Customer Service Representative opportunity with VCA Animal Hospitals at VCA Animal Hospitals.
-
-I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
-
-The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
-
-Best,
-Celina Lin
-https://linkedin.com/in/celina-g-lin
-
-Posting: https://jobright.ai/jobs/info/6a28a084fd37e62bb47aa586
-
----
-
-## VCA Animal Hospitals — Veterinary Client Service Representative (Westlake Village, CA)
-
-**Subject:** Interest in Veterinary Client Service Representative (Westlake Village, CA) — biology/bioinformatics graduate
-
-Dear VCA Animal Hospitals Hiring Team,
-
-My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Veterinary Client Service Representative (Westlake Village, CA) opportunity with VCA Animal Hospitals at VCA Animal Hospitals.
-
-I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
-
-The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
-
-Best,
-Celina Lin
-https://linkedin.com/in/celina-g-lin
-
-Posting: https://jobright.ai/jobs/info/6a46b5f9c2d11a6a46670374
 
 ---
 
@@ -882,26 +1402,6 @@ Posting: https://jobright.ai/jobs/info/6a1081f912f8b43cf39858e3
 
 ---
 
-## The Boys'​ Club of New York — Physical Education Program Coordinator
-
-**Subject:** Interest in Physical Education Program Coordinator — biology/bioinformatics graduate
-
-Dear The Boys'​ Club of New York Hiring Team,
-
-My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Physical Education Program Coordinator opportunity with The Boys'​ Club of New York at The Boys'​ Club of New York.
-
-I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
-
-The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
-
-Best,
-Celina Lin
-https://linkedin.com/in/celina-g-lin
-
-Posting: https://jobright.ai/jobs/info/6a21a546c00e701fe836fa8c
-
----
-
 ## The Boys'​ Club of New York — Physical Education Program Coordinator - East Harlem
 
 **Subject:** Interest in Physical Education Program Coordinator - East Harlem — biology/bioinformatics graduate
@@ -922,13 +1422,13 @@ Posting: https://jobright.ai/jobs/info/6a11466312f8b43cf3989f0b
 
 ---
 
-## Texas Tech University — Academic Analyst
+## The Boys'​ Club of New York — Physical Education Program Coordinator
 
-**Subject:** Interest in Academic Analyst — biology/bioinformatics graduate
+**Subject:** Interest in Physical Education Program Coordinator — biology/bioinformatics graduate
 
-Dear Texas Tech University Hiring Team,
+Dear The Boys'​ Club of New York Hiring Team,
 
-My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Academic Analyst opportunity with Texas Tech University at Texas Tech University.
+My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Physical Education Program Coordinator opportunity with The Boys'​ Club of New York at The Boys'​ Club of New York.
 
 I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
 
@@ -938,7 +1438,7 @@ Best,
 Celina Lin
 https://linkedin.com/in/celina-g-lin
 
-Posting: https://jobright.ai/jobs/info/6a3fe2989dd7f954cafe7547
+Posting: https://jobright.ai/jobs/info/6a21a546c00e701fe836fa8c
 
 ---
 
@@ -1018,7 +1518,47 @@ Best,
 Celina Lin
 https://linkedin.com/in/celina-g-lin
 
+Posting: https://jobright.ai/jobs/info/6a2b010f2cde2824469c480a
+
+---
+
+## SS&C Technologies — Associate Learning & Development Specialist - Healthcare Call Center
+
+**Subject:** Interest in Associate Learning & Development Specialist - Healthcare Call Center — biology/bioinformatics graduate
+
+Dear SS&C Technologies Hiring Team,
+
+My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Associate Learning & Development Specialist - Healthcare Call Center opportunity with SS&C Technologies at SS&C Technologies.
+
+I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
+
+The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
+
+Best,
+Celina Lin
+https://linkedin.com/in/celina-g-lin
+
 Posting: https://jobright.ai/jobs/info/6a2c1832a1d15e3c552f9fcb
+
+---
+
+## SS&C Technologies — Associate Learning & Development Specialist - Healthcare Call Center
+
+**Subject:** Interest in Associate Learning & Development Specialist - Healthcare Call Center — biology/bioinformatics graduate
+
+Dear SS&C Technologies Hiring Team,
+
+My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Associate Learning & Development Specialist - Healthcare Call Center opportunity with SS&C Technologies at SS&C Technologies.
+
+I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
+
+The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
+
+Best,
+Celina Lin
+https://linkedin.com/in/celina-g-lin
+
+Posting: https://jobright.ai/jobs/info/6a2ad5e20ad4053b108c8f5b
 
 ---
 
@@ -1078,7 +1618,7 @@ Best,
 Celina Lin
 https://linkedin.com/in/celina-g-lin
 
-Posting: https://jobright.ai/jobs/info/6a2ad3dc0ad4053b108c8ef4
+Posting: https://jobright.ai/jobs/info/6a2bf3fed3ec94183f4baaa6
 
 ---
 
@@ -1098,7 +1638,7 @@ Best,
 Celina Lin
 https://linkedin.com/in/celina-g-lin
 
-Posting: https://jobright.ai/jobs/info/6a2bf3fed3ec94183f4baaa6
+Posting: https://jobright.ai/jobs/info/6a2ad3dc0ad4053b108c8ef4
 
 ---
 
@@ -1138,7 +1678,7 @@ Best,
 Celina Lin
 https://linkedin.com/in/celina-g-lin
 
-Posting: https://jobright.ai/jobs/info/6a2bf347f1751b183c8162a1
+Posting: https://jobright.ai/jobs/info/6a2ab9289bf7365df089a158
 
 ---
 
@@ -1178,6 +1718,26 @@ Best,
 Celina Lin
 https://linkedin.com/in/celina-g-lin
 
+Posting: https://jobright.ai/jobs/info/6a2b010f0ad4053b108ca20d
+
+---
+
+## SS&C Technologies — Associate Learning & Development Specialist - Healthcare Call Center
+
+**Subject:** Interest in Associate Learning & Development Specialist - Healthcare Call Center — biology/bioinformatics graduate
+
+Dear SS&C Technologies Hiring Team,
+
+My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Associate Learning & Development Specialist - Healthcare Call Center opportunity with SS&C Technologies at SS&C Technologies.
+
+I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
+
+The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
+
+Best,
+Celina Lin
+https://linkedin.com/in/celina-g-lin
+
 Posting: https://jobright.ai/jobs/info/6a2ad5e22cde2824469c34ac
 
 ---
@@ -1198,27 +1758,7 @@ Best,
 Celina Lin
 https://linkedin.com/in/celina-g-lin
 
-Posting: https://jobright.ai/jobs/info/6a2ab9289bf7365df089a158
-
----
-
-## SS&C Technologies — Associate Learning & Development Specialist - Healthcare Call Center
-
-**Subject:** Interest in Associate Learning & Development Specialist - Healthcare Call Center — biology/bioinformatics graduate
-
-Dear SS&C Technologies Hiring Team,
-
-My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Associate Learning & Development Specialist - Healthcare Call Center opportunity with SS&C Technologies at SS&C Technologies.
-
-I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
-
-The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
-
-Best,
-Celina Lin
-https://linkedin.com/in/celina-g-lin
-
-Posting: https://jobright.ai/jobs/info/6a2b010f0ad4053b108ca20d
+Posting: https://jobright.ai/jobs/info/6a2bf347f1751b183c8162a1
 
 ---
 
@@ -1602,66 +2142,6 @@ Posting: https://jobright.ai/jobs/info/6a46bd1a4f64ba41dcb54a6e
 
 ---
 
-## Intuitive — Endoluminal Territory Associate - Future Opportunity
-
-**Subject:** Interest in Endoluminal Territory Associate - Future Opportunity — biology/bioinformatics graduate
-
-Dear Intuitive Hiring Team,
-
-My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Endoluminal Territory Associate - Future Opportunity opportunity with Intuitive at Intuitive.
-
-I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
-
-The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
-
-Best,
-Celina Lin
-https://linkedin.com/in/celina-g-lin
-
-Posting: https://jobright.ai/jobs/info/6a09d7c08f3e371eb618647e
-
----
-
-## IQVIA — Clinical Research Associate - Sponsor Dedicated
-
-**Subject:** Interest in Clinical Research Associate - Sponsor Dedicated — biology/bioinformatics graduate
-
-Dear IQVIA Hiring Team,
-
-My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Clinical Research Associate - Sponsor Dedicated opportunity with IQVIA at IQVIA.
-
-I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
-
-The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
-
-Best,
-Celina Lin
-https://linkedin.com/in/celina-g-lin
-
-Posting: https://jobright.ai/jobs/info/6a1e2fa73e538a28c204ea57
-
----
-
-## IQVIA — Clinical Research Associate - Sponsor Dedicated
-
-**Subject:** Interest in Clinical Research Associate - Sponsor Dedicated — biology/bioinformatics graduate
-
-Dear IQVIA Hiring Team,
-
-My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Clinical Research Associate - Sponsor Dedicated opportunity with IQVIA at IQVIA.
-
-I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
-
-The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
-
-Best,
-Celina Lin
-https://linkedin.com/in/celina-g-lin
-
-Posting: https://jobright.ai/jobs/info/6a1e2fa63e538a28c204ea56
-
----
-
 ## IQVIA — Clinical Research Associate, IQVIA Biotech
 
 **Subject:** Interest in Clinical Research Associate, IQVIA Biotech — biology/bioinformatics graduate
@@ -1802,106 +2282,6 @@ Posting: https://jobright.ai/jobs/info/6a46d31f8204a812e98ca1c2
 
 ---
 
-## Banfield Pet Hospital — Client Service Representative- PT 5114
-
-**Subject:** Interest in Client Service Representative- PT 5114 — biology/bioinformatics graduate
-
-Dear Banfield Pet Hospital Hiring Team,
-
-My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Client Service Representative- PT 5114 opportunity with Banfield Pet Hospital at Banfield Pet Hospital.
-
-I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
-
-The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
-
-Best,
-Celina Lin
-https://linkedin.com/in/celina-g-lin
-
-Posting: https://jobright.ai/jobs/info/6a47db9d5d7b097d2df388a7
-
----
-
-## Banfield Pet Hospital — Client Service Representative (FULL TIME)
-
-**Subject:** Interest in Client Service Representative (FULL TIME) — biology/bioinformatics graduate
-
-Dear Banfield Pet Hospital Hiring Team,
-
-My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Client Service Representative (FULL TIME) opportunity with Banfield Pet Hospital at Banfield Pet Hospital.
-
-I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
-
-The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
-
-Best,
-Celina Lin
-https://linkedin.com/in/celina-g-lin
-
-Posting: https://jobright.ai/jobs/info/6a4614db0dd56c76cc2f5a82
-
----
-
-## Banfield Pet Hospital — Client Service Coordinator - 000457
-
-**Subject:** Interest in Client Service Coordinator - 000457 — biology/bioinformatics graduate
-
-Dear Banfield Pet Hospital Hiring Team,
-
-My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Client Service Coordinator - 000457 opportunity with Banfield Pet Hospital at Banfield Pet Hospital.
-
-I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
-
-The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
-
-Best,
-Celina Lin
-https://linkedin.com/in/celina-g-lin
-
-Posting: https://jobright.ai/jobs/info/6a47febec2d11a6a4667390c
-
----
-
-## Banfield Pet Hospital — Client Service Coordinator/Veterinary Receptionist- Mill Creek
-
-**Subject:** Interest in Client Service Coordinator/Veterinary Receptionist- Mill Creek — biology/bioinformatics graduate
-
-Dear Banfield Pet Hospital Hiring Team,
-
-My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Client Service Coordinator/Veterinary Receptionist- Mill Creek opportunity with Banfield Pet Hospital at Banfield Pet Hospital.
-
-I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
-
-The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
-
-Best,
-Celina Lin
-https://linkedin.com/in/celina-g-lin
-
-Posting: https://jobright.ai/jobs/info/6a46cbcfc2d11a6a4667086f
-
----
-
-## Banfield Pet Hospital — Client Service Coordinator - 001078
-
-**Subject:** Interest in Client Service Coordinator - 001078 — biology/bioinformatics graduate
-
-Dear Banfield Pet Hospital Hiring Team,
-
-My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Client Service Coordinator - 001078 opportunity with Banfield Pet Hospital at Banfield Pet Hospital.
-
-I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
-
-The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
-
-Best,
-Celina Lin
-https://linkedin.com/in/celina-g-lin
-
-Posting: https://jobright.ai/jobs/info/6a47e40b4f64ba41dcb5799f
-
----
-
 ## Aviation Institute of Maintenance — Campus Testing Administrator
 
 **Subject:** Interest in Campus Testing Administrator — biology/bioinformatics graduate
@@ -1922,26 +2302,6 @@ Posting: https://jobright.ai/jobs/info/6a47fa54c2d11a6a4667388c
 
 ---
 
-## Amazon — Delivery Trainer, RSR
-
-**Subject:** Interest in Delivery Trainer, RSR — biology/bioinformatics graduate
-
-Dear Amazon Hiring Team,
-
-My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Delivery Trainer, RSR opportunity with Amazon at Amazon.
-
-I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
-
-The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
-
-Best,
-Celina Lin
-https://linkedin.com/in/celina-g-lin
-
-Posting: https://jobright.ai/jobs/info/698173b97f40342e15da7e9c
-
----
-
 ## Alliance Clinical Network — Assistant Clinical Research Coordinator
 
 **Subject:** Interest in Assistant Clinical Research Coordinator — biology/bioinformatics graduate
@@ -1959,46 +2319,6 @@ Celina Lin
 https://linkedin.com/in/celina-g-lin
 
 Posting: https://jobright.ai/jobs/info/6a31c30d0ff23769fdb20324
-
----
-
-## Aimbridge Hospitality — SpringHill Suites Newark Liberty International Air - Front Desk Agent
-
-**Subject:** Interest in SpringHill Suites Newark Liberty International Air - Front Desk Agent — biology/bioinformatics graduate
-
-Dear Aimbridge Hospitality Hiring Team,
-
-My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the SpringHill Suites Newark Liberty International Air - Front Desk Agent opportunity with Aimbridge Hospitality at Aimbridge Hospitality.
-
-I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
-
-The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
-
-Best,
-Celina Lin
-https://linkedin.com/in/celina-g-lin
-
-Posting: https://jobright.ai/jobs/info/6a3593d8ce501060b5cf4ed5
-
----
-
-## lululemon — Educator / Chicago
-
-**Subject:** Interest in Educator / Chicago — biology/bioinformatics graduate
-
-Dear lululemon Hiring Team,
-
-My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Educator / Chicago opportunity with lululemon at lululemon.
-
-I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
-
-The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
-
-Best,
-Celina Lin
-https://linkedin.com/in/celina-g-lin
-
-Posting: https://jobright.ai/jobs/info/69ba85ba5697383741400d66
 
 ---
 
@@ -2219,26 +2539,6 @@ Celina Lin
 https://linkedin.com/in/celina-g-lin
 
 Posting: https://jobright.ai/jobs/info/6a45ba96076271587529dec0
-
----
-
-## University of Washington — Research Study Assistant
-
-**Subject:** Interest in Research Study Assistant — biology/bioinformatics graduate
-
-Dear University of Washington Hiring Team,
-
-My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Research Study Assistant opportunity with University of Washington at University of Washington.
-
-I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
-
-The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
-
-Best,
-Celina Lin
-https://linkedin.com/in/celina-g-lin
-
-Posting: https://jobright.ai/jobs/info/6a4619edc2d11a6a4666b96c
 
 ---
 
@@ -2662,6 +2962,26 @@ Posting: https://jobright.ai/jobs/info/6a46373ec2d11a6a4666d1a4
 
 ---
 
+## The University of Texas at Austin — Human Resources Student Associate - WSL
+
+**Subject:** Interest in Human Resources Student Associate - WSL — biology/bioinformatics graduate
+
+Dear The University of Texas at Austin Hiring Team,
+
+My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Human Resources Student Associate - WSL opportunity with The University of Texas at Austin at The University of Texas at Austin.
+
+I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
+
+The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
+
+Best,
+Celina Lin
+https://linkedin.com/in/celina-g-lin
+
+Posting: https://jobright.ai/jobs/info/6a49e9ecc2d11a6a466764a2
+
+---
+
 ## The US Oncology Network — Research Assistant
 
 **Subject:** Interest in Research Assistant — biology/bioinformatics graduate
@@ -2858,6 +3178,46 @@ Best,
 Celina Lin
 https://linkedin.com/in/celina-g-lin
 
+Posting: https://jobright.ai/jobs/info/6a2aa3f31de59e0682a85379
+
+---
+
+## SS&C Technologies — Associate Learning & Development Specialist - Healthcare Call Center
+
+**Subject:** Interest in Associate Learning & Development Specialist - Healthcare Call Center — biology/bioinformatics graduate
+
+Dear SS&C Technologies Hiring Team,
+
+My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Associate Learning & Development Specialist - Healthcare Call Center opportunity with SS&C Technologies at SS&C Technologies.
+
+I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
+
+The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
+
+Best,
+Celina Lin
+https://linkedin.com/in/celina-g-lin
+
+Posting: https://jobright.ai/jobs/info/6a2aae762cde2824469c29f3
+
+---
+
+## SS&C Technologies — Associate Learning & Development Specialist - Healthcare Call Center
+
+**Subject:** Interest in Associate Learning & Development Specialist - Healthcare Call Center — biology/bioinformatics graduate
+
+Dear SS&C Technologies Hiring Team,
+
+My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Associate Learning & Development Specialist - Healthcare Call Center opportunity with SS&C Technologies at SS&C Technologies.
+
+I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
+
+The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
+
+Best,
+Celina Lin
+https://linkedin.com/in/celina-g-lin
+
 Posting: https://jobright.ai/jobs/info/6a2aa651c07d4b6ae1c46942
 
 ---
@@ -2918,7 +3278,7 @@ Best,
 Celina Lin
 https://linkedin.com/in/celina-g-lin
 
-Posting: https://jobright.ai/jobs/info/6a2aafdfd3ec8317fe1449e8
+Posting: https://jobright.ai/jobs/info/6a2aa6a2d3ec8317fe14472c
 
 ---
 
@@ -2938,7 +3298,7 @@ Best,
 Celina Lin
 https://linkedin.com/in/celina-g-lin
 
-Posting: https://jobright.ai/jobs/info/6a2aa6a2d3ec8317fe14472c
+Posting: https://jobright.ai/jobs/info/6a2aafdfd3ec8317fe1449e8
 
 ---
 
@@ -3418,66 +3778,6 @@ Best,
 Celina Lin
 https://linkedin.com/in/celina-g-lin
 
-Posting: https://jobright.ai/jobs/info/6a159d43dc845f4be5bd730d
-
----
-
-## IQVIA — Clinical Research Associate, Sponsor Dedicated, IQVIA
-
-**Subject:** Interest in Clinical Research Associate, Sponsor Dedicated, IQVIA — biology/bioinformatics graduate
-
-Dear IQVIA Hiring Team,
-
-My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Clinical Research Associate, Sponsor Dedicated, IQVIA opportunity with IQVIA at IQVIA.
-
-I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
-
-The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
-
-Best,
-Celina Lin
-https://linkedin.com/in/celina-g-lin
-
-Posting: https://jobright.ai/jobs/info/69d40882366bb95ba5539cf1
-
----
-
-## IQVIA — Clinical Research Associate, IQVIA Biotech
-
-**Subject:** Interest in Clinical Research Associate, IQVIA Biotech — biology/bioinformatics graduate
-
-Dear IQVIA Hiring Team,
-
-My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Clinical Research Associate, IQVIA Biotech opportunity with IQVIA at IQVIA.
-
-I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
-
-The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
-
-Best,
-Celina Lin
-https://linkedin.com/in/celina-g-lin
-
-Posting: https://jobright.ai/jobs/info/6a159d43dc845f4be5bd730e
-
----
-
-## IQVIA — Clinical Research Associate, IQVIA Biotech
-
-**Subject:** Interest in Clinical Research Associate, IQVIA Biotech — biology/bioinformatics graduate
-
-Dear IQVIA Hiring Team,
-
-My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Clinical Research Associate, IQVIA Biotech opportunity with IQVIA at IQVIA.
-
-I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
-
-The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
-
-Best,
-Celina Lin
-https://linkedin.com/in/celina-g-lin
-
 Posting: https://jobright.ai/jobs/info/6a159d47dc845f4be5bd7312
 
 ---
@@ -3522,6 +3822,86 @@ Posting: https://jobright.ai/jobs/info/6a159d46dc845f4be5bd7311
 
 ---
 
+## IQVIA — Clinical Research Associate, IQVIA Biotech
+
+**Subject:** Interest in Clinical Research Associate, IQVIA Biotech — biology/bioinformatics graduate
+
+Dear IQVIA Hiring Team,
+
+My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Clinical Research Associate, IQVIA Biotech opportunity with IQVIA at IQVIA.
+
+I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
+
+The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
+
+Best,
+Celina Lin
+https://linkedin.com/in/celina-g-lin
+
+Posting: https://jobright.ai/jobs/info/6a159d43dc845f4be5bd730d
+
+---
+
+## IQVIA — Clinical Research Associate, Sponsor Dedicated, IQVIA
+
+**Subject:** Interest in Clinical Research Associate, Sponsor Dedicated, IQVIA — biology/bioinformatics graduate
+
+Dear IQVIA Hiring Team,
+
+My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Clinical Research Associate, Sponsor Dedicated, IQVIA opportunity with IQVIA at IQVIA.
+
+I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
+
+The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
+
+Best,
+Celina Lin
+https://linkedin.com/in/celina-g-lin
+
+Posting: https://jobright.ai/jobs/info/69d40882366bb95ba5539cf1
+
+---
+
+## IQVIA — Clinical Research Associate, IQVIA Biotech
+
+**Subject:** Interest in Clinical Research Associate, IQVIA Biotech — biology/bioinformatics graduate
+
+Dear IQVIA Hiring Team,
+
+My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Clinical Research Associate, IQVIA Biotech opportunity with IQVIA at IQVIA.
+
+I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
+
+The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
+
+Best,
+Celina Lin
+https://linkedin.com/in/celina-g-lin
+
+Posting: https://jobright.ai/jobs/info/6a159d43dc845f4be5bd730e
+
+---
+
+## IQVIA — Clinical Research Associate - Sponsor Dedicated
+
+**Subject:** Interest in Clinical Research Associate - Sponsor Dedicated — biology/bioinformatics graduate
+
+Dear IQVIA Hiring Team,
+
+My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Clinical Research Associate - Sponsor Dedicated opportunity with IQVIA at IQVIA.
+
+I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
+
+The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
+
+Best,
+Celina Lin
+https://linkedin.com/in/celina-g-lin
+
+Posting: https://jobright.ai/jobs/info/6a1bc5b1547e292ae139ec8c
+
+---
+
 ## Grand Valley State University — Testing Services Specialist - Student Accessibility Resources
 
 **Subject:** Interest in Testing Services Specialist - Student Accessibility Resources — biology/bioinformatics graduate
@@ -3562,26 +3942,6 @@ Posting: https://jobright.ai/jobs/info/6a44964057ffc22029407a01
 
 ---
 
-## Gopuff — Operations Associate, University Park, #602
-
-**Subject:** Interest in Operations Associate, University Park, #602 — biology/bioinformatics graduate
-
-Dear Gopuff Hiring Team,
-
-My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Operations Associate, University Park, #602 opportunity with Gopuff at Gopuff.
-
-I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
-
-The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
-
-Best,
-Celina Lin
-https://linkedin.com/in/celina-g-lin
-
-Posting: https://jobright.ai/jobs/info/6a19be17547e292ae13947d1
-
----
-
 ## Gopuff — Operations Associate, University of Texas, #1630
 
 **Subject:** Interest in Operations Associate, University of Texas, #1630 — biology/bioinformatics graduate
@@ -3602,13 +3962,13 @@ Posting: https://jobright.ai/jobs/info/6a1e5b728049156781163139
 
 ---
 
-## Gopuff — Operations Associate, University Park, #117
+## Gopuff — Operations Associate, University Park, #602
 
-**Subject:** Interest in Operations Associate, University Park, #117 — biology/bioinformatics graduate
+**Subject:** Interest in Operations Associate, University Park, #602 — biology/bioinformatics graduate
 
 Dear Gopuff Hiring Team,
 
-My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Operations Associate, University Park, #117 opportunity with Gopuff at Gopuff.
+My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Operations Associate, University Park, #602 opportunity with Gopuff at Gopuff.
 
 I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
 
@@ -3618,7 +3978,7 @@ Best,
 Celina Lin
 https://linkedin.com/in/celina-g-lin
 
-Posting: https://jobright.ai/jobs/info/69f74d9cdb88714bcdfb8d8f
+Posting: https://jobright.ai/jobs/info/69f76c84a3d34b4f76f5b8d0
 
 ---
 
@@ -3638,7 +3998,27 @@ Best,
 Celina Lin
 https://linkedin.com/in/celina-g-lin
 
-Posting: https://jobright.ai/jobs/info/69f76c84a3d34b4f76f5b8d0
+Posting: https://jobright.ai/jobs/info/6a19be17547e292ae13947d1
+
+---
+
+## Gopuff — Operations Associate, University Park, #117
+
+**Subject:** Interest in Operations Associate, University Park, #117 — biology/bioinformatics graduate
+
+Dear Gopuff Hiring Team,
+
+My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Operations Associate, University Park, #117 opportunity with Gopuff at Gopuff.
+
+I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
+
+The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
+
+Best,
+Celina Lin
+https://linkedin.com/in/celina-g-lin
+
+Posting: https://jobright.ai/jobs/info/69f74d9cdb88714bcdfb8d8f
 
 ---
 
@@ -3678,7 +4058,7 @@ Best,
 Celina Lin
 https://linkedin.com/in/celina-g-lin
 
-Posting: https://jobright.ai/jobs/info/6a086b588f3e371eb61803db
+Posting: https://jobright.ai/jobs/info/6a086b588f3e371eb61803dc
 
 ---
 
@@ -3698,7 +4078,7 @@ Best,
 Celina Lin
 https://linkedin.com/in/celina-g-lin
 
-Posting: https://jobright.ai/jobs/info/6a086b588f3e371eb61803dc
+Posting: https://jobright.ai/jobs/info/6a086b588f3e371eb61803db
 
 ---
 
@@ -3739,26 +4119,6 @@ Celina Lin
 https://linkedin.com/in/celina-g-lin
 
 Posting: https://jobright.ai/jobs/info/6a469964971cd25b06f8f6e5
-
----
-
-## East Texas A&M University — Graduate Program Coordinator II
-
-**Subject:** Interest in Graduate Program Coordinator II — biology/bioinformatics graduate
-
-Dear East Texas A&M University Hiring Team,
-
-My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Graduate Program Coordinator II opportunity with East Texas A&M University at East Texas A&M University.
-
-I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
-
-The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
-
-Best,
-Celina Lin
-https://linkedin.com/in/celina-g-lin
-
-Posting: https://jobright.ai/jobs/info/6a4679220dd56c76cc2f9890
 
 ---
 
@@ -4182,26 +4542,6 @@ Posting: https://jobright.ai/jobs/info/6a4310c56c326942b4e85153
 
 ---
 
-## Ann & Robert H. Lurie Children's Hospital of Chicago — Administrative Fellow
-
-**Subject:** Interest in Administrative Fellow — biology/bioinformatics graduate
-
-Dear Ann & Robert H. Lurie Children's Hospital of Chicago Hiring Team,
-
-My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Administrative Fellow opportunity with Ann & Robert H. Lurie Children's Hospital of Chicago at Ann & Robert H. Lurie Children's Hospital of Chicago.
-
-I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
-
-The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
-
-Best,
-Celina Lin
-https://linkedin.com/in/celina-g-lin
-
-Posting: https://jobright.ai/jobs/info/6a4625a907627158752a0754
-
----
-
 ## American Enterprise Institute — Iran Analyst, Critical Threats Project
 
 **Subject:** Interest in Iran Analyst, Critical Threats Project — biology/bioinformatics graduate
@@ -4479,6 +4819,26 @@ Celina Lin
 https://linkedin.com/in/celina-g-lin
 
 Posting: https://jobright.ai/jobs/info/6a456f8bc2d11a6a466692a9
+
+---
+
+## The University of Texas at Austin — Student Social Media Associate
+
+**Subject:** Interest in Student Social Media Associate — biology/bioinformatics graduate
+
+Dear The University of Texas at Austin Hiring Team,
+
+My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Student Social Media Associate opportunity with The University of Texas at Austin at The University of Texas at Austin.
+
+I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
+
+The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
+
+Best,
+Celina Lin
+https://linkedin.com/in/celina-g-lin
+
+Posting: https://jobright.ai/jobs/info/6a4637423dbab558e29a54df
 
 ---
 
@@ -4882,26 +5242,6 @@ Posting: https://jobright.ai/jobs/info/6a2f09f4c260bb1b8ae1adda
 
 ---
 
-## New York Institute of Technology — Administrative Specialist
-
-**Subject:** Interest in Administrative Specialist — biology/bioinformatics graduate
-
-Dear New York Institute of Technology Hiring Team,
-
-My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Administrative Specialist opportunity with New York Institute of Technology at New York Institute of Technology.
-
-I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
-
-The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
-
-Best,
-Celina Lin
-https://linkedin.com/in/celina-g-lin
-
-Posting: https://jobright.ai/jobs/info/6a4523084f64ba41dcb4c610
-
----
-
 ## New England College of Optometry — Clinical Research Coordinator
 
 **Subject:** Interest in Clinical Research Coordinator — biology/bioinformatics graduate
@@ -5042,13 +5382,13 @@ Posting: https://jobright.ai/jobs/info/6a4569f0971cd25b06f88c73
 
 ---
 
-## Mount Sinai Health System — Clinical Research Coordinator I -Cardiology
+## Mount Sinai Health System — Clinical Research Coordinator I - Cardiology
 
-**Subject:** Interest in Clinical Research Coordinator I -Cardiology — biology/bioinformatics graduate
+**Subject:** Interest in Clinical Research Coordinator I - Cardiology — biology/bioinformatics graduate
 
 Dear Mount Sinai Health System Hiring Team,
 
-My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Clinical Research Coordinator I -Cardiology opportunity with Mount Sinai Health System at Mount Sinai Health System.
+My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Clinical Research Coordinator I - Cardiology opportunity with Mount Sinai Health System at Mount Sinai Health System.
 
 I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
 
@@ -5058,7 +5398,7 @@ Best,
 Celina Lin
 https://linkedin.com/in/celina-g-lin
 
-Posting: https://jobright.ai/jobs/info/6a1f6f8e09442629a685a999
+Posting: https://jobright.ai/jobs/info/6a2fad02eace377055eb3316
 
 ---
 
@@ -5262,6 +5602,26 @@ Posting: https://jobright.ai/jobs/info/699fac1cd643757b0e4529ff
 
 ---
 
+## Joliet Junior College — Testing Assistant
+
+**Subject:** Interest in Testing Assistant — biology/bioinformatics graduate
+
+Dear Joliet Junior College Hiring Team,
+
+My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Testing Assistant opportunity with Joliet Junior College at Joliet Junior College.
+
+I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
+
+The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
+
+Best,
+Celina Lin
+https://linkedin.com/in/celina-g-lin
+
+Posting: https://jobright.ai/jobs/info/6a4629483dbab558e29a4cc5
+
+---
+
 ## International Center of Photography — Open Education Administrative Assistant
 
 **Subject:** Interest in Open Education Administrative Assistant — biology/bioinformatics graduate
@@ -5298,7 +5658,7 @@ Best,
 Celina Lin
 https://linkedin.com/in/celina-g-lin
 
-Posting: https://jobright.ai/jobs/info/69f0fb4d62b48c6838792e57
+Posting: https://jobright.ai/jobs/info/6a0c82e9963f7a67d95d874c
 
 ---
 
@@ -5319,26 +5679,6 @@ Celina Lin
 https://linkedin.com/in/celina-g-lin
 
 Posting: https://jobright.ai/jobs/info/69f0f5188d8d624381a9964f
-
----
-
-## IQVIA — Clinical Research Associate - Sponsor Dedicated
-
-**Subject:** Interest in Clinical Research Associate - Sponsor Dedicated — biology/bioinformatics graduate
-
-Dear IQVIA Hiring Team,
-
-My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Clinical Research Associate - Sponsor Dedicated opportunity with IQVIA at IQVIA.
-
-I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
-
-The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
-
-Best,
-Celina Lin
-https://linkedin.com/in/celina-g-lin
-
-Posting: https://jobright.ai/jobs/info/69f0f50fb27fee43e8cd6602
 
 ---
 
@@ -5722,13 +6062,13 @@ Posting: https://jobright.ai/jobs/info/6a423cad1cc9cc2b12feb01f
 
 ---
 
-## American University — Research/Teaching Assistant (Student)
+## Ann & Robert H. Lurie Children's Hospital of Chicago — Administrative Fellow
 
-**Subject:** Interest in Research/Teaching Assistant (Student) — biology/bioinformatics graduate
+**Subject:** Interest in Administrative Fellow — biology/bioinformatics graduate
 
-Dear American University Hiring Team,
+Dear Ann & Robert H. Lurie Children's Hospital of Chicago Hiring Team,
 
-My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Research/Teaching Assistant (Student) opportunity with American University at American University.
+My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Administrative Fellow opportunity with Ann & Robert H. Lurie Children's Hospital of Chicago at Ann & Robert H. Lurie Children's Hospital of Chicago.
 
 I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
 
@@ -5738,7 +6078,27 @@ Best,
 Celina Lin
 https://linkedin.com/in/celina-g-lin
 
-Posting: https://jobright.ai/jobs/info/6a2aeec40ad4053b108c9a77
+Posting: https://jobright.ai/jobs/info/6a4625a907627158752a0754
+
+---
+
+## American University — Research/Teaching Assistant (Student) (FWS)
+
+**Subject:** Interest in Research/Teaching Assistant (Student) (FWS) — biology/bioinformatics graduate
+
+Dear American University Hiring Team,
+
+My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Research/Teaching Assistant (Student) (FWS) opportunity with American University at American University.
+
+I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
+
+The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
+
+Best,
+Celina Lin
+https://linkedin.com/in/celina-g-lin
+
+Posting: https://jobright.ai/jobs/info/6a2aeecbc07d4b6ae1c4824b
 
 ---
 
@@ -5782,13 +6142,13 @@ Posting: https://jobright.ai/jobs/info/6a2aeecbc07d4b6ae1c4824c
 
 ---
 
-## American University — Research/Teaching Assistant (Student) (FWS)
+## American University — Research/Teaching Assistant (Student)
 
-**Subject:** Interest in Research/Teaching Assistant (Student) (FWS) — biology/bioinformatics graduate
+**Subject:** Interest in Research/Teaching Assistant (Student) — biology/bioinformatics graduate
 
 Dear American University Hiring Team,
 
-My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Research/Teaching Assistant (Student) (FWS) opportunity with American University at American University.
+My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Research/Teaching Assistant (Student) opportunity with American University at American University.
 
 I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
 
@@ -5798,7 +6158,7 @@ Best,
 Celina Lin
 https://linkedin.com/in/celina-g-lin
 
-Posting: https://jobright.ai/jobs/info/6a2aeecbc07d4b6ae1c4824b
+Posting: https://jobright.ai/jobs/info/6a2aeec40ad4053b108c9a77
 
 ---
 
@@ -5922,26 +6282,6 @@ Posting: https://jobright.ai/jobs/info/6a432f09cbf92c7bcd36e468
 
 ---
 
-## YMCA of Greater Houston — Youth Development Site Lead - Bartlett Elementary (Conroe)
-
-**Subject:** Interest in Youth Development Site Lead - Bartlett Elementary (Conroe) — biology/bioinformatics graduate
-
-Dear YMCA of Greater Houston Hiring Team,
-
-My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Youth Development Site Lead - Bartlett Elementary (Conroe) opportunity with YMCA of Greater Houston at YMCA of Greater Houston.
-
-I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
-
-The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
-
-Best,
-Celina Lin
-https://linkedin.com/in/celina-g-lin
-
-Posting: https://jobright.ai/jobs/info/6a449eebb156014e414bcd3f
-
----
-
 ## YMCA of Greater Houston — Youth Development Counselor - Wilkinson Elementary (Conroe)
 
 **Subject:** Interest in Youth Development Counselor - Wilkinson Elementary (Conroe) — biology/bioinformatics graduate
@@ -6059,6 +6399,26 @@ Celina Lin
 https://linkedin.com/in/celina-g-lin
 
 Posting: https://jobright.ai/jobs/info/6a4866c84f64ba41dcb58e5d
+
+---
+
+## University of Washington — Research Study Assistant
+
+**Subject:** Interest in Research Study Assistant — biology/bioinformatics graduate
+
+Dear University of Washington Hiring Team,
+
+My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Research Study Assistant opportunity with University of Washington at University of Washington.
+
+I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
+
+The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
+
+Best,
+Celina Lin
+https://linkedin.com/in/celina-g-lin
+
+Posting: https://jobright.ai/jobs/info/6a4619edc2d11a6a4666b96c
 
 ---
 
@@ -6422,6 +6782,26 @@ Posting: https://jobright.ai/jobs/info/6a461fdb3dbab558e29a41f6
 
 ---
 
+## Northwestern University — Associate Clinical Research Coordinator
+
+**Subject:** Interest in Associate Clinical Research Coordinator — biology/bioinformatics graduate
+
+Dear Northwestern University Hiring Team,
+
+My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Associate Clinical Research Coordinator opportunity with Northwestern University at Northwestern University.
+
+I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
+
+The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
+
+Best,
+Celina Lin
+https://linkedin.com/in/celina-g-lin
+
+Posting: https://jobright.ai/jobs/info/6a49c56d3dbab558e29ae846
+
+---
+
 ## NorthStar Memorial Group — Community Development Advisor
 
 **Subject:** Interest in Community Development Advisor — biology/bioinformatics graduate
@@ -6582,26 +6962,6 @@ Posting: https://jobright.ai/jobs/info/6a4413590153061b8b3df2ff
 
 ---
 
-## Kaplan — Student Brand Ambassador - University of California (UC) - Los Angeles
-
-**Subject:** Interest in Student Brand Ambassador - University of California (UC) - Los Angeles — biology/bioinformatics graduate
-
-Dear Kaplan Hiring Team,
-
-My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Student Brand Ambassador - University of California (UC) - Los Angeles opportunity with Kaplan at Kaplan.
-
-I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
-
-The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
-
-Best,
-Celina Lin
-https://linkedin.com/in/celina-g-lin
-
-Posting: https://jobright.ai/jobs/info/6a462be24f64ba41dcb5112e
-
----
-
 ## Kaplan — Student Brand Ambassador - Purdue University (West Lafayette)
 
 **Subject:** Interest in Student Brand Ambassador - Purdue University (West Lafayette) — biology/bioinformatics graduate
@@ -6622,13 +6982,13 @@ Posting: https://jobright.ai/jobs/info/6a462bc6971cd25b06f8c630
 
 ---
 
-## Kaplan — Student Brand Ambassador Ohio State University (Main Campus)
+## Kaplan — Student Brand Ambassador - University of California (UC) - Los Angeles
 
-**Subject:** Interest in Student Brand Ambassador Ohio State University (Main Campus) — biology/bioinformatics graduate
+**Subject:** Interest in Student Brand Ambassador - University of California (UC) - Los Angeles — biology/bioinformatics graduate
 
 Dear Kaplan Hiring Team,
 
-My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Student Brand Ambassador Ohio State University (Main Campus) opportunity with Kaplan at Kaplan.
+My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Student Brand Ambassador - University of California (UC) - Los Angeles opportunity with Kaplan at Kaplan.
 
 I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
 
@@ -6638,7 +6998,7 @@ Best,
 Celina Lin
 https://linkedin.com/in/celina-g-lin
 
-Posting: https://jobright.ai/jobs/info/6a462bbf0dd56c76cc2f708e
+Posting: https://jobright.ai/jobs/info/6a462be24f64ba41dcb5112e
 
 ---
 
@@ -6659,6 +7019,26 @@ Celina Lin
 https://linkedin.com/in/celina-g-lin
 
 Posting: https://jobright.ai/jobs/info/6a462bd30dd56c76cc2f709f
+
+---
+
+## Kaplan — Student Brand Ambassador Ohio State University (Main Campus)
+
+**Subject:** Interest in Student Brand Ambassador Ohio State University (Main Campus) — biology/bioinformatics graduate
+
+Dear Kaplan Hiring Team,
+
+My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Student Brand Ambassador Ohio State University (Main Campus) opportunity with Kaplan at Kaplan.
+
+I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
+
+The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
+
+Best,
+Celina Lin
+https://linkedin.com/in/celina-g-lin
+
+Posting: https://jobright.ai/jobs/info/6a462bbf0dd56c76cc2f708e
 
 ---
 
@@ -7042,26 +7422,6 @@ Posting: https://jobright.ai/jobs/info/6a43c2c557ffc2202940396d
 
 ---
 
-## Arnold & Porter — Assistant Floater Teacher
-
-**Subject:** Interest in Assistant Floater Teacher — biology/bioinformatics graduate
-
-Dear Arnold & Porter Hiring Team,
-
-My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Assistant Floater Teacher opportunity with Arnold & Porter at Arnold & Porter.
-
-I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
-
-The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
-
-Best,
-Celina Lin
-https://linkedin.com/in/celina-g-lin
-
-Posting: https://jobright.ai/jobs/info/6a34541cf6b55d12c791c362
-
----
-
 ## Arizona State University — Administrative Operations Coordinator
 
 **Subject:** Interest in Administrative Operations Coordinator — biology/bioinformatics graduate
@@ -7359,6 +7719,26 @@ Celina Lin
 https://linkedin.com/in/celina-g-lin
 
 Posting: https://jobright.ai/jobs/info/6a43ef9a0153061b8b3dea4d
+
+---
+
+## UC Davis Health Informatics — Student Affairs Administrative Coordinator
+
+**Subject:** Interest in Student Affairs Administrative Coordinator — biology/bioinformatics graduate
+
+Dear UC Davis Health Informatics Hiring Team,
+
+My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Student Affairs Administrative Coordinator opportunity with UC Davis Health Informatics at UC Davis Health Informatics.
+
+I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
+
+The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
+
+Best,
+Celina Lin
+https://linkedin.com/in/celina-g-lin
+
+Posting: https://jobright.ai/jobs/info/6a437b8d501d340b4a82fd52
 
 ---
 
@@ -7682,26 +8062,6 @@ Posting: https://jobright.ai/jobs/info/695d97f3fbd62a0a65664ad6
 
 ---
 
-## MedStar Georgetown University Hospital — Unit Secretary
-
-**Subject:** Interest in Unit Secretary — biology/bioinformatics graduate
-
-Dear MedStar Georgetown University Hospital Hiring Team,
-
-My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Unit Secretary opportunity with MedStar Georgetown University Hospital at MedStar Georgetown University Hospital.
-
-I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
-
-The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
-
-Best,
-Celina Lin
-https://linkedin.com/in/celina-g-lin
-
-Posting: https://jobright.ai/jobs/info/6a42c8b56c326942b4e84206
-
----
-
 ## Massachusetts General Hospital — Clinical Research Coordinator I
 
 **Subject:** Interest in Clinical Research Coordinator I — biology/bioinformatics graduate
@@ -8022,13 +8382,13 @@ Posting: https://jobright.ai/jobs/info/6a28259d40ac8e329329f571
 
 ---
 
-## Care Access — Clinical Research Assistant
+## Care Access — Clinical Research Coordinator I
 
-**Subject:** Interest in Clinical Research Assistant — biology/bioinformatics graduate
+**Subject:** Interest in Clinical Research Coordinator I — biology/bioinformatics graduate
 
 Dear Care Access Hiring Team,
 
-My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Clinical Research Assistant opportunity with Care Access at Care Access.
+My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Clinical Research Coordinator I opportunity with Care Access at Care Access.
 
 I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
 
@@ -8038,7 +8398,7 @@ Best,
 Celina Lin
 https://linkedin.com/in/celina-g-lin
 
-Posting: https://jobright.ai/jobs/info/6a1d407db524ae49285a5a58
+Posting: https://jobright.ai/jobs/info/6a288fb2883c0d3be6542d9b
 
 ---
 
@@ -8058,7 +8418,7 @@ Best,
 Celina Lin
 https://linkedin.com/in/celina-g-lin
 
-Posting: https://jobright.ai/jobs/info/6a06fc069f57175bd581c0d2
+Posting: https://jobright.ai/jobs/info/6a038e82bc4184089f233aaa
 
 ---
 
@@ -8082,13 +8442,13 @@ Posting: https://jobright.ai/jobs/info/6a1d4080b524ae49285a5a59
 
 ---
 
-## Care Access — Clinical Research Coordinator I
+## Care Access — Clinical Research Assistant
 
-**Subject:** Interest in Clinical Research Coordinator I — biology/bioinformatics graduate
+**Subject:** Interest in Clinical Research Assistant — biology/bioinformatics graduate
 
 Dear Care Access Hiring Team,
 
-My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Clinical Research Coordinator I opportunity with Care Access at Care Access.
+My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Clinical Research Assistant opportunity with Care Access at Care Access.
 
 I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
 
@@ -8098,7 +8458,7 @@ Best,
 Celina Lin
 https://linkedin.com/in/celina-g-lin
 
-Posting: https://jobright.ai/jobs/info/6a288fb2883c0d3be6542d9b
+Posting: https://jobright.ai/jobs/info/6a157251554b0e12c05827de
 
 ---
 
@@ -8382,26 +8742,6 @@ Posting: https://jobright.ai/jobs/info/6a29c89a1de59e0682a818ec
 
 ---
 
-## Wyndy — After-school assistance near the University of Central Florida
-
-**Subject:** Interest in After-school assistance near the University of Central Florida — biology/bioinformatics graduate
-
-Dear Wyndy Hiring Team,
-
-My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the After-school assistance near the University of Central Florida opportunity with Wyndy at Wyndy.
-
-I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
-
-The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
-
-Best,
-Celina Lin
-https://linkedin.com/in/celina-g-lin
-
-Posting: https://jobright.ai/jobs/info/6a416d2216b14939532841bf
-
----
-
 ## Retina Consultants of Texas — Clinical Research Assistant
 
 **Subject:** Interest in Clinical Research Assistant — biology/bioinformatics graduate
@@ -8442,46 +8782,6 @@ Posting: https://jobright.ai/jobs/info/6a41bc85d528ac2915f97930
 
 ---
 
-## Murphy Research — Research Associate - 2026 Spring Graduates Apply Here
-
-**Subject:** Interest in Research Associate - 2026 Spring Graduates Apply Here — biology/bioinformatics graduate
-
-Dear Murphy Research Hiring Team,
-
-My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Research Associate - 2026 Spring Graduates Apply Here opportunity with Murphy Research at Murphy Research.
-
-I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
-
-The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
-
-Best,
-Celina Lin
-https://linkedin.com/in/celina-g-lin
-
-Posting: https://jobright.ai/jobs/info/69d55be3706f771673ba265c
-
----
-
-## Murphy Research — Research Associate - 2026 Spring Graduates Apply Here
-
-**Subject:** Interest in Research Associate - 2026 Spring Graduates Apply Here — biology/bioinformatics graduate
-
-Dear Murphy Research Hiring Team,
-
-My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Research Associate - 2026 Spring Graduates Apply Here opportunity with Murphy Research at Murphy Research.
-
-I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
-
-The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
-
-Best,
-Celina Lin
-https://linkedin.com/in/celina-g-lin
-
-Posting: https://jobright.ai/jobs/info/69d55bede63cea7a8b660838
-
----
-
 ## Marymount University — Financial Aid Counselor
 
 **Subject:** Interest in Financial Aid Counselor — biology/bioinformatics graduate
@@ -8502,146 +8802,6 @@ Posting: https://jobright.ai/jobs/info/6a46262c0dd56c76cc2f6bd4
 
 ---
 
-## Liberty University — Student Activities Marketing Student Staff
-
-**Subject:** Interest in Student Activities Marketing Student Staff — biology/bioinformatics graduate
-
-Dear Liberty University Hiring Team,
-
-My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Student Activities Marketing Student Staff opportunity with Liberty University at Liberty University.
-
-I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
-
-The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
-
-Best,
-Celina Lin
-https://linkedin.com/in/celina-g-lin
-
-Posting: https://jobright.ai/jobs/info/6a4628424f64ba41dcb50e16
-
----
-
-## Hopebridge — Behavior Technician (BT) / Registered Behavior Technician (RBT)
-
-**Subject:** Interest in Behavior Technician (BT) / Registered Behavior Technician (RBT) — biology/bioinformatics graduate
-
-Dear Hopebridge Hiring Team,
-
-My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Behavior Technician (BT) / Registered Behavior Technician (RBT) opportunity with Hopebridge at Hopebridge.
-
-I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
-
-The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
-
-Best,
-Celina Lin
-https://linkedin.com/in/celina-g-lin
-
-Posting: https://jobright.ai/jobs/info/68f73cc9b0edcf159dc769db
-
----
-
-## Fortrea — Ophthalmology & Gen Meds - CRA II
-
-**Subject:** Interest in Ophthalmology & Gen Meds - CRA II — biology/bioinformatics graduate
-
-Dear Fortrea Hiring Team,
-
-My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Ophthalmology & Gen Meds - CRA II opportunity with Fortrea at Fortrea.
-
-I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
-
-The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
-
-Best,
-Celina Lin
-https://linkedin.com/in/celina-g-lin
-
-Posting: https://jobright.ai/jobs/info/69b1dc32548f140066e7cf4a
-
----
-
-## California Energy Commission — Student Assistant - Administrative Services - Hybrid
-
-**Subject:** Interest in Student Assistant - Administrative Services - Hybrid — biology/bioinformatics graduate
-
-Dear California Energy Commission Hiring Team,
-
-My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Student Assistant - Administrative Services - Hybrid opportunity with California Energy Commission at California Energy Commission.
-
-I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
-
-The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
-
-Best,
-Celina Lin
-https://linkedin.com/in/celina-g-lin
-
-Posting: https://jobright.ai/jobs/info/6a40fefed528ac2915f9713f
-
----
-
-## CHEManager International — Student Research Assistant
-
-**Subject:** Interest in Student Research Assistant — biology/bioinformatics graduate
-
-Dear CHEManager International Hiring Team,
-
-My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Student Research Assistant opportunity with CHEManager International at CHEManager International.
-
-I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
-
-The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
-
-Best,
-Celina Lin
-https://linkedin.com/in/celina-g-lin
-
-Posting: https://jobright.ai/jobs/info/6a4152d71afc66714d3cab43
-
----
-
-## Northwestern University — Research Study Assistant
-
-**Subject:** Interest in Research Study Assistant — biology/bioinformatics graduate
-
-Dear Northwestern University Hiring Team,
-
-My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Research Study Assistant opportunity with Northwestern University at Northwestern University.
-
-I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
-
-The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
-
-Best,
-Celina Lin
-https://linkedin.com/in/celina-g-lin
-
-Posting: https://jobright.ai/jobs/info/6a4734ee971cd25b06f916f2
-
----
-
-## Northwestern University — Research Study Assistant (Multiple Positions)
-
-**Subject:** Interest in Research Study Assistant (Multiple Positions) — biology/bioinformatics graduate
-
-Dear Northwestern University Hiring Team,
-
-My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Research Study Assistant (Multiple Positions) opportunity with Northwestern University at Northwestern University.
-
-I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
-
-The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
-
-Best,
-Celina Lin
-https://linkedin.com/in/celina-g-lin
-
-Posting: https://jobright.ai/jobs/info/6a47bd8af9cbb100d1ab0df5
-
----
-
 ## Cylake — Software Engineer – University Grad
 
 **Subject:** Interest in Software Engineer – University Grad — biology/bioinformatics graduate
@@ -8659,86 +8819,6 @@ Celina Lin
 https://linkedin.com/in/celina-g-lin
 
 Posting: https://jobs.ashbyhq.com/cylake-inc/1d1ac42e-299c-42af-bd7c-b8c5fb07f735/application
-
----
-
-## California State University-Sacramento — 2026-27 AY Lecturer Pool - Political Science
-
-**Subject:** Interest in 2026-27 AY Lecturer Pool - Political Science — biology/bioinformatics graduate
-
-Dear California State University-Sacramento Hiring Team,
-
-My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the 2026-27 AY Lecturer Pool - Political Science opportunity with California State University-Sacramento at California State University-Sacramento.
-
-I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
-
-The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
-
-Best,
-Celina Lin
-https://linkedin.com/in/celina-g-lin
-
-Posting: https://jobright.ai/jobs/info/6a05a1386c07461fe17174d5
-
----
-
-## California State University-Sacramento — 2026-27 AY Lecturer Pool - Biological Sciences
-
-**Subject:** Interest in 2026-27 AY Lecturer Pool - Biological Sciences — biology/bioinformatics graduate
-
-Dear California State University-Sacramento Hiring Team,
-
-My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the 2026-27 AY Lecturer Pool - Biological Sciences opportunity with California State University-Sacramento at California State University-Sacramento.
-
-I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
-
-The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
-
-Best,
-Celina Lin
-https://linkedin.com/in/celina-g-lin
-
-Posting: https://jobright.ai/jobs/info/69b33069a8ac8e70ff677226
-
----
-
-## California State University San Marcos — Peer Outreach and Support Coordinator, Student Affairs
-
-**Subject:** Interest in Peer Outreach and Support Coordinator, Student Affairs — biology/bioinformatics graduate
-
-Dear California State University San Marcos Hiring Team,
-
-My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Peer Outreach and Support Coordinator, Student Affairs opportunity with California State University San Marcos at California State University San Marcos.
-
-I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
-
-The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
-
-Best,
-Celina Lin
-https://linkedin.com/in/celina-g-lin
-
-Posting: https://jobright.ai/jobs/info/6a06c7964f290f7450ea3556
-
----
-
-## Boys & Girls Clubs of Metro Denver — Before Care Youth Development Specialist - Murphy Creek P-8
-
-**Subject:** Interest in Before Care Youth Development Specialist - Murphy Creek P-8 — biology/bioinformatics graduate
-
-Dear Boys & Girls Clubs of Metro Denver Hiring Team,
-
-My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Before Care Youth Development Specialist - Murphy Creek P-8 opportunity with Boys & Girls Clubs of Metro Denver at Boys & Girls Clubs of Metro Denver.
-
-I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
-
-The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
-
-Best,
-Celina Lin
-https://linkedin.com/in/celina-g-lin
-
-Posting: https://jobright.ai/jobs/info/6a40aa463bfa967791ec0719
 
 ---
 
@@ -8942,13 +9022,13 @@ Posting: https://jobright.ai/jobs/info/69d8d4df869c7e25d8597e8d
 
 ---
 
-## Banfield Pet Hospital — Client Service Coordinator
+## Certified Collectibles Group — Quality Control Specialist - Comics
 
-**Subject:** Interest in Client Service Coordinator — biology/bioinformatics graduate
+**Subject:** Interest in Quality Control Specialist - Comics — biology/bioinformatics graduate
 
-Dear Banfield Pet Hospital Hiring Team,
+Dear Certified Collectibles Group Hiring Team,
 
-My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Client Service Coordinator opportunity with Banfield Pet Hospital at Banfield Pet Hospital.
+My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Quality Control Specialist - Comics opportunity with Certified Collectibles Group at Certified Collectibles Group.
 
 I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
 
@@ -8958,17 +9038,17 @@ Best,
 Celina Lin
 https://linkedin.com/in/celina-g-lin
 
-Posting: https://jobright.ai/jobs/info/682d6a4bc2780340ebefba57
+Posting: https://jobright.ai/jobs/info/6a3fe50e3bfa967791ebf9bf
 
 ---
 
-## Banfield Pet Hospital — Client Service Coordinator - 004041
+## Aimbridge Hospitality — Staybridge Suites Midland - Engineer-Preventative Maintenance
 
-**Subject:** Interest in Client Service Coordinator - 004041 — biology/bioinformatics graduate
+**Subject:** Interest in Staybridge Suites Midland - Engineer-Preventative Maintenance — biology/bioinformatics graduate
 
-Dear Banfield Pet Hospital Hiring Team,
+Dear Aimbridge Hospitality Hiring Team,
 
-My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Client Service Coordinator - 004041 opportunity with Banfield Pet Hospital at Banfield Pet Hospital.
+My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Staybridge Suites Midland - Engineer-Preventative Maintenance opportunity with Aimbridge Hospitality at Aimbridge Hospitality.
 
 I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
 
@@ -8978,7 +9058,7 @@ Best,
 Celina Lin
 https://linkedin.com/in/celina-g-lin
 
-Posting: https://jobright.ai/jobs/info/6820bf1b6829072bff7f0f5c
+Posting: https://jobright.ai/jobs/info/6a4a2e474f64ba41dcb5af4e
 
 ---
 
@@ -9002,13 +9082,13 @@ Posting: https://jobright.ai/jobs/info/6a2c5872a1d15e3c552fb53b
 
 ---
 
-## Schulte Hospitality Group — Guest Service Representative - Graduate by Hilton Eugene
+## University of Central Oklahoma — Student Graphic Designer (Technical) - Wellness Center
 
-**Subject:** Interest in Guest Service Representative - Graduate by Hilton Eugene — biology/bioinformatics graduate
+**Subject:** Interest in Student Graphic Designer (Technical) - Wellness Center — biology/bioinformatics graduate
 
-Dear Schulte Hospitality Group Hiring Team,
+Dear University of Central Oklahoma Hiring Team,
 
-My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Guest Service Representative - Graduate by Hilton Eugene opportunity with Schulte Hospitality Group at Schulte Hospitality Group.
+My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Student Graphic Designer (Technical) - Wellness Center opportunity with University of Central Oklahoma at University of Central Oklahoma.
 
 I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
 
@@ -9018,17 +9098,17 @@ Best,
 Celina Lin
 https://linkedin.com/in/celina-g-lin
 
-Posting: https://jobright.ai/jobs/info/6a48ecd64f64ba41dcb598b5
+Posting: https://jobright.ai/jobs/info/6a43315f4461bf091787ad31
 
 ---
 
-## Schulte Hospitality Group — Guest Service Representative - Graduate Iowa City
+## UMass Chan Medical School — Clinical Research Coordinator - Open Rank
 
-**Subject:** Interest in Guest Service Representative - Graduate Iowa City — biology/bioinformatics graduate
+**Subject:** Interest in Clinical Research Coordinator - Open Rank — biology/bioinformatics graduate
 
-Dear Schulte Hospitality Group Hiring Team,
+Dear UMass Chan Medical School Hiring Team,
 
-My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Guest Service Representative - Graduate Iowa City opportunity with Schulte Hospitality Group at Schulte Hospitality Group.
+My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Clinical Research Coordinator - Open Rank opportunity with UMass Chan Medical School at UMass Chan Medical School.
 
 I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
 
@@ -9038,17 +9118,17 @@ Best,
 Celina Lin
 https://linkedin.com/in/celina-g-lin
 
-Posting: https://jobright.ai/jobs/info/6a2f7382b9f4dd0b4d51c5eb
+Posting: https://jobright.ai/jobs/info/6a3c320d982bb239f812eb74
 
 ---
 
-## Schulte Hospitality Group — Full Time Guest Service Representative/Night Auditor
+## General Atomics Aeronautical Systems — Software Developer I
 
-**Subject:** Interest in Full Time Guest Service Representative/Night Auditor — biology/bioinformatics graduate
+**Subject:** Interest in Software Developer I — biology/bioinformatics graduate
 
-Dear Schulte Hospitality Group Hiring Team,
+Dear General Atomics Aeronautical Systems Hiring Team,
 
-My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Full Time Guest Service Representative/Night Auditor opportunity with Schulte Hospitality Group at Schulte Hospitality Group.
+My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Software Developer I opportunity with General Atomics Aeronautical Systems at General Atomics Aeronautical Systems.
 
 I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
 
@@ -9058,17 +9138,17 @@ Best,
 Celina Lin
 https://linkedin.com/in/celina-g-lin
 
-Posting: https://jobright.ai/jobs/info/6a2f6e1dafabbe533fb874fd
+Posting: https://jobright.ai/jobs/info/6a3fe21ab526a24fc3130281
 
 ---
 
-## Schulte Hospitality Group — Breakfast attendant and Houseman
+## General Atomics Aeronautical Systems — Configuration Management Specialist
 
-**Subject:** Interest in Breakfast attendant and Houseman — biology/bioinformatics graduate
+**Subject:** Interest in Configuration Management Specialist — biology/bioinformatics graduate
 
-Dear Schulte Hospitality Group Hiring Team,
+Dear General Atomics Aeronautical Systems Hiring Team,
 
-My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Breakfast attendant and Houseman opportunity with Schulte Hospitality Group at Schulte Hospitality Group.
+My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Configuration Management Specialist opportunity with General Atomics Aeronautical Systems at General Atomics Aeronautical Systems.
 
 I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
 
@@ -9078,17 +9158,17 @@ Best,
 Celina Lin
 https://linkedin.com/in/celina-g-lin
 
-Posting: https://jobright.ai/jobs/info/6a48e437f9cbb100d1ab3202
+Posting: https://jobright.ai/jobs/info/69d85bd1f4ea471a51fe5362
 
 ---
 
-## San Antonio Regional Hospital — Pre-Service Representative
+## General Atomics Aeronautical Systems — Field Avionics Technician I
 
-**Subject:** Interest in Pre-Service Representative — biology/bioinformatics graduate
+**Subject:** Interest in Field Avionics Technician I — biology/bioinformatics graduate
 
-Dear San Antonio Regional Hospital Hiring Team,
+Dear General Atomics Aeronautical Systems Hiring Team,
 
-My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Pre-Service Representative opportunity with San Antonio Regional Hospital at San Antonio Regional Hospital.
+My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Field Avionics Technician I opportunity with General Atomics Aeronautical Systems at General Atomics Aeronautical Systems.
 
 I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
 
@@ -9098,17 +9178,17 @@ Best,
 Celina Lin
 https://linkedin.com/in/celina-g-lin
 
-Posting: https://jobright.ai/jobs/info/6a3aff0806a4fd4b1fabfe7f
+Posting: https://jobright.ai/jobs/info/6a3fe2309dd7f954cafe7507
 
 ---
 
-## West Hills Animal Hospital & 24hr Emergency Veterinary Center — Veterinary Client Service Representative (CSR)
+## General Atomics Aeronautical Systems — Field Avionics Technician I
 
-**Subject:** Interest in Veterinary Client Service Representative (CSR) — biology/bioinformatics graduate
+**Subject:** Interest in Field Avionics Technician I — biology/bioinformatics graduate
 
-Dear West Hills Animal Hospital & 24hr Emergency Veterinary Center Hiring Team,
+Dear General Atomics Aeronautical Systems Hiring Team,
 
-My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Veterinary Client Service Representative (CSR) opportunity with West Hills Animal Hospital & 24hr Emergency Veterinary Center at West Hills Animal Hospital & 24hr Emergency Veterinary Center.
+My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Field Avionics Technician I opportunity with General Atomics Aeronautical Systems at General Atomics Aeronautical Systems.
 
 I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
 
@@ -9118,7 +9198,667 @@ Best,
 Celina Lin
 https://linkedin.com/in/celina-g-lin
 
-Posting: https://jobright.ai/jobs/info/6a3566d9ce501060b5cf4158
+Posting: https://jobright.ai/jobs/info/6a3fe2219dd7f954cafe74f9
+
+---
+
+## Centinela Hospital Medical Center — Patient Service Representative
+
+**Subject:** Interest in Patient Service Representative — biology/bioinformatics graduate
+
+Dear Centinela Hospital Medical Center Hiring Team,
+
+My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Patient Service Representative opportunity with Centinela Hospital Medical Center at Centinela Hospital Medical Center.
+
+I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
+
+The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
+
+Best,
+Celina Lin
+https://linkedin.com/in/celina-g-lin
+
+Posting: https://jobright.ai/jobs/info/6a2849137061b51a3a5f4bef
+
+---
+
+## Centinela Hospital Medical Center — Customer Service Representative
+
+**Subject:** Interest in Customer Service Representative — biology/bioinformatics graduate
+
+Dear Centinela Hospital Medical Center Hiring Team,
+
+My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Customer Service Representative opportunity with Centinela Hospital Medical Center at Centinela Hospital Medical Center.
+
+I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
+
+The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
+
+Best,
+Celina Lin
+https://linkedin.com/in/celina-g-lin
+
+Posting: https://jobright.ai/jobs/info/6a459fdc971cd25b06f896bf
+
+---
+
+## Catch Hospitality Group — Host (Upscale / Fine Dining)
+
+**Subject:** Interest in Host (Upscale / Fine Dining) — biology/bioinformatics graduate
+
+Dear Catch Hospitality Group Hiring Team,
+
+My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Host (Upscale / Fine Dining) opportunity with Catch Hospitality Group at Catch Hospitality Group.
+
+I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
+
+The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
+
+Best,
+Celina Lin
+https://linkedin.com/in/celina-g-lin
+
+Posting: https://jobright.ai/jobs/info/6a067e16bc4184089f24fea5
+
+---
+
+## California State University, Fresno — Temporary Clerical & Administrative Support Opportunities
+
+**Subject:** Interest in Temporary Clerical & Administrative Support Opportunities — biology/bioinformatics graduate
+
+Dear California State University, Fresno Hiring Team,
+
+My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Temporary Clerical & Administrative Support Opportunities opportunity with California State University, Fresno at California State University, Fresno.
+
+I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
+
+The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
+
+Best,
+Celina Lin
+https://linkedin.com/in/celina-g-lin
+
+Posting: https://jobright.ai/jobs/info/69d7c4cd869c7e25d8590245
+
+---
+
+## Baylor Scott & White Institute for Rehabilitation — Customer Service Representative
+
+**Subject:** Interest in Customer Service Representative — biology/bioinformatics graduate
+
+Dear Baylor Scott & White Institute for Rehabilitation Hiring Team,
+
+My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Customer Service Representative opportunity with Baylor Scott & White Institute for Rehabilitation at Baylor Scott & White Institute for Rehabilitation.
+
+I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
+
+The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
+
+Best,
+Celina Lin
+https://linkedin.com/in/celina-g-lin
+
+Posting: https://jobright.ai/jobs/info/6a49f806971cd25b06f96011
+
+---
+
+## Banfield Pet Hospital — Client Service Coordinator - 001732
+
+**Subject:** Interest in Client Service Coordinator - 001732 — biology/bioinformatics graduate
+
+Dear Banfield Pet Hospital Hiring Team,
+
+My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Client Service Coordinator - 001732 opportunity with Banfield Pet Hospital at Banfield Pet Hospital.
+
+I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
+
+The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
+
+Best,
+Celina Lin
+https://linkedin.com/in/celina-g-lin
+
+Posting: https://jobright.ai/jobs/info/6a498e77f9cbb100d1ab409a
+
+---
+
+## Banfield Pet Hospital — Client Service Coordinator Okemos
+
+**Subject:** Interest in Client Service Coordinator Okemos — biology/bioinformatics graduate
+
+Dear Banfield Pet Hospital Hiring Team,
+
+My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Client Service Coordinator Okemos opportunity with Banfield Pet Hospital at Banfield Pet Hospital.
+
+I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
+
+The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
+
+Best,
+Celina Lin
+https://linkedin.com/in/celina-g-lin
+
+Posting: https://jobright.ai/jobs/info/6a2db051c260bb1b8ae19259
+
+---
+
+## Banfield Pet Hospital — Client Service Coordinator Part Time
+
+**Subject:** Interest in Client Service Coordinator Part Time — biology/bioinformatics graduate
+
+Dear Banfield Pet Hospital Hiring Team,
+
+My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Client Service Coordinator Part Time opportunity with Banfield Pet Hospital at Banfield Pet Hospital.
+
+I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
+
+The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
+
+Best,
+Celina Lin
+https://linkedin.com/in/celina-g-lin
+
+Posting: https://jobright.ai/jobs/info/6a461514971cd25b06f8b14c
+
+---
+
+## Banfield Pet Hospital — Client Service Coordinator - 005354
+
+**Subject:** Interest in Client Service Coordinator - 005354 — biology/bioinformatics graduate
+
+Dear Banfield Pet Hospital Hiring Team,
+
+My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Client Service Coordinator - 005354 opportunity with Banfield Pet Hospital at Banfield Pet Hospital.
+
+I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
+
+The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
+
+Best,
+Celina Lin
+https://linkedin.com/in/celina-g-lin
+
+Posting: https://jobright.ai/jobs/info/6a07199b9f57175bd581ff98
+
+---
+
+## Banfield Pet Hospital — Client Service Coordinator- Vancouver East
+
+**Subject:** Interest in Client Service Coordinator- Vancouver East — biology/bioinformatics graduate
+
+Dear Banfield Pet Hospital Hiring Team,
+
+My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Client Service Coordinator- Vancouver East opportunity with Banfield Pet Hospital at Banfield Pet Hospital.
+
+I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
+
+The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
+
+Best,
+Celina Lin
+https://linkedin.com/in/celina-g-lin
+
+Posting: https://jobright.ai/jobs/info/6a0fab8e72b52f7225f3faf2
+
+---
+
+## Banfield Pet Hospital — CLIENT SERVICE COORDINATOR- San Marcos
+
+**Subject:** Interest in CLIENT SERVICE COORDINATOR- San Marcos — biology/bioinformatics graduate
+
+Dear Banfield Pet Hospital Hiring Team,
+
+My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the CLIENT SERVICE COORDINATOR- San Marcos opportunity with Banfield Pet Hospital at Banfield Pet Hospital.
+
+I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
+
+The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
+
+Best,
+Celina Lin
+https://linkedin.com/in/celina-g-lin
+
+Posting: https://jobright.ai/jobs/info/6a1232609fdbf21f36cb5939
+
+---
+
+## Banfield Pet Hospital — Client Service Coordinator - 005354
+
+**Subject:** Interest in Client Service Coordinator - 005354 — biology/bioinformatics graduate
+
+Dear Banfield Pet Hospital Hiring Team,
+
+My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Client Service Coordinator - 005354 opportunity with Banfield Pet Hospital at Banfield Pet Hospital.
+
+I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
+
+The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
+
+Best,
+Celina Lin
+https://linkedin.com/in/celina-g-lin
+
+Posting: https://jobright.ai/jobs/info/6a07199b9f57175bd581ff97
+
+---
+
+## Banfield Pet Hospital — Client Service Coordinator - 005082
+
+**Subject:** Interest in Client Service Coordinator - 005082 — biology/bioinformatics graduate
+
+Dear Banfield Pet Hospital Hiring Team,
+
+My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Client Service Coordinator - 005082 opportunity with Banfield Pet Hospital at Banfield Pet Hospital.
+
+I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
+
+The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
+
+Best,
+Celina Lin
+https://linkedin.com/in/celina-g-lin
+
+Posting: https://jobright.ai/jobs/info/6a15eeb6554b0e12c0587620
+
+---
+
+## Banfield Pet Hospital — Client Service Coordinator - 005154
+
+**Subject:** Interest in Client Service Coordinator - 005154 — biology/bioinformatics graduate
+
+Dear Banfield Pet Hospital Hiring Team,
+
+My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Client Service Coordinator - 005154 opportunity with Banfield Pet Hospital at Banfield Pet Hospital.
+
+I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
+
+The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
+
+Best,
+Celina Lin
+https://linkedin.com/in/celina-g-lin
+
+Posting: https://jobright.ai/jobs/info/6a13f48f9fdbf21f36cbb07e
+
+---
+
+## Banfield Pet Hospital — Client Service Coordinator - 001401
+
+**Subject:** Interest in Client Service Coordinator - 001401 — biology/bioinformatics graduate
+
+Dear Banfield Pet Hospital Hiring Team,
+
+My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Client Service Coordinator - 001401 opportunity with Banfield Pet Hospital at Banfield Pet Hospital.
+
+I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
+
+The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
+
+Best,
+Celina Lin
+https://linkedin.com/in/celina-g-lin
+
+Posting: https://jobright.ai/jobs/info/6a17408cf45c6530ce9aaa7a
+
+---
+
+## Banfield Pet Hospital — Client Service Coordinator - 005229
+
+**Subject:** Interest in Client Service Coordinator - 005229 — biology/bioinformatics graduate
+
+Dear Banfield Pet Hospital Hiring Team,
+
+My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Client Service Coordinator - 005229 opportunity with Banfield Pet Hospital at Banfield Pet Hospital.
+
+I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
+
+The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
+
+Best,
+Celina Lin
+https://linkedin.com/in/celina-g-lin
+
+Posting: https://jobright.ai/jobs/info/6a18051154962c1bb4b06733
+
+---
+
+## Banfield Pet Hospital — Client Service Coordinator; Banfield Beverly 5384
+
+**Subject:** Interest in Client Service Coordinator; Banfield Beverly 5384 — biology/bioinformatics graduate
+
+Dear Banfield Pet Hospital Hiring Team,
+
+My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Client Service Coordinator; Banfield Beverly 5384 opportunity with Banfield Pet Hospital at Banfield Pet Hospital.
+
+I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
+
+The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
+
+Best,
+Celina Lin
+https://linkedin.com/in/celina-g-lin
+
+Posting: https://jobright.ai/jobs/info/6a15e0070073182bd92ad69a
+
+---
+
+## Banfield Pet Hospital — Client Service Coordinator - 001187
+
+**Subject:** Interest in Client Service Coordinator - 001187 — biology/bioinformatics graduate
+
+Dear Banfield Pet Hospital Hiring Team,
+
+My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Client Service Coordinator - 001187 opportunity with Banfield Pet Hospital at Banfield Pet Hospital.
+
+I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
+
+The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
+
+Best,
+Celina Lin
+https://linkedin.com/in/celina-g-lin
+
+Posting: https://jobright.ai/jobs/info/6a46af9bc2d11a6a46670170
+
+---
+
+## Banfield Pet Hospital — Client Service Representative / Full-Time
+
+**Subject:** Interest in Client Service Representative / Full-Time — biology/bioinformatics graduate
+
+Dear Banfield Pet Hospital Hiring Team,
+
+My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Client Service Representative / Full-Time opportunity with Banfield Pet Hospital at Banfield Pet Hospital.
+
+I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
+
+The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
+
+Best,
+Celina Lin
+https://linkedin.com/in/celina-g-lin
+
+Posting: https://jobright.ai/jobs/info/6a4614ef0dd56c76cc2f5a97
+
+---
+
+## Banfield Pet Hospital — Client Service Representative -VCA Mueller
+
+**Subject:** Interest in Client Service Representative -VCA Mueller — biology/bioinformatics graduate
+
+Dear Banfield Pet Hospital Hiring Team,
+
+My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Client Service Representative -VCA Mueller opportunity with Banfield Pet Hospital at Banfield Pet Hospital.
+
+I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
+
+The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
+
+Best,
+Celina Lin
+https://linkedin.com/in/celina-g-lin
+
+Posting: https://jobright.ai/jobs/info/6a46f9570dd56c76cc2fba40
+
+---
+
+## Banfield Pet Hospital — CSR - Client Service Representative
+
+**Subject:** Interest in CSR - Client Service Representative — biology/bioinformatics graduate
+
+Dear Banfield Pet Hospital Hiring Team,
+
+My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the CSR - Client Service Representative opportunity with Banfield Pet Hospital at Banfield Pet Hospital.
+
+I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
+
+The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
+
+Best,
+Celina Lin
+https://linkedin.com/in/celina-g-lin
+
+Posting: https://jobright.ai/jobs/info/6a4614ccc2d11a6a4666b609
+
+---
+
+## Banfield Pet Hospital — Client Service Representative
+
+**Subject:** Interest in Client Service Representative — biology/bioinformatics graduate
+
+Dear Banfield Pet Hospital Hiring Team,
+
+My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Client Service Representative opportunity with Banfield Pet Hospital at Banfield Pet Hospital.
+
+I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
+
+The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
+
+Best,
+Celina Lin
+https://linkedin.com/in/celina-g-lin
+
+Posting: https://jobright.ai/jobs/info/6954a0fdaa05c26e7aaf1a6d
+
+---
+
+## Banfield Pet Hospital — Client Service Represenative
+
+**Subject:** Interest in Client Service Represenative — biology/bioinformatics graduate
+
+Dear Banfield Pet Hospital Hiring Team,
+
+My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Client Service Represenative opportunity with Banfield Pet Hospital at Banfield Pet Hospital.
+
+I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
+
+The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
+
+Best,
+Celina Lin
+https://linkedin.com/in/celina-g-lin
+
+Posting: https://jobright.ai/jobs/info/6a4614b00dd56c76cc2f5a4b
+
+---
+
+## Banfield Pet Hospital — Client Service Representative Rea Farms
+
+**Subject:** Interest in Client Service Representative Rea Farms — biology/bioinformatics graduate
+
+Dear Banfield Pet Hospital Hiring Team,
+
+My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Client Service Representative Rea Farms opportunity with Banfield Pet Hospital at Banfield Pet Hospital.
+
+I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
+
+The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
+
+Best,
+Celina Lin
+https://linkedin.com/in/celina-g-lin
+
+Posting: https://jobright.ai/jobs/info/6a305681afabbe533fb8a7a9
+
+---
+
+## Banfield Pet Hospital — Client Services Representative
+
+**Subject:** Interest in Client Services Representative — biology/bioinformatics graduate
+
+Dear Banfield Pet Hospital Hiring Team,
+
+My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Client Services Representative opportunity with Banfield Pet Hospital at Banfield Pet Hospital.
+
+I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
+
+The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
+
+Best,
+Celina Lin
+https://linkedin.com/in/celina-g-lin
+
+Posting: https://jobright.ai/jobs/info/6a4614d1971cd25b06f8b103
+
+---
+
+## Banfield Pet Hospital — Client Service Representative VCA Mountainview
+
+**Subject:** Interest in Client Service Representative VCA Mountainview — biology/bioinformatics graduate
+
+Dear Banfield Pet Hospital Hiring Team,
+
+My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Client Service Representative VCA Mountainview opportunity with Banfield Pet Hospital at Banfield Pet Hospital.
+
+I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
+
+The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
+
+Best,
+Celina Lin
+https://linkedin.com/in/celina-g-lin
+
+Posting: https://jobright.ai/jobs/info/6a4614f34f64ba41dcb4fad4
+
+---
+
+## Banfield Pet Hospital — Client Service Representative (PART TIME)
+
+**Subject:** Interest in Client Service Representative (PART TIME) — biology/bioinformatics graduate
+
+Dear Banfield Pet Hospital Hiring Team,
+
+My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Client Service Representative (PART TIME) opportunity with Banfield Pet Hospital at Banfield Pet Hospital.
+
+I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
+
+The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
+
+Best,
+Celina Lin
+https://linkedin.com/in/celina-g-lin
+
+Posting: https://jobright.ai/jobs/info/6a4614ae076271587529f67f
+
+---
+
+## Banfield Pet Hospital — Client service coordinator
+
+**Subject:** Interest in Client service coordinator — biology/bioinformatics graduate
+
+Dear Banfield Pet Hospital Hiring Team,
+
+My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Client service coordinator opportunity with Banfield Pet Hospital at Banfield Pet Hospital.
+
+I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
+
+The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
+
+Best,
+Celina Lin
+https://linkedin.com/in/celina-g-lin
+
+Posting: https://jobright.ai/jobs/info/6a2db05e7cd40a338fae9351
+
+---
+
+## Banfield Pet Hospital — Customer Service Coordinator
+
+**Subject:** Interest in Customer Service Coordinator — biology/bioinformatics graduate
+
+Dear Banfield Pet Hospital Hiring Team,
+
+My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Customer Service Coordinator opportunity with Banfield Pet Hospital at Banfield Pet Hospital.
+
+I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
+
+The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
+
+Best,
+Celina Lin
+https://linkedin.com/in/celina-g-lin
+
+Posting: https://jobright.ai/jobs/info/699f906823374b3b6e6b5b24
+
+---
+
+## Banfield Pet Hospital — Client Service Coordinator- FT Foxmill 5171
+
+**Subject:** Interest in Client Service Coordinator- FT Foxmill 5171 — biology/bioinformatics graduate
+
+Dear Banfield Pet Hospital Hiring Team,
+
+My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Client Service Coordinator- FT Foxmill 5171 opportunity with Banfield Pet Hospital at Banfield Pet Hospital.
+
+I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
+
+The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
+
+Best,
+Celina Lin
+https://linkedin.com/in/celina-g-lin
+
+Posting: https://jobright.ai/jobs/info/6a2ce26cf1751b183c81a106
+
+---
+
+## Banfield Pet Hospital — Client Service Cooridinator
+
+**Subject:** Interest in Client Service Cooridinator — biology/bioinformatics graduate
+
+Dear Banfield Pet Hospital Hiring Team,
+
+My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Client Service Cooridinator opportunity with Banfield Pet Hospital at Banfield Pet Hospital.
+
+I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
+
+The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
+
+Best,
+Celina Lin
+https://linkedin.com/in/celina-g-lin
+
+Posting: https://jobright.ai/jobs/info/69f3ad231f90bd6ae23d1482
+
+---
+
+## Aimbridge Hospitality — The Brandywine Radnor a Tribute Portfolio Hotel - Banquets Server
+
+**Subject:** Interest in The Brandywine Radnor a Tribute Portfolio Hotel - Banquets Server — biology/bioinformatics graduate
+
+Dear Aimbridge Hospitality Hiring Team,
+
+My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the The Brandywine Radnor a Tribute Portfolio Hotel - Banquets Server opportunity with Aimbridge Hospitality at Aimbridge Hospitality.
+
+I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
+
+The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
+
+Best,
+Celina Lin
+https://linkedin.com/in/celina-g-lin
+
+Posting: https://jobright.ai/jobs/info/6a49bdb93dbab558e29ae7a6
+
+---
+
+## Aimbridge Hospitality — Hotel Paseo Autograph Collection - Host Person
+
+**Subject:** Interest in Hotel Paseo Autograph Collection - Host Person — biology/bioinformatics graduate
+
+Dear Aimbridge Hospitality Hiring Team,
+
+My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Hotel Paseo Autograph Collection - Host Person opportunity with Aimbridge Hospitality at Aimbridge Hospitality.
+
+I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
+
+The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
+
+Best,
+Celina Lin
+https://linkedin.com/in/celina-g-lin
+
+Posting: https://jobright.ai/jobs/info/6a494d163dbab558e29adce9
 
 ---
 
@@ -9139,46 +9879,6 @@ Celina Lin
 https://linkedin.com/in/celina-g-lin
 
 Posting: https://jobright.ai/jobs/info/6a2b1fcb0ad4053b108cae76
-
----
-
-## Schulte Hospitality Group — Guest Service Representative (Hotel Skyler)
-
-**Subject:** Interest in Guest Service Representative (Hotel Skyler) — biology/bioinformatics graduate
-
-Dear Schulte Hospitality Group Hiring Team,
-
-My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Guest Service Representative (Hotel Skyler) opportunity with Schulte Hospitality Group at Schulte Hospitality Group.
-
-I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
-
-The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
-
-Best,
-Celina Lin
-https://linkedin.com/in/celina-g-lin
-
-Posting: https://jobright.ai/jobs/info/6a4893d13dbab558e29ad048
-
----
-
-## New Mexico Forest and Watershed Restoration Institute — Technical Support Technician (51945)
-
-**Subject:** Interest in Technical Support Technician (51945) — biology/bioinformatics graduate
-
-Dear New Mexico Forest and Watershed Restoration Institute Hiring Team,
-
-My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Technical Support Technician (51945) opportunity with New Mexico Forest and Watershed Restoration Institute at New Mexico Forest and Watershed Restoration Institute.
-
-I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
-
-The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
-
-Best,
-Celina Lin
-https://linkedin.com/in/celina-g-lin
-
-Posting: https://jobright.ai/jobs/info/6a4873ab4f64ba41dcb58fb1
 
 ---
 
@@ -9219,26 +9919,6 @@ Celina Lin
 https://linkedin.com/in/celina-g-lin
 
 Posting: https://jobright.ai/jobs/info/6a4085d1d528ac2915f96ab3
-
----
-
-## CHEManager International — Clinical Research Administrative Assistant
-
-**Subject:** Interest in Clinical Research Administrative Assistant — biology/bioinformatics graduate
-
-Dear CHEManager International Hiring Team,
-
-My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Clinical Research Administrative Assistant opportunity with CHEManager International at CHEManager International.
-
-I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
-
-The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
-
-Best,
-Celina Lin
-https://linkedin.com/in/celina-g-lin
-
-Posting: https://jobright.ai/jobs/info/6a4893a5c2d11a6a46674bf9
 
 ---
 
@@ -9319,486 +9999,6 @@ Celina Lin
 https://linkedin.com/in/celina-g-lin
 
 Posting: https://jobright.ai/jobs/info/6a2acf100ad4053b108c8d47
-
----
-
-## Banfield Pet Hospital — Client Service Representative Rea Farms
-
-**Subject:** Interest in Client Service Representative Rea Farms — biology/bioinformatics graduate
-
-Dear Banfield Pet Hospital Hiring Team,
-
-My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Client Service Representative Rea Farms opportunity with Banfield Pet Hospital at Banfield Pet Hospital.
-
-I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
-
-The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
-
-Best,
-Celina Lin
-https://linkedin.com/in/celina-g-lin
-
-Posting: https://jobright.ai/jobs/info/6a305681afabbe533fb8a7a9
-
----
-
-## Banfield Pet Hospital — CSR - Client Service Representative
-
-**Subject:** Interest in CSR - Client Service Representative — biology/bioinformatics graduate
-
-Dear Banfield Pet Hospital Hiring Team,
-
-My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the CSR - Client Service Representative opportunity with Banfield Pet Hospital at Banfield Pet Hospital.
-
-I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
-
-The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
-
-Best,
-Celina Lin
-https://linkedin.com/in/celina-g-lin
-
-Posting: https://jobright.ai/jobs/info/6a4614ccc2d11a6a4666b609
-
----
-
-## Banfield Pet Hospital — Client Service Represenative
-
-**Subject:** Interest in Client Service Represenative — biology/bioinformatics graduate
-
-Dear Banfield Pet Hospital Hiring Team,
-
-My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Client Service Represenative opportunity with Banfield Pet Hospital at Banfield Pet Hospital.
-
-I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
-
-The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
-
-Best,
-Celina Lin
-https://linkedin.com/in/celina-g-lin
-
-Posting: https://jobright.ai/jobs/info/6a4614b00dd56c76cc2f5a4b
-
----
-
-## Banfield Pet Hospital — Client Services Representative
-
-**Subject:** Interest in Client Services Representative — biology/bioinformatics graduate
-
-Dear Banfield Pet Hospital Hiring Team,
-
-My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Client Services Representative opportunity with Banfield Pet Hospital at Banfield Pet Hospital.
-
-I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
-
-The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
-
-Best,
-Celina Lin
-https://linkedin.com/in/celina-g-lin
-
-Posting: https://jobright.ai/jobs/info/6a4614d1971cd25b06f8b103
-
----
-
-## Banfield Pet Hospital — Client Service Representative
-
-**Subject:** Interest in Client Service Representative — biology/bioinformatics graduate
-
-Dear Banfield Pet Hospital Hiring Team,
-
-My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Client Service Representative opportunity with Banfield Pet Hospital at Banfield Pet Hospital.
-
-I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
-
-The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
-
-Best,
-Celina Lin
-https://linkedin.com/in/celina-g-lin
-
-Posting: https://jobright.ai/jobs/info/6954a0fdaa05c26e7aaf1a6d
-
----
-
-## Banfield Pet Hospital — Client Service Representative (PART TIME)
-
-**Subject:** Interest in Client Service Representative (PART TIME) — biology/bioinformatics graduate
-
-Dear Banfield Pet Hospital Hiring Team,
-
-My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Client Service Representative (PART TIME) opportunity with Banfield Pet Hospital at Banfield Pet Hospital.
-
-I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
-
-The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
-
-Best,
-Celina Lin
-https://linkedin.com/in/celina-g-lin
-
-Posting: https://jobright.ai/jobs/info/6a4614ae076271587529f67f
-
----
-
-## Banfield Pet Hospital — Client Service Representative / Full-Time
-
-**Subject:** Interest in Client Service Representative / Full-Time — biology/bioinformatics graduate
-
-Dear Banfield Pet Hospital Hiring Team,
-
-My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Client Service Representative / Full-Time opportunity with Banfield Pet Hospital at Banfield Pet Hospital.
-
-I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
-
-The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
-
-Best,
-Celina Lin
-https://linkedin.com/in/celina-g-lin
-
-Posting: https://jobright.ai/jobs/info/6a4614ef0dd56c76cc2f5a97
-
----
-
-## Banfield Pet Hospital — Client Service Representative -VCA Mueller
-
-**Subject:** Interest in Client Service Representative -VCA Mueller — biology/bioinformatics graduate
-
-Dear Banfield Pet Hospital Hiring Team,
-
-My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Client Service Representative -VCA Mueller opportunity with Banfield Pet Hospital at Banfield Pet Hospital.
-
-I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
-
-The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
-
-Best,
-Celina Lin
-https://linkedin.com/in/celina-g-lin
-
-Posting: https://jobright.ai/jobs/info/6a46f9570dd56c76cc2fba40
-
----
-
-## Banfield Pet Hospital — Client Service Representative VCA Mountainview
-
-**Subject:** Interest in Client Service Representative VCA Mountainview — biology/bioinformatics graduate
-
-Dear Banfield Pet Hospital Hiring Team,
-
-My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Client Service Representative VCA Mountainview opportunity with Banfield Pet Hospital at Banfield Pet Hospital.
-
-I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
-
-The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
-
-Best,
-Celina Lin
-https://linkedin.com/in/celina-g-lin
-
-Posting: https://jobright.ai/jobs/info/6a4614f34f64ba41dcb4fad4
-
----
-
-## Banfield Pet Hospital — Client Service Coordinator - 001139
-
-**Subject:** Interest in Client Service Coordinator - 001139 — biology/bioinformatics graduate
-
-Dear Banfield Pet Hospital Hiring Team,
-
-My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Client Service Coordinator - 001139 opportunity with Banfield Pet Hospital at Banfield Pet Hospital.
-
-I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
-
-The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
-
-Best,
-Celina Lin
-https://linkedin.com/in/celina-g-lin
-
-Posting: https://jobright.ai/jobs/info/6a483cf8c2d11a6a46674468
-
----
-
-## Banfield Pet Hospital — Client Service Coordinator - 005354
-
-**Subject:** Interest in Client Service Coordinator - 005354 — biology/bioinformatics graduate
-
-Dear Banfield Pet Hospital Hiring Team,
-
-My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Client Service Coordinator - 005354 opportunity with Banfield Pet Hospital at Banfield Pet Hospital.
-
-I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
-
-The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
-
-Best,
-Celina Lin
-https://linkedin.com/in/celina-g-lin
-
-Posting: https://jobright.ai/jobs/info/6a07199b9f57175bd581ff97
-
----
-
-## Banfield Pet Hospital — Client Service Coordinator - 005229
-
-**Subject:** Interest in Client Service Coordinator - 005229 — biology/bioinformatics graduate
-
-Dear Banfield Pet Hospital Hiring Team,
-
-My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Client Service Coordinator - 005229 opportunity with Banfield Pet Hospital at Banfield Pet Hospital.
-
-I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
-
-The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
-
-Best,
-Celina Lin
-https://linkedin.com/in/celina-g-lin
-
-Posting: https://jobright.ai/jobs/info/6a18051154962c1bb4b06733
-
----
-
-## Banfield Pet Hospital — Client Service Coordinator - 001401
-
-**Subject:** Interest in Client Service Coordinator - 001401 — biology/bioinformatics graduate
-
-Dear Banfield Pet Hospital Hiring Team,
-
-My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Client Service Coordinator - 001401 opportunity with Banfield Pet Hospital at Banfield Pet Hospital.
-
-I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
-
-The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
-
-Best,
-Celina Lin
-https://linkedin.com/in/celina-g-lin
-
-Posting: https://jobright.ai/jobs/info/6a17408cf45c6530ce9aaa7a
-
----
-
-## Banfield Pet Hospital — Client Service Coordinator; Banfield Beverly 5384
-
-**Subject:** Interest in Client Service Coordinator; Banfield Beverly 5384 — biology/bioinformatics graduate
-
-Dear Banfield Pet Hospital Hiring Team,
-
-My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Client Service Coordinator; Banfield Beverly 5384 opportunity with Banfield Pet Hospital at Banfield Pet Hospital.
-
-I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
-
-The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
-
-Best,
-Celina Lin
-https://linkedin.com/in/celina-g-lin
-
-Posting: https://jobright.ai/jobs/info/6a15e0070073182bd92ad69a
-
----
-
-## Banfield Pet Hospital — Client Service Coordinator- Vancouver East
-
-**Subject:** Interest in Client Service Coordinator- Vancouver East — biology/bioinformatics graduate
-
-Dear Banfield Pet Hospital Hiring Team,
-
-My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Client Service Coordinator- Vancouver East opportunity with Banfield Pet Hospital at Banfield Pet Hospital.
-
-I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
-
-The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
-
-Best,
-Celina Lin
-https://linkedin.com/in/celina-g-lin
-
-Posting: https://jobright.ai/jobs/info/6a0fab8e72b52f7225f3faf2
-
----
-
-## Banfield Pet Hospital — Client Service Coordinator - 005154
-
-**Subject:** Interest in Client Service Coordinator - 005154 — biology/bioinformatics graduate
-
-Dear Banfield Pet Hospital Hiring Team,
-
-My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Client Service Coordinator - 005154 opportunity with Banfield Pet Hospital at Banfield Pet Hospital.
-
-I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
-
-The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
-
-Best,
-Celina Lin
-https://linkedin.com/in/celina-g-lin
-
-Posting: https://jobright.ai/jobs/info/6a13f48f9fdbf21f36cbb07e
-
----
-
-## Banfield Pet Hospital — CLIENT SERVICE COORDINATOR- San Marcos
-
-**Subject:** Interest in CLIENT SERVICE COORDINATOR- San Marcos — biology/bioinformatics graduate
-
-Dear Banfield Pet Hospital Hiring Team,
-
-My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the CLIENT SERVICE COORDINATOR- San Marcos opportunity with Banfield Pet Hospital at Banfield Pet Hospital.
-
-I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
-
-The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
-
-Best,
-Celina Lin
-https://linkedin.com/in/celina-g-lin
-
-Posting: https://jobright.ai/jobs/info/6a1232609fdbf21f36cb5939
-
----
-
-## Banfield Pet Hospital — Client Service Coordinator - 005082
-
-**Subject:** Interest in Client Service Coordinator - 005082 — biology/bioinformatics graduate
-
-Dear Banfield Pet Hospital Hiring Team,
-
-My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Client Service Coordinator - 005082 opportunity with Banfield Pet Hospital at Banfield Pet Hospital.
-
-I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
-
-The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
-
-Best,
-Celina Lin
-https://linkedin.com/in/celina-g-lin
-
-Posting: https://jobright.ai/jobs/info/6a15eeb6554b0e12c0587620
-
----
-
-## Banfield Pet Hospital — Client Service Coordinator - 005354
-
-**Subject:** Interest in Client Service Coordinator - 005354 — biology/bioinformatics graduate
-
-Dear Banfield Pet Hospital Hiring Team,
-
-My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Client Service Coordinator - 005354 opportunity with Banfield Pet Hospital at Banfield Pet Hospital.
-
-I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
-
-The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
-
-Best,
-Celina Lin
-https://linkedin.com/in/celina-g-lin
-
-Posting: https://jobright.ai/jobs/info/6a07199b9f57175bd581ff98
-
----
-
-## Banfield Pet Hospital — Client Service Coordinator - 000460
-
-**Subject:** Interest in Client Service Coordinator - 000460 — biology/bioinformatics graduate
-
-Dear Banfield Pet Hospital Hiring Team,
-
-My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Client Service Coordinator - 000460 opportunity with Banfield Pet Hospital at Banfield Pet Hospital.
-
-I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
-
-The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
-
-Best,
-Celina Lin
-https://linkedin.com/in/celina-g-lin
-
-Posting: https://jobright.ai/jobs/info/69f4565958b23a2329daa45c
-
----
-
-## Banfield Pet Hospital — Client Service Coordinator - 001469
-
-**Subject:** Interest in Client Service Coordinator - 001469 — biology/bioinformatics graduate
-
-Dear Banfield Pet Hospital Hiring Team,
-
-My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Client Service Coordinator - 001469 opportunity with Banfield Pet Hospital at Banfield Pet Hospital.
-
-I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
-
-The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
-
-Best,
-Celina Lin
-https://linkedin.com/in/celina-g-lin
-
-Posting: https://jobright.ai/jobs/info/6a10fe5d9f654b3359cef38b
-
----
-
-## Banfield Pet Hospital — Client Service Coordinator - 005242
-
-**Subject:** Interest in Client Service Coordinator - 005242 — biology/bioinformatics graduate
-
-Dear Banfield Pet Hospital Hiring Team,
-
-My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Client Service Coordinator - 005242 opportunity with Banfield Pet Hospital at Banfield Pet Hospital.
-
-I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
-
-The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
-
-Best,
-Celina Lin
-https://linkedin.com/in/celina-g-lin
-
-Posting: https://jobright.ai/jobs/info/6a2b8dfd1de59e0682a89b97
-
----
-
-## Banfield Pet Hospital — Client Service Coordinator - 001187
-
-**Subject:** Interest in Client Service Coordinator - 001187 — biology/bioinformatics graduate
-
-Dear Banfield Pet Hospital Hiring Team,
-
-My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Client Service Coordinator - 001187 opportunity with Banfield Pet Hospital at Banfield Pet Hospital.
-
-I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
-
-The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
-
-Best,
-Celina Lin
-https://linkedin.com/in/celina-g-lin
-
-Posting: https://jobright.ai/jobs/info/6a46af9bc2d11a6a46670170
-
----
-
-## Banfield Pet Hospital — Client Service Coordinator
-
-**Subject:** Interest in Client Service Coordinator — biology/bioinformatics graduate
-
-Dear Banfield Pet Hospital Hiring Team,
-
-My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Client Service Coordinator opportunity with Banfield Pet Hospital at Banfield Pet Hospital.
-
-I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
-
-The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
-
-Best,
-Celina Lin
-https://linkedin.com/in/celina-g-lin
-
-Posting: https://jobright.ai/jobs/info/6a0f5cb79f654b3359ce4e6e
 
 ---
 
@@ -9922,6 +10122,26 @@ Posting: https://jobright.ai/jobs/info/6a1f1b95b61b2c65b37af26d
 
 ---
 
+## University of Iowa — Supply Chain Associate 60% (2nd Shift Thurs-Sat) - North Liberty
+
+**Subject:** Interest in Supply Chain Associate 60% (2nd Shift Thurs-Sat) - North Liberty — biology/bioinformatics graduate
+
+Dear University of Iowa Hiring Team,
+
+My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Supply Chain Associate 60% (2nd Shift Thurs-Sat) - North Liberty opportunity with University of Iowa at University of Iowa.
+
+I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
+
+The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
+
+Best,
+Celina Lin
+https://linkedin.com/in/celina-g-lin
+
+Posting: https://jobright.ai/jobs/info/6a4768713dbab558e29aa5c1
+
+---
+
 ## U.S. Dermatology Partners — Clinical Research Coordinator I (103304)
 
 **Subject:** Interest in Clinical Research Coordinator I (103304) — biology/bioinformatics graduate
@@ -9959,26 +10179,6 @@ Celina Lin
 https://linkedin.com/in/celina-g-lin
 
 Posting: https://jobright.ai/jobs/info/6a4637624f64ba41dcb516fd
-
----
-
-## The University of Texas at Austin — Student Social Media Associate
-
-**Subject:** Interest in Student Social Media Associate — biology/bioinformatics graduate
-
-Dear The University of Texas at Austin Hiring Team,
-
-My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Student Social Media Associate opportunity with The University of Texas at Austin at The University of Texas at Austin.
-
-I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
-
-The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
-
-Best,
-Celina Lin
-https://linkedin.com/in/celina-g-lin
-
-Posting: https://jobright.ai/jobs/info/6a4637423dbab558e29a54df
 
 ---
 
@@ -10058,7 +10258,7 @@ Best,
 Celina Lin
 https://linkedin.com/in/celina-g-lin
 
-Posting: https://jobright.ai/jobs/info/69969124e0bddb6acac5132c
+Posting: https://jobright.ai/jobs/info/6a085015403fc339507ecd91
 
 ---
 
@@ -10159,26 +10359,6 @@ Celina Lin
 https://linkedin.com/in/celina-g-lin
 
 Posting: https://jobright.ai/jobs/info/6a471d0e971cd25b06f91374
-
----
-
-## Cato Institute — Development and Events Assistant
-
-**Subject:** Interest in Development and Events Assistant — biology/bioinformatics graduate
-
-Dear Cato Institute Hiring Team,
-
-My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Development and Events Assistant opportunity with Cato Institute at Cato Institute.
-
-I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
-
-The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
-
-Best,
-Celina Lin
-https://linkedin.com/in/celina-g-lin
-
-Posting: https://jobright.ai/jobs/info/6a4596b54f64ba41dcb4dd98
 
 ---
 
@@ -10302,13 +10482,13 @@ Posting: https://jobright.ai/jobs/info/6a2cc03f7cd40a338fae7aa5
 
 ---
 
-## UMass Chan Medical School — Clinical Research Coordinator - Open Rank
+## University of Iowa — Supply Chain Associate (1st Shift)
 
-**Subject:** Interest in Clinical Research Coordinator - Open Rank — biology/bioinformatics graduate
+**Subject:** Interest in Supply Chain Associate (1st Shift) — biology/bioinformatics graduate
 
-Dear UMass Chan Medical School Hiring Team,
+Dear University of Iowa Hiring Team,
 
-My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Clinical Research Coordinator - Open Rank opportunity with UMass Chan Medical School at UMass Chan Medical School.
+My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Supply Chain Associate (1st Shift) opportunity with University of Iowa at University of Iowa.
 
 I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
 
@@ -10318,7 +10498,7 @@ Best,
 Celina Lin
 https://linkedin.com/in/celina-g-lin
 
-Posting: https://jobright.ai/jobs/info/6a3c320d982bb239f812eb74
+Posting: https://jobright.ai/jobs/info/6a4602683dbab558e29a35a4
 
 ---
 
@@ -10499,6 +10679,26 @@ Celina Lin
 https://linkedin.com/in/celina-g-lin
 
 Posting: https://jobright.ai/jobs/info/6a3f192f882f121f56a3c83d
+
+---
+
+## University of Iowa — Marketing Coordinator
+
+**Subject:** Interest in Marketing Coordinator — biology/bioinformatics graduate
+
+Dear University of Iowa Hiring Team,
+
+My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Marketing Coordinator opportunity with University of Iowa at University of Iowa.
+
+I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
+
+The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
+
+Best,
+Celina Lin
+https://linkedin.com/in/celina-g-lin
+
+Posting: https://jobright.ai/jobs/info/6a4470a857ffc22029407568
 
 ---
 
@@ -10699,6 +10899,26 @@ Celina Lin
 https://linkedin.com/in/celina-g-lin
 
 Posting: https://jobright.ai/jobs/info/6a43f0e40153061b8b3deac6
+
+---
+
+## Cato Institute — Development and Events Assistant
+
+**Subject:** Interest in Development and Events Assistant — biology/bioinformatics graduate
+
+Dear Cato Institute Hiring Team,
+
+My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Development and Events Assistant opportunity with Cato Institute at Cato Institute.
+
+I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
+
+The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
+
+Best,
+Celina Lin
+https://linkedin.com/in/celina-g-lin
+
+Posting: https://jobright.ai/jobs/info/6a4596b54f64ba41dcb4dd98
 
 ---
 
@@ -10942,26 +11162,6 @@ Posting: https://jobright.ai/jobs/info/6a43373d4461bf091787b37c
 
 ---
 
-## Dana-Farber Cancer Institute — Clinical Research Coordinator - Milford
-
-**Subject:** Interest in Clinical Research Coordinator - Milford — biology/bioinformatics graduate
-
-Dear Dana-Farber Cancer Institute Hiring Team,
-
-My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Clinical Research Coordinator - Milford opportunity with Dana-Farber Cancer Institute at Dana-Farber Cancer Institute.
-
-I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
-
-The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
-
-Best,
-Celina Lin
-https://linkedin.com/in/celina-g-lin
-
-Posting: https://jobright.ai/jobs/info/69f9f8ab582f810f9c8d3785
-
----
-
 ## Dana-Farber Cancer Institute — Clinical Research Coordinator - Londonderry, NH
 
 **Subject:** Interest in Clinical Research Coordinator - Londonderry, NH — biology/bioinformatics graduate
@@ -10999,6 +11199,26 @@ Celina Lin
 https://linkedin.com/in/celina-g-lin
 
 Posting: https://jobright.ai/jobs/info/6a2c5bc3c260bb1b8ae16079
+
+---
+
+## Dana-Farber Cancer Institute — Clinical Research Coordinator - Milford
+
+**Subject:** Interest in Clinical Research Coordinator - Milford — biology/bioinformatics graduate
+
+Dear Dana-Farber Cancer Institute Hiring Team,
+
+My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Clinical Research Coordinator - Milford opportunity with Dana-Farber Cancer Institute at Dana-Farber Cancer Institute.
+
+I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
+
+The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
+
+Best,
+Celina Lin
+https://linkedin.com/in/celina-g-lin
+
+Posting: https://jobright.ai/jobs/info/69f9f8ab582f810f9c8d3785
 
 ---
 
@@ -11082,33 +11302,13 @@ Posting: https://jobright.ai/jobs/info/6a42ccfe6c326942b4e842c3
 
 ---
 
-## Roswell Park Comprehensive Cancer Center — Recruiter (Temporary Non-Benefited)
+## San Diego State University — Department of Comparative International Studies 2026-2027
 
-**Subject:** Interest in Recruiter (Temporary Non-Benefited) — biology/bioinformatics graduate
+**Subject:** Interest in Department of Comparative International Studies 2026-2027 — biology/bioinformatics graduate
 
-Dear Roswell Park Comprehensive Cancer Center Hiring Team,
+Dear San Diego State University Hiring Team,
 
-My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Recruiter (Temporary Non-Benefited) opportunity with Roswell Park Comprehensive Cancer Center at Roswell Park Comprehensive Cancer Center.
-
-I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
-
-The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
-
-Best,
-Celina Lin
-https://linkedin.com/in/celina-g-lin
-
-Posting: https://jobright.ai/jobs/info/6a07a286403fc339507e6d5b
-
----
-
-## Roswell Park Comprehensive Cancer Center — Recruiter (Temporary Non-Benefited)
-
-**Subject:** Interest in Recruiter (Temporary Non-Benefited) — biology/bioinformatics graduate
-
-Dear Roswell Park Comprehensive Cancer Center Hiring Team,
-
-My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Recruiter (Temporary Non-Benefited) opportunity with Roswell Park Comprehensive Cancer Center at Roswell Park Comprehensive Cancer Center.
+My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Department of Comparative International Studies 2026-2027 opportunity with San Diego State University at San Diego State University.
 
 I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
 
@@ -11118,87 +11318,7 @@ Best,
 Celina Lin
 https://linkedin.com/in/celina-g-lin
 
-Posting: https://jobright.ai/jobs/info/6a0736d9a203b1052e438a00
-
----
-
-## Resolution Economics — Human Resources Coordinator
-
-**Subject:** Interest in Human Resources Coordinator — biology/bioinformatics graduate
-
-Dear Resolution Economics Hiring Team,
-
-My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Human Resources Coordinator opportunity with Resolution Economics at Resolution Economics.
-
-I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
-
-The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
-
-Best,
-Celina Lin
-https://linkedin.com/in/celina-g-lin
-
-Posting: https://jobright.ai/jobs/info/69b3f83e3b74eb1e2c8107d5
-
----
-
-## Oklahoma State University — Extension Administrative Support Specialist - Delaware CS9988
-
-**Subject:** Interest in Extension Administrative Support Specialist - Delaware CS9988 — biology/bioinformatics graduate
-
-Dear Oklahoma State University Hiring Team,
-
-My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Extension Administrative Support Specialist - Delaware CS9988 opportunity with Oklahoma State University at Oklahoma State University.
-
-I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
-
-The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
-
-Best,
-Celina Lin
-https://linkedin.com/in/celina-g-lin
-
-Posting: https://jobright.ai/jobs/info/69ebde5458811370cb13d55e
-
----
-
-## NASA Jet Propulsion Laboratory — Engineering Applications Software Engineer
-
-**Subject:** Interest in Engineering Applications Software Engineer — biology/bioinformatics graduate
-
-Dear NASA Jet Propulsion Laboratory Hiring Team,
-
-My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Engineering Applications Software Engineer opportunity with NASA Jet Propulsion Laboratory at NASA Jet Propulsion Laboratory.
-
-I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
-
-The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
-
-Best,
-Celina Lin
-https://linkedin.com/in/celina-g-lin
-
-Posting: https://jobright.ai/jobs/info/6a314259e7b7d514a3bd2724
-
----
-
-## Liberty University — Student Activities Marketing Student Staff
-
-**Subject:** Interest in Student Activities Marketing Student Staff — biology/bioinformatics graduate
-
-Dear Liberty University Hiring Team,
-
-My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Student Activities Marketing Student Staff opportunity with Liberty University at Liberty University.
-
-I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
-
-The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
-
-Best,
-Celina Lin
-https://linkedin.com/in/celina-g-lin
-
-Posting: https://jobright.ai/jobs/info/6a46284c07627158752a0943
+Posting: https://jobright.ai/jobs/info/69ced048891d7b11cfcccd57
 
 ---
 
@@ -11219,66 +11339,6 @@ Celina Lin
 https://linkedin.com/in/celina-g-lin
 
 Posting: https://jobright.ai/jobs/info/6a42fd2eff87fd527f9864bb
-
----
-
-## University of Idaho — Administrative Specialist II or III
-
-**Subject:** Interest in Administrative Specialist II or III — biology/bioinformatics graduate
-
-Dear University of Idaho Hiring Team,
-
-My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Administrative Specialist II or III opportunity with University of Idaho at University of Idaho.
-
-I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
-
-The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
-
-Best,
-Celina Lin
-https://linkedin.com/in/celina-g-lin
-
-Posting: https://jobright.ai/jobs/info/6a40401916b14939532832b4
-
----
-
-## Headlands Research — Clinical Research Coordinator I/II/III Opportunities – Multiple Locations Nationwide
-
-**Subject:** Interest in Clinical Research Coordinator I/II/III Opportunities – Multiple Locations Nationwide — biology/bioinformatics graduate
-
-Dear Headlands Research Hiring Team,
-
-My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Clinical Research Coordinator I/II/III Opportunities – Multiple Locations Nationwide opportunity with Headlands Research at Headlands Research.
-
-I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
-
-The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
-
-Best,
-Celina Lin
-https://linkedin.com/in/celina-g-lin
-
-Posting: https://jobright.ai/jobs/info/6a408159b526a24fc3130e1d
-
----
-
-## Headlands Research — Clinical Research Coordinator I/II/III Opportunities – Multiple Locations Nationwide
-
-**Subject:** Interest in Clinical Research Coordinator I/II/III Opportunities – Multiple Locations Nationwide — biology/bioinformatics graduate
-
-Dear Headlands Research Hiring Team,
-
-My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Clinical Research Coordinator I/II/III Opportunities – Multiple Locations Nationwide opportunity with Headlands Research at Headlands Research.
-
-I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
-
-The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
-
-Best,
-Celina Lin
-https://linkedin.com/in/celina-g-lin
-
-Posting: https://jobright.ai/jobs/info/6a408150b526a24fc3130e1b
 
 ---
 
@@ -11322,6 +11382,146 @@ Posting: https://illumina.wd1.myworkdayjobs.com/illumina-careers/job/US---Califo
 
 ---
 
+## Walgreens — Customer Service Associate
+
+**Subject:** Interest in Customer Service Associate — biology/bioinformatics graduate
+
+Dear Walgreens Hiring Team,
+
+My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Customer Service Associate opportunity with Walgreens at Walgreens.
+
+I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
+
+The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
+
+Best,
+Celina Lin
+https://linkedin.com/in/celina-g-lin
+
+Posting: https://jobright.ai/jobs/info/6a3d5b6478237a036d5e0db3
+
+---
+
+## Walgreens — Customer Service Associate
+
+**Subject:** Interest in Customer Service Associate — biology/bioinformatics graduate
+
+Dear Walgreens Hiring Team,
+
+My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Customer Service Associate opportunity with Walgreens at Walgreens.
+
+I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
+
+The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
+
+Best,
+Celina Lin
+https://linkedin.com/in/celina-g-lin
+
+Posting: https://jobright.ai/jobs/info/6a1087b812f8b43cf3985bb7
+
+---
+
+## Walgreens — Pharmacy Customer Service Associate
+
+**Subject:** Interest in Pharmacy Customer Service Associate — biology/bioinformatics graduate
+
+Dear Walgreens Hiring Team,
+
+My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Pharmacy Customer Service Associate opportunity with Walgreens at Walgreens.
+
+I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
+
+The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
+
+Best,
+Celina Lin
+https://linkedin.com/in/celina-g-lin
+
+Posting: https://jobright.ai/jobs/info/6a399ef2f6b55d12c79294c1
+
+---
+
+## Walgreens — Customer Service Associate - Temporary
+
+**Subject:** Interest in Customer Service Associate - Temporary — biology/bioinformatics graduate
+
+Dear Walgreens Hiring Team,
+
+My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Customer Service Associate - Temporary opportunity with Walgreens at Walgreens.
+
+I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
+
+The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
+
+Best,
+Celina Lin
+https://linkedin.com/in/celina-g-lin
+
+Posting: https://jobright.ai/jobs/info/6a0b965a22d0d34036c8e27b
+
+---
+
+## Walgreens — Customer Service Associate - Temporary
+
+**Subject:** Interest in Customer Service Associate - Temporary — biology/bioinformatics graduate
+
+Dear Walgreens Hiring Team,
+
+My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Customer Service Associate - Temporary opportunity with Walgreens at Walgreens.
+
+I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
+
+The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
+
+Best,
+Celina Lin
+https://linkedin.com/in/celina-g-lin
+
+Posting: https://jobright.ai/jobs/info/6a15ea8bdc845f4be5bda4e5
+
+---
+
+## Walgreens — Customer Service Associate - Temporary
+
+**Subject:** Interest in Customer Service Associate - Temporary — biology/bioinformatics graduate
+
+Dear Walgreens Hiring Team,
+
+My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Customer Service Associate - Temporary opportunity with Walgreens at Walgreens.
+
+I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
+
+The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
+
+Best,
+Celina Lin
+https://linkedin.com/in/celina-g-lin
+
+Posting: https://jobright.ai/jobs/info/6a0e71c9c152ac7824486bf7
+
+---
+
+## Walgreens — Customer Service Associate - Temporary
+
+**Subject:** Interest in Customer Service Associate - Temporary — biology/bioinformatics graduate
+
+Dear Walgreens Hiring Team,
+
+My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Customer Service Associate - Temporary opportunity with Walgreens at Walgreens.
+
+I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
+
+The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
+
+Best,
+Celina Lin
+https://linkedin.com/in/celina-g-lin
+
+Posting: https://jobright.ai/jobs/info/6a0e71ccc152ac7824486bf8
+
+---
+
 ## Werfen — Associate Training Specialist
 
 **Subject:** Interest in Associate Training Specialist — biology/bioinformatics graduate
@@ -11339,46 +11539,6 @@ Celina Lin
 https://linkedin.com/in/celina-g-lin
 
 Posting: https://jobright.ai/jobs/info/6a48aae53dbab558e29ad27c
-
----
-
-## Soar Autism Center — Behavior Analyst in Training - Arcadia
-
-**Subject:** Interest in Behavior Analyst in Training - Arcadia — biology/bioinformatics graduate
-
-Dear Soar Autism Center Hiring Team,
-
-My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Behavior Analyst in Training - Arcadia opportunity with Soar Autism Center at Soar Autism Center.
-
-I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
-
-The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
-
-Best,
-Celina Lin
-https://linkedin.com/in/celina-g-lin
-
-Posting: https://jobright.ai/jobs/info/69a699f1708b430a607b015f
-
----
-
-## Soar Autism Center — Behavior Analyst in Training - NE Denver
-
-**Subject:** Interest in Behavior Analyst in Training - NE Denver — biology/bioinformatics graduate
-
-Dear Soar Autism Center Hiring Team,
-
-My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Behavior Analyst in Training - NE Denver opportunity with Soar Autism Center at Soar Autism Center.
-
-I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
-
-The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
-
-Best,
-Celina Lin
-https://linkedin.com/in/celina-g-lin
-
-Posting: https://jobright.ai/jobs/info/69815cdfabff4c399aa053c5
 
 ---
 
@@ -11402,13 +11562,13 @@ Posting: https://jobright.ai/jobs/info/69a6921c708b430a607af698
 
 ---
 
-## Soar Autism Center — Behavior Analyst in Training - Gilbert
+## Soar Autism Center — Behavior Analyst in Training - North Scottsdale
 
-**Subject:** Interest in Behavior Analyst in Training - Gilbert — biology/bioinformatics graduate
+**Subject:** Interest in Behavior Analyst in Training - North Scottsdale — biology/bioinformatics graduate
 
 Dear Soar Autism Center Hiring Team,
 
-My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Behavior Analyst in Training - Gilbert opportunity with Soar Autism Center at Soar Autism Center.
+My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Behavior Analyst in Training - North Scottsdale opportunity with Soar Autism Center at Soar Autism Center.
 
 I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
 
@@ -11418,47 +11578,7 @@ Best,
 Celina Lin
 https://linkedin.com/in/celina-g-lin
 
-Posting: https://jobright.ai/jobs/info/69d617b4e63cea7a8b667aaa
-
----
-
-## Soar Autism Center — Behavior Analyst in Training - DTC
-
-**Subject:** Interest in Behavior Analyst in Training - DTC — biology/bioinformatics graduate
-
-Dear Soar Autism Center Hiring Team,
-
-My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Behavior Analyst in Training - DTC opportunity with Soar Autism Center at Soar Autism Center.
-
-I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
-
-The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
-
-Best,
-Celina Lin
-https://linkedin.com/in/celina-g-lin
-
-Posting: https://jobright.ai/jobs/info/69817708abff4c399aa0734c
-
----
-
-## Soar Autism Center — Behavior Analyst in Training - Standley Lake
-
-**Subject:** Interest in Behavior Analyst in Training - Standley Lake — biology/bioinformatics graduate
-
-Dear Soar Autism Center Hiring Team,
-
-My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Behavior Analyst in Training - Standley Lake opportunity with Soar Autism Center at Soar Autism Center.
-
-I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
-
-The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
-
-Best,
-Celina Lin
-https://linkedin.com/in/celina-g-lin
-
-Posting: https://jobright.ai/jobs/info/69eea10416b2612c2a1273a9
+Posting: https://jobright.ai/jobs/info/69a68dc8708b430a607af17f
 
 ---
 
@@ -11482,13 +11602,13 @@ Posting: https://jobright.ai/jobs/info/69815d4dabff4c399aa05429
 
 ---
 
-## Soar Autism Center — Behavior Analyst in Training - Glendale
+## Soar Autism Center — Behavior Analyst in Training - Gilbert
 
-**Subject:** Interest in Behavior Analyst in Training - Glendale — biology/bioinformatics graduate
+**Subject:** Interest in Behavior Analyst in Training - Gilbert — biology/bioinformatics graduate
 
 Dear Soar Autism Center Hiring Team,
 
-My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Behavior Analyst in Training - Glendale opportunity with Soar Autism Center at Soar Autism Center.
+My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Behavior Analyst in Training - Gilbert opportunity with Soar Autism Center at Soar Autism Center.
 
 I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
 
@@ -11498,87 +11618,7 @@ Best,
 Celina Lin
 https://linkedin.com/in/celina-g-lin
 
-Posting: https://jobright.ai/jobs/info/69a6a8e3f11be161e274f93e
-
----
-
-## Soar Autism Center — Behavior Analyst in Training - Denver Metro Area
-
-**Subject:** Interest in Behavior Analyst in Training - Denver Metro Area — biology/bioinformatics graduate
-
-Dear Soar Autism Center Hiring Team,
-
-My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Behavior Analyst in Training - Denver Metro Area opportunity with Soar Autism Center at Soar Autism Center.
-
-I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
-
-The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
-
-Best,
-Celina Lin
-https://linkedin.com/in/celina-g-lin
-
-Posting: https://jobright.ai/jobs/info/69cb28a31b5ad028873a93f8
-
----
-
-## Soar Autism Center — Behavior Analyst in Training - North Mountain Village
-
-**Subject:** Interest in Behavior Analyst in Training - North Mountain Village — biology/bioinformatics graduate
-
-Dear Soar Autism Center Hiring Team,
-
-My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Behavior Analyst in Training - North Mountain Village opportunity with Soar Autism Center at Soar Autism Center.
-
-I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
-
-The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
-
-Best,
-Celina Lin
-https://linkedin.com/in/celina-g-lin
-
-Posting: https://jobright.ai/jobs/info/69a68c251a944544ef6332b5
-
----
-
-## Soar Autism Center — Behavior Analyst in Training - Centretech
-
-**Subject:** Interest in Behavior Analyst in Training - Centretech — biology/bioinformatics graduate
-
-Dear Soar Autism Center Hiring Team,
-
-My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Behavior Analyst in Training - Centretech opportunity with Soar Autism Center at Soar Autism Center.
-
-I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
-
-The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
-
-Best,
-Celina Lin
-https://linkedin.com/in/celina-g-lin
-
-Posting: https://jobright.ai/jobs/info/69a69deef707784310aff882
-
----
-
-## Soar Autism Center — Behavior Analyst in Training - Mesa
-
-**Subject:** Interest in Behavior Analyst in Training - Mesa — biology/bioinformatics graduate
-
-Dear Soar Autism Center Hiring Team,
-
-My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Behavior Analyst in Training - Mesa opportunity with Soar Autism Center at Soar Autism Center.
-
-I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
-
-The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
-
-Best,
-Celina Lin
-https://linkedin.com/in/celina-g-lin
-
-Posting: https://jobright.ai/jobs/info/698164497f40342e15da6785
+Posting: https://jobright.ai/jobs/info/69d617b4e63cea7a8b667aaa
 
 ---
 
@@ -11602,13 +11642,13 @@ Posting: https://jobright.ai/jobs/info/69b012c2749500645095b5df
 
 ---
 
-## Soar Autism Center — Behavior Analyst in Training - North Scottsdale
+## Soar Autism Center — Behavior Analyst in Training - Centretech
 
-**Subject:** Interest in Behavior Analyst in Training - North Scottsdale — biology/bioinformatics graduate
+**Subject:** Interest in Behavior Analyst in Training - Centretech — biology/bioinformatics graduate
 
 Dear Soar Autism Center Hiring Team,
 
-My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Behavior Analyst in Training - North Scottsdale opportunity with Soar Autism Center at Soar Autism Center.
+My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Behavior Analyst in Training - Centretech opportunity with Soar Autism Center at Soar Autism Center.
 
 I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
 
@@ -11618,7 +11658,167 @@ Best,
 Celina Lin
 https://linkedin.com/in/celina-g-lin
 
-Posting: https://jobright.ai/jobs/info/69a68dc8708b430a607af17f
+Posting: https://jobright.ai/jobs/info/69a69deef707784310aff882
+
+---
+
+## Soar Autism Center — Behavior Analyst in Training - North Mountain Village
+
+**Subject:** Interest in Behavior Analyst in Training - North Mountain Village — biology/bioinformatics graduate
+
+Dear Soar Autism Center Hiring Team,
+
+My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Behavior Analyst in Training - North Mountain Village opportunity with Soar Autism Center at Soar Autism Center.
+
+I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
+
+The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
+
+Best,
+Celina Lin
+https://linkedin.com/in/celina-g-lin
+
+Posting: https://jobright.ai/jobs/info/69a68c251a944544ef6332b5
+
+---
+
+## Soar Autism Center — Behavior Analyst in Training - Glendale
+
+**Subject:** Interest in Behavior Analyst in Training - Glendale — biology/bioinformatics graduate
+
+Dear Soar Autism Center Hiring Team,
+
+My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Behavior Analyst in Training - Glendale opportunity with Soar Autism Center at Soar Autism Center.
+
+I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
+
+The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
+
+Best,
+Celina Lin
+https://linkedin.com/in/celina-g-lin
+
+Posting: https://jobright.ai/jobs/info/69a6a8e3f11be161e274f93e
+
+---
+
+## Soar Autism Center — Behavior Analyst in Training - Mesa
+
+**Subject:** Interest in Behavior Analyst in Training - Mesa — biology/bioinformatics graduate
+
+Dear Soar Autism Center Hiring Team,
+
+My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Behavior Analyst in Training - Mesa opportunity with Soar Autism Center at Soar Autism Center.
+
+I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
+
+The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
+
+Best,
+Celina Lin
+https://linkedin.com/in/celina-g-lin
+
+Posting: https://jobright.ai/jobs/info/698164497f40342e15da6785
+
+---
+
+## Soar Autism Center — Behavior Analyst in Training - DTC
+
+**Subject:** Interest in Behavior Analyst in Training - DTC — biology/bioinformatics graduate
+
+Dear Soar Autism Center Hiring Team,
+
+My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Behavior Analyst in Training - DTC opportunity with Soar Autism Center at Soar Autism Center.
+
+I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
+
+The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
+
+Best,
+Celina Lin
+https://linkedin.com/in/celina-g-lin
+
+Posting: https://jobright.ai/jobs/info/69817708abff4c399aa0734c
+
+---
+
+## Soar Autism Center — Behavior Analyst in Training - Arcadia
+
+**Subject:** Interest in Behavior Analyst in Training - Arcadia — biology/bioinformatics graduate
+
+Dear Soar Autism Center Hiring Team,
+
+My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Behavior Analyst in Training - Arcadia opportunity with Soar Autism Center at Soar Autism Center.
+
+I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
+
+The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
+
+Best,
+Celina Lin
+https://linkedin.com/in/celina-g-lin
+
+Posting: https://jobright.ai/jobs/info/69a699f1708b430a607b015f
+
+---
+
+## Soar Autism Center — Behavior Analyst in Training - Standley Lake
+
+**Subject:** Interest in Behavior Analyst in Training - Standley Lake — biology/bioinformatics graduate
+
+Dear Soar Autism Center Hiring Team,
+
+My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Behavior Analyst in Training - Standley Lake opportunity with Soar Autism Center at Soar Autism Center.
+
+I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
+
+The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
+
+Best,
+Celina Lin
+https://linkedin.com/in/celina-g-lin
+
+Posting: https://jobright.ai/jobs/info/69eea10416b2612c2a1273a9
+
+---
+
+## Soar Autism Center — Behavior Analyst in Training - NE Denver
+
+**Subject:** Interest in Behavior Analyst in Training - NE Denver — biology/bioinformatics graduate
+
+Dear Soar Autism Center Hiring Team,
+
+My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Behavior Analyst in Training - NE Denver opportunity with Soar Autism Center at Soar Autism Center.
+
+I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
+
+The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
+
+Best,
+Celina Lin
+https://linkedin.com/in/celina-g-lin
+
+Posting: https://jobright.ai/jobs/info/69815cdfabff4c399aa053c5
+
+---
+
+## Soar Autism Center — Behavior Analyst in Training - Denver Metro Area
+
+**Subject:** Interest in Behavior Analyst in Training - Denver Metro Area — biology/bioinformatics graduate
+
+Dear Soar Autism Center Hiring Team,
+
+My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Behavior Analyst in Training - Denver Metro Area opportunity with Soar Autism Center at Soar Autism Center.
+
+I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
+
+The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
+
+Best,
+Celina Lin
+https://linkedin.com/in/celina-g-lin
+
+Posting: https://jobright.ai/jobs/info/69cb28a31b5ad028873a93f8
 
 ---
 
@@ -12342,6 +12542,26 @@ Posting: https://jobright.ai/jobs/info/6a445a350153061b8b3e02a2
 
 ---
 
+## Amazon — Associate Learning & Development Trainer
+
+**Subject:** Interest in Associate Learning & Development Trainer — biology/bioinformatics graduate
+
+Dear Amazon Hiring Team,
+
+My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Associate Learning & Development Trainer opportunity with Amazon at Amazon.
+
+I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
+
+The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
+
+Best,
+Celina Lin
+https://linkedin.com/in/celina-g-lin
+
+Posting: https://jobright.ai/jobs/info/6a0c6d620411d7417a1b8711
+
+---
+
 ## Amazon — Associate Learning & Development Trainer, Associate Learning & Development
 
 **Subject:** Interest in Associate Learning & Development Trainer, Associate Learning & Development — biology/bioinformatics graduate
@@ -12539,26 +12759,6 @@ Celina Lin
 https://linkedin.com/in/celina-g-lin
 
 Posting: https://job-boards.greenhouse.io/arcinstitute/jobs/5997306004
-
----
-
-## Banfield Pet Hospital — Client Service Coordinator - Banfield of Charlotte University
-
-**Subject:** Interest in Client Service Coordinator - Banfield of Charlotte University — biology/bioinformatics graduate
-
-Dear Banfield Pet Hospital Hiring Team,
-
-My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Client Service Coordinator - Banfield of Charlotte University opportunity with Banfield Pet Hospital at Banfield Pet Hospital.
-
-I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
-
-The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
-
-Best,
-Celina Lin
-https://linkedin.com/in/celina-g-lin
-
-Posting: https://jobright.ai/jobs/info/698c1abf91fdda424d58dbd6
 
 ---
 
@@ -12922,6 +13122,166 @@ Posting: https://job-boards.greenhouse.io/arcinstitute/jobs/5820785004
 
 ---
 
+## Walmart — (USA) Coach/Ops Mgr Trainee-2
+
+**Subject:** Interest in (USA) Coach/Ops Mgr Trainee-2 — biology/bioinformatics graduate
+
+Dear Walmart Hiring Team,
+
+My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the (USA) Coach/Ops Mgr Trainee-2 opportunity with Walmart at Walmart.
+
+I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
+
+The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
+
+Best,
+Celina Lin
+https://linkedin.com/in/celina-g-lin
+
+Posting: https://jobright.ai/jobs/info/6a38d63ef6b55d12c792603b
+
+---
+
+## Walmart — (USA) Coach/Ops Mgr Trainee (Sign-On Bonus Eligible)
+
+**Subject:** Interest in (USA) Coach/Ops Mgr Trainee (Sign-On Bonus Eligible) — biology/bioinformatics graduate
+
+Dear Walmart Hiring Team,
+
+My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the (USA) Coach/Ops Mgr Trainee (Sign-On Bonus Eligible) opportunity with Walmart at Walmart.
+
+I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
+
+The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
+
+Best,
+Celina Lin
+https://linkedin.com/in/celina-g-lin
+
+Posting: https://jobright.ai/jobs/info/6a38d62da0f3e56e86d6e705
+
+---
+
+## Walmart — (USA) Coach/Ops Mgr Trainee
+
+**Subject:** Interest in (USA) Coach/Ops Mgr Trainee — biology/bioinformatics graduate
+
+Dear Walmart Hiring Team,
+
+My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the (USA) Coach/Ops Mgr Trainee opportunity with Walmart at Walmart.
+
+I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
+
+The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
+
+Best,
+Celina Lin
+https://linkedin.com/in/celina-g-lin
+
+Posting: https://jobright.ai/jobs/info/6a327eb7910b73491071060a
+
+---
+
+## lululemon — Full Time Educator / EAST HAMPTON
+
+**Subject:** Interest in Full Time Educator / EAST HAMPTON — biology/bioinformatics graduate
+
+Dear lululemon Hiring Team,
+
+My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Full Time Educator / EAST HAMPTON opportunity with lululemon at lululemon.
+
+I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
+
+The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
+
+Best,
+Celina Lin
+https://linkedin.com/in/celina-g-lin
+
+Posting: https://jobright.ai/jobs/info/69bb650b3b74eb1e2c89d04e
+
+---
+
+## lululemon — Educator / Whalers Village
+
+**Subject:** Interest in Educator / Whalers Village — biology/bioinformatics graduate
+
+Dear lululemon Hiring Team,
+
+My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Educator / Whalers Village opportunity with lululemon at lululemon.
+
+I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
+
+The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
+
+Best,
+Celina Lin
+https://linkedin.com/in/celina-g-lin
+
+Posting: https://jobright.ai/jobs/info/6a2bcdc7d3ec94183f4ba659
+
+---
+
+## lululemon — Educator / Plaza Frontenac
+
+**Subject:** Interest in Educator / Plaza Frontenac — biology/bioinformatics graduate
+
+Dear lululemon Hiring Team,
+
+My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Educator / Plaza Frontenac opportunity with lululemon at lululemon.
+
+I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
+
+The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
+
+Best,
+Celina Lin
+https://linkedin.com/in/celina-g-lin
+
+Posting: https://jobright.ai/jobs/info/69d6ccbf706f771673bae160
+
+---
+
+## YMCA of Lincoln, Nebraska — Youth Development - Preschool Teacher
+
+**Subject:** Interest in Youth Development - Preschool Teacher — biology/bioinformatics graduate
+
+Dear YMCA of Lincoln, Nebraska Hiring Team,
+
+My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Youth Development - Preschool Teacher opportunity with YMCA of Lincoln, Nebraska at YMCA of Lincoln, Nebraska.
+
+I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
+
+The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
+
+Best,
+Celina Lin
+https://linkedin.com/in/celina-g-lin
+
+Posting: https://jobright.ai/jobs/info/6a46213d0dd56c76cc2f6598
+
+---
+
+## YMCA of Lincoln, Nebraska — Youth Development - Before and After School Staff and Supervisors
+
+**Subject:** Interest in Youth Development - Before and After School Staff and Supervisors — biology/bioinformatics graduate
+
+Dear YMCA of Lincoln, Nebraska Hiring Team,
+
+My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Youth Development - Before and After School Staff and Supervisors opportunity with YMCA of Lincoln, Nebraska at YMCA of Lincoln, Nebraska.
+
+I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
+
+The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
+
+Best,
+Celina Lin
+https://linkedin.com/in/celina-g-lin
+
+Posting: https://jobright.ai/jobs/info/6a48fc7b971cd25b06f94d21
+
+---
+
 ## Wyndy — Elementary Reading Tutor for Child with Dyslexia
 
 **Subject:** Interest in Elementary Reading Tutor for Child with Dyslexia — biology/bioinformatics graduate
@@ -12942,13 +13302,13 @@ Posting: https://jobright.ai/jobs/info/6a48c3a4971cd25b06f94a09
 
 ---
 
-## Target — Starbucks Barista (T2917)
+## Wyndy — After-school resources in Tempe area
 
-**Subject:** Interest in Starbucks Barista (T2917) — biology/bioinformatics graduate
+**Subject:** Interest in After-school resources in Tempe area — biology/bioinformatics graduate
 
-Dear Target Hiring Team,
+Dear Wyndy Hiring Team,
 
-My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Starbucks Barista (T2917) opportunity with Target at Target.
+My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the After-school resources in Tempe area opportunity with Wyndy at Wyndy.
 
 I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
 
@@ -12958,17 +13318,17 @@ Best,
 Celina Lin
 https://linkedin.com/in/celina-g-lin
 
-Posting: https://jobright.ai/jobs/info/6788af3677a1cd5f966efeaa
+Posting: https://jobright.ai/jobs/info/6a4963c34f64ba41dcb5a259
 
 ---
 
-## Target — Starbucks Barista (T2649)
+## Wyndy — After-school chaperone near Xavier, OH
 
-**Subject:** Interest in Starbucks Barista (T2649) — biology/bioinformatics graduate
+**Subject:** Interest in After-school chaperone near Xavier, OH — biology/bioinformatics graduate
 
-Dear Target Hiring Team,
+Dear Wyndy Hiring Team,
 
-My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Starbucks Barista (T2649) opportunity with Target at Target.
+My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the After-school chaperone near Xavier, OH opportunity with Wyndy at Wyndy.
 
 I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
 
@@ -12978,17 +13338,17 @@ Best,
 Celina Lin
 https://linkedin.com/in/celina-g-lin
 
-Posting: https://jobright.ai/jobs/info/68c825a2983e6768bc54a2ab
+Posting: https://jobright.ai/jobs/info/6a4993004f64ba41dcb5a797
 
 ---
 
-## Target — Starbucks Barista (T1982)
+## Walmart — Continuous Skills Development Trainer
 
-**Subject:** Interest in Starbucks Barista (T1982) — biology/bioinformatics graduate
+**Subject:** Interest in Continuous Skills Development Trainer — biology/bioinformatics graduate
 
-Dear Target Hiring Team,
+Dear Walmart Hiring Team,
 
-My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Starbucks Barista (T1982) opportunity with Target at Target.
+My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Continuous Skills Development Trainer opportunity with Walmart at Walmart.
 
 I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
 
@@ -12998,7 +13358,107 @@ Best,
 Celina Lin
 https://linkedin.com/in/celina-g-lin
 
-Posting: https://jobright.ai/jobs/info/6808991cf88545e534c9319f
+Posting: https://jobright.ai/jobs/info/6a0f420c80bf0430c7632182
+
+---
+
+## Walmart — Continuous Skills Development Trainer
+
+**Subject:** Interest in Continuous Skills Development Trainer — biology/bioinformatics graduate
+
+Dear Walmart Hiring Team,
+
+My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Continuous Skills Development Trainer opportunity with Walmart at Walmart.
+
+I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
+
+The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
+
+Best,
+Celina Lin
+https://linkedin.com/in/celina-g-lin
+
+Posting: https://jobright.ai/jobs/info/6a106d68619335383fb326cf
+
+---
+
+## Snowshoe Mountain — Bike School Instructor
+
+**Subject:** Interest in Bike School Instructor — biology/bioinformatics graduate
+
+Dear Snowshoe Mountain Hiring Team,
+
+My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Bike School Instructor opportunity with Snowshoe Mountain at Snowshoe Mountain.
+
+I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
+
+The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
+
+Best,
+Celina Lin
+https://linkedin.com/in/celina-g-lin
+
+Posting: https://jobright.ai/jobs/info/6a49a364971cd25b06f95ba9
+
+---
+
+## Pilgrim's — Orientation Trainer - 1st Shift
+
+**Subject:** Interest in Orientation Trainer - 1st Shift — biology/bioinformatics graduate
+
+Dear Pilgrim's Hiring Team,
+
+My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Orientation Trainer - 1st Shift opportunity with Pilgrim's at Pilgrim's.
+
+I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
+
+The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
+
+Best,
+Celina Lin
+https://linkedin.com/in/celina-g-lin
+
+Posting: https://jobright.ai/jobs/info/69f36a7e461b9b613a620398
+
+---
+
+## Little Sprouts, LLC — Daycare Certified Infant and Toddler Teachers
+
+**Subject:** Interest in Daycare Certified Infant and Toddler Teachers — biology/bioinformatics graduate
+
+Dear Little Sprouts, LLC Hiring Team,
+
+My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Daycare Certified Infant and Toddler Teachers opportunity with Little Sprouts, LLC at Little Sprouts, LLC.
+
+I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
+
+The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
+
+Best,
+Celina Lin
+https://linkedin.com/in/celina-g-lin
+
+Posting: https://jobright.ai/jobs/info/6a370ee8649fdf16292fc9f6
+
+---
+
+## Lake Tahoe Community College — Child Development Center Teacher
+
+**Subject:** Interest in Child Development Center Teacher — biology/bioinformatics graduate
+
+Dear Lake Tahoe Community College Hiring Team,
+
+My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Child Development Center Teacher opportunity with Lake Tahoe Community College at Lake Tahoe Community College.
+
+I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
+
+The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
+
+Best,
+Celina Lin
+https://linkedin.com/in/celina-g-lin
+
+Posting: https://jobright.ai/jobs/info/6a493712f9cbb100d1ab36a6
 
 ---
 
@@ -13019,6 +13479,146 @@ Celina Lin
 https://linkedin.com/in/celina-g-lin
 
 Posting: https://jobright.ai/jobs/info/683909e05d9db6c6efa753a7
+
+---
+
+## Kroger — Grocery Clerk
+
+**Subject:** Interest in Grocery Clerk — biology/bioinformatics graduate
+
+Dear Kroger Hiring Team,
+
+My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Grocery Clerk opportunity with Kroger at Kroger.
+
+I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
+
+The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
+
+Best,
+Celina Lin
+https://linkedin.com/in/celina-g-lin
+
+Posting: https://jobright.ai/jobs/info/6a45995ac2d11a6a46669b33
+
+---
+
+## Centria Autism — Behavior Technician
+
+**Subject:** Interest in Behavior Technician — biology/bioinformatics graduate
+
+Dear Centria Autism Hiring Team,
+
+My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Behavior Technician opportunity with Centria Autism at Centria Autism.
+
+I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
+
+The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
+
+Best,
+Celina Lin
+https://linkedin.com/in/celina-g-lin
+
+Posting: https://jobright.ai/jobs/info/68f75072ec6dbe7073fbcd75
+
+---
+
+## Campus — Student Success Coach
+
+**Subject:** Interest in Student Success Coach — biology/bioinformatics graduate
+
+Dear Campus Hiring Team,
+
+My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Student Success Coach opportunity with Campus at Campus.
+
+I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
+
+The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
+
+Best,
+Celina Lin
+https://linkedin.com/in/celina-g-lin
+
+Posting: https://jobright.ai/jobs/info/6a10f663619335383fb35cb4
+
+---
+
+## Building Blocks Early Learning Center — Daycare Teachers
+
+**Subject:** Interest in Daycare Teachers — biology/bioinformatics graduate
+
+Dear Building Blocks Early Learning Center Hiring Team,
+
+My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Daycare Teachers opportunity with Building Blocks Early Learning Center at Building Blocks Early Learning Center.
+
+I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
+
+The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
+
+Best,
+Celina Lin
+https://linkedin.com/in/celina-g-lin
+
+Posting: https://jobright.ai/jobs/info/6a32ab90649fdf16292ee06d
+
+---
+
+## Brookdale Community College — Adjunct Instructor - 3D Design
+
+**Subject:** Interest in Adjunct Instructor - 3D Design — biology/bioinformatics graduate
+
+Dear Brookdale Community College Hiring Team,
+
+My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Adjunct Instructor - 3D Design opportunity with Brookdale Community College at Brookdale Community College.
+
+I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
+
+The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
+
+Best,
+Celina Lin
+https://linkedin.com/in/celina-g-lin
+
+Posting: https://jobright.ai/jobs/info/6a2aeca92cde2824469c3f23
+
+---
+
+## Amazon — Seasonal Learning Trainer , Learning
+
+**Subject:** Interest in Seasonal Learning Trainer , Learning — biology/bioinformatics graduate
+
+Dear Amazon Hiring Team,
+
+My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Seasonal Learning Trainer , Learning opportunity with Amazon at Amazon.
+
+I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
+
+The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
+
+Best,
+Celina Lin
+https://linkedin.com/in/celina-g-lin
+
+Posting: https://jobright.ai/jobs/info/6a2ca29bf1751b183c819519
+
+---
+
+## Amazon — Delivery Trainer, RSR
+
+**Subject:** Interest in Delivery Trainer, RSR — biology/bioinformatics graduate
+
+Dear Amazon Hiring Team,
+
+My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Delivery Trainer, RSR opportunity with Amazon at Amazon.
+
+I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
+
+The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
+
+Best,
+Celina Lin
+https://linkedin.com/in/celina-g-lin
+
+Posting: https://jobright.ai/jobs/info/69cf5c9a366bb95ba551586b
 
 ---
 
@@ -13102,66 +13702,6 @@ Posting: https://jobright.ai/jobs/info/6a486cc14f64ba41dcb58f0e
 
 ---
 
-## Walmart — (USA) Coach/Ops Mgr Trainee
-
-**Subject:** Interest in (USA) Coach/Ops Mgr Trainee — biology/bioinformatics graduate
-
-Dear Walmart Hiring Team,
-
-My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the (USA) Coach/Ops Mgr Trainee opportunity with Walmart at Walmart.
-
-I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
-
-The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
-
-Best,
-Celina Lin
-https://linkedin.com/in/celina-g-lin
-
-Posting: https://jobright.ai/jobs/info/6a327eb7910b73491071060a
-
----
-
-## Walmart — (USA) Coach/Ops Mgr Trainee-2
-
-**Subject:** Interest in (USA) Coach/Ops Mgr Trainee-2 — biology/bioinformatics graduate
-
-Dear Walmart Hiring Team,
-
-My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the (USA) Coach/Ops Mgr Trainee-2 opportunity with Walmart at Walmart.
-
-I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
-
-The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
-
-Best,
-Celina Lin
-https://linkedin.com/in/celina-g-lin
-
-Posting: https://jobright.ai/jobs/info/6a38d63ef6b55d12c792603b
-
----
-
-## Walmart — (USA) Coach/Ops Mgr Trainee (Sign-On Bonus Eligible)
-
-**Subject:** Interest in (USA) Coach/Ops Mgr Trainee (Sign-On Bonus Eligible) — biology/bioinformatics graduate
-
-Dear Walmart Hiring Team,
-
-My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the (USA) Coach/Ops Mgr Trainee (Sign-On Bonus Eligible) opportunity with Walmart at Walmart.
-
-I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
-
-The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
-
-Best,
-Celina Lin
-https://linkedin.com/in/celina-g-lin
-
-Posting: https://jobright.ai/jobs/info/6a38d62da0f3e56e86d6e705
-
----
-
 ## UF Lastinger Center for Learning — Finance Student Assistant
 
 **Subject:** Interest in Finance Student Assistant — biology/bioinformatics graduate
@@ -13239,6 +13779,26 @@ Celina Lin
 https://linkedin.com/in/celina-g-lin
 
 Posting: https://jobright.ai/jobs/info/6a4790ea5d7b097d2df3812f
+
+---
+
+## MyEdSpace — Student Content Creator
+
+**Subject:** Interest in Student Content Creator — biology/bioinformatics graduate
+
+Dear MyEdSpace Hiring Team,
+
+My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Student Content Creator opportunity with MyEdSpace at MyEdSpace.
+
+I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
+
+The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
+
+Best,
+Celina Lin
+https://linkedin.com/in/celina-g-lin
+
+Posting: https://jobright.ai/jobs/info/69e6893c7820c036924d109e
 
 ---
 
@@ -13322,26 +13882,6 @@ Posting: https://jobright.ai/jobs/info/6a4337014461bf091787b31a
 
 ---
 
-## Kroger — Grocery Clerk
-
-**Subject:** Interest in Grocery Clerk — biology/bioinformatics graduate
-
-Dear Kroger Hiring Team,
-
-My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Grocery Clerk opportunity with Kroger at Kroger.
-
-I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
-
-The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
-
-Best,
-Celina Lin
-https://linkedin.com/in/celina-g-lin
-
-Posting: https://jobright.ai/jobs/info/6a45995ac2d11a6a46669b33
-
----
-
 ## Foot Locker — Distribution Center Operations Trainer - Weekend Shift
 
 **Subject:** Interest in Distribution Center Operations Trainer - Weekend Shift — biology/bioinformatics graduate
@@ -13379,26 +13919,6 @@ Celina Lin
 https://linkedin.com/in/celina-g-lin
 
 Posting: https://jobright.ai/jobs/info/6a484d4a5d7b097d2df39d80
-
----
-
-## East Side Union High School District — School Secretary - Davis High School
-
-**Subject:** Interest in School Secretary - Davis High School — biology/bioinformatics graduate
-
-Dear East Side Union High School District Hiring Team,
-
-My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the School Secretary - Davis High School opportunity with East Side Union High School District at East Side Union High School District.
-
-I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
-
-The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
-
-Best,
-Celina Lin
-https://linkedin.com/in/celina-g-lin
-
-Posting: https://jobright.ai/jobs/info/6a4613b8076271587529f598
 
 ---
 
@@ -13562,26 +14082,6 @@ Posting: https://jobright.ai/jobs/info/6a2a7b5a0c4972328e7e8e6f
 
 ---
 
-## lululemon — Educator / Washington Square Mall
-
-**Subject:** Interest in Educator / Washington Square Mall — biology/bioinformatics graduate
-
-Dear lululemon Hiring Team,
-
-My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Educator / Washington Square Mall opportunity with lululemon at lululemon.
-
-I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
-
-The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
-
-Best,
-Celina Lin
-https://linkedin.com/in/celina-g-lin
-
-Posting: https://jobright.ai/jobs/info/6a2a7c54c07d4b6ae1c460a5
-
----
-
 ## lululemon — Full-time Educator / The Shoppes at Union Hill
 
 **Subject:** Interest in Full-time Educator / The Shoppes at Union Hill — biology/bioinformatics graduate
@@ -13602,6 +14102,26 @@ Posting: https://jobright.ai/jobs/info/6a29d586495d985b994262d2
 
 ---
 
+## lululemon — Educator / Washington Square Mall
+
+**Subject:** Interest in Educator / Washington Square Mall — biology/bioinformatics graduate
+
+Dear lululemon Hiring Team,
+
+My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Educator / Washington Square Mall opportunity with lululemon at lululemon.
+
+I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
+
+The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
+
+Best,
+Celina Lin
+https://linkedin.com/in/celina-g-lin
+
+Posting: https://jobright.ai/jobs/info/6a2a7c54c07d4b6ae1c460a5
+
+---
+
 ## lululemon — Educator / Barton Creek Square
 
 **Subject:** Interest in Educator / Barton Creek Square — biology/bioinformatics graduate
@@ -13619,46 +14139,6 @@ Celina Lin
 https://linkedin.com/in/celina-g-lin
 
 Posting: https://jobright.ai/jobs/info/6a4632fa0dd56c76cc2f7575
-
----
-
-## YMCA of Lincoln, Nebraska — Youth Development - Preschool Teacher
-
-**Subject:** Interest in Youth Development - Preschool Teacher — biology/bioinformatics graduate
-
-Dear YMCA of Lincoln, Nebraska Hiring Team,
-
-My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Youth Development - Preschool Teacher opportunity with YMCA of Lincoln, Nebraska at YMCA of Lincoln, Nebraska.
-
-I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
-
-The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
-
-Best,
-Celina Lin
-https://linkedin.com/in/celina-g-lin
-
-Posting: https://jobright.ai/jobs/info/6a46adcb971cd25b06f8fb88
-
----
-
-## YMCA of Lincoln, Nebraska — Youth Development - Before and After School Staff and Supervisors
-
-**Subject:** Interest in Youth Development - Before and After School Staff and Supervisors — biology/bioinformatics graduate
-
-Dear YMCA of Lincoln, Nebraska Hiring Team,
-
-My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Youth Development - Before and After School Staff and Supervisors opportunity with YMCA of Lincoln, Nebraska at YMCA of Lincoln, Nebraska.
-
-I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
-
-The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
-
-Best,
-Celina Lin
-https://linkedin.com/in/celina-g-lin
-
-Posting: https://jobright.ai/jobs/info/6a4621714f64ba41dcb505d9
 
 ---
 
@@ -14582,26 +15062,6 @@ Posting: https://jobright.ai/jobs/info/6a4189ffd528ac2915f97778
 
 ---
 
-## Joliet Junior College — Testing Assistant
-
-**Subject:** Interest in Testing Assistant — biology/bioinformatics graduate
-
-Dear Joliet Junior College Hiring Team,
-
-My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Testing Assistant opportunity with Joliet Junior College at Joliet Junior College.
-
-I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
-
-The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
-
-Best,
-Celina Lin
-https://linkedin.com/in/celina-g-lin
-
-Posting: https://jobright.ai/jobs/info/6a4629483dbab558e29a4cc5
-
----
-
 ## Jersey College — Financial Aid Planner
 
 **Subject:** Interest in Financial Aid Planner — biology/bioinformatics graduate
@@ -14779,6 +15239,26 @@ Celina Lin
 https://linkedin.com/in/celina-g-lin
 
 Posting: https://jobright.ai/jobs/info/6a468b27c2d11a6a4666f661
+
+---
+
+## East Side Union High School District — LIBRARY TECHNICIAN I - WILSON ELEMENTARY SCHOOL - 9:00 AM-3:30 PM
+
+**Subject:** Interest in LIBRARY TECHNICIAN I - WILSON ELEMENTARY SCHOOL - 9:00 AM-3:30 PM — biology/bioinformatics graduate
+
+Dear East Side Union High School District Hiring Team,
+
+My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the LIBRARY TECHNICIAN I - WILSON ELEMENTARY SCHOOL - 9:00 AM-3:30 PM opportunity with East Side Union High School District at East Side Union High School District.
+
+I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
+
+The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
+
+Best,
+Celina Lin
+https://linkedin.com/in/celina-g-lin
+
+Posting: https://jobright.ai/jobs/info/6a492724971cd25b06f94fcc
 
 ---
 
@@ -15282,26 +15762,6 @@ Posting: https://jobright.ai/jobs/info/6a4584f60dd56c76cc2f3b0c
 
 ---
 
-## Target — B2 Team Member Trainer
-
-**Subject:** Interest in B2 Team Member Trainer — biology/bioinformatics graduate
-
-Dear Target Hiring Team,
-
-My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the B2 Team Member Trainer opportunity with Target at Target.
-
-I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
-
-The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
-
-Best,
-Celina Lin
-https://linkedin.com/in/celina-g-lin
-
-Posting: https://jobright.ai/jobs/info/6a4584ec4f64ba41dcb4da6a
-
----
-
 ## Target — A1 Team Member Trainer
 
 **Subject:** Interest in A1 Team Member Trainer — biology/bioinformatics graduate
@@ -15319,6 +15779,26 @@ Celina Lin
 https://linkedin.com/in/celina-g-lin
 
 Posting: https://jobright.ai/jobs/info/6a4584ec0dd56c76cc2f3b06
+
+---
+
+## Target — B2 Team Member Trainer
+
+**Subject:** Interest in B2 Team Member Trainer — biology/bioinformatics graduate
+
+Dear Target Hiring Team,
+
+My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the B2 Team Member Trainer opportunity with Target at Target.
+
+I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
+
+The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
+
+Best,
+Celina Lin
+https://linkedin.com/in/celina-g-lin
+
+Posting: https://jobright.ai/jobs/info/6a4584ec4f64ba41dcb4da6a
 
 ---
 
@@ -15422,26 +15902,6 @@ Posting: https://jobright.ai/jobs/info/6a45b2cc076271587529dda5
 
 ---
 
-## SchoolSpring — Interim Teacher (non-certified) - Bilingual Grades PK-5 (Districtwide)
-
-**Subject:** Interest in Interim Teacher (non-certified) - Bilingual Grades PK-5 (Districtwide) — biology/bioinformatics graduate
-
-Dear SchoolSpring Hiring Team,
-
-My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Interim Teacher (non-certified) - Bilingual Grades PK-5 (Districtwide) opportunity with SchoolSpring at SchoolSpring.
-
-I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
-
-The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
-
-Best,
-Celina Lin
-https://linkedin.com/in/celina-g-lin
-
-Posting: https://jobright.ai/jobs/info/6a45b2c93dbab558e29a1fb3
-
----
-
 ## SchoolSpring — Interim Teacher (non-certified) - Special Education (Districtwide)
 
 **Subject:** Interest in Interim Teacher (non-certified) - Special Education (Districtwide) — biology/bioinformatics graduate
@@ -15459,6 +15919,26 @@ Celina Lin
 https://linkedin.com/in/celina-g-lin
 
 Posting: https://jobright.ai/jobs/info/6a45b2c9c2d11a6a46669e94
+
+---
+
+## SchoolSpring — Interim Teacher (non-certified) - Bilingual Grades PK-5 (Districtwide)
+
+**Subject:** Interest in Interim Teacher (non-certified) - Bilingual Grades PK-5 (Districtwide) — biology/bioinformatics graduate
+
+Dear SchoolSpring Hiring Team,
+
+My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Interim Teacher (non-certified) - Bilingual Grades PK-5 (Districtwide) opportunity with SchoolSpring at SchoolSpring.
+
+I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
+
+The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
+
+Best,
+Celina Lin
+https://linkedin.com/in/celina-g-lin
+
+Posting: https://jobright.ai/jobs/info/6a45b2c93dbab558e29a1fb3
 
 ---
 
@@ -15502,13 +15982,13 @@ Posting: https://jobright.ai/jobs/info/6a4596b14f64ba41dcb4dd93
 
 ---
 
-## SchoolSpring — Tutor (during school), Norris S. Childers Elementary School
+## SchoolSpring — TX ACE 21st CCLC Part Time Site Staff
 
-**Subject:** Interest in Tutor (during school), Norris S. Childers Elementary School — biology/bioinformatics graduate
+**Subject:** Interest in TX ACE 21st CCLC Part Time Site Staff — biology/bioinformatics graduate
 
 Dear SchoolSpring Hiring Team,
 
-My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Tutor (during school), Norris S. Childers Elementary School opportunity with SchoolSpring at SchoolSpring.
+My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the TX ACE 21st CCLC Part Time Site Staff opportunity with SchoolSpring at SchoolSpring.
 
 I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
 
@@ -15518,7 +15998,27 @@ Best,
 Celina Lin
 https://linkedin.com/in/celina-g-lin
 
-Posting: https://jobright.ai/jobs/info/6a4596ac3dbab558e29a1bca
+Posting: https://jobright.ai/jobs/info/6a457aa73dbab558e29a1669
+
+---
+
+## SchoolSpring — Elementary School Secretary (10 month position)
+
+**Subject:** Interest in Elementary School Secretary (10 month position) — biology/bioinformatics graduate
+
+Dear SchoolSpring Hiring Team,
+
+My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Elementary School Secretary (10 month position) opportunity with SchoolSpring at SchoolSpring.
+
+I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
+
+The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
+
+Best,
+Celina Lin
+https://linkedin.com/in/celina-g-lin
+
+Posting: https://jobright.ai/jobs/info/6a457aa43dbab558e29a1667
 
 ---
 
@@ -15598,47 +16098,7 @@ Best,
 Celina Lin
 https://linkedin.com/in/celina-g-lin
 
-Posting: https://jobright.ai/jobs/info/6a457aa73dbab558e29a1669
-
----
-
-## SchoolSpring — TX ACE 21st CCLC Part Time Site Staff
-
-**Subject:** Interest in TX ACE 21st CCLC Part Time Site Staff — biology/bioinformatics graduate
-
-Dear SchoolSpring Hiring Team,
-
-My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the TX ACE 21st CCLC Part Time Site Staff opportunity with SchoolSpring at SchoolSpring.
-
-I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
-
-The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
-
-Best,
-Celina Lin
-https://linkedin.com/in/celina-g-lin
-
 Posting: https://jobright.ai/jobs/info/6a457aa6c2d11a6a46669525
-
----
-
-## SchoolSpring — Elementary School Secretary (10 month position)
-
-**Subject:** Interest in Elementary School Secretary (10 month position) — biology/bioinformatics graduate
-
-Dear SchoolSpring Hiring Team,
-
-My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Elementary School Secretary (10 month position) opportunity with SchoolSpring at SchoolSpring.
-
-I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
-
-The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
-
-Best,
-Celina Lin
-https://linkedin.com/in/celina-g-lin
-
-Posting: https://jobright.ai/jobs/info/6a457aa43dbab558e29a1667
 
 ---
 
@@ -15862,6 +16322,26 @@ Posting: https://jobright.ai/jobs/info/6a457a8c4f64ba41dcb4d80d
 
 ---
 
+## SchoolSpring — Tutor (during school), Norris S. Childers Elementary School
+
+**Subject:** Interest in Tutor (during school), Norris S. Childers Elementary School — biology/bioinformatics graduate
+
+Dear SchoolSpring Hiring Team,
+
+My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Tutor (during school), Norris S. Childers Elementary School opportunity with SchoolSpring at SchoolSpring.
+
+I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
+
+The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
+
+Best,
+Celina Lin
+https://linkedin.com/in/celina-g-lin
+
+Posting: https://jobright.ai/jobs/info/6a4596ac3dbab558e29a1bca
+
+---
+
 ## SchoolSpring — Teacher Assistant: Deaf/Hard of Hearing
 
 **Subject:** Interest in Teacher Assistant: Deaf/Hard of Hearing — biology/bioinformatics graduate
@@ -15922,26 +16402,6 @@ Posting: https://jobright.ai/jobs/info/6a455e773dbab558e29a10e1
 
 ---
 
-## SchoolSpring — 26-27 Paraprofessional (Reading/Math Intervention)
-
-**Subject:** Interest in 26-27 Paraprofessional (Reading/Math Intervention) — biology/bioinformatics graduate
-
-Dear SchoolSpring Hiring Team,
-
-My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the 26-27 Paraprofessional (Reading/Math Intervention) opportunity with SchoolSpring at SchoolSpring.
-
-I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
-
-The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
-
-Best,
-Celina Lin
-https://linkedin.com/in/celina-g-lin
-
-Posting: https://jobright.ai/jobs/info/6a455e6a0dd56c76cc2f3322
-
----
-
 ## SchoolSpring — School Year 26/27 Educator Building Substitute - Elementary
 
 **Subject:** Interest in School Year 26/27 Educator Building Substitute - Elementary — biology/bioinformatics graduate
@@ -15959,6 +16419,26 @@ Celina Lin
 https://linkedin.com/in/celina-g-lin
 
 Posting: https://jobright.ai/jobs/info/6a455e6a48d2f00f2a86d5a9
+
+---
+
+## SchoolSpring — 26-27 Paraprofessional (Reading/Math Intervention)
+
+**Subject:** Interest in 26-27 Paraprofessional (Reading/Math Intervention) — biology/bioinformatics graduate
+
+Dear SchoolSpring Hiring Team,
+
+My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the 26-27 Paraprofessional (Reading/Math Intervention) opportunity with SchoolSpring at SchoolSpring.
+
+I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
+
+The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
+
+Best,
+Celina Lin
+https://linkedin.com/in/celina-g-lin
+
+Posting: https://jobright.ai/jobs/info/6a455e6a0dd56c76cc2f3322
 
 ---
 
@@ -16122,26 +16602,6 @@ Posting: https://jobright.ai/jobs/info/6a45424cc2d11a6a466688c6
 
 ---
 
-## SchoolSpring — BES: Instructional Assistant 1 (Job ID# 3759)
-
-**Subject:** Interest in BES: Instructional Assistant 1 (Job ID# 3759) — biology/bioinformatics graduate
-
-Dear SchoolSpring Hiring Team,
-
-My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the BES: Instructional Assistant 1 (Job ID# 3759) opportunity with SchoolSpring at SchoolSpring.
-
-I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
-
-The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
-
-Best,
-Celina Lin
-https://linkedin.com/in/celina-g-lin
-
-Posting: https://jobright.ai/jobs/info/6a45424b0dd56c76cc2f2cce
-
----
-
 ## SchoolSpring — 2026-2027 Substitute Teacher - Certified
 
 **Subject:** Interest in 2026-2027 Substitute Teacher - Certified — biology/bioinformatics graduate
@@ -16259,6 +16719,26 @@ Celina Lin
 https://linkedin.com/in/celina-g-lin
 
 Posting: https://jobright.ai/jobs/info/6a4526383dbab558e29a051c
+
+---
+
+## SchoolSpring — BES: Instructional Assistant 1 (Job ID# 3759)
+
+**Subject:** Interest in BES: Instructional Assistant 1 (Job ID# 3759) — biology/bioinformatics graduate
+
+Dear SchoolSpring Hiring Team,
+
+My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the BES: Instructional Assistant 1 (Job ID# 3759) opportunity with SchoolSpring at SchoolSpring.
+
+I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
+
+The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
+
+Best,
+Celina Lin
+https://linkedin.com/in/celina-g-lin
+
+Posting: https://jobright.ai/jobs/info/6a45424b0dd56c76cc2f2cce
 
 ---
 
@@ -16622,26 +17102,6 @@ Posting: https://jobright.ai/jobs/info/6a330049f6b55d12c7917371
 
 ---
 
-## East Side Union High School District — Classified (Non-Teacher) Substitute Pool for Administrative Assistant I at Del Norte County Unified School District
-
-**Subject:** Interest in Classified (Non-Teacher) Substitute Pool for Administrative Assistant I at Del Norte County Unified School District — biology/bioinformatics graduate
-
-Dear East Side Union High School District Hiring Team,
-
-My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Classified (Non-Teacher) Substitute Pool for Administrative Assistant I at Del Norte County Unified School District opportunity with East Side Union High School District at East Side Union High School District.
-
-I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
-
-The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
-
-Best,
-Celina Lin
-https://linkedin.com/in/celina-g-lin
-
-Posting: https://jobright.ai/jobs/info/6a4595354f64ba41dcb4dd48
-
----
-
 ## East Side Union High School District — Child Development Instructional Aide - Little Explorers (Toddler Program) Preschool
 
 **Subject:** Interest in Child Development Instructional Aide - Little Explorers (Toddler Program) Preschool — biology/bioinformatics graduate
@@ -16802,13 +17262,13 @@ Posting: https://jobright.ai/jobs/info/6a454ec4c2d11a6a46668c0c
 
 ---
 
-## East Side Union High School District — ELOP Leader - 6:55 AM - 12:25 PM - 5.5 hours/day Melinda Heights TLC
+## East Side Union High School District — Child Development Teacher 234 Days
 
-**Subject:** Interest in ELOP Leader - 6:55 AM - 12:25 PM - 5.5 hours/day Melinda Heights TLC — biology/bioinformatics graduate
+**Subject:** Interest in Child Development Teacher 234 Days — biology/bioinformatics graduate
 
 Dear East Side Union High School District Hiring Team,
 
-My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the ELOP Leader - 6:55 AM - 12:25 PM - 5.5 hours/day Melinda Heights TLC opportunity with East Side Union High School District at East Side Union High School District.
+My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Child Development Teacher 234 Days opportunity with East Side Union High School District at East Side Union High School District.
 
 I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
 
@@ -16818,7 +17278,7 @@ Best,
 Celina Lin
 https://linkedin.com/in/celina-g-lin
 
-Posting: https://jobright.ai/jobs/info/6a44c24cb156014e414bd0c2
+Posting: https://jobright.ai/jobs/info/6a369633649fdf16292fbef8
 
 ---
 
@@ -16858,7 +17318,7 @@ Best,
 Celina Lin
 https://linkedin.com/in/celina-g-lin
 
-Posting: https://jobright.ai/jobs/info/6a457a3548d2f00f2a86db30
+Posting: https://jobright.ai/jobs/info/6a457a3e48d2f00f2a86db32
 
 ---
 
@@ -16878,7 +17338,7 @@ Best,
 Celina Lin
 https://linkedin.com/in/celina-g-lin
 
-Posting: https://jobright.ai/jobs/info/6a457a3f4f64ba41dcb4d800
+Posting: https://jobright.ai/jobs/info/6a457a3548d2f00f2a86db30
 
 ---
 
@@ -16918,7 +17378,7 @@ Best,
 Celina Lin
 https://linkedin.com/in/celina-g-lin
 
-Posting: https://jobright.ai/jobs/info/6a457a3e48d2f00f2a86db32
+Posting: https://jobright.ai/jobs/info/6a457a3f4f64ba41dcb4d800
 
 ---
 
@@ -17019,26 +17479,6 @@ Celina Lin
 https://linkedin.com/in/celina-g-lin
 
 Posting: https://jobright.ai/jobs/info/6a457d6d48d2f00f2a86dc25
-
----
-
-## wewe — Administrative Assistant
-
-**Subject:** Interest in Administrative Assistant — biology/bioinformatics graduate
-
-Dear wewe Hiring Team,
-
-My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Administrative Assistant opportunity with wewe at wewe.
-
-I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
-
-The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
-
-Best,
-Celina Lin
-https://linkedin.com/in/celina-g-lin
-
-Posting: https://jobright.ai/jobs/info/6a448243ef17a815538a42ed
 
 ---
 
@@ -17202,26 +17642,6 @@ Posting: https://jobright.ai/jobs/info/6a455e9e0dd56c76cc2f3338
 
 ---
 
-## SchoolSpring — 2026 - 27 SY 1.0 FTE Temporary K-5 Teacher for Meadow View School
-
-**Subject:** Interest in 2026 - 27 SY 1.0 FTE Temporary K-5 Teacher for Meadow View School — biology/bioinformatics graduate
-
-Dear SchoolSpring Hiring Team,
-
-My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the 2026 - 27 SY 1.0 FTE Temporary K-5 Teacher for Meadow View School opportunity with SchoolSpring at SchoolSpring.
-
-I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
-
-The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
-
-Best,
-Celina Lin
-https://linkedin.com/in/celina-g-lin
-
-Posting: https://jobright.ai/jobs/info/6a4542500dd56c76cc2f2cd4
-
----
-
 ## SchoolSpring — General Secretary - Secondary School (temporary for the 2026-2027 school year)
 
 **Subject:** Interest in General Secretary - Secondary School (temporary for the 2026-2027 school year) — biology/bioinformatics graduate
@@ -17239,6 +17659,26 @@ Celina Lin
 https://linkedin.com/in/celina-g-lin
 
 Posting: https://jobright.ai/jobs/info/6a4596af3dbab558e29a1bcb
+
+---
+
+## SchoolSpring — 2026 - 27 SY 1.0 FTE Temporary K-5 Teacher for Meadow View School
+
+**Subject:** Interest in 2026 - 27 SY 1.0 FTE Temporary K-5 Teacher for Meadow View School — biology/bioinformatics graduate
+
+Dear SchoolSpring Hiring Team,
+
+My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the 2026 - 27 SY 1.0 FTE Temporary K-5 Teacher for Meadow View School opportunity with SchoolSpring at SchoolSpring.
+
+I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
+
+The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
+
+Best,
+Celina Lin
+https://linkedin.com/in/celina-g-lin
+
+Posting: https://jobright.ai/jobs/info/6a4542500dd56c76cc2f2cd4
 
 ---
 
@@ -17662,26 +18102,6 @@ Posting: https://jobright.ai/jobs/info/6a440cea105260150b7209fd
 
 ---
 
-## SchoolSpring — High School Cosmetology Assistant/ Aide
-
-**Subject:** Interest in High School Cosmetology Assistant/ Aide — biology/bioinformatics graduate
-
-Dear SchoolSpring Hiring Team,
-
-My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the High School Cosmetology Assistant/ Aide opportunity with SchoolSpring at SchoolSpring.
-
-I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
-
-The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
-
-Best,
-Celina Lin
-https://linkedin.com/in/celina-g-lin
-
-Posting: https://jobright.ai/jobs/info/6a440ce957ffc22029406133
-
----
-
 ## SchoolSpring — Para, Special Education PIII/General Instruction, 6 hrs/day total, 183 days FOR THE 2026-2027 SCHOOL YEAR
 
 **Subject:** Interest in Para, Special Education PIII/General Instruction, 6 hrs/day total, 183 days FOR THE 2026-2027 SCHOOL YEAR — biology/bioinformatics graduate
@@ -17699,6 +18119,26 @@ Celina Lin
 https://linkedin.com/in/celina-g-lin
 
 Posting: https://jobright.ai/jobs/info/6a440ce9ef17a815538a2ba6
+
+---
+
+## SchoolSpring — High School Cosmetology Assistant/ Aide
+
+**Subject:** Interest in High School Cosmetology Assistant/ Aide — biology/bioinformatics graduate
+
+Dear SchoolSpring Hiring Team,
+
+My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the High School Cosmetology Assistant/ Aide opportunity with SchoolSpring at SchoolSpring.
+
+I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
+
+The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
+
+Best,
+Celina Lin
+https://linkedin.com/in/celina-g-lin
+
+Posting: https://jobright.ai/jobs/info/6a440ce957ffc22029406133
 
 ---
 
@@ -18022,26 +18462,6 @@ Posting: https://jobright.ai/jobs/info/6a4443b20153061b8b3dfec6
 
 ---
 
-## N.C. Department of Information Technology — Staff Development Specialist I
-
-**Subject:** Interest in Staff Development Specialist I — biology/bioinformatics graduate
-
-Dear N.C. Department of Information Technology Hiring Team,
-
-My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Staff Development Specialist I opportunity with N.C. Department of Information Technology at N.C. Department of Information Technology.
-
-I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
-
-The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
-
-Best,
-Celina Lin
-https://linkedin.com/in/celina-g-lin
-
-Posting: https://jobright.ai/jobs/info/6a462423971cd25b06f8bfb3
-
----
-
 ## Little Sprouts, LLC — Daycare Teacher *$1,500.00 Sign on Bonus for certified teachers*
 
 **Subject:** Interest in Daycare Teacher *$1,500.00 Sign on Bonus for certified teachers* — biology/bioinformatics graduate
@@ -18202,6 +18622,66 @@ Posting: https://jobright.ai/jobs/info/6a2723502056260dd6e85696
 
 ---
 
+## East Side Union High School District — Substitute Office/School Secretary (S-2708)
+
+**Subject:** Interest in Substitute Office/School Secretary (S-2708) — biology/bioinformatics graduate
+
+Dear East Side Union High School District Hiring Team,
+
+My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Substitute Office/School Secretary (S-2708) opportunity with East Side Union High School District at East Side Union High School District.
+
+I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
+
+The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
+
+Best,
+Celina Lin
+https://linkedin.com/in/celina-g-lin
+
+Posting: https://jobright.ai/jobs/info/6a49c1df4f64ba41dcb5aa12
+
+---
+
+## East Side Union High School District — ELOP Leader - 6:55 AM - 12:25 PM - 5.5 hours/day Melinda Heights TLC
+
+**Subject:** Interest in ELOP Leader - 6:55 AM - 12:25 PM - 5.5 hours/day Melinda Heights TLC — biology/bioinformatics graduate
+
+Dear East Side Union High School District Hiring Team,
+
+My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the ELOP Leader - 6:55 AM - 12:25 PM - 5.5 hours/day Melinda Heights TLC opportunity with East Side Union High School District at East Side Union High School District.
+
+I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
+
+The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
+
+Best,
+Celina Lin
+https://linkedin.com/in/celina-g-lin
+
+Posting: https://jobright.ai/jobs/info/6a44c24cb156014e414bd0c2
+
+---
+
+## East Side Union High School District — 2026-2027 GENERAL EDUCATION INSTRUCTIONAL ASSISTANT - INTERNAL EMPLOYEES
+
+**Subject:** Interest in 2026-2027 GENERAL EDUCATION INSTRUCTIONAL ASSISTANT - INTERNAL EMPLOYEES — biology/bioinformatics graduate
+
+Dear East Side Union High School District Hiring Team,
+
+My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the 2026-2027 GENERAL EDUCATION INSTRUCTIONAL ASSISTANT - INTERNAL EMPLOYEES opportunity with East Side Union High School District at East Side Union High School District.
+
+I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
+
+The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
+
+Best,
+Celina Lin
+https://linkedin.com/in/celina-g-lin
+
+Posting: https://jobright.ai/jobs/info/6a44125a105260150b720bc4
+
+---
+
 ## East Side Union High School District — Instructional Asst/ES Campus Supervisor, Mariposa School / 15 hrs wk - Testing: Thursdays at 9:00 am at the district office
 
 **Subject:** Interest in Instructional Asst/ES Campus Supervisor, Mariposa School / 15 hrs wk - Testing: Thursdays at 9:00 am at the district office — biology/bioinformatics graduate
@@ -18219,26 +18699,6 @@ Celina Lin
 https://linkedin.com/in/celina-g-lin
 
 Posting: https://jobright.ai/jobs/info/6a44195d105260150b720d23
-
----
-
-## East Side Union High School District — 2026-2027 GENERAL EDUCATION INSTRUCTIONAL AIDE - INTERNAL EMPLOYEES
-
-**Subject:** Interest in 2026-2027 GENERAL EDUCATION INSTRUCTIONAL AIDE - INTERNAL EMPLOYEES — biology/bioinformatics graduate
-
-Dear East Side Union High School District Hiring Team,
-
-My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the 2026-2027 GENERAL EDUCATION INSTRUCTIONAL AIDE - INTERNAL EMPLOYEES opportunity with East Side Union High School District at East Side Union High School District.
-
-I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
-
-The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
-
-Best,
-Celina Lin
-https://linkedin.com/in/celina-g-lin
-
-Posting: https://jobright.ai/jobs/info/6a44125a105260150b720bc4
 
 ---
 
@@ -18319,26 +18779,6 @@ Celina Lin
 https://linkedin.com/in/celina-g-lin
 
 Posting: https://jobright.ai/jobs/info/6a44a61365e80d3c99f2d024
-
----
-
-## Building Blocks Early Learning Center — Daycare Teachers
-
-**Subject:** Interest in Daycare Teachers — biology/bioinformatics graduate
-
-Dear Building Blocks Early Learning Center Hiring Team,
-
-My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Daycare Teachers opportunity with Building Blocks Early Learning Center at Building Blocks Early Learning Center.
-
-I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
-
-The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
-
-Best,
-Celina Lin
-https://linkedin.com/in/celina-g-lin
-
-Posting: https://jobright.ai/jobs/info/6a32ab90649fdf16292ee06d
 
 ---
 
@@ -18442,46 +18882,6 @@ Posting: https://jobright.ai/jobs/info/6a43315fe09ecb4959643101
 
 ---
 
-## [uOttawa — SCFP-CUPE - Fall 2026 - TA - CRM2303 B00
-
-**Subject:** Interest in SCFP-CUPE - Fall 2026 - TA - CRM2303 B00 — biology/bioinformatics graduate
-
-Dear [uOttawa Hiring Team,
-
-My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the SCFP-CUPE - Fall 2026 - TA - CRM2303 B00 opportunity with [uOttawa at [uOttawa.
-
-I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
-
-The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
-
-Best,
-Celina Lin
-https://linkedin.com/in/celina-g-lin
-
-Posting: https://jobright.ai/jobs/info/6a4637e53dbab558e29a5543
-
----
-
-## [uOttawa — SCFP-CUPE - Fall 2026 - TA - CRM2300 B00
-
-**Subject:** Interest in SCFP-CUPE - Fall 2026 - TA - CRM2300 B00 — biology/bioinformatics graduate
-
-Dear [uOttawa Hiring Team,
-
-My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the SCFP-CUPE - Fall 2026 - TA - CRM2300 B00 opportunity with [uOttawa at [uOttawa.
-
-I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
-
-The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
-
-Best,
-Celina Lin
-https://linkedin.com/in/celina-g-lin
-
-Posting: https://jobright.ai/jobs/info/6a4638154f64ba41dcb51769
-
----
-
 ## [uOttawa — SCFP-CUPE - Fall 2026 - TA - CRM1300 C00
 
 **Subject:** Interest in SCFP-CUPE - Fall 2026 - TA - CRM1300 C00 — biology/bioinformatics graduate
@@ -18499,46 +18899,6 @@ Celina Lin
 https://linkedin.com/in/celina-g-lin
 
 Posting: https://jobright.ai/jobs/info/6a463801971cd25b06f8cc5c
-
----
-
-## [uOttawa — SCFP-CUPE - Fall 2026 - TA - CRM2303 A00
-
-**Subject:** Interest in SCFP-CUPE - Fall 2026 - TA - CRM2303 A00 — biology/bioinformatics graduate
-
-Dear [uOttawa Hiring Team,
-
-My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the SCFP-CUPE - Fall 2026 - TA - CRM2303 A00 opportunity with [uOttawa at [uOttawa.
-
-I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
-
-The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
-
-Best,
-Celina Lin
-https://linkedin.com/in/celina-g-lin
-
-Posting: https://jobright.ai/jobs/info/6a4637f33dbab558e29a5549
-
----
-
-## [uOttawa — SCFP-CUPE - Fall 2026 - TA - CRM2310 A00
-
-**Subject:** Interest in SCFP-CUPE - Fall 2026 - TA - CRM2310 A00 — biology/bioinformatics graduate
-
-Dear [uOttawa Hiring Team,
-
-My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the SCFP-CUPE - Fall 2026 - TA - CRM2310 A00 opportunity with [uOttawa at [uOttawa.
-
-I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
-
-The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
-
-Best,
-Celina Lin
-https://linkedin.com/in/celina-g-lin
-
-Posting: https://jobright.ai/jobs/info/6a4637e80dd56c76cc2f772a
 
 ---
 
@@ -18562,13 +18922,13 @@ Posting: https://jobright.ai/jobs/info/6a4637e80dd56c76cc2f772b
 
 ---
 
-## [uOttawa — SCFP-CUPE - Fall 2026 - TA - CRM2300 A00
+## [uOttawa — SCFP-CUPE - Fall 2026 - TA - CRM2310 A00
 
-**Subject:** Interest in SCFP-CUPE - Fall 2026 - TA - CRM2300 A00 — biology/bioinformatics graduate
+**Subject:** Interest in SCFP-CUPE - Fall 2026 - TA - CRM2310 A00 — biology/bioinformatics graduate
 
 Dear [uOttawa Hiring Team,
 
-My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the SCFP-CUPE - Fall 2026 - TA - CRM2300 A00 opportunity with [uOttawa at [uOttawa.
+My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the SCFP-CUPE - Fall 2026 - TA - CRM2310 A00 opportunity with [uOttawa at [uOttawa.
 
 I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
 
@@ -18578,17 +18938,17 @@ Best,
 Celina Lin
 https://linkedin.com/in/celina-g-lin
 
-Posting: https://jobright.ai/jobs/info/6a4637e30dd56c76cc2f7726
+Posting: https://jobright.ai/jobs/info/6a4637e80dd56c76cc2f772a
 
 ---
 
-## [uOttawa — SCFP-CUPE - Fall 2026 - TA - CRM1700 B00
+## [uOttawa — SCFP-CUPE - Fall 2026 - TA - CRM2300 B00
 
-**Subject:** Interest in SCFP-CUPE - Fall 2026 - TA - CRM1700 B00 — biology/bioinformatics graduate
+**Subject:** Interest in SCFP-CUPE - Fall 2026 - TA - CRM2300 B00 — biology/bioinformatics graduate
 
 Dear [uOttawa Hiring Team,
 
-My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the SCFP-CUPE - Fall 2026 - TA - CRM1700 B00 opportunity with [uOttawa at [uOttawa.
+My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the SCFP-CUPE - Fall 2026 - TA - CRM2300 B00 opportunity with [uOttawa at [uOttawa.
 
 I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
 
@@ -18598,7 +18958,27 @@ Best,
 Celina Lin
 https://linkedin.com/in/celina-g-lin
 
-Posting: https://jobright.ai/jobs/info/6a4637e707627158752a1254
+Posting: https://jobright.ai/jobs/info/6a4638154f64ba41dcb51769
+
+---
+
+## [uOttawa — SCFP-CUPE - Fall 2026 - TA - CRM2303 A00
+
+**Subject:** Interest in SCFP-CUPE - Fall 2026 - TA - CRM2303 A00 — biology/bioinformatics graduate
+
+Dear [uOttawa Hiring Team,
+
+My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the SCFP-CUPE - Fall 2026 - TA - CRM2303 A00 opportunity with [uOttawa at [uOttawa.
+
+I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
+
+The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
+
+Best,
+Celina Lin
+https://linkedin.com/in/celina-g-lin
+
+Posting: https://jobright.ai/jobs/info/6a4637f33dbab558e29a5549
 
 ---
 
@@ -18622,13 +19002,13 @@ Posting: https://jobright.ai/jobs/info/6a4637f64f64ba41dcb5175b
 
 ---
 
-## [uOttawa — SCFP-CUPE - Fall 2026 - TA - CRM2316 A00
+## [uOttawa — SCFP-CUPE - Fall 2026 - TA - CRM2300 A00
 
-**Subject:** Interest in SCFP-CUPE - Fall 2026 - TA - CRM2316 A00 — biology/bioinformatics graduate
+**Subject:** Interest in SCFP-CUPE - Fall 2026 - TA - CRM2300 A00 — biology/bioinformatics graduate
 
 Dear [uOttawa Hiring Team,
 
-My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the SCFP-CUPE - Fall 2026 - TA - CRM2316 A00 opportunity with [uOttawa at [uOttawa.
+My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the SCFP-CUPE - Fall 2026 - TA - CRM2300 A00 opportunity with [uOttawa at [uOttawa.
 
 I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
 
@@ -18638,7 +19018,7 @@ Best,
 Celina Lin
 https://linkedin.com/in/celina-g-lin
 
-Posting: https://jobright.ai/jobs/info/6a4637e74f64ba41dcb51754
+Posting: https://jobright.ai/jobs/info/6a4637e30dd56c76cc2f7726
 
 ---
 
@@ -18702,13 +19082,13 @@ Posting: https://jobright.ai/jobs/info/6a4637e3971cd25b06f8cc4c
 
 ---
 
-## [uOttawa — SCFP-CUPE - Fall 2026 - TA - CRM1300 B00
+## [uOttawa — SCFP-CUPE - Fall 2026 - TA - CRM1700 B00
 
-**Subject:** Interest in SCFP-CUPE - Fall 2026 - TA - CRM1300 B00 — biology/bioinformatics graduate
+**Subject:** Interest in SCFP-CUPE - Fall 2026 - TA - CRM1700 B00 — biology/bioinformatics graduate
 
 Dear [uOttawa Hiring Team,
 
-My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the SCFP-CUPE - Fall 2026 - TA - CRM1300 B00 opportunity with [uOttawa at [uOttawa.
+My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the SCFP-CUPE - Fall 2026 - TA - CRM1700 B00 opportunity with [uOttawa at [uOttawa.
 
 I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
 
@@ -18718,17 +19098,17 @@ Best,
 Celina Lin
 https://linkedin.com/in/celina-g-lin
 
-Posting: https://jobright.ai/jobs/info/6a4637f30dd56c76cc2f772e
+Posting: https://jobright.ai/jobs/info/6a4637e707627158752a1254
 
 ---
 
-## [uOttawa — SCFP-CUPE - Fall 2026 - TA - CRM3301 B00
+## [uOttawa — SCFP-CUPE - Fall 2026 - TA - CRM2716 A00
 
-**Subject:** Interest in SCFP-CUPE - Fall 2026 - TA - CRM3301 B00 — biology/bioinformatics graduate
+**Subject:** Interest in SCFP-CUPE - Fall 2026 - TA - CRM2716 A00 — biology/bioinformatics graduate
 
 Dear [uOttawa Hiring Team,
 
-My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the SCFP-CUPE - Fall 2026 - TA - CRM3301 B00 opportunity with [uOttawa at [uOttawa.
+My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the SCFP-CUPE - Fall 2026 - TA - CRM2716 A00 opportunity with [uOttawa at [uOttawa.
 
 I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
 
@@ -18738,7 +19118,7 @@ Best,
 Celina Lin
 https://linkedin.com/in/celina-g-lin
 
-Posting: https://jobright.ai/jobs/info/6a4637d00dd56c76cc2f7716
+Posting: https://jobright.ai/jobs/info/6a4638133dbab558e29a555f
 
 ---
 
@@ -18782,13 +19162,13 @@ Posting: https://jobright.ai/jobs/info/6a4637e0971cd25b06f8cc4a
 
 ---
 
-## [uOttawa — SCFP-CUPE - Fall 2026 - TA - CRM3335 A00
+## [uOttawa — SCFP-CUPE - Fall 2026 - TA - CRM3301 B00
 
-**Subject:** Interest in SCFP-CUPE - Fall 2026 - TA - CRM3335 A00 — biology/bioinformatics graduate
+**Subject:** Interest in SCFP-CUPE - Fall 2026 - TA - CRM3301 B00 — biology/bioinformatics graduate
 
 Dear [uOttawa Hiring Team,
 
-My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the SCFP-CUPE - Fall 2026 - TA - CRM3335 A00 opportunity with [uOttawa at [uOttawa.
+My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the SCFP-CUPE - Fall 2026 - TA - CRM3301 B00 opportunity with [uOttawa at [uOttawa.
 
 I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
 
@@ -18798,47 +19178,7 @@ Best,
 Celina Lin
 https://linkedin.com/in/celina-g-lin
 
-Posting: https://jobright.ai/jobs/info/6a4637d90dd56c76cc2f771f
-
----
-
-## [uOttawa — SCFP-CUPE - Fall 2026 - TA - CRM2716 A00
-
-**Subject:** Interest in SCFP-CUPE - Fall 2026 - TA - CRM2716 A00 — biology/bioinformatics graduate
-
-Dear [uOttawa Hiring Team,
-
-My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the SCFP-CUPE - Fall 2026 - TA - CRM2716 A00 opportunity with [uOttawa at [uOttawa.
-
-I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
-
-The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
-
-Best,
-Celina Lin
-https://linkedin.com/in/celina-g-lin
-
-Posting: https://jobright.ai/jobs/info/6a4638133dbab558e29a555f
-
----
-
-## [uOttawa — SCFP-CUPE - Fall 2026 - TA - CRM2701 A00
-
-**Subject:** Interest in SCFP-CUPE - Fall 2026 - TA - CRM2701 A00 — biology/bioinformatics graduate
-
-Dear [uOttawa Hiring Team,
-
-My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the SCFP-CUPE - Fall 2026 - TA - CRM2701 A00 opportunity with [uOttawa at [uOttawa.
-
-I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
-
-The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
-
-Best,
-Celina Lin
-https://linkedin.com/in/celina-g-lin
-
-Posting: https://jobright.ai/jobs/info/6a4637e8971cd25b06f8cc4e
+Posting: https://jobright.ai/jobs/info/6a4637d00dd56c76cc2f7716
 
 ---
 
@@ -18882,26 +19222,6 @@ Posting: https://jobright.ai/jobs/info/6a4638154f64ba41dcb51768
 
 ---
 
-## [uOttawa — SCFP-CUPE - Fall 2026 - TA - CRM4329 A00
-
-**Subject:** Interest in SCFP-CUPE - Fall 2026 - TA - CRM4329 A00 — biology/bioinformatics graduate
-
-Dear [uOttawa Hiring Team,
-
-My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the SCFP-CUPE - Fall 2026 - TA - CRM4329 A00 opportunity with [uOttawa at [uOttawa.
-
-I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
-
-The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
-
-Best,
-Celina Lin
-https://linkedin.com/in/celina-g-lin
-
-Posting: https://jobright.ai/jobs/info/6a461afd0dd56c76cc2f5f04
-
----
-
 ## [uOttawa — SCFP-CUPE - Fall 2026 - TA - CRM4320 A00
 
 **Subject:** Interest in SCFP-CUPE - Fall 2026 - TA - CRM4320 A00 — biology/bioinformatics graduate
@@ -18922,13 +19242,13 @@ Posting: https://jobright.ai/jobs/info/6a461b13076271587529fb80
 
 ---
 
-## [uOttawa — SCFP-CUPE - Fall 2026 - TA - CRM4324 A00
+## [uOttawa — SCFP-CUPE - Fall 2026 - TA - CRM4329 A00
 
-**Subject:** Interest in SCFP-CUPE - Fall 2026 - TA - CRM4324 A00 — biology/bioinformatics graduate
+**Subject:** Interest in SCFP-CUPE - Fall 2026 - TA - CRM4329 A00 — biology/bioinformatics graduate
 
 Dear [uOttawa Hiring Team,
 
-My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the SCFP-CUPE - Fall 2026 - TA - CRM4324 A00 opportunity with [uOttawa at [uOttawa.
+My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the SCFP-CUPE - Fall 2026 - TA - CRM4329 A00 opportunity with [uOttawa at [uOttawa.
 
 I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
 
@@ -18938,17 +19258,17 @@ Best,
 Celina Lin
 https://linkedin.com/in/celina-g-lin
 
-Posting: https://jobright.ai/jobs/info/6a461b10076271587529fb7c
+Posting: https://jobright.ai/jobs/info/6a461afd0dd56c76cc2f5f04
 
 ---
 
-## [uOttawa — SCFP-CUPE - Fall 2026 - TA - CRM4702 A00
+## [uOttawa — SCFP-CUPE - Fall 2026 - TA - CRM3735 A00
 
-**Subject:** Interest in SCFP-CUPE - Fall 2026 - TA - CRM4702 A00 — biology/bioinformatics graduate
+**Subject:** Interest in SCFP-CUPE - Fall 2026 - TA - CRM3735 A00 — biology/bioinformatics graduate
 
 Dear [uOttawa Hiring Team,
 
-My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the SCFP-CUPE - Fall 2026 - TA - CRM4702 A00 opportunity with [uOttawa at [uOttawa.
+My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the SCFP-CUPE - Fall 2026 - TA - CRM3735 A00 opportunity with [uOttawa at [uOttawa.
 
 I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
 
@@ -18958,7 +19278,7 @@ Best,
 Celina Lin
 https://linkedin.com/in/celina-g-lin
 
-Posting: https://jobright.ai/jobs/info/6a461b08076271587529fb73
+Posting: https://jobright.ai/jobs/info/6a461b010dd56c76cc2f5f12
 
 ---
 
@@ -19262,26 +19582,6 @@ Posting: https://jobright.ai/jobs/info/6a42d79a1cc9cc2b12fed0d6
 
 ---
 
-## SchoolSpring — ESL/ELL Tutor
-
-**Subject:** Interest in ESL/ELL Tutor — biology/bioinformatics graduate
-
-Dear SchoolSpring Hiring Team,
-
-My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the ESL/ELL Tutor opportunity with SchoolSpring at SchoolSpring.
-
-I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
-
-The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
-
-Best,
-Celina Lin
-https://linkedin.com/in/celina-g-lin
-
-Posting: https://jobright.ai/jobs/info/6a42d7991cc9cc2b12fed0d2
-
----
-
 ## SchoolSpring — CAFETERIA MONITOR
 
 **Subject:** Interest in CAFETERIA MONITOR — biology/bioinformatics graduate
@@ -19299,6 +19599,26 @@ Celina Lin
 https://linkedin.com/in/celina-g-lin
 
 Posting: https://jobright.ai/jobs/info/6a42d7991cc9cc2b12fed0d3
+
+---
+
+## SchoolSpring — ESL/ELL Tutor
+
+**Subject:** Interest in ESL/ELL Tutor — biology/bioinformatics graduate
+
+Dear SchoolSpring Hiring Team,
+
+My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the ESL/ELL Tutor opportunity with SchoolSpring at SchoolSpring.
+
+I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
+
+The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
+
+Best,
+Celina Lin
+https://linkedin.com/in/celina-g-lin
+
+Posting: https://jobright.ai/jobs/info/6a42d7991cc9cc2b12fed0d2
 
 ---
 
@@ -19322,26 +19642,6 @@ Posting: https://jobright.ai/jobs/info/6a42d793ff87fd527f985bff
 
 ---
 
-## SchoolSpring — Instructional Assistant I - LRC - 7 hrs. per day!
-
-**Subject:** Interest in Instructional Assistant I - LRC - 7 hrs. per day! — biology/bioinformatics graduate
-
-Dear SchoolSpring Hiring Team,
-
-My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Instructional Assistant I - LRC - 7 hrs. per day! opportunity with SchoolSpring at SchoolSpring.
-
-I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
-
-The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
-
-Best,
-Celina Lin
-https://linkedin.com/in/celina-g-lin
-
-Posting: https://jobright.ai/jobs/info/6a42d78e6a9c2774b3fa7893
-
----
-
 ## SchoolSpring — PARAEDUCATOR 2 / Probationary / 7 Hrs / Hazeldale Elementary
 
 **Subject:** Interest in PARAEDUCATOR 2 / Probationary / 7 Hrs / Hazeldale Elementary — biology/bioinformatics graduate
@@ -19359,6 +19659,26 @@ Celina Lin
 https://linkedin.com/in/celina-g-lin
 
 Posting: https://jobright.ai/jobs/info/6a42d78ea5e15b106837a66d
+
+---
+
+## SchoolSpring — Instructional Assistant I - LRC - 7 hrs. per day!
+
+**Subject:** Interest in Instructional Assistant I - LRC - 7 hrs. per day! — biology/bioinformatics graduate
+
+Dear SchoolSpring Hiring Team,
+
+My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Instructional Assistant I - LRC - 7 hrs. per day! opportunity with SchoolSpring at SchoolSpring.
+
+I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
+
+The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
+
+Best,
+Celina Lin
+https://linkedin.com/in/celina-g-lin
+
+Posting: https://jobright.ai/jobs/info/6a42d78e6a9c2774b3fa7893
 
 ---
 
@@ -20042,26 +20362,6 @@ Posting: https://jobright.ai/jobs/info/6a42f916ff87fd527f986429
 
 ---
 
-## East Side Union High School District — Clerk II at Santiago Elementary 8:00 AM- 1:42 PM for 26/27 School Year
-
-**Subject:** Interest in Clerk II at Santiago Elementary 8:00 AM- 1:42 PM for 26/27 School Year — biology/bioinformatics graduate
-
-Dear East Side Union High School District Hiring Team,
-
-My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Clerk II at Santiago Elementary 8:00 AM- 1:42 PM for 26/27 School Year opportunity with East Side Union High School District at East Side Union High School District.
-
-I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
-
-The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
-
-Best,
-Celina Lin
-https://linkedin.com/in/celina-g-lin
-
-Posting: https://jobright.ai/jobs/info/6a42c7de6faf756060967f13
-
----
-
 ## East Side Union High School District — HSAP Secretary (Bilingual Preferred) El Modena High School
 
 **Subject:** Interest in HSAP Secretary (Bilingual Preferred) El Modena High School — biology/bioinformatics graduate
@@ -20342,46 +20642,6 @@ Posting: https://jobright.ai/jobs/info/6a4331a4501d340b4a82e44b
 
 ---
 
-## Wyndy — Explore help in Fort Worth area after school
-
-**Subject:** Interest in Explore help in Fort Worth area after school — biology/bioinformatics graduate
-
-Dear Wyndy Hiring Team,
-
-My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Explore help in Fort Worth area after school opportunity with Wyndy at Wyndy.
-
-I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
-
-The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
-
-Best,
-Celina Lin
-https://linkedin.com/in/celina-g-lin
-
-Posting: https://jobright.ai/jobs/info/6a4174d016b149395328421a
-
----
-
-## Walmart — Continuous Skills Development Trainer
-
-**Subject:** Interest in Continuous Skills Development Trainer — biology/bioinformatics graduate
-
-Dear Walmart Hiring Team,
-
-My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Continuous Skills Development Trainer opportunity with Walmart at Walmart.
-
-I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
-
-The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
-
-Best,
-Celina Lin
-https://linkedin.com/in/celina-g-lin
-
-Posting: https://jobright.ai/jobs/info/6a0882cfa203b1052e444ec2
-
----
-
 ## SchoolSpring — Language Acquisition Aide
 
 **Subject:** Interest in Language Acquisition Aide — biology/bioinformatics graduate
@@ -20419,66 +20679,6 @@ Celina Lin
 https://linkedin.com/in/celina-g-lin
 
 Posting: https://jobright.ai/jobs/info/6a41be6b1afc66714d3cafc4
-
----
-
-## SchoolSpring — Teacher Second Grade
-
-**Subject:** Interest in Teacher Second Grade — biology/bioinformatics graduate
-
-Dear SchoolSpring Hiring Team,
-
-My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Teacher Second Grade opportunity with SchoolSpring at SchoolSpring.
-
-I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
-
-The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
-
-Best,
-Celina Lin
-https://linkedin.com/in/celina-g-lin
-
-Posting: https://jobright.ai/jobs/info/6a4088ecd528ac2915f96b3e
-
----
-
-## Hopebridge — Behavior Technician (BT) / Registered Behavior Technician (RBT)
-
-**Subject:** Interest in Behavior Technician (BT) / Registered Behavior Technician (RBT) — biology/bioinformatics graduate
-
-Dear Hopebridge Hiring Team,
-
-My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Behavior Technician (BT) / Registered Behavior Technician (RBT) opportunity with Hopebridge at Hopebridge.
-
-I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
-
-The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
-
-Best,
-Celina Lin
-https://linkedin.com/in/celina-g-lin
-
-Posting: https://jobright.ai/jobs/info/68f7576bb0edcf159dc7b324
-
----
-
-## Hopebridge — Behavior Technician (BT) / Registered Behavior Technician (RBT)
-
-**Subject:** Interest in Behavior Technician (BT) / Registered Behavior Technician (RBT) — biology/bioinformatics graduate
-
-Dear Hopebridge Hiring Team,
-
-My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Behavior Technician (BT) / Registered Behavior Technician (RBT) opportunity with Hopebridge at Hopebridge.
-
-I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
-
-The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
-
-Best,
-Celina Lin
-https://linkedin.com/in/celina-g-lin
-
-Posting: https://jobright.ai/jobs/info/68f73e0faed0577b7e04e161
 
 ---
 
@@ -20542,206 +20742,6 @@ Posting: https://jobright.ai/jobs/info/6a459724971cd25b06f894f7
 
 ---
 
-## Boys & Girls Clubs of San Leandro — Fall TK/Kinder Youth Development Professional (After School) - Grant Elementary
-
-**Subject:** Interest in Fall TK/Kinder Youth Development Professional (After School) - Grant Elementary — biology/bioinformatics graduate
-
-Dear Boys & Girls Clubs of San Leandro Hiring Team,
-
-My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Fall TK/Kinder Youth Development Professional (After School) - Grant Elementary opportunity with Boys & Girls Clubs of San Leandro at Boys & Girls Clubs of San Leandro.
-
-I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
-
-The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
-
-Best,
-Celina Lin
-https://linkedin.com/in/celina-g-lin
-
-Posting: https://jobright.ai/jobs/info/6a432faec8bca56ab2246079
-
----
-
-## Boys & Girls Clubs of San Leandro — Fall Youth Development Professional (After School) - Edendale Middle School
-
-**Subject:** Interest in Fall Youth Development Professional (After School) - Edendale Middle School — biology/bioinformatics graduate
-
-Dear Boys & Girls Clubs of San Leandro Hiring Team,
-
-My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Fall Youth Development Professional (After School) - Edendale Middle School opportunity with Boys & Girls Clubs of San Leandro at Boys & Girls Clubs of San Leandro.
-
-I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
-
-The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
-
-Best,
-Celina Lin
-https://linkedin.com/in/celina-g-lin
-
-Posting: https://jobright.ai/jobs/info/6a432f63e09ecb49596429e7
-
----
-
-## Boys & Girls Clubs of San Leandro — Fall Youth Development Professional (After School) - Lorenzo Manor Elementary
-
-**Subject:** Interest in Fall Youth Development Professional (After School) - Lorenzo Manor Elementary — biology/bioinformatics graduate
-
-Dear Boys & Girls Clubs of San Leandro Hiring Team,
-
-My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Fall Youth Development Professional (After School) - Lorenzo Manor Elementary opportunity with Boys & Girls Clubs of San Leandro at Boys & Girls Clubs of San Leandro.
-
-I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
-
-The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
-
-Best,
-Celina Lin
-https://linkedin.com/in/celina-g-lin
-
-Posting: https://jobright.ai/jobs/info/6a330cc3f6b55d12c79178b3
-
----
-
-## lululemon — Full Time Educator / Brickell City Centre, Miami
-
-**Subject:** Interest in Full Time Educator / Brickell City Centre, Miami — biology/bioinformatics graduate
-
-Dear lululemon Hiring Team,
-
-My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Full Time Educator / Brickell City Centre, Miami opportunity with lululemon at lululemon.
-
-I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
-
-The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
-
-Best,
-Celina Lin
-https://linkedin.com/in/celina-g-lin
-
-Posting: https://jobright.ai/jobs/info/6a40957e9dd7f954cafe82f9
-
----
-
-## Youth Opportunity Investments, LLC — Mental Health Tech
-
-**Subject:** Interest in Mental Health Tech — biology/bioinformatics graduate
-
-Dear Youth Opportunity Investments, LLC Hiring Team,
-
-My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Mental Health Tech opportunity with Youth Opportunity Investments, LLC at Youth Opportunity Investments, LLC.
-
-I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
-
-The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
-
-Best,
-Celina Lin
-https://linkedin.com/in/celina-g-lin
-
-Posting: https://jobright.ai/jobs/info/68786a38866a435525ab92f7
-
----
-
-## Responsive Education Solutions — Substitute Teaching Pool - Founders Classical Academy of Leander
-
-**Subject:** Interest in Substitute Teaching Pool - Founders Classical Academy of Leander — biology/bioinformatics graduate
-
-Dear Responsive Education Solutions Hiring Team,
-
-My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Substitute Teaching Pool - Founders Classical Academy of Leander opportunity with Responsive Education Solutions at Responsive Education Solutions.
-
-I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
-
-The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
-
-Best,
-Celina Lin
-https://linkedin.com/in/celina-g-lin
-
-Posting: https://jobright.ai/jobs/info/69b16118d04c69566c73991d
-
----
-
-## Boys & Girls Clubs of San Leandro — Fall Youth Development Professional (After School) - Hesperian Elementary
-
-**Subject:** Interest in Fall Youth Development Professional (After School) - Hesperian Elementary — biology/bioinformatics graduate
-
-Dear Boys & Girls Clubs of San Leandro Hiring Team,
-
-My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Fall Youth Development Professional (After School) - Hesperian Elementary opportunity with Boys & Girls Clubs of San Leandro at Boys & Girls Clubs of San Leandro.
-
-I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
-
-The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
-
-Best,
-Celina Lin
-https://linkedin.com/in/celina-g-lin
-
-Posting: https://jobright.ai/jobs/info/6a432f87e09ecb4959642a7a
-
----
-
-## Boys & Girls Clubs of San Leandro — Fall Youth Development Professional (After School) - TK & Kinder
-
-**Subject:** Interest in Fall Youth Development Professional (After School) - TK & Kinder — biology/bioinformatics graduate
-
-Dear Boys & Girls Clubs of San Leandro Hiring Team,
-
-My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Fall Youth Development Professional (After School) - TK & Kinder opportunity with Boys & Girls Clubs of San Leandro at Boys & Girls Clubs of San Leandro.
-
-I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
-
-The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
-
-Best,
-Celina Lin
-https://linkedin.com/in/celina-g-lin
-
-Posting: https://jobright.ai/jobs/info/6a432f89c8bca56ab2245fb1
-
----
-
-## Boys & Girls Clubs of San Leandro — Fall TK/K Youth Development Professional (After School) - Garfield Elementary
-
-**Subject:** Interest in Fall TK/K Youth Development Professional (After School) - Garfield Elementary — biology/bioinformatics graduate
-
-Dear Boys & Girls Clubs of San Leandro Hiring Team,
-
-My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Fall TK/K Youth Development Professional (After School) - Garfield Elementary opportunity with Boys & Girls Clubs of San Leandro at Boys & Girls Clubs of San Leandro.
-
-I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
-
-The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
-
-Best,
-Celina Lin
-https://linkedin.com/in/celina-g-lin
-
-Posting: https://jobright.ai/jobs/info/6a432fa9c8bca56ab224605c
-
----
-
-## Boys & Girls Clubs of San Leandro — Fall Youth Development Professional (After School) - Halkin Elementary
-
-**Subject:** Interest in Fall Youth Development Professional (After School) - Halkin Elementary — biology/bioinformatics graduate
-
-Dear Boys & Girls Clubs of San Leandro Hiring Team,
-
-My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Fall Youth Development Professional (After School) - Halkin Elementary opportunity with Boys & Girls Clubs of San Leandro at Boys & Girls Clubs of San Leandro.
-
-I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
-
-The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
-
-Best,
-Celina Lin
-https://linkedin.com/in/celina-g-lin
-
-Posting: https://jobright.ai/jobs/info/6a432f74e09ecb4959642a0b
-
----
-
 ## Texas A&M University System — Research Engineer 1
 
 **Subject:** Interest in Research Engineer 1 — biology/bioinformatics graduate
@@ -20782,13 +20782,13 @@ Posting: https://careers.rockefeller.edu/jobs/2054
 
 ---
 
-## Banfield Pet Hospital — Client Service Representative - Brokaw Part-Time
+## Banfield Pet Hospital — Client Service Coordinator - Part Time
 
-**Subject:** Interest in Client Service Representative - Brokaw Part-Time — biology/bioinformatics graduate
+**Subject:** Interest in Client Service Coordinator - Part Time — biology/bioinformatics graduate
 
 Dear Banfield Pet Hospital Hiring Team,
 
-My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Client Service Representative - Brokaw Part-Time opportunity with Banfield Pet Hospital at Banfield Pet Hospital.
+My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Client Service Coordinator - Part Time opportunity with Banfield Pet Hospital at Banfield Pet Hospital.
 
 I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
 
@@ -20798,17 +20798,17 @@ Best,
 Celina Lin
 https://linkedin.com/in/celina-g-lin
 
-Posting: https://jobright.ai/jobs/info/69ea50710a6e09555304027d
+Posting: https://jobright.ai/jobs/info/6962d0832cbf4e44756cb0fa
 
 ---
 
-## Banfield Pet Hospital — Client Service Representative
+## Banfield Pet Hospital — Client Service Coordinator
 
-**Subject:** Interest in Client Service Representative — biology/bioinformatics graduate
+**Subject:** Interest in Client Service Coordinator — biology/bioinformatics graduate
 
 Dear Banfield Pet Hospital Hiring Team,
 
-My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Client Service Representative opportunity with Banfield Pet Hospital at Banfield Pet Hospital.
+My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Client Service Coordinator opportunity with Banfield Pet Hospital at Banfield Pet Hospital.
 
 I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
 
@@ -20818,67 +20818,7 @@ Best,
 Celina Lin
 https://linkedin.com/in/celina-g-lin
 
-Posting: https://jobright.ai/jobs/info/6954a0daf1f8465b79ebcfee
-
----
-
-## Banfield Pet Hospital — Client Service Representative
-
-**Subject:** Interest in Client Service Representative — biology/bioinformatics graduate
-
-Dear Banfield Pet Hospital Hiring Team,
-
-My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Client Service Representative opportunity with Banfield Pet Hospital at Banfield Pet Hospital.
-
-I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
-
-The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
-
-Best,
-Celina Lin
-https://linkedin.com/in/celina-g-lin
-
-Posting: https://jobright.ai/jobs/info/6954a2abf1f8465b79ebd0d0
-
----
-
-## Banfield Pet Hospital — Client Service Representative
-
-**Subject:** Interest in Client Service Representative — biology/bioinformatics graduate
-
-Dear Banfield Pet Hospital Hiring Team,
-
-My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Client Service Representative opportunity with Banfield Pet Hospital at Banfield Pet Hospital.
-
-I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
-
-The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
-
-Best,
-Celina Lin
-https://linkedin.com/in/celina-g-lin
-
-Posting: https://jobright.ai/jobs/info/6a12789512f8b43cf398ca9d
-
----
-
-## Banfield Pet Hospital — Client Service Reprensentative
-
-**Subject:** Interest in Client Service Reprensentative — biology/bioinformatics graduate
-
-Dear Banfield Pet Hospital Hiring Team,
-
-My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Client Service Reprensentative opportunity with Banfield Pet Hospital at Banfield Pet Hospital.
-
-I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
-
-The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
-
-Best,
-Celina Lin
-https://linkedin.com/in/celina-g-lin
-
-Posting: https://jobright.ai/jobs/info/69d51a14e63cea7a8b65ea73
+Posting: https://jobright.ai/jobs/info/6a03f8417c753c287f6eb9e9
 
 ---
 
@@ -20898,17 +20838,17 @@ Best,
 Celina Lin
 https://linkedin.com/in/celina-g-lin
 
-Posting: https://jobright.ai/jobs/info/69fe3a4752e2b44f558af37b
+Posting: https://jobright.ai/jobs/info/69feb28c1161630dd3b01a37
 
 ---
 
-## Banfield Pet Hospital — Client Service Coordinator PT - Long Point Rd.
+## Banfield Pet Hospital — Client Service Coordinator - 001469
 
-**Subject:** Interest in Client Service Coordinator PT - Long Point Rd. — biology/bioinformatics graduate
+**Subject:** Interest in Client Service Coordinator - 001469 — biology/bioinformatics graduate
 
 Dear Banfield Pet Hospital Hiring Team,
 
-My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Client Service Coordinator PT - Long Point Rd. opportunity with Banfield Pet Hospital at Banfield Pet Hospital.
+My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Client Service Coordinator - 001469 opportunity with Banfield Pet Hospital at Banfield Pet Hospital.
 
 I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
 
@@ -20918,17 +20858,17 @@ Best,
 Celina Lin
 https://linkedin.com/in/celina-g-lin
 
-Posting: https://jobright.ai/jobs/info/69d713b8cfdc6132f946ef49
+Posting: https://jobright.ai/jobs/info/6a1391ab619335383fb3d094
 
 ---
 
-## Banfield Pet Hospital — Client Service Coordinator - 001740
+## Banfield Pet Hospital — Client Service Coordinator - 002491
 
-**Subject:** Interest in Client Service Coordinator - 001740 — biology/bioinformatics graduate
+**Subject:** Interest in Client Service Coordinator - 002491 — biology/bioinformatics graduate
 
 Dear Banfield Pet Hospital Hiring Team,
 
-My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Client Service Coordinator - 001740 opportunity with Banfield Pet Hospital at Banfield Pet Hospital.
+My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Client Service Coordinator - 002491 opportunity with Banfield Pet Hospital at Banfield Pet Hospital.
 
 I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
 
@@ -20938,7 +20878,407 @@ Best,
 Celina Lin
 https://linkedin.com/in/celina-g-lin
 
-Posting: https://jobright.ai/jobs/info/69d5493fcfdc6132f9460e6d
+Posting: https://jobright.ai/jobs/info/6a185a19abc8f63abac772ef
+
+---
+
+## Banfield Pet Hospital — Client Service Coordinator (Full Time): Regency 0299
+
+**Subject:** Interest in Client Service Coordinator (Full Time): Regency 0299 — biology/bioinformatics graduate
+
+Dear Banfield Pet Hospital Hiring Team,
+
+My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Client Service Coordinator (Full Time): Regency 0299 opportunity with Banfield Pet Hospital at Banfield Pet Hospital.
+
+I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
+
+The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
+
+Best,
+Celina Lin
+https://linkedin.com/in/celina-g-lin
+
+Posting: https://jobright.ai/jobs/info/69cc23b2891d7b11cfcaa8c4
+
+---
+
+## Banfield Pet Hospital — Client Service Coordinator - 005107
+
+**Subject:** Interest in Client Service Coordinator - 005107 — biology/bioinformatics graduate
+
+Dear Banfield Pet Hospital Hiring Team,
+
+My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Client Service Coordinator - 005107 opportunity with Banfield Pet Hospital at Banfield Pet Hospital.
+
+I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
+
+The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
+
+Best,
+Celina Lin
+https://linkedin.com/in/celina-g-lin
+
+Posting: https://jobright.ai/jobs/info/6a00a30fc4b08448a0b1c53e
+
+---
+
+## Banfield Pet Hospital — Client Service Coordinator - 005315
+
+**Subject:** Interest in Client Service Coordinator - 005315 — biology/bioinformatics graduate
+
+Dear Banfield Pet Hospital Hiring Team,
+
+My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Client Service Coordinator - 005315 opportunity with Banfield Pet Hospital at Banfield Pet Hospital.
+
+I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
+
+The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
+
+Best,
+Celina Lin
+https://linkedin.com/in/celina-g-lin
+
+Posting: https://jobright.ai/jobs/info/69e78ca3e0cd471b2f12c477
+
+---
+
+## Banfield Pet Hospital — Client Service Coordinator - 004028
+
+**Subject:** Interest in Client Service Coordinator - 004028 — biology/bioinformatics graduate
+
+Dear Banfield Pet Hospital Hiring Team,
+
+My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Client Service Coordinator - 004028 opportunity with Banfield Pet Hospital at Banfield Pet Hospital.
+
+I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
+
+The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
+
+Best,
+Celina Lin
+https://linkedin.com/in/celina-g-lin
+
+Posting: https://jobright.ai/jobs/info/6a016902c4b08448a0b1eb79
+
+---
+
+## Banfield Pet Hospital — Client Service Coordinator - 002424
+
+**Subject:** Interest in Client Service Coordinator - 002424 — biology/bioinformatics graduate
+
+Dear Banfield Pet Hospital Hiring Team,
+
+My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Client Service Coordinator - 002424 opportunity with Banfield Pet Hospital at Banfield Pet Hospital.
+
+I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
+
+The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
+
+Best,
+Celina Lin
+https://linkedin.com/in/celina-g-lin
+
+Posting: https://jobright.ai/jobs/info/69efb90e58811370cb148126
+
+---
+
+## Banfield Pet Hospital — CSC - Client Service Coordinator
+
+**Subject:** Interest in CSC - Client Service Coordinator — biology/bioinformatics graduate
+
+Dear Banfield Pet Hospital Hiring Team,
+
+My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the CSC - Client Service Coordinator opportunity with Banfield Pet Hospital at Banfield Pet Hospital.
+
+I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
+
+The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
+
+Best,
+Celina Lin
+https://linkedin.com/in/celina-g-lin
+
+Posting: https://jobright.ai/jobs/info/6a031b30f3d6cc51d6373714
+
+---
+
+## Banfield Pet Hospital — Client Service Coordinator - 005075
+
+**Subject:** Interest in Client Service Coordinator - 005075 — biology/bioinformatics graduate
+
+Dear Banfield Pet Hospital Hiring Team,
+
+My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Client Service Coordinator - 005075 opportunity with Banfield Pet Hospital at Banfield Pet Hospital.
+
+I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
+
+The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
+
+Best,
+Celina Lin
+https://linkedin.com/in/celina-g-lin
+
+Posting: https://jobright.ai/jobs/info/69fa5246db88714bcdfc27f0
+
+---
+
+## Banfield Pet Hospital — Client Service Coordintor
+
+**Subject:** Interest in Client Service Coordintor — biology/bioinformatics graduate
+
+Dear Banfield Pet Hospital Hiring Team,
+
+My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Client Service Coordintor opportunity with Banfield Pet Hospital at Banfield Pet Hospital.
+
+I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
+
+The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
+
+Best,
+Celina Lin
+https://linkedin.com/in/celina-g-lin
+
+Posting: https://jobright.ai/jobs/info/69e005395913ad3398147604
+
+---
+
+## Banfield Pet Hospital — Client Service Coordinator - 001966
+
+**Subject:** Interest in Client Service Coordinator - 001966 — biology/bioinformatics graduate
+
+Dear Banfield Pet Hospital Hiring Team,
+
+My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Client Service Coordinator - 001966 opportunity with Banfield Pet Hospital at Banfield Pet Hospital.
+
+I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
+
+The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
+
+Best,
+Celina Lin
+https://linkedin.com/in/celina-g-lin
+
+Posting: https://jobright.ai/jobs/info/69f8c24b0b36ff035475aabe
+
+---
+
+## Banfield Pet Hospital — Client Service Coordinator - 000260
+
+**Subject:** Interest in Client Service Coordinator - 000260 — biology/bioinformatics graduate
+
+Dear Banfield Pet Hospital Hiring Team,
+
+My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Client Service Coordinator - 000260 opportunity with Banfield Pet Hospital at Banfield Pet Hospital.
+
+I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
+
+The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
+
+Best,
+Celina Lin
+https://linkedin.com/in/celina-g-lin
+
+Posting: https://jobright.ai/jobs/info/69e932d73aa0c479643a849f
+
+---
+
+## Banfield Pet Hospital — Client Service Coordinator - 005216
+
+**Subject:** Interest in Client Service Coordinator - 005216 — biology/bioinformatics graduate
+
+Dear Banfield Pet Hospital Hiring Team,
+
+My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Client Service Coordinator - 005216 opportunity with Banfield Pet Hospital at Banfield Pet Hospital.
+
+I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
+
+The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
+
+Best,
+Celina Lin
+https://linkedin.com/in/celina-g-lin
+
+Posting: https://jobright.ai/jobs/info/69cfb777cfdc6132f94352f9
+
+---
+
+## Banfield Pet Hospital — Client Service Coordinator - 001029
+
+**Subject:** Interest in Client Service Coordinator - 001029 — biology/bioinformatics graduate
+
+Dear Banfield Pet Hospital Hiring Team,
+
+My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Client Service Coordinator - 001029 opportunity with Banfield Pet Hospital at Banfield Pet Hospital.
+
+I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
+
+The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
+
+Best,
+Celina Lin
+https://linkedin.com/in/celina-g-lin
+
+Posting: https://jobright.ai/jobs/info/69cfc3a5cdb525785fba4b07
+
+---
+
+## Banfield Pet Hospital — Client Service Coordinator - 000297
+
+**Subject:** Interest in Client Service Coordinator - 000297 — biology/bioinformatics graduate
+
+Dear Banfield Pet Hospital Hiring Team,
+
+My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Client Service Coordinator - 000297 opportunity with Banfield Pet Hospital at Banfield Pet Hospital.
+
+I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
+
+The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
+
+Best,
+Celina Lin
+https://linkedin.com/in/celina-g-lin
+
+Posting: https://jobright.ai/jobs/info/6a013bd7fa1aa73213d91f2f
+
+---
+
+## Banfield Pet Hospital — Client Service Coordinator Okemos
+
+**Subject:** Interest in Client Service Coordinator Okemos — biology/bioinformatics graduate
+
+Dear Banfield Pet Hospital Hiring Team,
+
+My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Client Service Coordinator Okemos opportunity with Banfield Pet Hospital at Banfield Pet Hospital.
+
+I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
+
+The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
+
+Best,
+Celina Lin
+https://linkedin.com/in/celina-g-lin
+
+Posting: https://jobright.ai/jobs/info/6a0c9825a235d749afa8e540
+
+---
+
+## Banfield Pet Hospital — Client Service Coordinator
+
+**Subject:** Interest in Client Service Coordinator — biology/bioinformatics graduate
+
+Dear Banfield Pet Hospital Hiring Team,
+
+My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Client Service Coordinator opportunity with Banfield Pet Hospital at Banfield Pet Hospital.
+
+I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
+
+The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
+
+Best,
+Celina Lin
+https://linkedin.com/in/celina-g-lin
+
+Posting: https://jobright.ai/jobs/info/6a03f85622395b6dc6d99460
+
+---
+
+## Banfield Pet Hospital — CLIENT SERVICE COORDINATOR
+
+**Subject:** Interest in CLIENT SERVICE COORDINATOR — biology/bioinformatics graduate
+
+Dear Banfield Pet Hospital Hiring Team,
+
+My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the CLIENT SERVICE COORDINATOR opportunity with Banfield Pet Hospital at Banfield Pet Hospital.
+
+I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
+
+The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
+
+Best,
+Celina Lin
+https://linkedin.com/in/celina-g-lin
+
+Posting: https://jobright.ai/jobs/info/69d6778de63cea7a8b66907b
+
+---
+
+## Banfield Pet Hospital — Client Service Coordinator - 001066
+
+**Subject:** Interest in Client Service Coordinator - 001066 — biology/bioinformatics graduate
+
+Dear Banfield Pet Hospital Hiring Team,
+
+My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Client Service Coordinator - 001066 opportunity with Banfield Pet Hospital at Banfield Pet Hospital.
+
+I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
+
+The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
+
+Best,
+Celina Lin
+https://linkedin.com/in/celina-g-lin
+
+Posting: https://jobright.ai/jobs/info/6a46d5200dd56c76cc2fb200
+
+---
+
+## Banfield Pet Hospital — Client Service Coordinator - DC Adams Morgan
+
+**Subject:** Interest in Client Service Coordinator - DC Adams Morgan — biology/bioinformatics graduate
+
+Dear Banfield Pet Hospital Hiring Team,
+
+My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Client Service Coordinator - DC Adams Morgan opportunity with Banfield Pet Hospital at Banfield Pet Hospital.
+
+I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
+
+The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
+
+Best,
+Celina Lin
+https://linkedin.com/in/celina-g-lin
+
+Posting: https://jobright.ai/jobs/info/69d50773891d7b11cfcfefa9
+
+---
+
+## Banfield Pet Hospital — Client Service Coordinator Full Time
+
+**Subject:** Interest in Client Service Coordinator Full Time — biology/bioinformatics graduate
+
+Dear Banfield Pet Hospital Hiring Team,
+
+My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Client Service Coordinator Full Time opportunity with Banfield Pet Hospital at Banfield Pet Hospital.
+
+I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
+
+The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
+
+Best,
+Celina Lin
+https://linkedin.com/in/celina-g-lin
+
+Posting: https://jobright.ai/jobs/info/69f8273a582f810f9c8ccf9e
+
+---
+
+## Banfield Pet Hospital — Client Service Coordinator
+
+**Subject:** Interest in Client Service Coordinator — biology/bioinformatics graduate
+
+Dear Banfield Pet Hospital Hiring Team,
+
+My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Client Service Coordinator opportunity with Banfield Pet Hospital at Banfield Pet Hospital.
+
+I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
+
+The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
+
+Best,
+Celina Lin
+https://linkedin.com/in/celina-g-lin
+
+Posting: https://jobright.ai/jobs/info/6a03f845bc4184089f236fe3
 
 ---
 
@@ -20982,13 +21322,13 @@ Posting: https://jobright.ai/jobs/info/69d7a9eeb67cec4f9b095595
 
 ---
 
-## Banfield Pet Hospital — Client Service Coordinator - 004028
+## Banfield Pet Hospital — Client Service Coordinator #1190
 
-**Subject:** Interest in Client Service Coordinator - 004028 — biology/bioinformatics graduate
+**Subject:** Interest in Client Service Coordinator #1190 — biology/bioinformatics graduate
 
 Dear Banfield Pet Hospital Hiring Team,
 
-My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Client Service Coordinator - 004028 opportunity with Banfield Pet Hospital at Banfield Pet Hospital.
+My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Client Service Coordinator #1190 opportunity with Banfield Pet Hospital at Banfield Pet Hospital.
 
 I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
 
@@ -20998,507 +21338,7 @@ Best,
 Celina Lin
 https://linkedin.com/in/celina-g-lin
 
-Posting: https://jobright.ai/jobs/info/6a0169693053db70a1170ab3
-
----
-
-## Banfield Pet Hospital — Client Service Coordinator - 000073
-
-**Subject:** Interest in Client Service Coordinator - 000073 — biology/bioinformatics graduate
-
-Dear Banfield Pet Hospital Hiring Team,
-
-My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Client Service Coordinator - 000073 opportunity with Banfield Pet Hospital at Banfield Pet Hospital.
-
-I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
-
-The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
-
-Best,
-Celina Lin
-https://linkedin.com/in/celina-g-lin
-
-Posting: https://jobright.ai/jobs/info/69cee0e3398fb071abf8a084
-
----
-
-## Banfield Pet Hospital — Client Service Coordinator - 005203
-
-**Subject:** Interest in Client Service Coordinator - 005203 — biology/bioinformatics graduate
-
-Dear Banfield Pet Hospital Hiring Team,
-
-My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Client Service Coordinator - 005203 opportunity with Banfield Pet Hospital at Banfield Pet Hospital.
-
-I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
-
-The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
-
-Best,
-Celina Lin
-https://linkedin.com/in/celina-g-lin
-
-Posting: https://jobright.ai/jobs/info/69ea9d4858811370cb134599
-
----
-
-## Banfield Pet Hospital — Client Service Coordinator - 001029
-
-**Subject:** Interest in Client Service Coordinator - 001029 — biology/bioinformatics graduate
-
-Dear Banfield Pet Hospital Hiring Team,
-
-My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Client Service Coordinator - 001029 opportunity with Banfield Pet Hospital at Banfield Pet Hospital.
-
-I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
-
-The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
-
-Best,
-Celina Lin
-https://linkedin.com/in/celina-g-lin
-
-Posting: https://jobright.ai/jobs/info/69cfc3a5cdb525785fba4b07
-
----
-
-## Banfield Pet Hospital — Client Service Coordinator - 002491
-
-**Subject:** Interest in Client Service Coordinator - 002491 — biology/bioinformatics graduate
-
-Dear Banfield Pet Hospital Hiring Team,
-
-My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Client Service Coordinator - 002491 opportunity with Banfield Pet Hospital at Banfield Pet Hospital.
-
-I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
-
-The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
-
-Best,
-Celina Lin
-https://linkedin.com/in/celina-g-lin
-
-Posting: https://jobright.ai/jobs/info/6a185a19abc8f63abac772ef
-
----
-
-## Banfield Pet Hospital — Client Service Coordinator - 005075
-
-**Subject:** Interest in Client Service Coordinator - 005075 — biology/bioinformatics graduate
-
-Dear Banfield Pet Hospital Hiring Team,
-
-My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Client Service Coordinator - 005075 opportunity with Banfield Pet Hospital at Banfield Pet Hospital.
-
-I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
-
-The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
-
-Best,
-Celina Lin
-https://linkedin.com/in/celina-g-lin
-
-Posting: https://jobright.ai/jobs/info/69fa5246db88714bcdfc27f0
-
----
-
-## Banfield Pet Hospital — Client Service Coordinator - 005315
-
-**Subject:** Interest in Client Service Coordinator - 005315 — biology/bioinformatics graduate
-
-Dear Banfield Pet Hospital Hiring Team,
-
-My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Client Service Coordinator - 005315 opportunity with Banfield Pet Hospital at Banfield Pet Hospital.
-
-I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
-
-The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
-
-Best,
-Celina Lin
-https://linkedin.com/in/celina-g-lin
-
-Posting: https://jobright.ai/jobs/info/69e78ca3e0cd471b2f12c477
-
----
-
-## Banfield Pet Hospital — Client Service Coordinator
-
-**Subject:** Interest in Client Service Coordinator — biology/bioinformatics graduate
-
-Dear Banfield Pet Hospital Hiring Team,
-
-My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Client Service Coordinator opportunity with Banfield Pet Hospital at Banfield Pet Hospital.
-
-I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
-
-The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
-
-Best,
-Celina Lin
-https://linkedin.com/in/celina-g-lin
-
-Posting: https://jobright.ai/jobs/info/6a03f845bc4184089f236fe3
-
----
-
-## Banfield Pet Hospital — Client Service Coordinator - Medfield, MA
-
-**Subject:** Interest in Client Service Coordinator - Medfield, MA — biology/bioinformatics graduate
-
-Dear Banfield Pet Hospital Hiring Team,
-
-My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Client Service Coordinator - Medfield, MA opportunity with Banfield Pet Hospital at Banfield Pet Hospital.
-
-I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
-
-The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
-
-Best,
-Celina Lin
-https://linkedin.com/in/celina-g-lin
-
-Posting: https://jobright.ai/jobs/info/69cee108891d7b11cfccda41
-
----
-
-## Banfield Pet Hospital — Client Service Coordinator - 000460
-
-**Subject:** Interest in Client Service Coordinator - 000460 — biology/bioinformatics graduate
-
-Dear Banfield Pet Hospital Hiring Team,
-
-My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Client Service Coordinator - 000460 opportunity with Banfield Pet Hospital at Banfield Pet Hospital.
-
-I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
-
-The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
-
-Best,
-Celina Lin
-https://linkedin.com/in/celina-g-lin
-
-Posting: https://jobright.ai/jobs/info/69f675670b36ff03547552ac
-
----
-
-## Banfield Pet Hospital — Client Service Coordinator - 000633
-
-**Subject:** Interest in Client Service Coordinator - 000633 — biology/bioinformatics graduate
-
-Dear Banfield Pet Hospital Hiring Team,
-
-My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Client Service Coordinator - 000633 opportunity with Banfield Pet Hospital at Banfield Pet Hospital.
-
-I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
-
-The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
-
-Best,
-Celina Lin
-https://linkedin.com/in/celina-g-lin
-
-Posting: https://jobright.ai/jobs/info/69de727718cf504166e2d076
-
----
-
-## Banfield Pet Hospital — Client Service Coordinator
-
-**Subject:** Interest in Client Service Coordinator — biology/bioinformatics graduate
-
-Dear Banfield Pet Hospital Hiring Team,
-
-My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Client Service Coordinator opportunity with Banfield Pet Hospital at Banfield Pet Hospital.
-
-I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
-
-The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
-
-Best,
-Celina Lin
-https://linkedin.com/in/celina-g-lin
-
-Posting: https://jobright.ai/jobs/info/6a03f8417c753c287f6eb9e9
-
----
-
-## Banfield Pet Hospital — CLIENT SERVICE COORDINATOR
-
-**Subject:** Interest in CLIENT SERVICE COORDINATOR — biology/bioinformatics graduate
-
-Dear Banfield Pet Hospital Hiring Team,
-
-My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the CLIENT SERVICE COORDINATOR opportunity with Banfield Pet Hospital at Banfield Pet Hospital.
-
-I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
-
-The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
-
-Best,
-Celina Lin
-https://linkedin.com/in/celina-g-lin
-
-Posting: https://jobright.ai/jobs/info/69d6778de63cea7a8b66907b
-
----
-
-## Banfield Pet Hospital — Client Service Coordinator (Full Time): Regency 0299
-
-**Subject:** Interest in Client Service Coordinator (Full Time): Regency 0299 — biology/bioinformatics graduate
-
-Dear Banfield Pet Hospital Hiring Team,
-
-My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Client Service Coordinator (Full Time): Regency 0299 opportunity with Banfield Pet Hospital at Banfield Pet Hospital.
-
-I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
-
-The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
-
-Best,
-Celina Lin
-https://linkedin.com/in/celina-g-lin
-
-Posting: https://jobright.ai/jobs/info/69cc23b2891d7b11cfcaa8c4
-
----
-
-## Banfield Pet Hospital — Client Service Coordinator
-
-**Subject:** Interest in Client Service Coordinator — biology/bioinformatics graduate
-
-Dear Banfield Pet Hospital Hiring Team,
-
-My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Client Service Coordinator opportunity with Banfield Pet Hospital at Banfield Pet Hospital.
-
-I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
-
-The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
-
-Best,
-Celina Lin
-https://linkedin.com/in/celina-g-lin
-
-Posting: https://jobright.ai/jobs/info/6a18d838abc8f63abac7c865
-
----
-
-## Banfield Pet Hospital — Client Service Coordintor
-
-**Subject:** Interest in Client Service Coordintor — biology/bioinformatics graduate
-
-Dear Banfield Pet Hospital Hiring Team,
-
-My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Client Service Coordintor opportunity with Banfield Pet Hospital at Banfield Pet Hospital.
-
-I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
-
-The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
-
-Best,
-Celina Lin
-https://linkedin.com/in/celina-g-lin
-
-Posting: https://jobright.ai/jobs/info/69e005395913ad3398147604
-
----
-
-## Banfield Pet Hospital — Client Service Coordinator - 005107
-
-**Subject:** Interest in Client Service Coordinator - 005107 — biology/bioinformatics graduate
-
-Dear Banfield Pet Hospital Hiring Team,
-
-My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Client Service Coordinator - 005107 opportunity with Banfield Pet Hospital at Banfield Pet Hospital.
-
-I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
-
-The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
-
-Best,
-Celina Lin
-https://linkedin.com/in/celina-g-lin
-
-Posting: https://jobright.ai/jobs/info/6a00a301fa1aa73213d90686
-
----
-
-## Banfield Pet Hospital — Client Service Coordinator Okemos
-
-**Subject:** Interest in Client Service Coordinator Okemos — biology/bioinformatics graduate
-
-Dear Banfield Pet Hospital Hiring Team,
-
-My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Client Service Coordinator Okemos opportunity with Banfield Pet Hospital at Banfield Pet Hospital.
-
-I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
-
-The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
-
-Best,
-Celina Lin
-https://linkedin.com/in/celina-g-lin
-
-Posting: https://jobright.ai/jobs/info/6a0c9825a235d749afa8e540
-
----
-
-## Banfield Pet Hospital — Client Service Coordinator - 001966
-
-**Subject:** Interest in Client Service Coordinator - 001966 — biology/bioinformatics graduate
-
-Dear Banfield Pet Hospital Hiring Team,
-
-My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Client Service Coordinator - 001966 opportunity with Banfield Pet Hospital at Banfield Pet Hospital.
-
-I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
-
-The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
-
-Best,
-Celina Lin
-https://linkedin.com/in/celina-g-lin
-
-Posting: https://jobright.ai/jobs/info/69f8c24b0b36ff035475aabe
-
----
-
-## Banfield Pet Hospital — Client Service Coordinator - 000672
-
-**Subject:** Interest in Client Service Coordinator - 000672 — biology/bioinformatics graduate
-
-Dear Banfield Pet Hospital Hiring Team,
-
-My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Client Service Coordinator - 000672 opportunity with Banfield Pet Hospital at Banfield Pet Hospital.
-
-I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
-
-The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
-
-Best,
-Celina Lin
-https://linkedin.com/in/celina-g-lin
-
-Posting: https://jobright.ai/jobs/info/6a1480e9bc9bff375af01577
-
----
-
-## Banfield Pet Hospital — Client Service Coordinator - 002424
-
-**Subject:** Interest in Client Service Coordinator - 002424 — biology/bioinformatics graduate
-
-Dear Banfield Pet Hospital Hiring Team,
-
-My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Client Service Coordinator - 002424 opportunity with Banfield Pet Hospital at Banfield Pet Hospital.
-
-I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
-
-The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
-
-Best,
-Celina Lin
-https://linkedin.com/in/celina-g-lin
-
-Posting: https://jobright.ai/jobs/info/69efb90e58811370cb148126
-
----
-
-## Banfield Pet Hospital — Client Service Coordinator - 000347
-
-**Subject:** Interest in Client Service Coordinator - 000347 — biology/bioinformatics graduate
-
-Dear Banfield Pet Hospital Hiring Team,
-
-My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Client Service Coordinator - 000347 opportunity with Banfield Pet Hospital at Banfield Pet Hospital.
-
-I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
-
-The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
-
-Best,
-Celina Lin
-https://linkedin.com/in/celina-g-lin
-
-Posting: https://jobright.ai/jobs/info/69f4c7ae81706a5bd2162e59
-
----
-
-## Banfield Pet Hospital — Client Service Coordinator - 005216
-
-**Subject:** Interest in Client Service Coordinator - 005216 — biology/bioinformatics graduate
-
-Dear Banfield Pet Hospital Hiring Team,
-
-My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Client Service Coordinator - 005216 opportunity with Banfield Pet Hospital at Banfield Pet Hospital.
-
-I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
-
-The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
-
-Best,
-Celina Lin
-https://linkedin.com/in/celina-g-lin
-
-Posting: https://jobright.ai/jobs/info/69cfb777cfdc6132f94352f9
-
----
-
-## Banfield Pet Hospital — Client Service Coordinator - 001140
-
-**Subject:** Interest in Client Service Coordinator - 001140 — biology/bioinformatics graduate
-
-Dear Banfield Pet Hospital Hiring Team,
-
-My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Client Service Coordinator - 001140 opportunity with Banfield Pet Hospital at Banfield Pet Hospital.
-
-I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
-
-The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
-
-Best,
-Celina Lin
-https://linkedin.com/in/celina-g-lin
-
-Posting: https://jobright.ai/jobs/info/69ed514058811370cb1417ba
-
----
-
-## Banfield Pet Hospital — Client Service Coordinator - 000260
-
-**Subject:** Interest in Client Service Coordinator - 000260 — biology/bioinformatics graduate
-
-Dear Banfield Pet Hospital Hiring Team,
-
-My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Client Service Coordinator - 000260 opportunity with Banfield Pet Hospital at Banfield Pet Hospital.
-
-I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
-
-The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
-
-Best,
-Celina Lin
-https://linkedin.com/in/celina-g-lin
-
-Posting: https://jobright.ai/jobs/info/69e932d73aa0c479643a849f
-
----
-
-## Banfield Pet Hospital — Client Service Coordinator
-
-**Subject:** Interest in Client Service Coordinator — biology/bioinformatics graduate
-
-Dear Banfield Pet Hospital Hiring Team,
-
-My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Client Service Coordinator opportunity with Banfield Pet Hospital at Banfield Pet Hospital.
-
-I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
-
-The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
-
-Best,
-Celina Lin
-https://linkedin.com/in/celina-g-lin
-
-Posting: https://jobright.ai/jobs/info/6a03f85622395b6dc6d99460
+Posting: https://jobright.ai/jobs/info/6a46154c3dbab558e29a3827
 
 ---
 
@@ -21522,6 +21362,26 @@ Posting: https://jobright.ai/jobs/info/69fbefeaa5949019c55b1bbf
 
 ---
 
+## Banfield Pet Hospital — Client Service Coordinator - 001929
+
+**Subject:** Interest in Client Service Coordinator - 001929 — biology/bioinformatics graduate
+
+Dear Banfield Pet Hospital Hiring Team,
+
+My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Client Service Coordinator - 001929 opportunity with Banfield Pet Hospital at Banfield Pet Hospital.
+
+I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
+
+The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
+
+Best,
+Celina Lin
+https://linkedin.com/in/celina-g-lin
+
+Posting: https://jobright.ai/jobs/info/69de3535433ac8430e0d8a5f
+
+---
+
 ## Banfield Pet Hospital — Client Service Coordinator - 005032
 
 **Subject:** Interest in Client Service Coordinator - 005032 — biology/bioinformatics graduate
@@ -21542,13 +21402,13 @@ Posting: https://jobright.ai/jobs/info/6a18922717492d3a389b796c
 
 ---
 
-## Banfield Pet Hospital — Client Service Coordinator - 000297
+## Banfield Pet Hospital — Client Service Coordinator - 000672
 
-**Subject:** Interest in Client Service Coordinator - 000297 — biology/bioinformatics graduate
+**Subject:** Interest in Client Service Coordinator - 000672 — biology/bioinformatics graduate
 
 Dear Banfield Pet Hospital Hiring Team,
 
-My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Client Service Coordinator - 000297 opportunity with Banfield Pet Hospital at Banfield Pet Hospital.
+My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Client Service Coordinator - 000672 opportunity with Banfield Pet Hospital at Banfield Pet Hospital.
 
 I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
 
@@ -21558,17 +21418,17 @@ Best,
 Celina Lin
 https://linkedin.com/in/celina-g-lin
 
-Posting: https://jobright.ai/jobs/info/6a013bd7fa1aa73213d91f2f
+Posting: https://jobright.ai/jobs/info/6a1480e9bc9bff375af01577
 
 ---
 
-## Banfield Pet Hospital — Client Service Coordinator Full Time
+## Banfield Pet Hospital — Client Service Coordinator PT - Long Point Rd.
 
-**Subject:** Interest in Client Service Coordinator Full Time — biology/bioinformatics graduate
+**Subject:** Interest in Client Service Coordinator PT - Long Point Rd. — biology/bioinformatics graduate
 
 Dear Banfield Pet Hospital Hiring Team,
 
-My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Client Service Coordinator Full Time opportunity with Banfield Pet Hospital at Banfield Pet Hospital.
+My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Client Service Coordinator PT - Long Point Rd. opportunity with Banfield Pet Hospital at Banfield Pet Hospital.
 
 I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
 
@@ -21578,7 +21438,7 @@ Best,
 Celina Lin
 https://linkedin.com/in/celina-g-lin
 
-Posting: https://jobright.ai/jobs/info/69f8273a582f810f9c8ccf9e
+Posting: https://jobright.ai/jobs/info/69d713b8cfdc6132f946ef49
 
 ---
 
@@ -21602,13 +21462,13 @@ Posting: https://jobright.ai/jobs/info/69f9b84bb1fc847fc1aec759
 
 ---
 
-## Banfield Pet Hospital — Client Service Coordinator - 001929
+## Banfield Pet Hospital — Client Service Coordinator - 000347
 
-**Subject:** Interest in Client Service Coordinator - 001929 — biology/bioinformatics graduate
+**Subject:** Interest in Client Service Coordinator - 000347 — biology/bioinformatics graduate
 
 Dear Banfield Pet Hospital Hiring Team,
 
-My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Client Service Coordinator - 001929 opportunity with Banfield Pet Hospital at Banfield Pet Hospital.
+My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Client Service Coordinator - 000347 opportunity with Banfield Pet Hospital at Banfield Pet Hospital.
 
 I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
 
@@ -21618,7 +21478,7 @@ Best,
 Celina Lin
 https://linkedin.com/in/celina-g-lin
 
-Posting: https://jobright.ai/jobs/info/69de3535433ac8430e0d8a5f
+Posting: https://jobright.ai/jobs/info/69f4c7ae81706a5bd2162e59
 
 ---
 
@@ -21642,13 +21502,13 @@ Posting: https://jobright.ai/jobs/info/69e4f5913cfd986aa6f81e60
 
 ---
 
-## Banfield Pet Hospital — Client Service Coordinator - DC Adams Morgan
+## Banfield Pet Hospital — Client Service Coordinator - Medfield, MA
 
-**Subject:** Interest in Client Service Coordinator - DC Adams Morgan — biology/bioinformatics graduate
+**Subject:** Interest in Client Service Coordinator - Medfield, MA — biology/bioinformatics graduate
 
 Dear Banfield Pet Hospital Hiring Team,
 
-My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Client Service Coordinator - DC Adams Morgan opportunity with Banfield Pet Hospital at Banfield Pet Hospital.
+My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Client Service Coordinator - Medfield, MA opportunity with Banfield Pet Hospital at Banfield Pet Hospital.
 
 I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
 
@@ -21658,17 +21518,17 @@ Best,
 Celina Lin
 https://linkedin.com/in/celina-g-lin
 
-Posting: https://jobright.ai/jobs/info/69d50773891d7b11cfcfefa9
+Posting: https://jobright.ai/jobs/info/69cee108891d7b11cfccda41
 
 ---
 
-## Banfield Pet Hospital — CSC - Client Service Coordinator
+## Banfield Pet Hospital — Client Service Coordinator
 
-**Subject:** Interest in CSC - Client Service Coordinator — biology/bioinformatics graduate
+**Subject:** Interest in Client Service Coordinator — biology/bioinformatics graduate
 
 Dear Banfield Pet Hospital Hiring Team,
 
-My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the CSC - Client Service Coordinator opportunity with Banfield Pet Hospital at Banfield Pet Hospital.
+My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Client Service Coordinator opportunity with Banfield Pet Hospital at Banfield Pet Hospital.
 
 I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
 
@@ -21678,7 +21538,87 @@ Best,
 Celina Lin
 https://linkedin.com/in/celina-g-lin
 
-Posting: https://jobright.ai/jobs/info/6a031b30f3d6cc51d6373714
+Posting: https://jobright.ai/jobs/info/6a18d838abc8f63abac7c865
+
+---
+
+## Banfield Pet Hospital — Client Service Coordinator - 005203
+
+**Subject:** Interest in Client Service Coordinator - 005203 — biology/bioinformatics graduate
+
+Dear Banfield Pet Hospital Hiring Team,
+
+My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Client Service Coordinator - 005203 opportunity with Banfield Pet Hospital at Banfield Pet Hospital.
+
+I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
+
+The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
+
+Best,
+Celina Lin
+https://linkedin.com/in/celina-g-lin
+
+Posting: https://jobright.ai/jobs/info/69ea9d4858811370cb134599
+
+---
+
+## Banfield Pet Hospital — Client Service Coordinator - 000073
+
+**Subject:** Interest in Client Service Coordinator - 000073 — biology/bioinformatics graduate
+
+Dear Banfield Pet Hospital Hiring Team,
+
+My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Client Service Coordinator - 000073 opportunity with Banfield Pet Hospital at Banfield Pet Hospital.
+
+I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
+
+The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
+
+Best,
+Celina Lin
+https://linkedin.com/in/celina-g-lin
+
+Posting: https://jobright.ai/jobs/info/69cee0e3398fb071abf8a084
+
+---
+
+## Banfield Pet Hospital — Client Service Coordinator - 000633
+
+**Subject:** Interest in Client Service Coordinator - 000633 — biology/bioinformatics graduate
+
+Dear Banfield Pet Hospital Hiring Team,
+
+My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Client Service Coordinator - 000633 opportunity with Banfield Pet Hospital at Banfield Pet Hospital.
+
+I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
+
+The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
+
+Best,
+Celina Lin
+https://linkedin.com/in/celina-g-lin
+
+Posting: https://jobright.ai/jobs/info/69de727718cf504166e2d076
+
+---
+
+## Banfield Pet Hospital — Client Service Coordinator - 001140
+
+**Subject:** Interest in Client Service Coordinator - 001140 — biology/bioinformatics graduate
+
+Dear Banfield Pet Hospital Hiring Team,
+
+My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Client Service Coordinator - 001140 opportunity with Banfield Pet Hospital at Banfield Pet Hospital.
+
+I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
+
+The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
+
+Best,
+Celina Lin
+https://linkedin.com/in/celina-g-lin
+
+Posting: https://jobright.ai/jobs/info/69ed514058811370cb1417ba
 
 ---
 
@@ -21702,26 +21642,6 @@ Posting: https://jobright.ai/jobs/info/69e8fb624b0fa35a7076a654
 
 ---
 
-## Banfield Pet Hospital — Client Service Coordinator - 001469
-
-**Subject:** Interest in Client Service Coordinator - 001469 — biology/bioinformatics graduate
-
-Dear Banfield Pet Hospital Hiring Team,
-
-My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Client Service Coordinator - 001469 opportunity with Banfield Pet Hospital at Banfield Pet Hospital.
-
-I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
-
-The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
-
-Best,
-Celina Lin
-https://linkedin.com/in/celina-g-lin
-
-Posting: https://jobright.ai/jobs/info/6a1391ab619335383fb3d094
-
----
-
 ## Banfield Pet Hospital — Client Service Coordinator (CSC)
 
 **Subject:** Interest in Client Service Coordinator (CSC) — biology/bioinformatics graduate
@@ -21742,13 +21662,13 @@ Posting: https://jobright.ai/jobs/info/6a14ab07dc845f4be5bd2b6e
 
 ---
 
-## Banfield Pet Hospital — Client Service Coordinator - Full Time
+## Banfield Pet Hospital — Client Service Coordinator - 001740
 
-**Subject:** Interest in Client Service Coordinator - Full Time — biology/bioinformatics graduate
+**Subject:** Interest in Client Service Coordinator - 001740 — biology/bioinformatics graduate
 
 Dear Banfield Pet Hospital Hiring Team,
 
-My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Client Service Coordinator - Full Time opportunity with Banfield Pet Hospital at Banfield Pet Hospital.
+My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Client Service Coordinator - 001740 opportunity with Banfield Pet Hospital at Banfield Pet Hospital.
 
 I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
 
@@ -21758,17 +21678,17 @@ Best,
 Celina Lin
 https://linkedin.com/in/celina-g-lin
 
-Posting: https://jobright.ai/jobs/info/6962dd6c25e18715077f9779
+Posting: https://jobright.ai/jobs/info/69d5493fcfdc6132f9460e6d
 
 ---
 
-## Banfield Pet Hospital — Client Service Coordinator - 005220
+## Banfield Pet Hospital — Client Service Coordinator - 000460
 
-**Subject:** Interest in Client Service Coordinator - 005220 — biology/bioinformatics graduate
+**Subject:** Interest in Client Service Coordinator - 000460 — biology/bioinformatics graduate
 
 Dear Banfield Pet Hospital Hiring Team,
 
-My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Client Service Coordinator - 005220 opportunity with Banfield Pet Hospital at Banfield Pet Hospital.
+My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Client Service Coordinator - 000460 opportunity with Banfield Pet Hospital at Banfield Pet Hospital.
 
 I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
 
@@ -21778,17 +21698,17 @@ Best,
 Celina Lin
 https://linkedin.com/in/celina-g-lin
 
-Posting: https://jobright.ai/jobs/info/68bb05898043103d4f224fca
+Posting: https://jobright.ai/jobs/info/69f675670b36ff03547552ac
 
 ---
 
-## Banfield Pet Hospital — Client Service Coordinator - 001961
+## Banfield Pet Hospital — Client Service Representative
 
-**Subject:** Interest in Client Service Coordinator - 001961 — biology/bioinformatics graduate
+**Subject:** Interest in Client Service Representative — biology/bioinformatics graduate
 
 Dear Banfield Pet Hospital Hiring Team,
 
-My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Client Service Coordinator - 001961 opportunity with Banfield Pet Hospital at Banfield Pet Hospital.
+My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Client Service Representative opportunity with Banfield Pet Hospital at Banfield Pet Hospital.
 
 I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
 
@@ -21798,17 +21718,17 @@ Best,
 Celina Lin
 https://linkedin.com/in/celina-g-lin
 
-Posting: https://jobright.ai/jobs/info/695459425bb7de448ef75125
+Posting: https://jobright.ai/jobs/info/6954a0daf1f8465b79ebcfee
 
 ---
 
-## Banfield Pet Hospital — Client Service Coordinator - 002344
+## Banfield Pet Hospital — Client Service Reprensentative
 
-**Subject:** Interest in Client Service Coordinator - 002344 — biology/bioinformatics graduate
+**Subject:** Interest in Client Service Reprensentative — biology/bioinformatics graduate
 
 Dear Banfield Pet Hospital Hiring Team,
 
-My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Client Service Coordinator - 002344 opportunity with Banfield Pet Hospital at Banfield Pet Hospital.
+My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Client Service Reprensentative opportunity with Banfield Pet Hospital at Banfield Pet Hospital.
 
 I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
 
@@ -21818,17 +21738,17 @@ Best,
 Celina Lin
 https://linkedin.com/in/celina-g-lin
 
-Posting: https://jobright.ai/jobs/info/69cab8391b5ad028873a426c
+Posting: https://jobright.ai/jobs/info/69d51a14e63cea7a8b65ea73
 
 ---
 
-## Banfield Pet Hospital — Client Service Coordinator - 000061
+## Banfield Pet Hospital — Client Service Representative
 
-**Subject:** Interest in Client Service Coordinator - 000061 — biology/bioinformatics graduate
+**Subject:** Interest in Client Service Representative — biology/bioinformatics graduate
 
 Dear Banfield Pet Hospital Hiring Team,
 
-My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Client Service Coordinator - 000061 opportunity with Banfield Pet Hospital at Banfield Pet Hospital.
+My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Client Service Representative opportunity with Banfield Pet Hospital at Banfield Pet Hospital.
 
 I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
 
@@ -21838,17 +21758,17 @@ Best,
 Celina Lin
 https://linkedin.com/in/celina-g-lin
 
-Posting: https://jobright.ai/jobs/info/681bfe690bbdce5320282e1a
+Posting: https://jobright.ai/jobs/info/6a12789512f8b43cf398ca9d
 
 ---
 
-## Banfield Pet Hospital — Client Service Coordinator - 005180
+## Banfield Pet Hospital — Client Service Representative - Brokaw Part-Time
 
-**Subject:** Interest in Client Service Coordinator - 005180 — biology/bioinformatics graduate
+**Subject:** Interest in Client Service Representative - Brokaw Part-Time — biology/bioinformatics graduate
 
 Dear Banfield Pet Hospital Hiring Team,
 
-My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Client Service Coordinator - 005180 opportunity with Banfield Pet Hospital at Banfield Pet Hospital.
+My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Client Service Representative - Brokaw Part-Time opportunity with Banfield Pet Hospital at Banfield Pet Hospital.
 
 I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
 
@@ -21858,17 +21778,17 @@ Best,
 Celina Lin
 https://linkedin.com/in/celina-g-lin
 
-Posting: https://jobright.ai/jobs/info/69b27beeae2a534885e9980b
+Posting: https://jobright.ai/jobs/info/69ea50710a6e09555304027d
 
 ---
 
-## Banfield Pet Hospital — Client Service Coordinator - Brier Creek Part-time
+## Banfield Pet Hospital — Client Service Representative
 
-**Subject:** Interest in Client Service Coordinator - Brier Creek Part-time — biology/bioinformatics graduate
+**Subject:** Interest in Client Service Representative — biology/bioinformatics graduate
 
 Dear Banfield Pet Hospital Hiring Team,
 
-My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Client Service Coordinator - Brier Creek Part-time opportunity with Banfield Pet Hospital at Banfield Pet Hospital.
+My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Client Service Representative opportunity with Banfield Pet Hospital at Banfield Pet Hospital.
 
 I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
 
@@ -21878,17 +21798,17 @@ Best,
 Celina Lin
 https://linkedin.com/in/celina-g-lin
 
-Posting: https://jobright.ai/jobs/info/68cb91f4ba798c1a501d1de3
+Posting: https://jobright.ai/jobs/info/6954a2abf1f8465b79ebd0d0
 
 ---
 
-## Banfield Pet Hospital — Client Service Coordinator - 001286
+## Banfield Pet Hospital — Client Service Representative - Full Time
 
-**Subject:** Interest in Client Service Coordinator - 001286 — biology/bioinformatics graduate
+**Subject:** Interest in Client Service Representative - Full Time — biology/bioinformatics graduate
 
 Dear Banfield Pet Hospital Hiring Team,
 
-My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Client Service Coordinator - 001286 opportunity with Banfield Pet Hospital at Banfield Pet Hospital.
+My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Client Service Representative - Full Time opportunity with Banfield Pet Hospital at Banfield Pet Hospital.
 
 I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
 
@@ -21898,17 +21818,17 @@ Best,
 Celina Lin
 https://linkedin.com/in/celina-g-lin
 
-Posting: https://jobright.ai/jobs/info/6918ee5abcdbf3560c9d3e65
+Posting: https://jobright.ai/jobs/info/6a2c583ed3ec94183f4bc720
 
 ---
 
-## Banfield Pet Hospital — Client Service Coordinator - Stone Ridge
+## Banfield Pet Hospital — Customer service cordinator
 
-**Subject:** Interest in Client Service Coordinator - Stone Ridge — biology/bioinformatics graduate
+**Subject:** Interest in Customer service cordinator — biology/bioinformatics graduate
 
 Dear Banfield Pet Hospital Hiring Team,
 
-My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Client Service Coordinator - Stone Ridge opportunity with Banfield Pet Hospital at Banfield Pet Hospital.
+My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Customer service cordinator opportunity with Banfield Pet Hospital at Banfield Pet Hospital.
 
 I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
 
@@ -21918,17 +21838,17 @@ Best,
 Celina Lin
 https://linkedin.com/in/celina-g-lin
 
-Posting: https://jobright.ai/jobs/info/689fa7fe83d13d1f5b6ca48d
+Posting: https://jobright.ai/jobs/info/68dc7db6accfd24b67e56183
 
 ---
 
-## Banfield Pet Hospital — Client Service Coordinator - 005074
+## Banfield Pet Hospital — Customer Service Coordinator
 
-**Subject:** Interest in Client Service Coordinator - 005074 — biology/bioinformatics graduate
+**Subject:** Interest in Customer Service Coordinator — biology/bioinformatics graduate
 
 Dear Banfield Pet Hospital Hiring Team,
 
-My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Client Service Coordinator - 005074 opportunity with Banfield Pet Hospital at Banfield Pet Hospital.
+My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Customer Service Coordinator opportunity with Banfield Pet Hospital at Banfield Pet Hospital.
 
 I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
 
@@ -21938,987 +21858,7 @@ Best,
 Celina Lin
 https://linkedin.com/in/celina-g-lin
 
-Posting: https://jobright.ai/jobs/info/685ed5a8160a531d1d5eec7f
-
----
-
-## Banfield Pet Hospital — Client Service Coordinator - 001443
-
-**Subject:** Interest in Client Service Coordinator - 001443 — biology/bioinformatics graduate
-
-Dear Banfield Pet Hospital Hiring Team,
-
-My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Client Service Coordinator - 001443 opportunity with Banfield Pet Hospital at Banfield Pet Hospital.
-
-I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
-
-The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
-
-Best,
-Celina Lin
-https://linkedin.com/in/celina-g-lin
-
-Posting: https://jobright.ai/jobs/info/69c70093aa3c2c1995e14231
-
----
-
-## Banfield Pet Hospital — Client Service Coordinator - 001085
-
-**Subject:** Interest in Client Service Coordinator - 001085 — biology/bioinformatics graduate
-
-Dear Banfield Pet Hospital Hiring Team,
-
-My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Client Service Coordinator - 001085 opportunity with Banfield Pet Hospital at Banfield Pet Hospital.
-
-I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
-
-The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
-
-Best,
-Celina Lin
-https://linkedin.com/in/celina-g-lin
-
-Posting: https://jobright.ai/jobs/info/69c3d6ee6f4f855eeda61747
-
----
-
-## Banfield Pet Hospital — Client Service Coordinator - Nashville, TN - Music City
-
-**Subject:** Interest in Client Service Coordinator - Nashville, TN - Music City — biology/bioinformatics graduate
-
-Dear Banfield Pet Hospital Hiring Team,
-
-My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Client Service Coordinator - Nashville, TN - Music City opportunity with Banfield Pet Hospital at Banfield Pet Hospital.
-
-I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
-
-The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
-
-Best,
-Celina Lin
-https://linkedin.com/in/celina-g-lin
-
-Posting: https://jobright.ai/jobs/info/69b95ea456973837413ee278
-
----
-
-## Banfield Pet Hospital — Client Service Coordinator - 005206
-
-**Subject:** Interest in Client Service Coordinator - 005206 — biology/bioinformatics graduate
-
-Dear Banfield Pet Hospital Hiring Team,
-
-My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Client Service Coordinator - 005206 opportunity with Banfield Pet Hospital at Banfield Pet Hospital.
-
-I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
-
-The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
-
-Best,
-Celina Lin
-https://linkedin.com/in/celina-g-lin
-
-Posting: https://jobright.ai/jobs/info/6839ec5289ff274484da1a4a
-
----
-
-## Banfield Pet Hospital — Client Service Coordinator- Greenville, NC FT
-
-**Subject:** Interest in Client Service Coordinator- Greenville, NC FT — biology/bioinformatics graduate
-
-Dear Banfield Pet Hospital Hiring Team,
-
-My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Client Service Coordinator- Greenville, NC FT opportunity with Banfield Pet Hospital at Banfield Pet Hospital.
-
-I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
-
-The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
-
-Best,
-Celina Lin
-https://linkedin.com/in/celina-g-lin
-
-Posting: https://jobright.ai/jobs/info/692b143f66796e3028f9017c
-
----
-
-## Banfield Pet Hospital — Client Service Coordinator - 000081
-
-**Subject:** Interest in Client Service Coordinator - 000081 — biology/bioinformatics graduate
-
-Dear Banfield Pet Hospital Hiring Team,
-
-My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Client Service Coordinator - 000081 opportunity with Banfield Pet Hospital at Banfield Pet Hospital.
-
-I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
-
-The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
-
-Best,
-Celina Lin
-https://linkedin.com/in/celina-g-lin
-
-Posting: https://jobright.ai/jobs/info/682448c5b511322ffc605367
-
----
-
-## Banfield Pet Hospital — Client Service Coordinator "CSC"
-
-**Subject:** Interest in Client Service Coordinator "CSC" — biology/bioinformatics graduate
-
-Dear Banfield Pet Hospital Hiring Team,
-
-My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Client Service Coordinator "CSC" opportunity with Banfield Pet Hospital at Banfield Pet Hospital.
-
-I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
-
-The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
-
-Best,
-Celina Lin
-https://linkedin.com/in/celina-g-lin
-
-Posting: https://jobright.ai/jobs/info/68795ec5a7fc8904e396235e
-
----
-
-## Banfield Pet Hospital — Client Service Coordinator - 001869
-
-**Subject:** Interest in Client Service Coordinator - 001869 — biology/bioinformatics graduate
-
-Dear Banfield Pet Hospital Hiring Team,
-
-My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Client Service Coordinator - 001869 opportunity with Banfield Pet Hospital at Banfield Pet Hospital.
-
-I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
-
-The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
-
-Best,
-Celina Lin
-https://linkedin.com/in/celina-g-lin
-
-Posting: https://jobright.ai/jobs/info/69a3720db600907a96299644
-
----
-
-## Banfield Pet Hospital — Client Service Cooordinator
-
-**Subject:** Interest in Client Service Cooordinator — biology/bioinformatics graduate
-
-Dear Banfield Pet Hospital Hiring Team,
-
-My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Client Service Cooordinator opportunity with Banfield Pet Hospital at Banfield Pet Hospital.
-
-I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
-
-The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
-
-Best,
-Celina Lin
-https://linkedin.com/in/celina-g-lin
-
-Posting: https://jobright.ai/jobs/info/691f659ea49a885af9a2f380
-
----
-
-## Banfield Pet Hospital — Client Service Coordinator - 001232
-
-**Subject:** Interest in Client Service Coordinator - 001232 — biology/bioinformatics graduate
-
-Dear Banfield Pet Hospital Hiring Team,
-
-My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Client Service Coordinator - 001232 opportunity with Banfield Pet Hospital at Banfield Pet Hospital.
-
-I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
-
-The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
-
-Best,
-Celina Lin
-https://linkedin.com/in/celina-g-lin
-
-Posting: https://jobright.ai/jobs/info/6998ed88ce78e77b4fdd7e26
-
----
-
-## Banfield Pet Hospital — Client Service Coordinator - Pacific Beach
-
-**Subject:** Interest in Client Service Coordinator - Pacific Beach — biology/bioinformatics graduate
-
-Dear Banfield Pet Hospital Hiring Team,
-
-My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Client Service Coordinator - Pacific Beach opportunity with Banfield Pet Hospital at Banfield Pet Hospital.
-
-I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
-
-The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
-
-Best,
-Celina Lin
-https://linkedin.com/in/celina-g-lin
-
-Posting: https://jobright.ai/jobs/info/682535eeee4a10bd8d25806f
-
----
-
-## Banfield Pet Hospital — Full Time Client Service Coordinator
-
-**Subject:** Interest in Full Time Client Service Coordinator — biology/bioinformatics graduate
-
-Dear Banfield Pet Hospital Hiring Team,
-
-My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Full Time Client Service Coordinator opportunity with Banfield Pet Hospital at Banfield Pet Hospital.
-
-I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
-
-The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
-
-Best,
-Celina Lin
-https://linkedin.com/in/celina-g-lin
-
-Posting: https://jobright.ai/jobs/info/69a34e4a359fe034b1ce80d2
-
----
-
-## Banfield Pet Hospital — Client Service Coordinator - 001249
-
-**Subject:** Interest in Client Service Coordinator - 001249 — biology/bioinformatics graduate
-
-Dear Banfield Pet Hospital Hiring Team,
-
-My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Client Service Coordinator - 001249 opportunity with Banfield Pet Hospital at Banfield Pet Hospital.
-
-I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
-
-The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
-
-Best,
-Celina Lin
-https://linkedin.com/in/celina-g-lin
-
-Posting: https://jobright.ai/jobs/info/69b979f806c1ba00c54b8a92
-
----
-
-## Banfield Pet Hospital — Client Service Coordinator - 2110 Welsey Chapel
-
-**Subject:** Interest in Client Service Coordinator - 2110 Welsey Chapel — biology/bioinformatics graduate
-
-Dear Banfield Pet Hospital Hiring Team,
-
-My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Client Service Coordinator - 2110 Welsey Chapel opportunity with Banfield Pet Hospital at Banfield Pet Hospital.
-
-I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
-
-The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
-
-Best,
-Celina Lin
-https://linkedin.com/in/celina-g-lin
-
-Posting: https://jobright.ai/jobs/info/69b1b22665de58104c70b351
-
----
-
-## Banfield Pet Hospital — Client Service Coordinator - 001571
-
-**Subject:** Interest in Client Service Coordinator - 001571 — biology/bioinformatics graduate
-
-Dear Banfield Pet Hospital Hiring Team,
-
-My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Client Service Coordinator - 001571 opportunity with Banfield Pet Hospital at Banfield Pet Hospital.
-
-I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
-
-The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
-
-Best,
-Celina Lin
-https://linkedin.com/in/celina-g-lin
-
-Posting: https://jobright.ai/jobs/info/6836779bc9dc726fab2a3390
-
----
-
-## Banfield Pet Hospital — Client Service Coordinator - 002487
-
-**Subject:** Interest in Client Service Coordinator - 002487 — biology/bioinformatics graduate
-
-Dear Banfield Pet Hospital Hiring Team,
-
-My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Client Service Coordinator - 002487 opportunity with Banfield Pet Hospital at Banfield Pet Hospital.
-
-I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
-
-The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
-
-Best,
-Celina Lin
-https://linkedin.com/in/celina-g-lin
-
-Posting: https://jobright.ai/jobs/info/698d2a2378b4502f12a3b770
-
----
-
-## Banfield Pet Hospital — Client Service Coordinator - 005146
-
-**Subject:** Interest in Client Service Coordinator - 005146 — biology/bioinformatics graduate
-
-Dear Banfield Pet Hospital Hiring Team,
-
-My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Client Service Coordinator - 005146 opportunity with Banfield Pet Hospital at Banfield Pet Hospital.
-
-I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
-
-The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
-
-Best,
-Celina Lin
-https://linkedin.com/in/celina-g-lin
-
-Posting: https://jobright.ai/jobs/info/68bb209e6105227d118a32f5
-
----
-
-## Banfield Pet Hospital — Client Service Coordinator - 005242
-
-**Subject:** Interest in Client Service Coordinator - 005242 — biology/bioinformatics graduate
-
-Dear Banfield Pet Hospital Hiring Team,
-
-My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Client Service Coordinator - 005242 opportunity with Banfield Pet Hospital at Banfield Pet Hospital.
-
-I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
-
-The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
-
-Best,
-Celina Lin
-https://linkedin.com/in/celina-g-lin
-
-Posting: https://jobright.ai/jobs/info/685c4cae50b333c4aba83190
-
----
-
-## Banfield Pet Hospital — Client Service Coordinator - Hutto
-
-**Subject:** Interest in Client Service Coordinator - Hutto — biology/bioinformatics graduate
-
-Dear Banfield Pet Hospital Hiring Team,
-
-My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Client Service Coordinator - Hutto opportunity with Banfield Pet Hospital at Banfield Pet Hospital.
-
-I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
-
-The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
-
-Best,
-Celina Lin
-https://linkedin.com/in/celina-g-lin
-
-Posting: https://jobright.ai/jobs/info/69aa1ac02ebd316bece1d679
-
----
-
-## Banfield Pet Hospital — Client Service Coordinator - 000637
-
-**Subject:** Interest in Client Service Coordinator - 000637 — biology/bioinformatics graduate
-
-Dear Banfield Pet Hospital Hiring Team,
-
-My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Client Service Coordinator - 000637 opportunity with Banfield Pet Hospital at Banfield Pet Hospital.
-
-I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
-
-The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
-
-Best,
-Celina Lin
-https://linkedin.com/in/celina-g-lin
-
-Posting: https://jobright.ai/jobs/info/68c824f5983e6768bc54a180
-
----
-
-## Banfield Pet Hospital — Client Service Coordinator - 005143
-
-**Subject:** Interest in Client Service Coordinator - 005143 — biology/bioinformatics graduate
-
-Dear Banfield Pet Hospital Hiring Team,
-
-My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Client Service Coordinator - 005143 opportunity with Banfield Pet Hospital at Banfield Pet Hospital.
-
-I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
-
-The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
-
-Best,
-Celina Lin
-https://linkedin.com/in/celina-g-lin
-
-Posting: https://jobright.ai/jobs/info/6938b0c0aabec14a727da039
-
----
-
-## Banfield Pet Hospital — Client Service Coordinator Mt Pleasant West
-
-**Subject:** Interest in Client Service Coordinator Mt Pleasant West — biology/bioinformatics graduate
-
-Dear Banfield Pet Hospital Hiring Team,
-
-My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Client Service Coordinator Mt Pleasant West opportunity with Banfield Pet Hospital at Banfield Pet Hospital.
-
-I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
-
-The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
-
-Best,
-Celina Lin
-https://linkedin.com/in/celina-g-lin
-
-Posting: https://jobright.ai/jobs/info/688285f6835a903aa07ee25f
-
----
-
-## Banfield Pet Hospital — Client Service Coordinator - 005314
-
-**Subject:** Interest in Client Service Coordinator - 005314 — biology/bioinformatics graduate
-
-Dear Banfield Pet Hospital Hiring Team,
-
-My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Client Service Coordinator - 005314 opportunity with Banfield Pet Hospital at Banfield Pet Hospital.
-
-I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
-
-The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
-
-Best,
-Celina Lin
-https://linkedin.com/in/celina-g-lin
-
-Posting: https://jobright.ai/jobs/info/68d99b10022fc803b48777da
-
----
-
-## Banfield Pet Hospital — Client Service Coordinator - 000564
-
-**Subject:** Interest in Client Service Coordinator - 000564 — biology/bioinformatics graduate
-
-Dear Banfield Pet Hospital Hiring Team,
-
-My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Client Service Coordinator - 000564 opportunity with Banfield Pet Hospital at Banfield Pet Hospital.
-
-I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
-
-The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
-
-Best,
-Celina Lin
-https://linkedin.com/in/celina-g-lin
-
-Posting: https://jobright.ai/jobs/info/690b800ad046ab6061ce4b80
-
----
-
-## Banfield Pet Hospital — Client Service Coordinator - 005086
-
-**Subject:** Interest in Client Service Coordinator - 005086 — biology/bioinformatics graduate
-
-Dear Banfield Pet Hospital Hiring Team,
-
-My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Client Service Coordinator - 005086 opportunity with Banfield Pet Hospital at Banfield Pet Hospital.
-
-I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
-
-The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
-
-Best,
-Celina Lin
-https://linkedin.com/in/celina-g-lin
-
-Posting: https://jobright.ai/jobs/info/6840a06da90c37324214efed
-
----
-
-## Banfield Pet Hospital — Client Service Coordinator - 005148
-
-**Subject:** Interest in Client Service Coordinator - 005148 — biology/bioinformatics graduate
-
-Dear Banfield Pet Hospital Hiring Team,
-
-My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Client Service Coordinator - 005148 opportunity with Banfield Pet Hospital at Banfield Pet Hospital.
-
-I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
-
-The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
-
-Best,
-Celina Lin
-https://linkedin.com/in/celina-g-lin
-
-Posting: https://jobright.ai/jobs/info/682e8f9dc396d876d33675af
-
----
-
-## Banfield Pet Hospital — Client Service Coordinaor
-
-**Subject:** Interest in Client Service Coordinaor — biology/bioinformatics graduate
-
-Dear Banfield Pet Hospital Hiring Team,
-
-My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Client Service Coordinaor opportunity with Banfield Pet Hospital at Banfield Pet Hospital.
-
-I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
-
-The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
-
-Best,
-Celina Lin
-https://linkedin.com/in/celina-g-lin
-
-Posting: https://jobright.ai/jobs/info/69a3723e359fe034b1ce8883
-
----
-
-## Banfield Pet Hospital — Client Service Coordinator 0319
-
-**Subject:** Interest in Client Service Coordinator 0319 — biology/bioinformatics graduate
-
-Dear Banfield Pet Hospital Hiring Team,
-
-My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Client Service Coordinator 0319 opportunity with Banfield Pet Hospital at Banfield Pet Hospital.
-
-I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
-
-The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
-
-Best,
-Celina Lin
-https://linkedin.com/in/celina-g-lin
-
-Posting: https://jobright.ai/jobs/info/68519ca455f14fb37e6730d7
-
----
-
-## Banfield Pet Hospital — Client Service Coordinator - 00218
-
-**Subject:** Interest in Client Service Coordinator - 00218 — biology/bioinformatics graduate
-
-Dear Banfield Pet Hospital Hiring Team,
-
-My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Client Service Coordinator - 00218 opportunity with Banfield Pet Hospital at Banfield Pet Hospital.
-
-I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
-
-The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
-
-Best,
-Celina Lin
-https://linkedin.com/in/celina-g-lin
-
-Posting: https://jobright.ai/jobs/info/68a3913a37d3cc6b0d578373
-
----
-
-## Banfield Pet Hospital — Client Service Coordinator - 005037
-
-**Subject:** Interest in Client Service Coordinator - 005037 — biology/bioinformatics graduate
-
-Dear Banfield Pet Hospital Hiring Team,
-
-My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Client Service Coordinator - 005037 opportunity with Banfield Pet Hospital at Banfield Pet Hospital.
-
-I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
-
-The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
-
-Best,
-Celina Lin
-https://linkedin.com/in/celina-g-lin
-
-Posting: https://jobright.ai/jobs/info/681cc6d7ccb402d2d5639636
-
----
-
-## Banfield Pet Hospital — Client Service Coordinator - 001134
-
-**Subject:** Interest in Client Service Coordinator - 001134 — biology/bioinformatics graduate
-
-Dear Banfield Pet Hospital Hiring Team,
-
-My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Client Service Coordinator - 001134 opportunity with Banfield Pet Hospital at Banfield Pet Hospital.
-
-I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
-
-The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
-
-Best,
-Celina Lin
-https://linkedin.com/in/celina-g-lin
-
-Posting: https://jobright.ai/jobs/info/682f8e37ae24e7b6518da1ec
-
----
-
-## Banfield Pet Hospital — Client Service Coordinator (Part Time)
-
-**Subject:** Interest in Client Service Coordinator (Part Time) — biology/bioinformatics graduate
-
-Dear Banfield Pet Hospital Hiring Team,
-
-My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Client Service Coordinator (Part Time) opportunity with Banfield Pet Hospital at Banfield Pet Hospital.
-
-I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
-
-The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
-
-Best,
-Celina Lin
-https://linkedin.com/in/celina-g-lin
-
-Posting: https://jobright.ai/jobs/info/695ede18a112b402660d96fb
-
----
-
-## Banfield Pet Hospital — Client Service Coordinator - 001245
-
-**Subject:** Interest in Client Service Coordinator - 001245 — biology/bioinformatics graduate
-
-Dear Banfield Pet Hospital Hiring Team,
-
-My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Client Service Coordinator - 001245 opportunity with Banfield Pet Hospital at Banfield Pet Hospital.
-
-I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
-
-The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
-
-Best,
-Celina Lin
-https://linkedin.com/in/celina-g-lin
-
-Posting: https://jobright.ai/jobs/info/68b73df52124650c14020c4d
-
----
-
-## Banfield Pet Hospital — Client service coordinator
-
-**Subject:** Interest in Client service coordinator — biology/bioinformatics graduate
-
-Dear Banfield Pet Hospital Hiring Team,
-
-My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Client service coordinator opportunity with Banfield Pet Hospital at Banfield Pet Hospital.
-
-I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
-
-The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
-
-Best,
-Celina Lin
-https://linkedin.com/in/celina-g-lin
-
-Posting: https://jobright.ai/jobs/info/6974e97cbc8e722e7b19e2dc
-
----
-
-## Banfield Pet Hospital — Client Service Coordinator - 001453
-
-**Subject:** Interest in Client Service Coordinator - 001453 — biology/bioinformatics graduate
-
-Dear Banfield Pet Hospital Hiring Team,
-
-My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Client Service Coordinator - 001453 opportunity with Banfield Pet Hospital at Banfield Pet Hospital.
-
-I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
-
-The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
-
-Best,
-Celina Lin
-https://linkedin.com/in/celina-g-lin
-
-Posting: https://jobright.ai/jobs/info/6840d4f755b50b7eedf2da17
-
----
-
-## Banfield Pet Hospital — Client Service Coordinator - 005241
-
-**Subject:** Interest in Client Service Coordinator - 005241 — biology/bioinformatics graduate
-
-Dear Banfield Pet Hospital Hiring Team,
-
-My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Client Service Coordinator - 005241 opportunity with Banfield Pet Hospital at Banfield Pet Hospital.
-
-I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
-
-The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
-
-Best,
-Celina Lin
-https://linkedin.com/in/celina-g-lin
-
-Posting: https://jobright.ai/jobs/info/69b35308ad360c0340a872ad
-
----
-
-## Banfield Pet Hospital — Client Service Coordinator - 005118
-
-**Subject:** Interest in Client Service Coordinator - 005118 — biology/bioinformatics graduate
-
-Dear Banfield Pet Hospital Hiring Team,
-
-My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Client Service Coordinator - 005118 opportunity with Banfield Pet Hospital at Banfield Pet Hospital.
-
-I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
-
-The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
-
-Best,
-Celina Lin
-https://linkedin.com/in/celina-g-lin
-
-Posting: https://jobright.ai/jobs/info/69164701286ccf0a15133f8c
-
----
-
-## Banfield Pet Hospital — Client Service Coordinator (Part-Time)
-
-**Subject:** Interest in Client Service Coordinator (Part-Time) — biology/bioinformatics graduate
-
-Dear Banfield Pet Hospital Hiring Team,
-
-My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Client Service Coordinator (Part-Time) opportunity with Banfield Pet Hospital at Banfield Pet Hospital.
-
-I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
-
-The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
-
-Best,
-Celina Lin
-https://linkedin.com/in/celina-g-lin
-
-Posting: https://jobright.ai/jobs/info/680fdcf064005e6f3d3b3d75
-
----
-
-## Banfield Pet Hospital — Client Service Coordinator - 005228
-
-**Subject:** Interest in Client Service Coordinator - 005228 — biology/bioinformatics graduate
-
-Dear Banfield Pet Hospital Hiring Team,
-
-My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Client Service Coordinator - 005228 opportunity with Banfield Pet Hospital at Banfield Pet Hospital.
-
-I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
-
-The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
-
-Best,
-Celina Lin
-https://linkedin.com/in/celina-g-lin
-
-Posting: https://jobright.ai/jobs/info/69371ef9a0dde7020e2ff148
-
----
-
-## Banfield Pet Hospital — Client Service Coordinator (Full-Time)
-
-**Subject:** Interest in Client Service Coordinator (Full-Time) — biology/bioinformatics graduate
-
-Dear Banfield Pet Hospital Hiring Team,
-
-My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Client Service Coordinator (Full-Time) opportunity with Banfield Pet Hospital at Banfield Pet Hospital.
-
-I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
-
-The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
-
-Best,
-Celina Lin
-https://linkedin.com/in/celina-g-lin
-
-Posting: https://jobright.ai/jobs/info/698677640f6f7e7a2ce17223
-
----
-
-## Banfield Pet Hospital — Client Service Coordinator - 001227
-
-**Subject:** Interest in Client Service Coordinator - 001227 — biology/bioinformatics graduate
-
-Dear Banfield Pet Hospital Hiring Team,
-
-My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Client Service Coordinator - 001227 opportunity with Banfield Pet Hospital at Banfield Pet Hospital.
-
-I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
-
-The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
-
-Best,
-Celina Lin
-https://linkedin.com/in/celina-g-lin
-
-Posting: https://jobright.ai/jobs/info/6989af560f6f7e7a2ce4aefb
-
----
-
-## Banfield Pet Hospital — Client Service Coordinator - 005199
-
-**Subject:** Interest in Client Service Coordinator - 005199 — biology/bioinformatics graduate
-
-Dear Banfield Pet Hospital Hiring Team,
-
-My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Client Service Coordinator - 005199 opportunity with Banfield Pet Hospital at Banfield Pet Hospital.
-
-I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
-
-The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
-
-Best,
-Celina Lin
-https://linkedin.com/in/celina-g-lin
-
-Posting: https://jobright.ai/jobs/info/697ff45babff4c399a9e9d3b
-
----
-
-## Banfield Pet Hospital — Client Service Coordinator - 001446
-
-**Subject:** Interest in Client Service Coordinator - 001446 — biology/bioinformatics graduate
-
-Dear Banfield Pet Hospital Hiring Team,
-
-My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Client Service Coordinator - 001446 opportunity with Banfield Pet Hospital at Banfield Pet Hospital.
-
-I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
-
-The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
-
-Best,
-Celina Lin
-https://linkedin.com/in/celina-g-lin
-
-Posting: https://jobright.ai/jobs/info/68c9b0f4a0c52d598ea39dd4
-
----
-
-## Banfield Pet Hospital — Client Service Coordinator - 003055
-
-**Subject:** Interest in Client Service Coordinator - 003055 — biology/bioinformatics graduate
-
-Dear Banfield Pet Hospital Hiring Team,
-
-My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Client Service Coordinator - 003055 opportunity with Banfield Pet Hospital at Banfield Pet Hospital.
-
-I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
-
-The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
-
-Best,
-Celina Lin
-https://linkedin.com/in/celina-g-lin
-
-Posting: https://jobright.ai/jobs/info/689104024c7e851b90acb350
-
----
-
-## Banfield Pet Hospital — Client Service Coordinator 001152
-
-**Subject:** Interest in Client Service Coordinator 001152 — biology/bioinformatics graduate
-
-Dear Banfield Pet Hospital Hiring Team,
-
-My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Client Service Coordinator 001152 opportunity with Banfield Pet Hospital at Banfield Pet Hospital.
-
-I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
-
-The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
-
-Best,
-Celina Lin
-https://linkedin.com/in/celina-g-lin
-
-Posting: https://jobright.ai/jobs/info/68d316808c62e63bc7fdda33
-
----
-
-## Banfield Pet Hospital — Client Service Coordinator - 002037
-
-**Subject:** Interest in Client Service Coordinator - 002037 — biology/bioinformatics graduate
-
-Dear Banfield Pet Hospital Hiring Team,
-
-My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Client Service Coordinator - 002037 opportunity with Banfield Pet Hospital at Banfield Pet Hospital.
-
-I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
-
-The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
-
-Best,
-Celina Lin
-https://linkedin.com/in/celina-g-lin
-
-Posting: https://jobright.ai/jobs/info/689ccfb379a9f9666253afb3
-
----
-
-## Banfield Pet Hospital — Client Service Coordinator - 000315
-
-**Subject:** Interest in Client Service Coordinator - 000315 — biology/bioinformatics graduate
-
-Dear Banfield Pet Hospital Hiring Team,
-
-My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Client Service Coordinator - 000315 opportunity with Banfield Pet Hospital at Banfield Pet Hospital.
-
-I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
-
-The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
-
-Best,
-Celina Lin
-https://linkedin.com/in/celina-g-lin
-
-Posting: https://jobright.ai/jobs/info/69c68e06aa3c2c1995e106ae
-
----
-
-## Banfield Pet Hospital — Client Service Coordinator - 001945
-
-**Subject:** Interest in Client Service Coordinator - 001945 — biology/bioinformatics graduate
-
-Dear Banfield Pet Hospital Hiring Team,
-
-My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Client Service Coordinator - 001945 opportunity with Banfield Pet Hospital at Banfield Pet Hospital.
-
-I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
-
-The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
-
-Best,
-Celina Lin
-https://linkedin.com/in/celina-g-lin
-
-Posting: https://jobright.ai/jobs/info/689f6e3283d13d1f5b6c69cf
-
----
-
-## Banfield Pet Hospital — Client Service Coordinator - 001066
-
-**Subject:** Interest in Client Service Coordinator - 001066 — biology/bioinformatics graduate
-
-Dear Banfield Pet Hospital Hiring Team,
-
-My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Client Service Coordinator - 001066 opportunity with Banfield Pet Hospital at Banfield Pet Hospital.
-
-I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
-
-The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
-
-Best,
-Celina Lin
-https://linkedin.com/in/celina-g-lin
-
-Posting: https://jobright.ai/jobs/info/6a46d5200dd56c76cc2fb200
+Posting: https://jobright.ai/jobs/info/699f86df23374b3b6e6b5525
 
 ---
 
@@ -23398,6 +22338,46 @@ Best,
 Celina Lin
 https://linkedin.com/in/celina-g-lin
 
+Posting: https://modernatx.wd1.myworkdayjobs.com/M_tx/job/Norwood-Massachusetts/Engineer-II--Process-Development_R19386
+
+---
+
+## Moderna — Scientist, Analytical Sciences and Technology
+
+**Subject:** Interest in Scientist, Analytical Sciences and Technology — biology/bioinformatics graduate
+
+Dear Moderna Hiring Team,
+
+My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Scientist, Analytical Sciences and Technology opportunity with Moderna at Moderna.
+
+I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
+
+The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
+
+Best,
+Celina Lin
+https://linkedin.com/in/celina-g-lin
+
+Posting: https://modernatx.wd1.myworkdayjobs.com/M_tx/job/Norwood-Massachusetts/Scientist--Analytical-Sciences-and-Technology_R19367
+
+---
+
+## Moderna — Engineer II, Process Development
+
+**Subject:** Interest in Engineer II, Process Development — biology/bioinformatics graduate
+
+Dear Moderna Hiring Team,
+
+My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Engineer II, Process Development opportunity with Moderna at Moderna.
+
+I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
+
+The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
+
+Best,
+Celina Lin
+https://linkedin.com/in/celina-g-lin
+
 Posting: https://modernatx.wd1.myworkdayjobs.com/M_tx/job/Norwood-Massachusetts/Engineer-II--Process-Development_R19395
 
 ---
@@ -23459,6 +22439,26 @@ Celina Lin
 https://linkedin.com/in/celina-g-lin
 
 Posting: https://jobs.ashbyhq.com/openai/da45caa7-461d-478f-a862-82120dd80e19
+
+---
+
+## Moderna — Engineer I, Process Development, Pilot Scale Operations
+
+**Subject:** Interest in Engineer I, Process Development, Pilot Scale Operations — biology/bioinformatics graduate
+
+Dear Moderna Hiring Team,
+
+My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Engineer I, Process Development, Pilot Scale Operations opportunity with Moderna at Moderna.
+
+I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
+
+The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
+
+Best,
+Celina Lin
+https://linkedin.com/in/celina-g-lin
+
+Posting: https://modernatx.wd1.myworkdayjobs.com/M_tx/job/Norwood-Massachusetts/Engineer-I--Process-Development--Pilot-Scale-Operations_R19385
 
 ---
 
@@ -23559,6 +22559,26 @@ Celina Lin
 https://linkedin.com/in/celina-g-lin
 
 Posting: https://job-boards.greenhouse.io/ginkgobioworks/jobs/5033171007
+
+---
+
+## Moderna — Manufacturing Associate II, Process Development, Pilot Scale Operations
+
+**Subject:** Interest in Manufacturing Associate II, Process Development, Pilot Scale Operations — biology/bioinformatics graduate
+
+Dear Moderna Hiring Team,
+
+My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Manufacturing Associate II, Process Development, Pilot Scale Operations opportunity with Moderna at Moderna.
+
+I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
+
+The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
+
+Best,
+Celina Lin
+https://linkedin.com/in/celina-g-lin
+
+Posting: https://modernatx.wd1.myworkdayjobs.com/M_tx/job/Norwood-Massachusetts/Manufacturing-Associate-II--Process-Development--Pilot-Scale-Operations_R19364
 
 ---
 
@@ -24162,6 +23182,26 @@ Posting: https://job-boards.greenhouse.io/natera/jobs/6001235004
 
 ---
 
+## Indiana University — Clinical Systems Specialist (Application Administrator)
+
+**Subject:** Interest in Clinical Systems Specialist (Application Administrator) — biology/bioinformatics graduate
+
+Dear Indiana University Hiring Team,
+
+My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Clinical Systems Specialist (Application Administrator) opportunity with Indiana University at Indiana University.
+
+I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
+
+The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
+
+Best,
+Celina Lin
+https://linkedin.com/in/celina-g-lin
+
+Posting: https://jobright.ai/jobs/info/6a4996d83dbab558e29ae587
+
+---
+
 ## Robinhood — Staff Product Manager, Cortex
 
 **Subject:** Interest in Staff Product Manager, Cortex — biology/bioinformatics graduate
@@ -24259,26 +23299,6 @@ Celina Lin
 https://linkedin.com/in/celina-g-lin
 
 Posting: https://roche.wd3.myworkdayjobs.com/ROG-A2O-GENE/job/South-San-Francisco/Scientist-3--Immunology-Discovery_202603-105650
-
----
-
-## Anthropic — Staff+ Software Engineer, Full-stack
-
-**Subject:** Interest in Staff+ Software Engineer, Full-stack — biology/bioinformatics graduate
-
-Dear Anthropic Hiring Team,
-
-My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Staff+ Software Engineer, Full-stack opportunity with Anthropic at Anthropic.
-
-I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
-
-The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
-
-Best,
-Celina Lin
-https://linkedin.com/in/celina-g-lin
-
-Posting: https://job-boards.greenhouse.io/anthropic/jobs/5174747008
 
 ---
 
@@ -24638,7 +23658,7 @@ Best,
 Celina Lin
 https://linkedin.com/in/celina-g-lin
 
-Posting: https://job-boards.greenhouse.io/natera/jobs/6100067004
+Posting: https://job-boards.greenhouse.io/natera/jobs/6093227004
 
 ---
 
@@ -24658,7 +23678,7 @@ Best,
 Celina Lin
 https://linkedin.com/in/celina-g-lin
 
-Posting: https://job-boards.greenhouse.io/natera/jobs/6093227004
+Posting: https://job-boards.greenhouse.io/natera/jobs/6100067004
 
 ---
 
@@ -24779,6 +23799,26 @@ Celina Lin
 https://linkedin.com/in/celina-g-lin
 
 Posting: https://careers.datadoghq.com/detail/7646452
+
+---
+
+## Anthropic — Staff+ Software Engineer, Full-stack
+
+**Subject:** Interest in Staff+ Software Engineer, Full-stack — biology/bioinformatics graduate
+
+Dear Anthropic Hiring Team,
+
+My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Staff+ Software Engineer, Full-stack opportunity with Anthropic at Anthropic.
+
+I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
+
+The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
+
+Best,
+Celina Lin
+https://linkedin.com/in/celina-g-lin
+
+Posting: https://job-boards.greenhouse.io/anthropic/jobs/5174747008
 
 ---
 
@@ -25862,26 +24902,6 @@ Posting: https://boards.greenhouse.io/10xgenomics/jobs/8011620
 
 ---
 
-## Natera — Software Support Engineer III
-
-**Subject:** Interest in Software Support Engineer III — biology/bioinformatics graduate
-
-Dear Natera Hiring Team,
-
-My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Software Support Engineer III opportunity with Natera at Natera.
-
-I am especially interested in building scalable data systems that let research and clinical teams use biological data reliably. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, I have built API-driven and Snakemake-based pipelines, automated SQL workflows, and worked across both scientific and software contexts.
-
-The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
-
-Best,
-Celina Lin
-https://linkedin.com/in/celina-g-lin
-
-Posting: https://job-boards.greenhouse.io/natera/jobs/5838456004
-
----
-
 ## Cognition — Support Specialist, Subscriptions & Billing
 
 **Subject:** Interest in Support Specialist, Subscriptions & Billing — biology/bioinformatics graduate
@@ -25958,46 +24978,6 @@ Best,
 Celina Lin
 https://linkedin.com/in/celina-g-lin
 
-Posting: https://job-boards.greenhouse.io/natera/jobs/6100085004
-
----
-
-## Natera — Associate Clinical Oncology Specialist
-
-**Subject:** Interest in Associate Clinical Oncology Specialist — biology/bioinformatics graduate
-
-Dear Natera Hiring Team,
-
-My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Associate Clinical Oncology Specialist opportunity with Natera at Natera.
-
-I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
-
-The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
-
-Best,
-Celina Lin
-https://linkedin.com/in/celina-g-lin
-
-Posting: https://job-boards.greenhouse.io/natera/jobs/6100075004
-
----
-
-## Natera — Associate Clinical Oncology Specialist
-
-**Subject:** Interest in Associate Clinical Oncology Specialist — biology/bioinformatics graduate
-
-Dear Natera Hiring Team,
-
-My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Associate Clinical Oncology Specialist opportunity with Natera at Natera.
-
-I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
-
-The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
-
-Best,
-Celina Lin
-https://linkedin.com/in/celina-g-lin
-
 Posting: https://job-boards.greenhouse.io/natera/jobs/6100073004
 
 ---
@@ -26019,6 +24999,46 @@ Celina Lin
 https://linkedin.com/in/celina-g-lin
 
 Posting: https://job-boards.greenhouse.io/natera/jobs/6100071004
+
+---
+
+## Natera — Associate Clinical Oncology Specialist
+
+**Subject:** Interest in Associate Clinical Oncology Specialist — biology/bioinformatics graduate
+
+Dear Natera Hiring Team,
+
+My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Associate Clinical Oncology Specialist opportunity with Natera at Natera.
+
+I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
+
+The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
+
+Best,
+Celina Lin
+https://linkedin.com/in/celina-g-lin
+
+Posting: https://job-boards.greenhouse.io/natera/jobs/6100085004
+
+---
+
+## Natera — Associate Clinical Oncology Specialist
+
+**Subject:** Interest in Associate Clinical Oncology Specialist — biology/bioinformatics graduate
+
+Dear Natera Hiring Team,
+
+My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Associate Clinical Oncology Specialist opportunity with Natera at Natera.
+
+I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
+
+The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
+
+Best,
+Celina Lin
+https://linkedin.com/in/celina-g-lin
+
+Posting: https://job-boards.greenhouse.io/natera/jobs/6100075004
 
 ---
 
@@ -26199,6 +25219,26 @@ Celina Lin
 https://linkedin.com/in/celina-g-lin
 
 Posting: https://jobs.ashbyhq.com/openai/666119c9-ff97-4e81-9805-94d7525bd633
+
+---
+
+## Bristol Myers Squibb — Clinical Research Associate
+
+**Subject:** Interest in Clinical Research Associate — biology/bioinformatics graduate
+
+Dear Bristol Myers Squibb Hiring Team,
+
+My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Clinical Research Associate opportunity with Bristol Myers Squibb at Bristol Myers Squibb.
+
+I am especially interested in building scalable data systems that let research and clinical teams use biological data reliably. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, I have built API-driven and Snakemake-based pipelines, automated SQL workflows, and worked across both scientific and software contexts.
+
+The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
+
+Best,
+Celina Lin
+https://linkedin.com/in/celina-g-lin
+
+Posting: https://bristolmyerssquibb.wd5.myworkdayjobs.com/BMS/job/Otemachi-JP/Clinical-Research-Associate_R1599859
 
 ---
 
@@ -26579,6 +25619,26 @@ Celina Lin
 https://linkedin.com/in/celina-g-lin
 
 Posting: https://job-boards.greenhouse.io/natera/jobs/5971844004
+
+---
+
+## Natera — Software Support Engineer III
+
+**Subject:** Interest in Software Support Engineer III — biology/bioinformatics graduate
+
+Dear Natera Hiring Team,
+
+My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Software Support Engineer III opportunity with Natera at Natera.
+
+I am especially interested in building scalable data systems that let research and clinical teams use biological data reliably. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, I have built API-driven and Snakemake-based pipelines, automated SQL workflows, and worked across both scientific and software contexts.
+
+The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
+
+Best,
+Celina Lin
+https://linkedin.com/in/celina-g-lin
+
+Posting: https://job-boards.greenhouse.io/natera/jobs/5838456004
 
 ---
 
@@ -27182,26 +26242,6 @@ Posting: https://job-boards.greenhouse.io/natera/jobs/6021568004
 
 ---
 
-## Anthropic — Engineering Manager - Privacy Infrastructure
-
-**Subject:** Interest in Engineering Manager - Privacy Infrastructure — biology/bioinformatics graduate
-
-Dear Anthropic Hiring Team,
-
-My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Engineering Manager - Privacy Infrastructure opportunity with Anthropic at Anthropic.
-
-I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
-
-The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
-
-Best,
-Celina Lin
-https://linkedin.com/in/celina-g-lin
-
-Posting: https://job-boards.greenhouse.io/anthropic/jobs/5227810008
-
----
-
 ## DoorDash — Hardware Prototype Engineering Technician
 
 **Subject:** Interest in Hardware Prototype Engineering Technician — biology/bioinformatics graduate
@@ -27439,6 +26479,26 @@ Celina Lin
 https://linkedin.com/in/celina-g-lin
 
 Posting: https://jobs.ashbyhq.com/openai/e1321408-91da-4ef3-8ac6-2e1da1be796f
+
+---
+
+## Bristol Myers Squibb — Scientist, Manufacturing Technology
+
+**Subject:** Interest in Scientist, Manufacturing Technology — biology/bioinformatics graduate
+
+Dear Bristol Myers Squibb Hiring Team,
+
+My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Scientist, Manufacturing Technology opportunity with Bristol Myers Squibb at Bristol Myers Squibb.
+
+I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
+
+The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
+
+Best,
+Celina Lin
+https://linkedin.com/in/celina-g-lin
+
+Posting: https://bristolmyerssquibb.wd5.myworkdayjobs.com/BMS/job/Devens---MA---US/Scientist--Manufacturing-Technology_R1603924
 
 ---
 
@@ -27762,6 +26822,26 @@ Posting: https://illumina.wd1.myworkdayjobs.com/illumina-careers/job/Singapore--
 
 ---
 
+## Anthropic — Engineering Manager - Privacy Infrastructure
+
+**Subject:** Interest in Engineering Manager - Privacy Infrastructure — biology/bioinformatics graduate
+
+Dear Anthropic Hiring Team,
+
+My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Engineering Manager - Privacy Infrastructure opportunity with Anthropic at Anthropic.
+
+I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
+
+The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
+
+Best,
+Celina Lin
+https://linkedin.com/in/celina-g-lin
+
+Posting: https://job-boards.greenhouse.io/anthropic/jobs/5227810008
+
+---
+
 ## OpenAI — Tech Lead, Deployment & Operations — Custom Infrastructure
 
 **Subject:** Interest in Tech Lead, Deployment & Operations — Custom Infrastructure — biology/bioinformatics graduate
@@ -27899,26 +26979,6 @@ Celina Lin
 https://linkedin.com/in/celina-g-lin
 
 Posting: https://jobs.ashbyhq.com/openai/61e8051b-6510-448d-b4b1-b9836518462e
-
----
-
-## Natera — Staff Biostatistician (Analytical Validation)
-
-**Subject:** Interest in Staff Biostatistician (Analytical Validation) — biology/bioinformatics graduate
-
-Dear Natera Hiring Team,
-
-My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Staff Biostatistician (Analytical Validation) opportunity with Natera at Natera.
-
-I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
-
-The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
-
-Best,
-Celina Lin
-https://linkedin.com/in/celina-g-lin
-
-Posting: https://job-boards.greenhouse.io/natera/jobs/5981420004
 
 ---
 
@@ -28342,6 +27402,46 @@ Posting: https://jobs.ashbyhq.com/openai/9efcef02-0515-4672-bace-81329944b38b
 
 ---
 
+## Moderna — Quality Control Associate, Bioassay
+
+**Subject:** Interest in Quality Control Associate, Bioassay — biology/bioinformatics graduate
+
+Dear Moderna Hiring Team,
+
+My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Quality Control Associate, Bioassay opportunity with Moderna at Moderna.
+
+I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
+
+The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
+
+Best,
+Celina Lin
+https://linkedin.com/in/celina-g-lin
+
+Posting: https://modernatx.wd1.myworkdayjobs.com/M_tx/job/Madrid---Spain/Quality-Control-Associate--Bioassay_R19389
+
+---
+
+## Natera — Staff Biostatistician (Analytical Validation)
+
+**Subject:** Interest in Staff Biostatistician (Analytical Validation) — biology/bioinformatics graduate
+
+Dear Natera Hiring Team,
+
+My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Staff Biostatistician (Analytical Validation) opportunity with Natera at Natera.
+
+I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
+
+The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
+
+Best,
+Celina Lin
+https://linkedin.com/in/celina-g-lin
+
+Posting: https://job-boards.greenhouse.io/natera/jobs/5981420004
+
+---
+
 ## Natera — Clinical Field Specialist
 
 **Subject:** Interest in Clinical Field Specialist — biology/bioinformatics graduate
@@ -28459,26 +27559,6 @@ Celina Lin
 https://linkedin.com/in/celina-g-lin
 
 Posting: https://jobs.ashbyhq.com/cognition/b3e47b13-df84-4ed3-a70b-f4d20cec6f82
-
----
-
-## Amgen — Associate, Content - Marketing CRM (Campaign Execution)
-
-**Subject:** Interest in Associate, Content - Marketing CRM (Campaign Execution) — biology/bioinformatics graduate
-
-Dear Amgen Hiring Team,
-
-My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Associate, Content - Marketing CRM (Campaign Execution) opportunity with Amgen at Amgen.
-
-I am especially interested in building scalable data systems that let research and clinical teams use biological data reliably. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, I have built API-driven and Snakemake-based pipelines, automated SQL workflows, and worked across both scientific and software contexts.
-
-The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
-
-Best,
-Celina Lin
-https://linkedin.com/in/celina-g-lin
-
-Posting: https://amgen.wd1.myworkdayjobs.com/Careers/job/India---Hyderabad/Associate--Content---Marketing-CRM--Campaign-Execution-_R-248536
 
 ---
 
@@ -28779,26 +27859,6 @@ Celina Lin
 https://linkedin.com/in/celina-g-lin
 
 Posting: https://flatiron.com/careers/open-positions/job
-
----
-
-## Natera — Staff Biostatistician (Analytical Validation)
-
-**Subject:** Interest in Staff Biostatistician (Analytical Validation) — biology/bioinformatics graduate
-
-Dear Natera Hiring Team,
-
-My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Staff Biostatistician (Analytical Validation) opportunity with Natera at Natera.
-
-I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
-
-The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
-
-Best,
-Celina Lin
-https://linkedin.com/in/celina-g-lin
-
-Posting: https://job-boards.greenhouse.io/natera/jobs/5985341004
 
 ---
 
@@ -29318,7 +28378,7 @@ Best,
 Celina Lin
 https://linkedin.com/in/celina-g-lin
 
-Posting: https://job-boards.greenhouse.io/natera/jobs/6016645004
+Posting: https://job-boards.greenhouse.io/natera/jobs/6001438004
 
 ---
 
@@ -29338,7 +28398,7 @@ Best,
 Celina Lin
 https://linkedin.com/in/celina-g-lin
 
-Posting: https://job-boards.greenhouse.io/natera/jobs/6001438004
+Posting: https://job-boards.greenhouse.io/natera/jobs/6016645004
 
 ---
 
@@ -29359,6 +28419,26 @@ Celina Lin
 https://linkedin.com/in/celina-g-lin
 
 Posting: https://job-boards.greenhouse.io/scaleai/jobs/4655240005
+
+---
+
+## Natera — Staff Biostatistician (Analytical Validation)
+
+**Subject:** Interest in Staff Biostatistician (Analytical Validation) — biology/bioinformatics graduate
+
+Dear Natera Hiring Team,
+
+My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Staff Biostatistician (Analytical Validation) opportunity with Natera at Natera.
+
+I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
+
+The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
+
+Best,
+Celina Lin
+https://linkedin.com/in/celina-g-lin
+
+Posting: https://job-boards.greenhouse.io/natera/jobs/5985341004
 
 ---
 
@@ -29599,46 +28679,6 @@ Celina Lin
 https://linkedin.com/in/celina-g-lin
 
 Posting: https://job-boards.greenhouse.io/natera/jobs/5992958004
-
----
-
-## Natera — PSC Manager - Bluffton, SC
-
-**Subject:** Interest in PSC Manager - Bluffton, SC — biology/bioinformatics graduate
-
-Dear Natera Hiring Team,
-
-My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the PSC Manager - Bluffton, SC opportunity with Natera at Natera.
-
-I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
-
-The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
-
-Best,
-Celina Lin
-https://linkedin.com/in/celina-g-lin
-
-Posting: https://job-boards.greenhouse.io/natera/jobs/6010342004
-
----
-
-## Natera — Sr Phlebotomist-Bowie, MD
-
-**Subject:** Interest in Sr Phlebotomist-Bowie, MD — biology/bioinformatics graduate
-
-Dear Natera Hiring Team,
-
-My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Sr Phlebotomist-Bowie, MD opportunity with Natera at Natera.
-
-I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
-
-The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
-
-Best,
-Celina Lin
-https://linkedin.com/in/celina-g-lin
-
-Posting: https://job-boards.greenhouse.io/natera/jobs/5995919004
 
 ---
 
@@ -29919,6 +28959,46 @@ Celina Lin
 https://linkedin.com/in/celina-g-lin
 
 Posting: https://jobs.ashbyhq.com/cognition/ca278de0-e299-4f46-9bd9-b95aed6970c3
+
+---
+
+## Natera — PSC Manager - Bluffton, SC
+
+**Subject:** Interest in PSC Manager - Bluffton, SC — biology/bioinformatics graduate
+
+Dear Natera Hiring Team,
+
+My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the PSC Manager - Bluffton, SC opportunity with Natera at Natera.
+
+I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
+
+The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
+
+Best,
+Celina Lin
+https://linkedin.com/in/celina-g-lin
+
+Posting: https://job-boards.greenhouse.io/natera/jobs/6010342004
+
+---
+
+## Natera — Sr Phlebotomist-Bowie, MD
+
+**Subject:** Interest in Sr Phlebotomist-Bowie, MD — biology/bioinformatics graduate
+
+Dear Natera Hiring Team,
+
+My name is Celina Lin, and I recently completed my Honours Bachelor of Science in Biology/Bioinformatics at the University of Waterloo. I am reaching out about the Sr Phlebotomist-Bowie, MD opportunity with Natera at Natera.
+
+I am especially interested in the team's use of quantitative and computational methods to answer meaningful biological questions. In my independent BRCA1/BRCA2 project, I built a reproducible Python and Snakemake workflow using BCFtools and ANNOVAR to analyze population-specific variants and examine discrepancies between clinical labels and observed allele frequencies. I also completed two bioinformatics internships at the Ontario Institute for Cancer Research, where I developed an LLM-assisted competency-mapping pipeline and created research-data-management learning resources. More broadly, my background in biology, bioinformatics, Python, R, SQL, Linux, and reproducible workflow development aligns well with that kind of cross-disciplinary work.
+
+The combination of rigorous biological questions, collaborative research, and hands-on computational work in this role is exactly the environment in which I hope to grow. I would be grateful for a 15–20 minute conversation to learn more about the lab's current priorities and discuss where my background could be useful. I have attached my resume for context.
+
+Best,
+Celina Lin
+https://linkedin.com/in/celina-g-lin
+
+Posting: https://job-boards.greenhouse.io/natera/jobs/5995919004
 
 ---
 
